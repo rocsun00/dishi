@@ -366,33 +366,58 @@ class DistributionTests(unittest.TestCase):
 
     def test_temp_release_manifest_and_runtime_install_preserve_evidence(self):
         with tempfile.TemporaryDirectory() as temp:
+            source = runtime_source(Path(temp) / "source")
+            for name in ("install.py", "package_rules.py"):
+                target = source / "scripts" / name
+                target.parent.mkdir(exist_ok=True)
+                shutil.copyfile(ROOT / "scripts" / name, target)
+            # Exercise real exclusions even when ROOT is an already-clean release.
+            process_records = {
+                "knowledge/验收覆盖-distribution-fixture.json": b'{"fixture":"coverage record"}\n',
+                "knowledge/distribution_fixture/source/author_self_check.json": b'{"fixture":"author record"}\n',
+            }
+            retained = "knowledge/distribution_fixture/source/api/author_self_check.json"
+            retained_bytes = b'{"fixture":"upstream evidence must remain"}\n'
+            for relative, data in {**process_records, retained: retained_bytes}.items():
+                target = source / relative
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_bytes(data)
             output = Path(temp) / "public"
             evidence = {relative: hashlib.sha256(path.read_bytes()).hexdigest()
-                        for path, relative in rules.inventory(ROOT) if "/source/" in relative}
-            report = builder.build(ROOT, output)
+                        for path, relative in rules.inventory(source) if "/source/" in relative}
+            report = builder.build(source, output)
             manifest = json.loads((output / "RELEASE_MANIFEST.json").read_text())
             self.assertEqual(manifest["schema_version"], 2)
-            self.assertEqual(report["excluded_records"], len(manifest["excluded_local_records"]))
-            self.assertGreater(report["excluded_bytes"], 14_000_000)
+            exclusions = {record["path"]: record for record in manifest["excluded_local_records"]}
+            self.assertEqual(set(exclusions), set(process_records))
+            self.assertEqual(len(manifest["excluded_local_records"]), len(process_records))
+            self.assertEqual(report["excluded_records"], len(process_records))
+            self.assertEqual(report["excluded_bytes"], sum(map(len, process_records.values())))
             for record in manifest["files"]:
                 self.assertEqual(hashlib.sha256((output / record["path"]).read_bytes()).hexdigest(), record["sha256"])
-            for record in manifest["excluded_local_records"]:
-                self.assertFalse((output / record["path"]).exists())
-                self.assertTrue((ROOT / record["path"]).is_file())
-                self.assertEqual(hashlib.sha256((ROOT / record["path"]).read_bytes()).hexdigest(), record["source_sha256"])
+            for relative, data in process_records.items():
+                self.assertFalse((output / relative).exists())
+                self.assertEqual((source / relative).read_bytes(), data)
+                self.assertEqual(exclusions[relative]["source_bytes"], len(data))
+                self.assertEqual(exclusions[relative]["source_sha256"], hashlib.sha256(data).hexdigest())
             for relative, before in evidence.items():
-                self.assertEqual(hashlib.sha256((ROOT / relative).read_bytes()).hexdigest(), before)
+                self.assertEqual(hashlib.sha256((source / relative).read_bytes()).hexdigest(), before)
                 if not rules.process_exclusion(relative) and relative not in rules.PROCESS_PATH_NOTES:
-                    self.assertEqual((output / relative).read_bytes(), (ROOT / relative).read_bytes(), relative)
+                    self.assertEqual((output / relative).read_bytes(), (source / relative).read_bytes(), relative)
             with zipfile.ZipFile(report["archive"]) as archive:
                 self.assertIn("dishi/docs/provenance-summary.md", archive.namelist())
-                self.assertFalse(any("/验收覆盖-" in name for name in archive.namelist()))
+                for relative in process_records:
+                    self.assertNotIn("dishi/" + relative, archive.namelist())
+                self.assertEqual(archive.read("dishi/" + retained), retained_bytes)
             installed = Path(temp) / "skills" / "dishi"
             self.assertEqual(installer.install(output, installed)["books"], 27)
             self.assertFalse((installed / "scripts").exists())
             self.assertFalse((installed / "RELEASE_MANIFEST.json").exists())
+            for relative in process_records:
+                self.assertFalse((installed / relative).exists())
+            self.assertEqual((installed / retained).read_bytes(), retained_bytes)
             with self.assertRaises(ValueError):
-                builder.build(ROOT, output)
+                builder.build(source, output)
 
 
 if __name__ == "__main__":

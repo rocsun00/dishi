@@ -2,7 +2,46 @@
 
 [中文介绍](../README.md) · [English overview](../README.en.md) · [机器记录 / Machine record](validation-results.json)
 
-## 当前阶段：v0.2.1 名称与署名的打包前检查 / Current stage: v0.2.1 branding pre-package checks
+## 当前阶段：v0.2.2 公开环境测试修复 / Current stage: v0.2.2 public-test portability
+
+v0.2.1 的打包集成测试曾固定要求排除记录大于 14MB。维护者源码含这些过程记录，公开仓库和 ZIP 已将它们排除，因此同一测试在公开内容目录失败。这是测试可移植性缺陷，不影响技能运行。此前的“121 项通过”来自维护者源码运行，不能据此声称公开 ZIP 也已完整通过；本轮已独立复现其中的目标测试失败。用户转交的外部报告记录旧公开包为 120/121，本轮没有重跑旧版全套。
+
+The v0.2.1 packaging integration test required more than 14 MB of excluded workflow records, which existed only in the maintainer source. Public inputs correctly omit them, so that assertion failed there. This was a test-portability defect, not a runtime defect. Earlier **121-test passes were maintainer-source results**, not evidence of a complete public-ZIP test run. The affected public-input test failure was independently reproduced. The user-supplied external report recorded 120/121 for the old public ZIP; its entire suite was not rerun here.
+
+修复沿用同一个测试函数，在临时目录自行构造两份小型合成过程记录和一份同名近似的上游证据。测试精确检查排除集合、字节数、摘要、源文件不变，以及发布目录、ZIP、安装目录中的排除与保留结果；没有跳过断言，也不依赖维护者私有文件。生产打包和安装代码、原典、检索与研判机制均未修改。
+
+The same test now constructs two small synthetic process records and one similarly named upstream evidence file in a temporary input tree. It checks exact exclusions, sizes, hashes, unchanged source bytes, and exclusion/retention in the public directory, ZIP and installed runtime. No assertion is skipped, and no private maintainer files are needed. Production packaging/install code, corpus, retrieval and adviser behavior are unchanged.
+
+- 维护者源码：Python **3.14.3、3.9.6 各通过 121 项**，即 85 项知识库和 36 项项目测试（24 项安装发布、12 项参谋契约）；两个版本均校验 27 种文献有效。测试函数数量不变。
+- 独立 Python 审查通过；在内存中模拟漏排过程记录和误排同名上游证据，两项探针分别触发预期断言失败、无加载错误。最终代码审查状态见机器记录。
+- **最终公开 ZIP 还须解压后运行完整测试套件**，并验收 manifest、ZIP、临时安装和相对文件链接；结果写在包旁的 `交付检查.json`、`公开包测试.json`、`SHA256SUMS.txt`。这些产物检查不嵌入 ZIP，不把最终 ZIP 摘要写回包内。
+- `knowledge/` 下 **1,374 个非缓存文件不变**；Imperial Preceptor / Roc Sun 名称署名、许可、提示词与原典边界保持。v0.2.1 保留公开历史；v0.2.0 仍撤下，本地两版产物及已安装 0.1.1 不替换。
+
+Maintainer-source runs pass **121 tests on each Python version**, with valid corpus checks. Independent Python review and both fault probes pass. **The final public ZIP must also be extracted and run through the full suites**; its results are recorded outside the archive, alongside manifest, temporary-install and link checks. All **1,374 knowledge files**, branding, licenses, prompts and runtime behavior remain unchanged. Public v0.2.1 history and local artifacts are preserved; v0.2.0 remains withdrawn. These mechanical checks do not establish advice quality or real-host effectiveness.
+
+## 可复核命令 / Reproduce the checks
+
+在公开仓库克隆目录、版本 ZIP 解压后的 `dishi` 目录，或维护者源码目录运行。测试使用自己的临时夹具，不需要私有过程记录；已安装的技能运行包不包含开发测试。
+
+Run in a public repository clone, the `dishi` folder extracted from a version ZIP, or the maintainer source directory. Tests create their own temporary fixtures and require no private workflow records. Installed runtime-only skills do not contain development tests.
+
+```bash
+python3 -B knowledge/kb.py validate
+python3 -B -m unittest discover -s knowledge/tests -v
+python3 -B -m unittest discover -s tests -v
+```
+
+如有 Python 3.9，使用对应解释器重复以上命令。测试不需要付费模型 API 或网络；临时安装不会替换用户已有技能目录。
+
+Repeat with Python 3.9 when available. Tests need no paid model API or network; temporary installations do not replace a user's existing skill directory.
+
+## 以下为历史记录 / Historical records below
+
+下列结果保留各阶段当时的范围；旧名称、版本、测试数量及“当前”等词只描述当时。旧版源码通过测试不等于旧公开包通过；v0.2.1 的公开环境测试缺口及修复见本页顶部。
+
+The records below retain their historical scope. Old maintainer-source test passes do not establish that an old public ZIP passed the same suite; see the correction above.
+
+## v0.2.1 名称与署名检查（历史） / v0.2.1 branding checks (historical)
 
 本轮英文展示名按作者要求改为 **Imperial Preceptor**，中文仍为“帝师”；原创 Python 代码版权行署名 **Roc Sun**，新增内容署名 Roc Sun 及已注明的贡献者。许可范围仍为原创代码 MIT、新增内容在有权许可范围内 CC BY-SA 4.0，第三方来源与已有署名保留。技术标识 `dishi`、`$dishi`、安装目录、ZIP 前缀及仓库路径保持兼容。
 
@@ -142,18 +181,3 @@ The complete round 2 pending directory was moved to the local archive, preservin
 
 This revision archives the complete round 3 pending directory with all 1,384 file hashes preserved. Its old ZIP SHA-256 is recorded above and does not identify the new introduction-revision package. The replacement remains unpublished version 0.2.0; final manifest, ZIP and temporary-installation evidence is delivered separately alongside it.
 
-## 可复核命令 / Reproduce the checks
-
-在源仓库或清洁发布目录运行；已安装运行包不包含开发测试。
-
-Run from the source or clean release directory; installed runtime resources omit development tests.
-
-```bash
-python3 -B knowledge/kb.py validate
-python3 -B -m unittest discover -s knowledge/tests -v
-python3 -B -m unittest discover -s tests -v
-```
-
-如有 Python 3.9，使用对应解释器重复以上命令。测试不需要付费模型 API 或网络。
-
-Repeat with a Python 3.9 interpreter when available. Tests need no paid model API or network.

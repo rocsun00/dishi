@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "version": "0.2.1",
+  "version": "0.2.2",
   "scope": "Public files excluding this manifest; source evidence remains unchanged locally; no upload performed.",
   "files": [
     {
@@ -46,7 +46,7 @@
     {
       "path": "VERSION",
       "bytes": 6,
-      "sha256": "71015c979ccb0fc8a0be7ca0ae83046ab045cdc2c8faa09fb2f0f7e440f9b4a6"
+      "sha256": "998f6b887ed7a6ef44e84210d0237b715bed42ea7254f48dc418afec0a484103"
     },
     {
       "path": "agents/openai.yaml",
@@ -75,8 +75,8 @@
     },
     {
       "path": "docs/github-release.md",
-      "bytes": 7640,
-      "sha256": "eed3085ca4fcbd63681ce9183a8b9570cc555e63ff6f3df007c8ff19703f16d0"
+      "bytes": 9404,
+      "sha256": "7e84f683c7294793cc1a45dfc90589a6c43b9fa9f8926448f4ee87b3d21f2956"
     },
     {
       "path": "docs/installation.en.md",
@@ -112,13 +112,13 @@
     },
     {
       "path": "docs/validation-results.json",
-      "bytes": 74223,
-      "sha256": "622307e7c228eb11afd633cc6e72645d0fe62e467690f503522d63b0fffef52f"
+      "bytes": 82033,
+      "sha256": "dc84b786d0308b76f835c6d185002d12ffa7e77c5dd20f6e1481d76fa9c2a369"
     },
     {
       "path": "docs/validation.md",
-      "bytes": 25798,
-      "sha256": "280eec4f1ddc52b80e27091071de8c695b84bb54fc0fa19eba317d0c9e1854c6"
+      "bytes": 30203,
+      "sha256": "6ec38ccf121ae7db7ab9a3410fe160c35d7ae64912afbb8f26765dbfe8a84d83"
     },
     {
       "path": "knowledge/catalog.json",
@@ -6940,8 +6940,8 @@
     },
     {
       "path": "tests/test_distribution.py",
-      "bytes": 24067,
-      "sha256": "52947ac4d4903c3cc5d4b8d6cbb79a04d45543d7c7cb536d178f91923d0edabb"
+      "bytes": 25753,
+      "sha256": "4585e47caec4a9f782333ae5e42f243884c430eb8a8c6845e02ced2720561983"
     }
   ],
   "excluded_local_records": [
