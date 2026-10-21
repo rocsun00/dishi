@@ -1,4 +1,4 @@
-# Using Dishi: four examples
+# Using Imperial Preceptor: four examples
 
 [中文](examples.zh-CN.md) · [Back to the README](../README.en.md) · [Corpus and language notes](corpus.md)
 

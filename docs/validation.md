@@ -2,7 +2,31 @@
 
 [中文介绍](../README.md) · [English overview](../README.en.md) · [机器记录 / Machine record](validation-results.json)
 
-## 当前阶段：F1 修复的打包前检查 / Current stage: pre-package checks after F1
+## 当前阶段：v0.2.1 名称与署名的打包前检查 / Current stage: v0.2.1 branding pre-package checks
+
+本轮英文展示名按作者要求改为 **Imperial Preceptor**，中文仍为“帝师”；原创 Python 代码版权行署名 **Roc Sun**，新增内容署名 Roc Sun 及已注明的贡献者。许可范围仍为原创代码 MIT、新增内容在有权许可范围内 CC BY-SA 4.0，第三方来源与已有署名保留。技术标识 `dishi`、`$dishi`、安装目录、ZIP 前缀及仓库路径保持兼容。
+
+This revision adopts **Imperial Preceptor** as the English display name and **Roc Sun** for the original Python copyright notice. New project content credits Roc Sun and credited contributors. Existing MIT, CC BY-SA 4.0 and upstream licensing scopes remain unchanged. The technical skill name, invocation, installation folder, ZIP prefix and repository path remain `dishi` for compatibility.
+
+- Python **3.14.3 和 3.9.6 各通过 121 项测试**：85 项知识库、24 项安装发布、12 项参谋契约测试；两个版本的原典校验均有效。没有新增仅检查品牌文字的测试。
+- 英文可复制提示词 **7,330 字符**，中文 **2,337 字符**，均在项目 7,500 字符维护预算内；提示词正文除展示名外逐字节不变，五条守则不变。该预算不是所有应用的统一字段上限；本轮没有实际粘贴测试。
+- 官方技能验证器及 UI YAML 解析通过。PyYAML 6.0.3 仅装在维护用临时目录，检查后删除；运行依赖仍为 Python 标准库。
+- `knowledge/` 下 **1,374 个非缓存文件全部不变**。原典、引文、检索、排序和古籍研判机制没有修改。安装脚本仅改一处文档字符串和两处错误提示的展示名；规范化这三处字符串后的 AST 与基线完全一致，Python 独立审查通过。
+- 本地 v0.2.0 完整目录、ZIP 与包旁记录保持原字节；已安装的 0.1.1 技能没有更新。v0.2.0 曾公开，其 Release、下载附件和远端版本标签已按用户要求撤下，仓库源码保留；本轮准备新版本 **0.2.1**。
+
+Both Python versions pass **121 tests each** and validate all 27 collections. Copyable prompt bodies are **7,330 English characters** and **2,337 Chinese characters**; only the display name changes, within the project's 7,500-character budget. Official skill validation and UI YAML parsing pass with a temporary maintainer-only dependency, removed afterward. All **1,374 knowledge files** and the research mechanism are unchanged. The installer has only three display-text substitutions, confirmed by normalized AST comparison and Python review. Local v0.2.0 artifacts and the real installed 0.1.1 skill remain unchanged. The previously public v0.2.0 Release, assets and remote tag were removed at the user's request; repository source remains available.
+
+这里记录的是**打包前源码检查**；最终 manifest、ZIP 摘要、临时安装与链接检查写在包旁的 `交付检查.json` 和 `SHA256SUMS.txt`，不把最终 ZIP 自身摘要写回包内。独立代码审查的最终状态同步在机器记录中。本轮不声称新增真实宿主对话、建议效果、Windows/Linux 或外部网址检查。
+
+These are **pre-package source checks**. Final manifest, ZIP, temporary-installation and link checks are recorded beside the archive, without embedding the final ZIP hash in its own contents. The final independent review status is recorded in the machine record. No new real-host conversation, advice-effectiveness, Windows/Linux or external-URL test is claimed.
+
+## 以下为历史验证记录 / Historical records below
+
+以下段落按各阶段当时状态保留；其中“未发布”“未上传”“当前”等词及旧名称、旧提示词长度均描述当时的检查，不代表 v0.2.1 的发布状态。
+
+The records below retain their original scope. Their unpublished/upload statements, earlier names and prompt lengths describe those historical stages, not the v0.2.1 release status.
+
+## F1 修复阶段（历史） / F1 pre-package checks (historical)
 
 本段记录研判机制版的**打包前源码检查**；最终 ZIP、manifest、目录和临时安装验收在包旁的 `交付检查.json` 与 `SHA256SUMS.txt` 中另记。此处不写最终 ZIP 摘要，避免生成包后再改包内记录。版本仍为未发布的 0.2.0；打包安排为完整归档介绍词版发布目录后生成同版本新包，真实已安装的 0.1.1 技能不替换，不上传。
 

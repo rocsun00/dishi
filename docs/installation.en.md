@@ -2,7 +2,9 @@
 
 [简体中文](installation.zh-CN.md) · [Project overview](../README.en.md)
 
-Dishi gives an AI assistant an adviser's method: read the situation, offer distinct options, and raise candid objections. The user decides. The local skill requires a host that can read files, run Python, and understand Chinese and English. The CLI retrieves and validates evidence; the host model writes the final analysis.
+Imperial Preceptor gives an AI assistant an adviser's method: read the situation, offer distinct options, and raise candid objections. The user decides. The local skill requires a host that can read files, run Python, and understand Chinese and English. The CLI retrieves and validates evidence; the host model writes the final analysis.
+
+The public name is **Imperial Preceptor** (帝师). The repository, skill identifier, folder, and commands retain `dishi` for compatibility; keep the `$dishi` and `/dishi` invocations and paths shown below.
 
 ## Chat apps: use the portable prompt
 
@@ -53,7 +55,7 @@ Use $dishi: our team repeatedly misses delivery dates. Should we change the proc
 用 $dishi 分析：稳定工作和创业之间，我应该先验证哪些条件？
 ```
 
-Codex detects skill changes automatically. If Dishi does not appear, restart the host and check for duplicate skills with the same name.
+Codex detects skill changes automatically. If the `dishi` skill does not appear, restart the host and check for duplicate skills with the same name.
 
 ## Claude Code (optional)
 

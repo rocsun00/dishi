@@ -1,4 +1,4 @@
-# 帝师 Dishi · 你的 AI 军师
+# 帝师 Imperial Preceptor · 你的 AI 军师
 
 [English](README.en.md) · [使用案例](docs/examples.zh-CN.md) · [研典示例](references/research-examples.zh-CN.md) · [安装指南](docs/installation.zh-CN.md) · [聊天应用提示词](docs/portable-prompt.zh-CN.md) · [原典范围 / Corpus](docs/corpus.md)
 
@@ -9,6 +9,8 @@
 今天，我们也身处一场大变局：技术重塑行业，规则不断改写，个人的事业与生活充满变数。诸子没有预见我们的处境，但他们反复追问的问题，我们今天仍要面对：局势怎样判断？人心怎样看清？进退怎样取舍？规则怎样设立？自己要成为怎样的人？
 
 帝师是一位 AI 军师。它以已整理的诸子原典，以及范蠡、诸葛亮、王阳明等历代人物的相关文献为依据，替你问清局势、献上可选的计策、说出逆耳之言。它引用古文，必先核对原文与出处；它出的主意，不以伤害他人为代价；最后的决定，始终由你来做。
+
+项目由 **Roc Sun** 发起并维护。英文名称为 **Imperial Preceptor**；为保持现有安装兼容，仓库名、技能标识和安装目录继续使用 `dishi`，调用方式仍为 `$dishi` 或 `/dishi`（依宿主而定）。
 
 技能版附有可离线检索的中文原典库，由能读取文件和运行 Python 的宿主使用；聊天应用可用[通用提示词](docs/portable-prompt.zh-CN.md)采用同一套参谋方法。提示词本身不包含原典库，也不会自动获得本地文件的访问权。
 

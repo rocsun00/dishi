@@ -72,7 +72,7 @@ not establish ownership or settle all rights in upstream material.
 
 建议署名形式：
 
-> 帝师（Dishi），Dishi contributors，新编内容采用CC BY-SA 4.0。原典电子整理来自中文维基文库对应固定页面及其贡献者，逐页来源和历史见THIRD_PARTY_NOTICES.md及docs/source-attribution.json。本副本的改动：请填写实际改动。
+> 帝师（Imperial Preceptor），Roc Sun及已注明的贡献者，新编内容采用CC BY-SA 4.0。原典电子整理来自中文维基文库对应固定页面及其贡献者，逐页来源和历史见THIRD_PARTY_NOTICES.md及docs/source-attribution.json。本副本的改动：请填写实际改动。
 
 再分发本包或其中改作时，应携带对应来源清单、许可链接与实际改动说明；保持上游已有声明、免责声明及必要的额外署名。无上游或学者背书含义。
 

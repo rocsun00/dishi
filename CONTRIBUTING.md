@@ -4,6 +4,10 @@
 
 We welcome verifiable text corrections, English retrieval improvements, installation reports, and usage feedback. Keep private conversations, client information, and credentials out of public issues.
 
+项目发起与维护：**Roc Sun**。公开展示名为 **帝师 Imperial Preceptor**，技术标识 `dishi` 保持兼容；贡献者保留其依法享有的权利，第三方材料按各自条件使用。
+
+Created and maintained by **Roc Sun**. The public name is **Imperial Preceptor** (帝师), while `dishi` remains the compatible technical identifier. Contributors retain their applicable rights; third-party material remains subject to its own terms.
+
 ## 提交问题 / Report an issue
 
 - 原典：给出书名、完整段号、所据版本或固定来源，以及你认为有问题的文字。不同版本的读法应分层记录，不直接覆盖工作底本。

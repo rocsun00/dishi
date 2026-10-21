@@ -1,4 +1,4 @@
-# Dishi research examples: read the sources before forming advice
+# Imperial Preceptor research examples: read the sources before forming advice
 
 [中文 / Chinese counterpart](research-examples.zh-CN.md)
 

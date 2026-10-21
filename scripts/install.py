@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Install Dishi's runtime subset offline. Python 3.9+."""
+"""Install Imperial Preceptor's runtime subset offline. Python 3.9+."""
 
 import argparse
 import importlib.util
@@ -114,7 +114,7 @@ def install(source, destination, replace=False, dry_run=False, backup_dir=None):
     if destination.exists() and not destination.is_dir():
         raise ValueError("Destination exists and is not a directory.")
     if destination.exists() and not replace:
-        raise ValueError("Dishi already exists. Use --replace to back it up and update it. / 已有版本；用 --replace 备份后更新。")
+        raise ValueError("Imperial Preceptor already exists. Use --replace to back it up and update it. / 已有版本；用 --replace 备份后更新。")
     backups = backup_directory(destination, backup_dir)
     if backups == source or source in backups.parents or backups in source.parents:
         raise ValueError("Backup directory and source package must not overlap.")
@@ -152,7 +152,7 @@ def install(source, destination, replace=False, dry_run=False, backup_dir=None):
             previous = stage / "previous"
             if destination.exists():
                 if not replace:
-                    raise ValueError("Dishi appeared during validation. Use --replace to update it.")
+                    raise ValueError("Imperial Preceptor appeared during validation. Use --replace to update it.")
                 if destination.is_symlink() or not destination.is_dir():
                     raise ValueError("Destination changed during validation; expected a regular skill directory.")
                 backups.mkdir(parents=True, exist_ok=True)
