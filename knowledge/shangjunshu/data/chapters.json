@@ -1,0 +1,273 @@
+[
+  {
+    "chapter": 1,
+    "title": "更法",
+    "passage_ids": [
+      "SJS-01-001",
+      "SJS-01-002",
+      "SJS-01-003",
+      "SJS-01-004",
+      "SJS-01-005",
+      "SJS-01-006",
+      "SJS-01-007",
+      "SJS-01-008",
+      "SJS-01-009",
+      "SJS-01-010"
+    ]
+  },
+  {
+    "chapter": 2,
+    "title": "墾令",
+    "passage_ids": [
+      "SJS-02-001",
+      "SJS-02-002",
+      "SJS-02-003",
+      "SJS-02-004",
+      "SJS-02-005",
+      "SJS-02-006",
+      "SJS-02-007",
+      "SJS-02-008",
+      "SJS-02-009",
+      "SJS-02-010",
+      "SJS-02-011",
+      "SJS-02-012",
+      "SJS-02-013",
+      "SJS-02-014",
+      "SJS-02-015",
+      "SJS-02-016",
+      "SJS-02-017",
+      "SJS-02-018",
+      "SJS-02-019",
+      "SJS-02-020"
+    ]
+  },
+  {
+    "chapter": 3,
+    "title": "農戰",
+    "passage_ids": [
+      "SJS-03-001",
+      "SJS-03-002",
+      "SJS-03-003",
+      "SJS-03-004",
+      "SJS-03-005",
+      "SJS-03-006",
+      "SJS-03-007",
+      "SJS-03-008"
+    ]
+  },
+  {
+    "chapter": 4,
+    "title": "去彊",
+    "passage_ids": [
+      "SJS-04-001",
+      "SJS-04-002",
+      "SJS-04-003",
+      "SJS-04-004",
+      "SJS-04-005",
+      "SJS-04-006",
+      "SJS-04-007"
+    ]
+  },
+  {
+    "chapter": 5,
+    "title": "說民",
+    "passage_ids": [
+      "SJS-05-001",
+      "SJS-05-002",
+      "SJS-05-003",
+      "SJS-05-004",
+      "SJS-05-005",
+      "SJS-05-006",
+      "SJS-05-007"
+    ]
+  },
+  {
+    "chapter": 6,
+    "title": "算地",
+    "passage_ids": [
+      "SJS-06-001",
+      "SJS-06-002",
+      "SJS-06-003",
+      "SJS-06-004",
+      "SJS-06-005",
+      "SJS-06-006",
+      "SJS-06-007"
+    ]
+  },
+  {
+    "chapter": 7,
+    "title": "開塞",
+    "passage_ids": [
+      "SJS-07-001",
+      "SJS-07-002",
+      "SJS-07-003",
+      "SJS-07-004",
+      "SJS-07-005"
+    ]
+  },
+  {
+    "chapter": 8,
+    "title": "壹言",
+    "passage_ids": [
+      "SJS-08-001",
+      "SJS-08-002",
+      "SJS-08-003"
+    ]
+  },
+  {
+    "chapter": 9,
+    "title": "錯法",
+    "passage_ids": [
+      "SJS-09-001",
+      "SJS-09-002",
+      "SJS-09-003",
+      "SJS-09-004"
+    ]
+  },
+  {
+    "chapter": 10,
+    "title": "戰法",
+    "passage_ids": [
+      "SJS-10-001",
+      "SJS-10-002"
+    ]
+  },
+  {
+    "chapter": 11,
+    "title": "立本",
+    "passage_ids": [
+      "SJS-11-001"
+    ]
+  },
+  {
+    "chapter": 12,
+    "title": "兵守",
+    "passage_ids": [
+      "SJS-12-001",
+      "SJS-12-002"
+    ]
+  },
+  {
+    "chapter": 13,
+    "title": "靳令",
+    "passage_ids": [
+      "SJS-13-001",
+      "SJS-13-002",
+      "SJS-13-003",
+      "SJS-13-004",
+      "SJS-13-005"
+    ]
+  },
+  {
+    "chapter": 14,
+    "title": "修權",
+    "passage_ids": [
+      "SJS-14-001",
+      "SJS-14-002",
+      "SJS-14-003",
+      "SJS-14-004"
+    ]
+  },
+  {
+    "chapter": 15,
+    "title": "徠民",
+    "passage_ids": [
+      "SJS-15-001",
+      "SJS-15-002",
+      "SJS-15-003",
+      "SJS-15-004",
+      "SJS-15-005",
+      "SJS-15-006"
+    ]
+  },
+  {
+    "chapter": 17,
+    "title": "賞刑",
+    "passage_ids": [
+      "SJS-17-001",
+      "SJS-17-002",
+      "SJS-17-003",
+      "SJS-17-004",
+      "SJS-17-005"
+    ]
+  },
+  {
+    "chapter": 18,
+    "title": "畫策",
+    "passage_ids": [
+      "SJS-18-001",
+      "SJS-18-002",
+      "SJS-18-003",
+      "SJS-18-004",
+      "SJS-18-005",
+      "SJS-18-006",
+      "SJS-18-007"
+    ]
+  },
+  {
+    "chapter": 19,
+    "title": "境內",
+    "passage_ids": [
+      "SJS-19-001",
+      "SJS-19-002",
+      "SJS-19-003",
+      "SJS-19-004",
+      "SJS-19-005"
+    ]
+  },
+  {
+    "chapter": 20,
+    "title": "弱民",
+    "passage_ids": [
+      "SJS-20-001",
+      "SJS-20-002",
+      "SJS-20-003"
+    ]
+  },
+  {
+    "chapter": 22,
+    "title": "外內",
+    "passage_ids": [
+      "SJS-22-001",
+      "SJS-22-002",
+      "SJS-22-003"
+    ]
+  },
+  {
+    "chapter": 23,
+    "title": "君臣",
+    "passage_ids": [
+      "SJS-23-001",
+      "SJS-23-002",
+      "SJS-23-003"
+    ]
+  },
+  {
+    "chapter": 24,
+    "title": "禁使",
+    "passage_ids": [
+      "SJS-24-001",
+      "SJS-24-002"
+    ]
+  },
+  {
+    "chapter": 25,
+    "title": "慎法",
+    "passage_ids": [
+      "SJS-25-001",
+      "SJS-25-002",
+      "SJS-25-003"
+    ]
+  },
+  {
+    "chapter": 26,
+    "title": "定分",
+    "passage_ids": [
+      "SJS-26-001",
+      "SJS-26-002",
+      "SJS-26-003",
+      "SJS-26-004",
+      "SJS-26-005"
+    ]
+  }
+]

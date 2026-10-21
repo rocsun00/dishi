@@ -1,0 +1,147 @@
+{
+  "chapter_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "梁惠王上",
+      "source_title": "孟子/梁惠王上",
+      "part": "梁惠王",
+      "upper_lower": "上",
+      "source_volume": 1,
+      "passage_count": 7
+    },
+    {
+      "chapter": 2,
+      "title": "梁惠王下",
+      "source_title": "孟子/梁惠王下",
+      "part": "梁惠王",
+      "upper_lower": "下",
+      "source_volume": 2,
+      "passage_count": 16
+    },
+    {
+      "chapter": 3,
+      "title": "公孫丑上",
+      "source_title": "孟子/公孫丑上",
+      "part": "公孫丑",
+      "upper_lower": "上",
+      "source_volume": 3,
+      "passage_count": 9
+    },
+    {
+      "chapter": 4,
+      "title": "公孫丑下",
+      "source_title": "孟子/公孫丑下",
+      "part": "公孫丑",
+      "upper_lower": "下",
+      "source_volume": 4,
+      "passage_count": 14
+    },
+    {
+      "chapter": 5,
+      "title": "滕文公上",
+      "source_title": "孟子/滕文公上",
+      "part": "滕文公",
+      "upper_lower": "上",
+      "source_volume": 5,
+      "passage_count": 5
+    },
+    {
+      "chapter": 6,
+      "title": "滕文公下",
+      "source_title": "孟子/滕文公下",
+      "part": "滕文公",
+      "upper_lower": "下",
+      "source_volume": 6,
+      "passage_count": 10
+    },
+    {
+      "chapter": 7,
+      "title": "離婁上",
+      "source_title": "孟子/離婁上",
+      "part": "離婁",
+      "upper_lower": "上",
+      "source_volume": 7,
+      "passage_count": 28
+    },
+    {
+      "chapter": 8,
+      "title": "離婁下",
+      "source_title": "孟子/離婁下",
+      "part": "離婁",
+      "upper_lower": "下",
+      "source_volume": 8,
+      "passage_count": 33
+    },
+    {
+      "chapter": 9,
+      "title": "萬章上",
+      "source_title": "孟子/萬章上",
+      "part": "萬章",
+      "upper_lower": "上",
+      "source_volume": 9,
+      "passage_count": 9
+    },
+    {
+      "chapter": 10,
+      "title": "萬章下",
+      "source_title": "孟子/萬章下",
+      "part": "萬章",
+      "upper_lower": "下",
+      "source_volume": 10,
+      "passage_count": 9
+    },
+    {
+      "chapter": 11,
+      "title": "告子上",
+      "source_title": "孟子/告子上",
+      "part": "告子",
+      "upper_lower": "上",
+      "source_volume": 11,
+      "passage_count": 20
+    },
+    {
+      "chapter": 12,
+      "title": "告子下",
+      "source_title": "孟子/告子下",
+      "part": "告子",
+      "upper_lower": "下",
+      "source_volume": 12,
+      "passage_count": 16
+    },
+    {
+      "chapter": 13,
+      "title": "盡心上",
+      "source_title": "孟子/盡心上",
+      "part": "盡心",
+      "upper_lower": "上",
+      "source_volume": 13,
+      "passage_count": 46
+    },
+    {
+      "chapter": 14,
+      "title": "盡心下",
+      "source_title": "孟子/盡心下",
+      "part": "盡心",
+      "upper_lower": "下",
+      "source_volume": 14,
+      "passage_count": 38
+    }
+  ],
+  "structure_note": "传世七篇，各分上、下，共十四卷；按所选固定电子页章句号分260个完整问答/语录定位单元，保留七篇组及上下卷信息，不逐个“曰”拆段。"
+}

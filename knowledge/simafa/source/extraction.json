@@ -1,0 +1,829 @@
+{
+  "schema_version": 1,
+  "normalization": "wiki-body-v1",
+  "offset_unit": "Python Unicode code-point offsets, zero-based, end-exclusive",
+  "segments": [
+    {
+      "kind": "excluded",
+      "start": 0,
+      "end": 143,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-01-001",
+      "start": 143,
+      "end": 277
+    },
+    {
+      "kind": "excluded",
+      "start": 277,
+      "end": 279,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-01-002",
+      "start": 279,
+      "end": 347
+    },
+    {
+      "kind": "excluded",
+      "start": 347,
+      "end": 349,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-01-003",
+      "start": 349,
+      "end": 381
+    },
+    {
+      "kind": "excluded",
+      "start": 381,
+      "end": 383,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-01-004",
+      "start": 383,
+      "end": 494
+    },
+    {
+      "kind": "excluded",
+      "start": 494,
+      "end": 496,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-01-005",
+      "start": 496,
+      "end": 554
+    },
+    {
+      "kind": "excluded",
+      "start": 554,
+      "end": 556,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-01-006",
+      "start": 556,
+      "end": 698
+    },
+    {
+      "kind": "excluded",
+      "start": 698,
+      "end": 700,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-01-007",
+      "start": 700,
+      "end": 785
+    },
+    {
+      "kind": "excluded",
+      "start": 785,
+      "end": 787,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-01-008",
+      "start": 787,
+      "end": 811
+    },
+    {
+      "kind": "excluded",
+      "start": 811,
+      "end": 813,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-01-009",
+      "start": 813,
+      "end": 885
+    },
+    {
+      "kind": "excluded",
+      "start": 885,
+      "end": 887,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-01-010",
+      "start": 887,
+      "end": 971
+    },
+    {
+      "kind": "excluded",
+      "start": 971,
+      "end": 983,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-001",
+      "start": 983,
+      "end": 1034
+    },
+    {
+      "kind": "excluded",
+      "start": 1034,
+      "end": 1036,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-002",
+      "start": 1036,
+      "end": 1080
+    },
+    {
+      "kind": "excluded",
+      "start": 1080,
+      "end": 1082,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-003",
+      "start": 1082,
+      "end": 1182
+    },
+    {
+      "kind": "excluded",
+      "start": 1182,
+      "end": 1184,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-004",
+      "start": 1184,
+      "end": 1231
+    },
+    {
+      "kind": "excluded",
+      "start": 1231,
+      "end": 1233,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-005",
+      "start": 1233,
+      "end": 1286
+    },
+    {
+      "kind": "excluded",
+      "start": 1286,
+      "end": 1288,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-006",
+      "start": 1288,
+      "end": 1437
+    },
+    {
+      "kind": "excluded",
+      "start": 1437,
+      "end": 1439,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-007",
+      "start": 1439,
+      "end": 1488
+    },
+    {
+      "kind": "excluded",
+      "start": 1488,
+      "end": 1490,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-008",
+      "start": 1490,
+      "end": 1522
+    },
+    {
+      "kind": "excluded",
+      "start": 1522,
+      "end": 1524,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-009",
+      "start": 1524,
+      "end": 1553
+    },
+    {
+      "kind": "excluded",
+      "start": 1553,
+      "end": 1555,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-010",
+      "start": 1555,
+      "end": 1584
+    },
+    {
+      "kind": "excluded",
+      "start": 1584,
+      "end": 1586,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-011",
+      "start": 1586,
+      "end": 1762
+    },
+    {
+      "kind": "excluded",
+      "start": 1762,
+      "end": 1764,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-012",
+      "start": 1764,
+      "end": 1880
+    },
+    {
+      "kind": "excluded",
+      "start": 1880,
+      "end": 1882,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-013",
+      "start": 1882,
+      "end": 2091
+    },
+    {
+      "kind": "excluded",
+      "start": 2091,
+      "end": 2093,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-014",
+      "start": 2093,
+      "end": 2121
+    },
+    {
+      "kind": "excluded",
+      "start": 2121,
+      "end": 2123,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-02-015",
+      "start": 2123,
+      "end": 2147
+    },
+    {
+      "kind": "excluded",
+      "start": 2147,
+      "end": 2157,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-001",
+      "start": 2157,
+      "end": 2204
+    },
+    {
+      "kind": "excluded",
+      "start": 2204,
+      "end": 2206,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-002",
+      "start": 2206,
+      "end": 2246
+    },
+    {
+      "kind": "excluded",
+      "start": 2246,
+      "end": 2248,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-003",
+      "start": 2248,
+      "end": 2340
+    },
+    {
+      "kind": "excluded",
+      "start": 2340,
+      "end": 2342,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-004",
+      "start": 2342,
+      "end": 2393
+    },
+    {
+      "kind": "excluded",
+      "start": 2393,
+      "end": 2395,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-005",
+      "start": 2395,
+      "end": 2433
+    },
+    {
+      "kind": "excluded",
+      "start": 2433,
+      "end": 2435,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-006",
+      "start": 2435,
+      "end": 2593
+    },
+    {
+      "kind": "excluded",
+      "start": 2593,
+      "end": 2595,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-007",
+      "start": 2595,
+      "end": 2707
+    },
+    {
+      "kind": "excluded",
+      "start": 2707,
+      "end": 2709,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-008",
+      "start": 2709,
+      "end": 2806
+    },
+    {
+      "kind": "excluded",
+      "start": 2806,
+      "end": 2808,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-009",
+      "start": 2808,
+      "end": 2898
+    },
+    {
+      "kind": "excluded",
+      "start": 2898,
+      "end": 2900,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-010",
+      "start": 2900,
+      "end": 2986
+    },
+    {
+      "kind": "excluded",
+      "start": 2986,
+      "end": 2988,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-011",
+      "start": 2988,
+      "end": 3076
+    },
+    {
+      "kind": "excluded",
+      "start": 3076,
+      "end": 3078,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-012",
+      "start": 3078,
+      "end": 3128
+    },
+    {
+      "kind": "excluded",
+      "start": 3128,
+      "end": 3130,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-013",
+      "start": 3130,
+      "end": 3183
+    },
+    {
+      "kind": "excluded",
+      "start": 3183,
+      "end": 3185,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-014",
+      "start": 3185,
+      "end": 3293
+    },
+    {
+      "kind": "excluded",
+      "start": 3293,
+      "end": 3295,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-03-015",
+      "start": 3295,
+      "end": 3345
+    },
+    {
+      "kind": "excluded",
+      "start": 3345,
+      "end": 3355,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-001",
+      "start": 3355,
+      "end": 3380
+    },
+    {
+      "kind": "excluded",
+      "start": 3380,
+      "end": 3382,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-002",
+      "start": 3382,
+      "end": 3548
+    },
+    {
+      "kind": "excluded",
+      "start": 3548,
+      "end": 3550,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-003",
+      "start": 3550,
+      "end": 3579
+    },
+    {
+      "kind": "excluded",
+      "start": 3579,
+      "end": 3581,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-004",
+      "start": 3581,
+      "end": 3616
+    },
+    {
+      "kind": "excluded",
+      "start": 3616,
+      "end": 3618,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-005",
+      "start": 3618,
+      "end": 3679
+    },
+    {
+      "kind": "excluded",
+      "start": 3679,
+      "end": 3681,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-006",
+      "start": 3681,
+      "end": 3735
+    },
+    {
+      "kind": "excluded",
+      "start": 3735,
+      "end": 3737,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-007",
+      "start": 3737,
+      "end": 3772
+    },
+    {
+      "kind": "excluded",
+      "start": 3772,
+      "end": 3774,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-008",
+      "start": 3774,
+      "end": 3807
+    },
+    {
+      "kind": "excluded",
+      "start": 3807,
+      "end": 3809,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-009",
+      "start": 3809,
+      "end": 3827
+    },
+    {
+      "kind": "excluded",
+      "start": 3827,
+      "end": 3829,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-010",
+      "start": 3829,
+      "end": 3846
+    },
+    {
+      "kind": "excluded",
+      "start": 3846,
+      "end": 3848,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-011",
+      "start": 3848,
+      "end": 3861
+    },
+    {
+      "kind": "excluded",
+      "start": 3861,
+      "end": 3863,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-012",
+      "start": 3863,
+      "end": 3896
+    },
+    {
+      "kind": "excluded",
+      "start": 3896,
+      "end": 3898,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-013",
+      "start": 3898,
+      "end": 3922
+    },
+    {
+      "kind": "excluded",
+      "start": 3922,
+      "end": 3924,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-014",
+      "start": 3924,
+      "end": 3933
+    },
+    {
+      "kind": "excluded",
+      "start": 3933,
+      "end": 3935,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-015",
+      "start": 3935,
+      "end": 3964
+    },
+    {
+      "kind": "excluded",
+      "start": 3964,
+      "end": 3966,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-016",
+      "start": 3966,
+      "end": 3983
+    },
+    {
+      "kind": "excluded",
+      "start": 3983,
+      "end": 3985,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-017",
+      "start": 3985,
+      "end": 4041
+    },
+    {
+      "kind": "excluded",
+      "start": 4041,
+      "end": 4043,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-018",
+      "start": 4043,
+      "end": 4081
+    },
+    {
+      "kind": "excluded",
+      "start": 4081,
+      "end": 4083,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-019",
+      "start": 4083,
+      "end": 4136
+    },
+    {
+      "kind": "excluded",
+      "start": 4136,
+      "end": 4138,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-020",
+      "start": 4138,
+      "end": 4221
+    },
+    {
+      "kind": "excluded",
+      "start": 4221,
+      "end": 4223,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-04-021",
+      "start": 4223,
+      "end": 4262
+    },
+    {
+      "kind": "excluded",
+      "start": 4262,
+      "end": 4272,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-05-001",
+      "start": 4272,
+      "end": 4371
+    },
+    {
+      "kind": "excluded",
+      "start": 4371,
+      "end": 4373,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-05-002",
+      "start": 4373,
+      "end": 4399
+    },
+    {
+      "kind": "excluded",
+      "start": 4399,
+      "end": 4401,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-05-003",
+      "start": 4401,
+      "end": 4434
+    },
+    {
+      "kind": "excluded",
+      "start": 4434,
+      "end": 4436,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-05-004",
+      "start": 4436,
+      "end": 4510
+    },
+    {
+      "kind": "excluded",
+      "start": 4510,
+      "end": 4512,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-05-005",
+      "start": 4512,
+      "end": 4530
+    },
+    {
+      "kind": "excluded",
+      "start": 4530,
+      "end": 4532,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-05-006",
+      "start": 4532,
+      "end": 4548
+    },
+    {
+      "kind": "excluded",
+      "start": 4548,
+      "end": 4550,
+      "reason": "源页头及作者年代标签、版本链接、篇题、导航、空白或页尾公版/分类模板；不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SMF-05-007",
+      "start": 4550,
+      "end": 4618
+    },
+    {
+      "kind": "excluded",
+      "start": 4618,
+      "end": 4663,
+      "reason": "正文后空白、公版声明和站点分类模板"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "purpose": "仅供LSCQ-130-004伶悝段一次辅助古注核查，独立档案，不并入原典或声称全书校勘",
+  "title": "呂氏春秋 (四部叢刊本)/卷第二十一",
+  "pageid": 829283,
+  "revision": 2658219,
+  "parentid": 1426794,
+  "revision_timestamp": "2026-02-27T07:45:25Z",
+  "pinned_url": "https://zh.wikisource.org/w/index.php?title=%E5%91%82%E6%B0%8F%E6%98%A5%E7%A7%8B%20%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29/%E5%8D%B7%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80&oldid=2658219",
+  "query_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%91%82%E6%B0%8F%E6%98%A5%E7%A7%8B+%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29%2F%E5%8D%B7%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80",
+  "parse_api_url": "https://zh.wikisource.org/w/api.php?action=parse&format=json&formatversion=2&oldid=2658219&prop=text%7Cwikitext%7Crevid%7Cdisplaytitle",
+  "retrieved_at_utc": "2026-10-20T00:08:48.398186+00:00",
+  "prior_use": "首轮审读实际只从web搜索结果返回的本页当前链接及原文/古注摘录辅助核实，未当时保存oldid；本次经root请求才取官方API固定快照。不能倒称首轮已读固定修订。",
+  "edition_label_from_page": "漢 高誘 注 景上海涵芬樓藏明刊本",
+  "pin_limit": "主页面wikitext为pages聚合：Sibu Congkan0424-高誘-呂氏春秋-5-5.djvu第2–23页；oldid固定主页面修订，不独立固定所嵌Page命名空间各页修订。本次API parse的完整返回与HTML已按实际字节SHA固定；未另抓子页，不扩大考证。",
+  "locators": {
+    "html_path": "commentary/gaoyou-vol21-fixed.html.txt",
+    "html_one_based_line": 221,
+    "html_zero_based_char_offset": 53109,
+    "rendered_page_number": 23,
+    "rendered_page_name": "Page:Sibu Congkan0424-高誘-呂氏春秋-5-5.djvu/23",
+    "section": "贵卒末，周武君使人刺伶悝一段",
+    "body_without_editorial_punctuation": "周武君使人刺伶悝於東周伶悝僵令其子速哭曰以誰刺我父也刺者聞以爲死也周以爲不信因厚罪之",
+    "notes_transcribed_without_added_punctuation": [
+      "周武君西周之君伶悝東周之臣也僵斃也",
+      "刺者聞伶悝巳死因報西周武君曰伶悝巳死矣",
+      "報所使刺伶悝者也"
+    ],
+    "note": "按显示字保留“巳”“報”，未静默校作“已”“谓”。第一条注位于22/23页交界前，返报与罪刺者两条在23页。",
+    "transcription_check": "仅移除渲染文本的折行空白、零宽折行符及分隔古注的〈〉框，连读原字；未添字或改巳/報。归档原字节未变。"
+  },
+  "files": {
+    "commentary/gaoyou-vol21-api.json": {
+      "bytes": 551,
+      "sha256": "36e278ebde5e82151fc0130932cffca0e0b2e8d5a08f8637a4867a94f3ab6228"
+    },
+    "commentary/gaoyou-vol21-fixed-parse-api.json": {
+      "bytes": 71022,
+      "sha256": "c898a7af6c7b46ec6614baab0ab914f78ffef65227566a9c23e08b2f49e20cb3"
+    },
+    "commentary/gaoyou-vol21-fixed.wikitext": {
+      "bytes": 246,
+      "sha256": "9b3fbdc016c4b46029bcfdb4f4b9ddd7e246a2236c43d61c8b56c1f380d6749f"
+    },
+    "commentary/gaoyou-vol21-fixed.html.txt": {
+      "bytes": 68094,
+      "sha256": "ec10b754adf86b8fcdeb04b06e9e38b8845c02941c49872cfaa100458f1ad16f"
+    },
+    "commentary/gaoyou-vol21-fixed.txt": {
+      "bytes": 16598,
+      "sha256": "fd7a21a87f0152c0ea4fd80506c2da04f1f8c43a7f615bd95392c9d34f9faea2"
+    }
+  },
+  "source_attribution": "中文维基文库相应影印转写页面及贡献者；古代原文与数字整理分层使用，保留固定来源及实际渲染快照。"
+}

@@ -1,0 +1,532 @@
+{
+  "id": "simafa",
+  "work_id": "simafa",
+  "title": "司马法（现存五篇电子工作本）",
+  "prefix": "SMF",
+  "source_title": "司馬法",
+  "revision": 2358301,
+  "source_url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95&oldid=2358301",
+  "source_pages": [
+    {
+      "title": "司馬法",
+      "revision": 2358301,
+      "timestamp": "2024-01-19T13:24:02Z",
+      "raw_file": "pages/01.wikitext",
+      "fixed_api_response": "api/01-fixed.json",
+      "raw_sha256": "e647c3f6b15efc40c3c74ad05291ddb883d5eec5b6cf311ddacc0e76814f9705",
+      "fixed_api_sha256": "1560927c06e0c7a64572bf9a5455506e79135c550810153dd592e02d324d0273",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95&oldid=2358301",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95&action=history",
+      "author_attribution": "旧题司马穰苴；网页header所标春秋及人名仅为上游标签，非本项目对成书与逐句作者的确证",
+      "contributors_attribution": "司馬法 — 中文维基文库贡献者；署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "acquisition_mode": "title-and-fixed-double-fetch",
+      "api_response": "api/01.json",
+      "api_sha256": "1560927c06e0c7a64572bf9a5455506e79135c550810153dd592e02d324d0273",
+      "double_fetch_content_equal": true,
+      "retrieved_at_utc": "2026-10-20T02:03:09.962620+00:00",
+      "start": 0,
+      "end": 4663
+    }
+  ],
+  "reference_pages": [
+    {
+      "title": "司馬法 (四庫全書本)",
+      "revision": 631817,
+      "timestamp": "2016-10-14T04:02:06Z",
+      "raw_file": "pages/02.wikitext",
+      "fixed_api_response": "api/02-fixed.json",
+      "raw_sha256": "0fea538b6093f5437463042495f7ccc3eaff2125ad55e71f7517ff16d75f2c1e",
+      "fixed_api_sha256": "a8c2c1263f47207fffc8e90cbbc4079836c516b363396b4034466faf17582402",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&action=history",
+      "author_attribution": "古籍《司马法》四库电子文本及维基贡献者；并非本项目已逐字核对的影印本",
+      "contributors_attribution": "司馬法 (四庫全書本) — 中文维基文库贡献者；署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "acquisition_mode": "title-and-fixed-double-fetch",
+      "api_response": "api/02.json",
+      "api_sha256": "a8c2c1263f47207fffc8e90cbbc4079836c516b363396b4034466faf17582402",
+      "double_fetch_content_equal": true,
+      "retrieved_at_utc": "2026-10-20T02:03:10.163547+00:00"
+    },
+    {
+      "title": "司馬法 (四部叢刊本)",
+      "revision": 1398248,
+      "timestamp": "2018-04-03T09:16:26Z",
+      "raw_file": "pages/03.wikitext",
+      "fixed_api_response": "api/03-fixed.json",
+      "raw_sha256": "e3c9ea111d3bd4255b44235cdf2a169484922c3733e46596aaae078ae7cb7c20",
+      "fixed_api_sha256": "a30323d71d6472c4275fb701655711d1fb5c805a07b4bb5feca2e45b0cc0c725",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29&oldid=1398248",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29&action=history",
+      "author_attribution": "四部丛刊版本目录及维基贡献者；仅目录入口未抓三卷正文",
+      "contributors_attribution": "司馬法 (四部叢刊本) — 中文维基文库贡献者；署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "acquisition_mode": "title-and-fixed-double-fetch",
+      "api_response": "api/03.json",
+      "api_sha256": "a30323d71d6472c4275fb701655711d1fb5c805a07b4bb5feca2e45b0cc0c725",
+      "double_fetch_content_equal": true,
+      "retrieved_at_utc": "2026-10-20T02:03:10.356574+00:00"
+    },
+    {
+      "title": "漢書/卷030",
+      "revision": 7908197,
+      "timestamp": "2026-07-15T01:11:32Z",
+      "raw_file": "pages/04.wikitext",
+      "fixed_api_response": "api/04-fixed.json",
+      "raw_sha256": "8f44ee30f3c0f7bb3cb628409531c2ace1e27386fcd878a5e12247649361024f",
+      "fixed_api_sha256": "d28a78afa981849f318c6a9b5a9a3b27aafca544f24434c84b8c0ab69c9d9890",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030&oldid=7908197",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030&action=history",
+      "author_attribution": "班固等《汉书》著录；不作为五篇正文作者归属证明",
+      "contributors_attribution": "漢書/卷030 — 中文维基文库贡献者；署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "acquisition_mode": "shared-title-and-fixed-double-fetch-from-wuzi",
+      "api_response": "api/04.json",
+      "api_sha256": "d28a78afa981849f318c6a9b5a9a3b27aafca544f24434c84b8c0ab69c9d9890",
+      "double_fetch_content_equal": true,
+      "retrieved_at_utc": "2026-10-20T02:04:03.925051Z"
+    },
+    {
+      "title": "史記/卷064",
+      "revision": 7895410,
+      "timestamp": "2026-06-15T15:05:50Z",
+      "raw_file": "pages/05.wikitext",
+      "fixed_api_response": "api/05-fixed.json",
+      "raw_sha256": "dea8965e9e485858652824a20d8be0ae8d6822b7c5aafc2a5614c3d917ff1711",
+      "fixed_api_sha256": "1e34c417c268e78892d71e7224d9aefb69b24deafe0e8af9c8d99942697d06d5",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B2%E8%A8%98%2F%E5%8D%B7064&oldid=7895410",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B2%E8%A8%98%2F%E5%8D%B7064&action=history",
+      "author_attribution": "司马迁《史记》史家记述及评论；不把记述直接升级为已证作者事实",
+      "contributors_attribution": "史記/卷064 — 中文维基文库贡献者；署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "acquisition_mode": "shared-root-single-fixed-revision-fetch",
+      "retrieved_at_utc": "2026-10-20T02:06:22.896496+00:00"
+    }
+  ],
+  "retrieved_on": "2026-10-19",
+  "retrieved_date_timezone": "America/Chicago; actual UTC acquisition timestamps in fetch_manifest/source_pages",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "e647c3f6b15efc40c3c74ad05291ddb883d5eec5b6cf311ddacc0e76814f9705",
+  "extraction_sha256": "f4df986913bdcd9e7e4f03297d452feb34f7cd02f3a521f946bde137fb014e1e",
+  "scope": "完整收录固定主本现存五篇：仁本、天子之義、定爵、嚴位、用眾，按来源空行68段，不补造汉志著录本亡文；对读电子页与史传目录参考不并入正文。",
+  "edition_status": "中文维基文库无版名标点电子工作本；另存所链接四库电子本用于定点异文对读、四部丛刊目录仅作入口；未对影印古刻逐字校勘，不冒称校勘定本。",
+  "authorship_status": "主本header旧题司马穰苴与春秋仅上游标签。《史记》说齐威王使大夫追论古司马兵法而附穰苴于其中，且太史公另辨其揖让之文与小国行师的距离；编纂层次和逐句作者不在本项目确断。",
+  "chapter_count": 5,
+  "chapter_unit": "篇（现存五篇）",
+  "passage_count": 68,
+  "text_characters_including_punctuation": 4307,
+  "normalization": [
+    "官方API主本、四库对读电子本与四部目录按标题/固定修订双取并内容比对；汉书复用队友双取原响应；史记复用root单次固定修订响应，采集模式明确分列。",
+    "原始API字节、wikitext Unicode原貌、修订时间、真实UTC、SHA256、贡献者历史及许可各自保存。",
+    "正文按五篇源空行完整分段，全部source.wikitext字符区间以passage/excluded连续覆盖；offset为Python Unicode字符偏移[start,end)，并非UTF-8字节。",
+    "主本正文没有古注或校案模板，editorial_notes均为空；页头年代作者标签、版本链接、篇题、页尾公版与分类在extraction排除。",
+    "仅去段内空白作显示，保留原字原标点与疑句；灋、鬬、皷等异字照存。OpenCC0.1.7 t2s仅作独立检索层。",
+    "四库异文只另记风险，不混入主本；古史引用、目录著录与项目AI释义分别标层。"
+  ],
+  "source_attribution": "古籍旧题司马穰苴，作者与编纂层次保留。数字主本及参考页来自中文维基文库逐页贡献者，见source_pages/reference_pages各历史；项目新增释义、导读、卡片与问答为AI整理。",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "CC BY-SA4.0为站点数字整理许可声明；古代原作公版与现代数字整理分层，保留上游署名、历史、许可与改动记录。",
+  "source_risks": [
+    {
+      "passage_id": "SMF-01-001",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "不出於仁也",
+      "description": "主本作仁，对读作中人；两者义向不同，保留主本，不据此独断仁与权战的唯一逻辑。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "不出於中人"
+      }
+    },
+    {
+      "passage_id": "SMF-01-001",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "以戰去戰",
+      "description": "主本去，对读止；引用必须依本，不混成通行名句。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "以戰止戰"
+      }
+    },
+    {
+      "passage_id": "SMF-01-001",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "春不東征，秋不西伐，月食班師",
+      "description": "该句主本有，所存四库电子对读相邻处无此句；只记电子文本差别，不推断古本源流。"
+    },
+    {
+      "passage_id": "SMF-01-001",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "勇見身",
+      "description": "主本身，对读方；词义解释不以对读字偷换。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "勇見方"
+      }
+    },
+    {
+      "passage_id": "SMF-01-004",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "不窮不能而哀憐傷病，是以明其義也",
+      "description": "主本两列义，六德列配有疑；对读相应为仁。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "不窮不能而哀憐傷病是以明其仁也"
+      }
+    },
+    {
+      "passage_id": "SMF-01-006",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "巡狩者方",
+      "description": "主本字句难顺，对读省方，只作异文提示。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "巡狩省方"
+      }
+    },
+    {
+      "passage_id": "SMF-01-010",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "暴內陵外則壇之",
+      "description": "坛作为处罚名目，具体制度义保留，不硬配现代制裁。"
+    },
+    {
+      "passage_id": "SMF-02-002",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "力同而意和",
+      "description": "主本力，对读方；不据此造同等体力标准。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "方同而意和"
+      }
+    },
+    {
+      "passage_id": "SMF-02-005",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "縱緩不及",
+      "description": "主本缓，对读绥。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "縱綏不及"
+      }
+    },
+    {
+      "passage_id": "SMF-02-009",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "人之執也",
+      "description": "主本执，对读埶，古代旗色义训保留。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "人之埶也"
+      }
+    },
+    {
+      "passage_id": "SMF-02-010",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "白戎也",
+      "description": "主本疑句，对读尚威；不静默校改。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "尚威也"
+      }
+    },
+    {
+      "passage_id": "SMF-02-013",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "必亡等矣",
+      "description": "电子主本与对读同有此句，但义有争议，不作已证平等主义主张。"
+    },
+    {
+      "passage_id": "SMF-02-014",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "戍兵三年不興",
+      "description": "主本兴，对读典；制度时限义不强定。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "戍兵三年不典"
+      }
+    },
+    {
+      "passage_id": "SMF-03-001",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "變嫌推疑",
+      "description": "简古难句，宽述辨疑不造逐字唯一全译。"
+    },
+    {
+      "passage_id": "SMF-03-002",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "小罪乃殺；小罪勝，大罪因",
+      "description": "省罚后接杀戮，断读和句意保留；不美化为现代轻微处分，也不造小错重罚准则。"
+    },
+    {
+      "passage_id": "SMF-03-004",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "將心心也，眾心心也",
+      "description": "语法压缩，解释只述将众心意与组织配合。"
+    },
+    {
+      "passage_id": "SMF-03-005",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "凡戰，智也",
+      "description": "主本智，对读权。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "凡戰權也"
+      }
+    },
+    {
+      "passage_id": "SMF-03-006",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "眾有，有因生美",
+      "description": "电子字句难通，财备方向可述，细译不定。"
+    },
+    {
+      "passage_id": "SMF-03-006",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "然有以職",
+      "description": "简略、可能讹脱的字句照存。"
+    },
+    {
+      "passage_id": "SMF-03-007",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "驕驕，懾懾，吟曠",
+      "description": "列项古字与心理词义不强配现代疾病或人格分类。"
+    },
+    {
+      "passage_id": "SMF-03-009",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "無誰其名",
+      "description": "主本谁，对读诳；末段军令含义保留。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "無誑其名"
+      }
+    },
+    {
+      "passage_id": "SMF-03-010",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "滅厲祥",
+      "description": "断读与厲祥关系不定，不补出自造吉凶理论。"
+    },
+    {
+      "passage_id": "SMF-03-011",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "人人，正正，辭辭，火火",
+      "description": "重叠式短语未完整解释七政，不补造缺项。"
+    },
+    {
+      "passage_id": "SMF-03-013",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "凡人之形",
+      "description": "主本形，对读行。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "凡人之行"
+      }
+    },
+    {
+      "passage_id": "SMF-03-014",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "七曰尊",
+      "description": "主本尊，对读专。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "七曰專"
+      }
+    },
+    {
+      "passage_id": "SMF-03-015",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "行其不復",
+      "description": "句义未定，不据此推出不可反悔的严刑政策。"
+    },
+    {
+      "passage_id": "SMF-04-002",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "御枚誓糗",
+      "description": "主本御，对读衔；其余句读仍难定，不拼成具体操练法。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "銜枚誓糗"
+      }
+    },
+    {
+      "passage_id": "SMF-04-003",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "人禁不息，不可以分食",
+      "description": "整段断读困难，不推出剥睡禁食训练法。"
+    },
+    {
+      "passage_id": "SMF-04-007",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "服膚輕",
+      "description": "膚的具体义不定，不硬释成衣服肤浅与能力轻重。"
+    },
+    {
+      "passage_id": "SMF-04-008",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "上生多疑；上死不勝",
+      "description": "“上”及生死等短语细义不定，不造四类领导人格。"
+    },
+    {
+      "passage_id": "SMF-04-010",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "道約人死正",
+      "description": "主本死正，对读正死，字序保留。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "道約人正死"
+      }
+    },
+    {
+      "passage_id": "SMF-04-011",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "若勝若否，若天若人",
+      "description": "极短天人胜败对举，不足以定天人比例或宿命。"
+    },
+    {
+      "passage_id": "SMF-04-012",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "無過皆息",
+      "description": "主本皆息，对读瞬息，不能据主本换算秒数。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "無過瞬息"
+      }
+    },
+    {
+      "passage_id": "SMF-04-014",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "三軍一人勝",
+      "description": "一人可有协调或统帅等读法，不作为英雄单人取胜的已证命题。"
+    },
+    {
+      "passage_id": "SMF-04-015",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "鼓兼齊",
+      "description": "主本鼓，对读七鼓；不造完整鼓谱。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "七鼓兼齊"
+      }
+    },
+    {
+      "passage_id": "SMF-04-020",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "自子以不循",
+      "description": "主本子，对读予；整句义不强定。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "自予以不循"
+      }
+    },
+    {
+      "passage_id": "SMF-05-001",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "相聚而受裹",
+      "description": "主本聚，对读众，战术动作条件保留。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "相衆而受裹"
+      }
+    },
+    {
+      "passage_id": "SMF-05-002",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "兼舍環龜",
+      "description": "地形短句含难词，不据记忆校为其他字。"
+    },
+    {
+      "passage_id": "SMF-05-005",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "止不路",
+      "description": "主本不，对读于；不据此指定诱伏位置。",
+      "comparison": {
+        "page_title": "司馬法 (四庫全書本)",
+        "revision": 631817,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E5%8F%B8%E9%A6%AC%E6%B3%95%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631817",
+        "reading": "止於路"
+      }
+    },
+    {
+      "passage_id": "SMF-05-007",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "書親絕",
+      "description": "本句与绝顾关系不够明确，不洗成正向专注。"
+    },
+    {
+      "passage_id": "SMF-05-007",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "棄任節食",
+      "description": "卸负担与节食的动作关系保留，不推荐剥夺饮食。"
+    }
+  ],
+  "source_observations": [
+    {
+      "kind": "extant_scope",
+      "description": "五篇现存工作本不称古155篇全本；不发明150篇失文名单，亦不把五篇逐一配对汉志篇号。"
+    },
+    {
+      "kind": "bibliographic_location",
+      "description": "《汉书·艺文志》“軍禮司馬法百五十五篇”见六艺略礼部，不是兵权谋栏；只是古著录证据。"
+    },
+    {
+      "kind": "reference_heading_difference",
+      "description": "四库电子对读页独立列仁本、天子之义、定爵、严位篇题，严位末连续含用众正文而未见另题；主本则明列五题，不由对读题缺妄判正文失篇。"
+    },
+    {
+      "kind": "annotation_layers",
+      "description": "所选主本没有古注、校案、序跋正文层；未为充数添加不存在的古注。四库页与史记汉书参考整页另存，不进入P编号。"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "books": [
+    {
+      "id": "sunzi",
+      "title": "孙子兵法",
+      "path": "sunzi",
+      "status": "ready",
+      "adapter": "sunzi"
+    },
+    {
+      "id": "laozi",
+      "title": "老子（道德经·王弼本正文）",
+      "path": "laozi",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "daxue",
+      "title": "大学（礼记篇本）",
+      "path": "daxue",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "gongsunlongzi",
+      "title": "公孙龙子（现存六篇正文）",
+      "path": "gongsunlongzi",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "lunyu",
+      "title": "论语（二十篇电子工作本）",
+      "path": "lunyu",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "zhuangzi",
+      "title": "庄子（三十三篇电子工作本）",
+      "path": "zhuangzi",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "mozi",
+      "title": "墨子（现存五十三篇电子工作本）",
+      "path": "mozi",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "hanfeizi",
+      "title": "韩非子（五十五篇电子工作本）",
+      "path": "hanfeizi",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "mengzi",
+      "title": "孟子（七篇十四卷电子工作本）",
+      "path": "mengzi",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "xunzi",
+      "title": "荀子（三十二篇电子工作本）",
+      "path": "xunzi",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "lvshichunqiu",
+      "title": "吕氏春秋（二十六卷一百六十篇电子工作本）",
+      "path": "lvshichunqiu",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "huainanzi",
+      "title": "淮南子（传世二十一篇电子工作本）",
+      "path": "huainanzi",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "guanzi",
+      "title": "管子（八十六目现存七十六篇电子工作本）",
+      "path": "guanzi",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "shangjunshu",
+      "title": "商君书（二十六目现存二十四篇电子工作本）",
+      "path": "shangjunshu",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "fanli",
+      "title": "范蠡相关早期文献集（三个完整文献单元）",
+      "path": "fanli",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "zhuge",
+      "title": "诸葛亮核心文献与史传（十五整理单元）",
+      "path": "zhuge",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "wangyangming",
+      "title": "王阳明核心原典（传习录三卷、大学问）",
+      "path": "wangyangming",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "guiguzi",
+      "title": "鬼谷子（三卷现存正文电子工作本）",
+      "path": "guiguzi",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "zhanguoce",
+      "title": "战国策（士礼居丛书本三十三卷电子工作本）",
+      "path": "zhanguoce",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "wuzi",
+      "title": "吴子（现存六篇电子工作本）",
+      "path": "wuzi",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "simafa",
+      "title": "司马法（现存五篇电子工作本）",
+      "path": "simafa",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "weiliaozi",
+      "title": "尉缭子（四库电子本五卷二十四篇）",
+      "path": "weiliaozi",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "liutao",
+      "title": "六韬（六韬六十篇电子工作本）",
+      "path": "liutao",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "sanlue",
+      "title": "三略（上中下三略电子工作本）",
+      "path": "sanlue",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "liweigongwendui",
+      "title": "李卫公问对（三卷电子工作本）",
+      "path": "liweigongwendui",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "zhongyong",
+      "title": "中庸（礼记篇本电子工作本）",
+      "path": "zhongyong",
+      "status": "ready",
+      "adapter": "generic"
+    },
+    {
+      "id": "liezi",
+      "title": "列子（八篇电子工作本）",
+      "path": "liezi",
+      "status": "ready",
+      "adapter": "generic"
+    }
+  ],
+  "updated_on": "2026-10-20"
+}

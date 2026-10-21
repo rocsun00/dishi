@@ -1,0 +1,1386 @@
+{
+  "schema_version": 1,
+  "version": "2026-10-20.3",
+  "description": "Finite, hand-curated lexical retrieval topics, not sentence translation or semantic inference. Ambiguous standalone words are deliberately omitted. Modern topics are reading prompts, not claims that ancient texts address the same situation.",
+  "function_words": [
+    "a",
+    "an",
+    "the",
+    "and",
+    "or",
+    "but",
+    "of",
+    "to",
+    "in",
+    "on",
+    "at",
+    "by",
+    "for",
+    "from",
+    "with",
+    "as",
+    "about",
+    "into",
+    "between",
+    "among",
+    "through",
+    "during",
+    "before",
+    "after",
+    "i",
+    "me",
+    "my",
+    "we",
+    "us",
+    "our",
+    "you",
+    "your",
+    "he",
+    "him",
+    "his",
+    "she",
+    "her",
+    "it",
+    "its",
+    "they",
+    "them",
+    "their",
+    "this",
+    "that",
+    "these",
+    "those",
+    "what",
+    "which",
+    "who",
+    "whom",
+    "whose",
+    "when",
+    "where",
+    "why",
+    "how",
+    "is",
+    "am",
+    "are",
+    "was",
+    "were",
+    "be",
+    "been",
+    "being",
+    "do",
+    "does",
+    "did",
+    "have",
+    "has",
+    "had",
+    "can",
+    "could",
+    "should",
+    "would",
+    "will",
+    "may",
+    "might",
+    "must",
+    "shall",
+    "please",
+    "tell",
+    "say",
+    "says",
+    "according",
+    "help",
+    "use"
+  ],
+  "negation_words": [
+    "no",
+    "not",
+    "never",
+    "without",
+    "neither",
+    "nor",
+    "cannot",
+    "can't",
+    "don't",
+    "doesn't",
+    "didn't",
+    "isn't",
+    "aren't",
+    "wasn't",
+    "weren't",
+    "won't",
+    "wouldn't",
+    "shouldn't",
+    "couldn't",
+    "mustn't",
+    "avoid",
+    "avoiding",
+    "stop",
+    "instead",
+    "rather",
+    "except",
+    "unless",
+    "haven't",
+    "hasn't",
+    "hadn't",
+    "needn't",
+    "shan't",
+    "ain't"
+  ],
+  "entries": [
+    {
+      "id": "leadership",
+      "kind": "concept",
+      "aliases": [
+        "leadership",
+        "leader",
+        "leaders",
+        "management",
+        "governance"
+      ],
+      "keywords": [
+        "领导",
+        "治理"
+      ]
+    },
+    {
+      "id": "delegation",
+      "kind": "concept",
+      "aliases": [
+        "delegation",
+        "delegate",
+        "delegating",
+        "empowerment"
+      ],
+      "keywords": [
+        "授权",
+        "任用"
+      ]
+    },
+    {
+      "id": "hiring",
+      "kind": "concept",
+      "aliases": [
+        "hiring",
+        "recruitment",
+        "recruiting",
+        "talent",
+        "selecting people"
+      ],
+      "keywords": [
+        "用人",
+        "选贤"
+      ]
+    },
+    {
+      "id": "accountability",
+      "kind": "concept",
+      "aliases": [
+        "accountability",
+        "responsibility",
+        "responsibilities"
+      ],
+      "keywords": [
+        "责任",
+        "考核"
+      ]
+    },
+    {
+      "id": "incentives",
+      "kind": "concept",
+      "aliases": [
+        "incentive",
+        "incentives",
+        "reward",
+        "rewards",
+        "punishment",
+        "motivation"
+      ],
+      "keywords": [
+        "赏罚",
+        "激励"
+      ]
+    },
+    {
+      "id": "rules",
+      "kind": "concept",
+      "aliases": [
+        "rule",
+        "rules",
+        "law",
+        "laws",
+        "institution",
+        "institutions"
+      ],
+      "keywords": [
+        "法令",
+        "制度"
+      ]
+    },
+    {
+      "id": "authority",
+      "kind": "concept",
+      "aliases": [
+        "authority",
+        "political power",
+        "power dynamics",
+        "power struggle",
+        "abuse of power",
+        "organizational control",
+        "managerial control"
+      ],
+      "keywords": [
+        "权力",
+        "职权"
+      ]
+    },
+    {
+      "id": "trust",
+      "kind": "concept",
+      "aliases": [
+        "trust",
+        "trusting",
+        "trustworthiness"
+      ],
+      "keywords": [
+        "信任",
+        "诚信"
+      ]
+    },
+    {
+      "id": "communication",
+      "kind": "concept",
+      "aliases": [
+        "communication",
+        "communicate",
+        "listening",
+        "listen"
+      ],
+      "keywords": [
+        "沟通",
+        "言语"
+      ]
+    },
+    {
+      "id": "conflict",
+      "kind": "concept",
+      "aliases": [
+        "conflict",
+        "conflicts",
+        "disagreement",
+        "disagreements",
+        "dispute",
+        "disputes"
+      ],
+      "keywords": [
+        "争执",
+        "分歧"
+      ]
+    },
+    {
+      "id": "cooperation",
+      "kind": "concept",
+      "aliases": [
+        "cooperation",
+        "cooperate",
+        "collaboration",
+        "teamwork"
+      ],
+      "keywords": [
+        "合作",
+        "协作"
+      ]
+    },
+    {
+      "id": "partnership",
+      "kind": "concept",
+      "aliases": [
+        "partnership",
+        "partner",
+        "partners",
+        "business partner",
+        "business partners",
+        "business partnership",
+        "alliance",
+        "alliances",
+        "cofounder",
+        "cofounders",
+        "co founder",
+        "co founders",
+        "business cofounder"
+      ],
+      "keywords": [
+        "合作",
+        "伙伴",
+        "合伙"
+      ]
+    },
+    {
+      "id": "competition",
+      "kind": "concept",
+      "aliases": [
+        "competition",
+        "compete",
+        "competitor",
+        "competitors",
+        "rivalry",
+        "winning"
+      ],
+      "keywords": [
+        "竞争",
+        "胜负"
+      ]
+    },
+    {
+      "id": "strategy",
+      "kind": "concept",
+      "aliases": [
+        "strategy",
+        "strategies",
+        "strategic"
+      ],
+      "keywords": [
+        "战略",
+        "谋划"
+      ]
+    },
+    {
+      "id": "timing",
+      "kind": "concept",
+      "aliases": [
+        "timing",
+        "opportunity",
+        "opportunities"
+      ],
+      "keywords": [
+        "时机",
+        "待时"
+      ]
+    },
+    {
+      "id": "risk",
+      "kind": "concept",
+      "aliases": [
+        "risk",
+        "risks",
+        "danger",
+        "uncertainty"
+      ],
+      "keywords": [
+        "风险",
+        "危险"
+      ]
+    },
+    {
+      "id": "adaptation",
+      "kind": "concept",
+      "aliases": [
+        "adaptation",
+        "adapt",
+        "flexibility",
+        "adapt to change",
+        "respond to change",
+        "changing circumstances",
+        "organizational change"
+      ],
+      "keywords": [
+        "应变",
+        "变通"
+      ]
+    },
+    {
+      "id": "planning",
+      "kind": "concept",
+      "aliases": [
+        "planning",
+        "plan",
+        "plans",
+        "preparation",
+        "prepare"
+      ],
+      "keywords": [
+        "计划",
+        "谋划"
+      ]
+    },
+    {
+      "id": "focus",
+      "kind": "concept",
+      "aliases": [
+        "focus",
+        "priorities",
+        "prioritize",
+        "trade off",
+        "trade offs"
+      ],
+      "keywords": [
+        "专注",
+        "取舍"
+      ]
+    },
+    {
+      "id": "retreat",
+      "kind": "concept",
+      "aliases": [
+        "retreat",
+        "withdrawal",
+        "withdraw",
+        "stepping back"
+      ],
+      "keywords": [
+        "退让",
+        "进退"
+      ]
+    },
+    {
+      "id": "self_knowledge",
+      "kind": "concept",
+      "aliases": [
+        "self knowledge",
+        "self awareness",
+        "know yourself",
+        "knowing yourself"
+      ],
+      "keywords": [
+        "自知",
+        "自省"
+      ]
+    },
+    {
+      "id": "self_cultivation",
+      "kind": "concept",
+      "aliases": [
+        "self cultivation",
+        "personal growth",
+        "self improvement"
+      ],
+      "keywords": [
+        "修身",
+        "修养"
+      ]
+    },
+    {
+      "id": "learning",
+      "kind": "concept",
+      "aliases": [
+        "learning",
+        "learn",
+        "study",
+        "education"
+      ],
+      "keywords": [
+        "学习",
+        "求学"
+      ]
+    },
+    {
+      "id": "practice",
+      "kind": "concept",
+      "aliases": [
+        "knowledge and action",
+        "put knowledge into practice",
+        "putting knowledge into practice",
+        "moral practice"
+      ],
+      "keywords": [
+        "实践",
+        "知行"
+      ]
+    },
+    {
+      "id": "reflection",
+      "kind": "concept",
+      "aliases": [
+        "reflection",
+        "reflect",
+        "introspection",
+        "self reflection"
+      ],
+      "keywords": [
+        "反省",
+        "自省"
+      ]
+    },
+    {
+      "id": "humility",
+      "kind": "concept",
+      "aliases": [
+        "humility",
+        "humble",
+        "modesty"
+      ],
+      "keywords": [
+        "谦逊",
+        "谦虚"
+      ]
+    },
+    {
+      "id": "patience",
+      "kind": "concept",
+      "aliases": [
+        "patience",
+        "patient",
+        "waiting"
+      ],
+      "keywords": [
+        "耐心",
+        "等待"
+      ]
+    },
+    {
+      "id": "moderation",
+      "kind": "concept",
+      "aliases": [
+        "moderation",
+        "restraint",
+        "self control",
+        "discipline"
+      ],
+      "keywords": [
+        "节制",
+        "适度"
+      ]
+    },
+    {
+      "id": "desire",
+      "kind": "concept",
+      "aliases": [
+        "desire",
+        "desires",
+        "greed",
+        "ambition"
+      ],
+      "keywords": [
+        "欲望",
+        "贪欲"
+      ]
+    },
+    {
+      "id": "contentment",
+      "kind": "concept",
+      "aliases": [
+        "contentment",
+        "being content"
+      ],
+      "keywords": [
+        "知足"
+      ]
+    },
+    {
+      "id": "resilience",
+      "kind": "concept",
+      "aliases": [
+        "resilience",
+        "perseverance",
+        "adversity",
+        "setback",
+        "setbacks",
+        "failure"
+      ],
+      "keywords": [
+        "坚忍",
+        "困境"
+      ]
+    },
+    {
+      "id": "integrity",
+      "kind": "concept",
+      "aliases": [
+        "integrity",
+        "honesty",
+        "honest",
+        "keeping promises"
+      ],
+      "keywords": [
+        "诚信",
+        "守信"
+      ]
+    },
+    {
+      "id": "justice",
+      "kind": "concept",
+      "aliases": [
+        "justice",
+        "fairness",
+        "righteousness"
+      ],
+      "keywords": [
+        "公正",
+        "公平"
+      ]
+    },
+    {
+      "id": "benevolence",
+      "kind": "concept",
+      "aliases": [
+        "benevolence",
+        "benevolent",
+        "compassion",
+        "kindness"
+      ],
+      "keywords": [
+        "仁爱",
+        "仁政"
+      ]
+    },
+    {
+      "id": "empathy",
+      "kind": "concept",
+      "aliases": [
+        "empathy",
+        "reciprocity",
+        "perspective taking"
+      ],
+      "keywords": [
+        "推己及人",
+        "恕道"
+      ]
+    },
+    {
+      "id": "family",
+      "kind": "concept",
+      "aliases": [
+        "family",
+        "parent",
+        "parents",
+        "filial piety"
+      ],
+      "keywords": [
+        "家庭",
+        "孝悌"
+      ]
+    },
+    {
+      "id": "friendship",
+      "kind": "concept",
+      "aliases": [
+        "friendship",
+        "friend",
+        "friends"
+      ],
+      "keywords": [
+        "交友",
+        "朋友"
+      ]
+    },
+    {
+      "id": "anger",
+      "kind": "concept",
+      "aliases": [
+        "anger",
+        "angry",
+        "rage"
+      ],
+      "keywords": [
+        "愤怒",
+        "忿怒"
+      ]
+    },
+    {
+      "id": "anxiety",
+      "kind": "concept",
+      "aliases": [
+        "anxiety",
+        "anxious",
+        "worry",
+        "worries"
+      ],
+      "keywords": [
+        "忧虑",
+        "忧患"
+      ]
+    },
+    {
+      "id": "decision",
+      "kind": "concept",
+      "aliases": [
+        "decision",
+        "decisions",
+        "decision making",
+        "judgment",
+        "judgement"
+      ],
+      "keywords": [
+        "判断",
+        "决策"
+      ]
+    },
+    {
+      "id": "wealth",
+      "kind": "concept",
+      "aliases": [
+        "wealth",
+        "money",
+        "finance"
+      ],
+      "keywords": [
+        "财利",
+        "财富"
+      ]
+    },
+    {
+      "id": "trade",
+      "kind": "concept",
+      "aliases": [
+        "trade",
+        "business",
+        "commerce",
+        "trading"
+      ],
+      "keywords": [
+        "贸易",
+        "经商"
+      ]
+    },
+    {
+      "id": "profit",
+      "kind": "concept",
+      "aliases": [
+        "profit",
+        "profits",
+        "benefit",
+        "benefits",
+        "conflicting interests",
+        "personal interests",
+        "business interests"
+      ],
+      "keywords": [
+        "利益",
+        "义利"
+      ]
+    },
+    {
+      "id": "frugality",
+      "kind": "concept",
+      "aliases": [
+        "frugality",
+        "frugal",
+        "thrift",
+        "saving money"
+      ],
+      "keywords": [
+        "节俭",
+        "节用"
+      ]
+    },
+    {
+      "id": "peace",
+      "kind": "concept",
+      "aliases": [
+        "peace",
+        "peaceful"
+      ],
+      "keywords": [
+        "和平",
+        "息兵"
+      ]
+    },
+    {
+      "id": "war",
+      "kind": "concept",
+      "aliases": [
+        "war",
+        "warfare",
+        "military",
+        "battle"
+      ],
+      "keywords": [
+        "战争",
+        "用兵"
+      ]
+    },
+    {
+      "id": "persuasion",
+      "kind": "concept",
+      "aliases": [
+        "persuasion",
+        "persuade",
+        "negotiation",
+        "negotiate",
+        "diplomacy"
+      ],
+      "keywords": [
+        "游说",
+        "说服"
+      ]
+    },
+    {
+      "id": "evidence",
+      "kind": "concept",
+      "aliases": [
+        "evidence",
+        "fact",
+        "facts",
+        "verification"
+      ],
+      "keywords": [
+        "事实",
+        "实证"
+      ]
+    },
+    {
+      "id": "language",
+      "kind": "concept",
+      "aliases": [
+        "language",
+        "names and reality",
+        "logic",
+        "distinctions"
+      ],
+      "keywords": [
+        "名实",
+        "言说"
+      ]
+    },
+    {
+      "id": "inaction",
+      "kind": "concept",
+      "aliases": [
+        "non action",
+        "wu wei",
+        "wuwei",
+        "effortless action"
+      ],
+      "keywords": [
+        "无为"
+      ]
+    },
+    {
+      "id": "sunzi",
+      "kind": "book",
+      "aliases": [
+        "sunzi",
+        "sun tzu",
+        "sun tsu",
+        "the art of war",
+        "art of war"
+      ],
+      "keywords": [
+        "孙子兵法",
+        "孙子"
+      ]
+    },
+    {
+      "id": "laozi",
+      "kind": "book",
+      "aliases": [
+        "laozi",
+        "lao tzu",
+        "dao de jing",
+        "daodejing",
+        "tao te ching"
+      ],
+      "keywords": [
+        "老子",
+        "道德经"
+      ]
+    },
+    {
+      "id": "daxue",
+      "kind": "book",
+      "aliases": [
+        "daxue",
+        "great learning",
+        "the great learning"
+      ],
+      "keywords": [
+        "大学"
+      ]
+    },
+    {
+      "id": "gongsunlongzi",
+      "kind": "book",
+      "aliases": [
+        "gongsunlongzi",
+        "gongsun long",
+        "gong sun long zi"
+      ],
+      "keywords": [
+        "公孙龙子"
+      ]
+    },
+    {
+      "id": "lunyu",
+      "kind": "book",
+      "aliases": [
+        "lunyu",
+        "analects",
+        "the analects",
+        "confucius"
+      ],
+      "keywords": [
+        "论语"
+      ]
+    },
+    {
+      "id": "zhuangzi",
+      "kind": "book",
+      "aliases": [
+        "zhuangzi",
+        "zhuang zi",
+        "chuang tzu"
+      ],
+      "keywords": [
+        "庄子"
+      ]
+    },
+    {
+      "id": "mozi",
+      "kind": "book",
+      "aliases": [
+        "mozi",
+        "mo zi",
+        "mo tzu"
+      ],
+      "keywords": [
+        "墨子"
+      ]
+    },
+    {
+      "id": "hanfeizi",
+      "kind": "book",
+      "aliases": [
+        "hanfeizi",
+        "han feizi",
+        "han fei zi",
+        "han fei"
+      ],
+      "keywords": [
+        "韩非子"
+      ]
+    },
+    {
+      "id": "mengzi",
+      "kind": "book",
+      "aliases": [
+        "mengzi",
+        "meng zi",
+        "mencius"
+      ],
+      "keywords": [
+        "孟子"
+      ]
+    },
+    {
+      "id": "xunzi",
+      "kind": "book",
+      "aliases": [
+        "xunzi",
+        "xun zi",
+        "hsun tzu"
+      ],
+      "keywords": [
+        "荀子"
+      ]
+    },
+    {
+      "id": "lvshichunqiu",
+      "kind": "book",
+      "aliases": [
+        "lvshichunqiu",
+        "lushi chunqiu",
+        "lu shi chun qiu",
+        "master lu spring and autumn annals"
+      ],
+      "keywords": [
+        "吕氏春秋"
+      ]
+    },
+    {
+      "id": "huainanzi",
+      "kind": "book",
+      "aliases": [
+        "huainanzi",
+        "huai nan zi"
+      ],
+      "keywords": [
+        "淮南子"
+      ]
+    },
+    {
+      "id": "guanzi",
+      "kind": "book",
+      "aliases": [
+        "guanzi",
+        "guan zi"
+      ],
+      "keywords": [
+        "管子"
+      ]
+    },
+    {
+      "id": "shangjunshu",
+      "kind": "book",
+      "aliases": [
+        "shangjunshu",
+        "shang jun shu",
+        "book of lord shang",
+        "the book of lord shang"
+      ],
+      "keywords": [
+        "商君书"
+      ]
+    },
+    {
+      "id": "fanli",
+      "kind": "book",
+      "aliases": [
+        "fanli",
+        "fan li"
+      ],
+      "keywords": [
+        "范蠡"
+      ]
+    },
+    {
+      "id": "zhuge",
+      "kind": "book",
+      "aliases": [
+        "zhuge",
+        "zhuge liang",
+        "chu ko liang"
+      ],
+      "keywords": [
+        "诸葛亮"
+      ]
+    },
+    {
+      "id": "wangyangming",
+      "kind": "book",
+      "aliases": [
+        "wangyangming",
+        "wang yangming",
+        "wang yang ming",
+        "instructions for practical living",
+        "chuanxilu"
+      ],
+      "keywords": [
+        "王阳明",
+        "传习录"
+      ]
+    },
+    {
+      "id": "guiguzi",
+      "kind": "book",
+      "aliases": [
+        "guiguzi",
+        "gui gu zi",
+        "master of ghost valley"
+      ],
+      "keywords": [
+        "鬼谷子"
+      ]
+    },
+    {
+      "id": "zhanguoce",
+      "kind": "book",
+      "aliases": [
+        "zhanguoce",
+        "zhan guo ce",
+        "strategies of the warring states"
+      ],
+      "keywords": [
+        "战国策"
+      ]
+    },
+    {
+      "id": "wuzi",
+      "kind": "book",
+      "aliases": [
+        "wuzi",
+        "wu zi"
+      ],
+      "keywords": [
+        "吴子"
+      ]
+    },
+    {
+      "id": "simafa",
+      "kind": "book",
+      "aliases": [
+        "simafa",
+        "sima fa",
+        "methods of the sima"
+      ],
+      "keywords": [
+        "司马法"
+      ]
+    },
+    {
+      "id": "weiliaozi",
+      "kind": "book",
+      "aliases": [
+        "weiliaozi",
+        "wei liao zi"
+      ],
+      "keywords": [
+        "尉缭子"
+      ]
+    },
+    {
+      "id": "liutao",
+      "kind": "book",
+      "aliases": [
+        "liutao",
+        "liu tao",
+        "six secret teachings",
+        "the six secret teachings"
+      ],
+      "keywords": [
+        "六韬"
+      ]
+    },
+    {
+      "id": "sanlue",
+      "kind": "book",
+      "aliases": [
+        "sanlue",
+        "san lue",
+        "three strategies",
+        "the three strategies"
+      ],
+      "keywords": [
+        "三略"
+      ]
+    },
+    {
+      "id": "liweigongwendui",
+      "kind": "book",
+      "aliases": [
+        "liweigongwendui",
+        "li wei gong wen dui",
+        "questions and replies of li weigong"
+      ],
+      "keywords": [
+        "李卫公问对"
+      ]
+    },
+    {
+      "id": "zhongyong",
+      "kind": "book",
+      "aliases": [
+        "zhongyong",
+        "zhong yong",
+        "doctrine of the mean",
+        "the doctrine of the mean"
+      ],
+      "keywords": [
+        "中庸"
+      ]
+    },
+    {
+      "id": "liezi",
+      "kind": "book",
+      "aliases": [
+        "liezi",
+        "lie zi",
+        "lieh tzu"
+      ],
+      "keywords": [
+        "列子"
+      ]
+    },
+    {
+      "id": "execution",
+      "kind": "concept",
+      "aliases": [
+        "task execution",
+        "project delivery",
+        "deadline",
+        "deadlines",
+        "missed deadlines"
+      ],
+      "keywords": [
+        "执行",
+        "交付",
+        "期限"
+      ]
+    },
+    {
+      "id": "resources",
+      "kind": "concept",
+      "aliases": [
+        "resources",
+        "resource allocation",
+        "budget",
+        "budgets",
+        "budgeting",
+        "savings",
+        "cash flow"
+      ],
+      "keywords": [
+        "资源",
+        "预算",
+        "资金"
+      ]
+    },
+    {
+      "id": "harmony",
+      "kind": "concept",
+      "aliases": [
+        "harmony",
+        "harmonious",
+        "agree to disagree"
+      ],
+      "keywords": [
+        "和而不同",
+        "和同"
+      ]
+    },
+    {
+      "id": "social_comparison",
+      "kind": "concept",
+      "aliases": [
+        "social comparison",
+        "compare myself",
+        "comparing myself",
+        "status anxiety"
+      ],
+      "keywords": [
+        "名利",
+        "攀比"
+      ]
+    },
+    {
+      "id": "exhaustion",
+      "kind": "concept",
+      "aliases": [
+        "burnout",
+        "burned out",
+        "burnt out",
+        "exhaustion",
+        "overwork",
+        "overworked"
+      ],
+      "keywords": [
+        "疲惫",
+        "休息",
+        "劳逸"
+      ]
+    },
+    {
+      "id": "grief",
+      "kind": "concept",
+      "aliases": [
+        "grief",
+        "grieving",
+        "bereavement",
+        "mourning",
+        "loss of a parent"
+      ],
+      "keywords": [
+        "悲伤",
+        "哀痛",
+        "丧亲"
+      ]
+    },
+    {
+      "id": "micromanagement",
+      "kind": "concept",
+      "aliases": [
+        "micromanagement",
+        "micromanage",
+        "micromanages",
+        "micromanaging"
+      ],
+      "keywords": [
+        "干预",
+        "事必躬亲"
+      ]
+    },
+    {
+      "id": "career",
+      "kind": "concept",
+      "aliases": [
+        "career",
+        "careers",
+        "career path",
+        "career change",
+        "changing careers"
+      ],
+      "keywords": [
+        "职业",
+        "仕途",
+        "择业"
+      ]
+    },
+    {
+      "id": "exit_decision",
+      "kind": "concept",
+      "aliases": [
+        "quit or stay",
+        "stay or quit",
+        "leave or stay",
+        "stay or leave",
+        "leaving a job",
+        "quitting a job"
+      ],
+      "keywords": [
+        "进退",
+        "去留"
+      ]
+    },
+    {
+      "id": "employment_loss",
+      "kind": "concept",
+      "aliases": [
+        "layoff",
+        "layoffs",
+        "laid off",
+        "job loss",
+        "unemployment",
+        "unemployed"
+      ],
+      "keywords": [
+        "失业",
+        "生计"
+      ]
+    },
+    {
+      "id": "entrepreneurship",
+      "kind": "concept",
+      "aliases": [
+        "startup",
+        "startups",
+        "start up",
+        "entrepreneurship",
+        "starting a business"
+      ],
+      "keywords": [
+        "创业",
+        "经营"
+      ]
+    },
+    {
+      "id": "pay_fairness",
+      "kind": "concept",
+      "aliases": [
+        "fair pay",
+        "fair wages",
+        "fair compensation",
+        "equal pay",
+        "pay equity"
+      ],
+      "keywords": [
+        "公平",
+        "报酬",
+        "分配"
+      ]
+    },
+    {
+      "id": "daoist_school",
+      "kind": "concept",
+      "aliases": [
+        "taoism",
+        "daoism",
+        "taoist",
+        "daoist"
+      ],
+      "keywords": [
+        "道家"
+      ],
+      "recommended_books": [
+        "laozi",
+        "zhuangzi",
+        "liezi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "scope": "作者逐一真实阅读全部75段及编写全部加工内容，随后逐字段自查；待独立对读另行记录",
+  "chapters": 15,
+  "passages": 75,
+  "readings": 75,
+  "concepts": 45,
+  "examples": 15,
+  "verified_quotes": 77,
+  "primary_snapshots": 3,
+  "reference_snapshots": 12,
+  "primary_characters_including_punctuation": 6848,
+  "notes_paragraphs": 21,
+  "source_api_verified_pages": 15,
+  "biography_identity_check": "陈寿正文从“诸葛亮字孔明”至“诸葛氏集目录”前全部正规化字符，等于本库1/2/3/5/6/8六主题单元按序拼合",
+  "independent_review": "未在此自查记录中冒称已完成独立审查",
+  "review_revisions": "独立对读提出3个必须项及4个可选精度项均最小修订；闭项由独立审阅者另记录"
+}

@@ -1,0 +1,55 @@
+{
+  "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E7%A6%AE%E8%A8%98%2F%E4%B8%AD%E5%BA%B8%7C%E5%88%97%E5%AD%90%7C%E5%88%97%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E6%B3%A8%2F%E4%B8%AD%E5%BA%B8%E7%AB%A0%E5%8F%A5&redirects=1",
+  "retrieved_utc": "2026-10-20T16:33:03.457204+00:00",
+  "mode": "titles",
+  "response_path": "indexes.json",
+  "response_sha256": "9fb3556047a23f1979222085d4aa66625c16afcc41a78a930eb2159183fb40c0",
+  "pages": [
+    {
+      "title": "禮記/中庸",
+      "pageid": 7122,
+      "revid": 11117440,
+      "timestamp": "2026-10-02T15:06:51Z",
+      "raw_path": "indexes-7122.wikitext",
+      "chars": 4678,
+      "headings": [],
+      "raw_sha256": "a896b355406e91f40d592b06a74ab30206fb82b12a7875b3df8cd014f97d155d"
+    },
+    {
+      "title": "列子",
+      "pageid": 12108,
+      "revid": 2176036,
+      "timestamp": "2022-09-03T14:07:13Z",
+      "raw_path": "indexes-12108.wikitext",
+      "chars": 330,
+      "headings": [],
+      "raw_sha256": "1be358e40afc0cc0fd6060712a1056ef4e0022932ba044fe85ec44392b4e93d1"
+    },
+    {
+      "title": "四書章句集註/中庸章句",
+      "pageid": 16030,
+      "revid": 7904735,
+      "timestamp": "2026-06-28T01:42:33Z",
+      "raw_path": "indexes-16030.wikitext",
+      "chars": 19042,
+      "headings": [],
+      "raw_sha256": "e5859047b1c091b8cdb59c41a586eb18e9dba31c1a6c505785c6bd041c912139"
+    },
+    {
+      "title": "列子 (四庫全書本)",
+      "pageid": 258115,
+      "revid": 626213,
+      "timestamp": "2016-10-14T03:21:55Z",
+      "raw_path": "indexes-258115.wikitext",
+      "chars": 2759,
+      "headings": [],
+      "raw_sha256": "eb25c59e7ea1514286732e964a7678868d378236c7f83aa376006065d46e8675"
+    }
+  ],
+  "redirects": [
+    {
+      "from": "四書章句集注/中庸章句",
+      "to": "四書章句集註/中庸章句"
+    }
+  ]
+}

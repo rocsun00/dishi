@@ -1,0 +1,116 @@
+{
+  "work_id": "liezi",
+  "scope": "仅所保存电子目录三层的可追溯书目证据；不是完整版本考证。",
+  "evidence": [
+    {
+      "page_title": "列子 (四庫全書本)",
+      "revision": 626213,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=626213",
+      "raw_file": "pages/fixed-258115.wikitext",
+      "source_start": 206,
+      "source_end": 214,
+      "source_line": 9,
+      "source_markup": "舊本題周列禦冦撰",
+      "interpretive_limit": "旧题只证明传本署名，不认证列御寇逐字亲著。"
+    },
+    {
+      "page_title": "列子 (四庫全書本)",
+      "revision": 626213,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=626213",
+      "raw_file": "pages/fixed-258115.wikitext",
+      "source_start": 428,
+      "source_end": 439,
+      "source_line": 9,
+      "source_markup": "其不出禦㓂之手更無疑義",
+      "interpretive_limit": "清代提要编者的判断，不直接变作本项目考证结论。"
+    },
+    {
+      "page_title": "列子 (四庫全書本)",
+      "revision": 626213,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=626213",
+      "raw_file": "pages/fixed-258115.wikitext",
+      "source_start": 699,
+      "source_end": 714,
+      "source_line": 9,
+      "source_markup": "則决為傳其學者所追記非禦冦自著",
+      "interpretive_limit": "提要以称子列子等立论属追记说，保存其论证而不当无争议定论。"
+    },
+    {
+      "page_title": "列子 (四庫全書本)",
+      "revision": 626213,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=626213",
+      "raw_file": "pages/fixed-258115.wikitext",
+      "source_start": 792,
+      "source_end": 803,
+      "source_line": 9,
+      "source_markup": "書凡八篇與漢志所載相合",
+      "interpretive_limit": "仅此提要称篇数相合；本包未另取汉志原页，不从八篇数量推逐字同文。"
+    },
+    {
+      "page_title": "列子 (四庫全書本)",
+      "revision": 626213,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=626213",
+      "raw_file": "pages/fixed-258115.wikitext",
+      "source_start": 921,
+      "source_end": 944,
+      "source_line": 9,
+      "source_markup": "亦有不辨孰張孰{{SKchar|3377}}者",
+      "interpretive_limit": "提要承认注与音释混淆，未把全体SK notes精确逐条定为张湛所注。"
+    },
+    {
+      "page_title": "列子 (四庫全書本)",
+      "revision": 626213,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=626213",
+      "raw_file": "pages/fixed-258115.wikitext",
+      "source_start": 1633,
+      "source_end": 1641,
+      "source_line": 26,
+      "source_markup": "參校有無始得全備",
+      "interpretive_limit": "张湛序所述传承与校合过程，不是本项目已复原当时各本的证明。"
+    },
+    {
+      "page_title": "列子 (四庫全書本)",
+      "revision": 626213,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=626213",
+      "raw_file": "pages/fixed-258115.wikitext",
+      "source_start": 1784,
+      "source_end": 1794,
+      "source_line": 26,
+      "source_markup": "然所明往往與佛經相參",
+      "interpretive_limit": "张序的比较说法，不据此断佛教来源方向或确证张湛伪造。"
+    },
+    {
+      "page_title": "列子 (四庫全書本)",
+      "revision": 626213,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=626213",
+      "raw_file": "pages/fixed-258115.wikitext",
+      "source_start": 2034,
+      "source_end": 2045,
+      "source_line": 44,
+      "source_markup": "内外書凡二十篇以校除復",
+      "interpretive_limit": "刘向目录序的自述层，不能将流传此序真实性和今文对应当作已独立考证。"
+    },
+    {
+      "page_title": "列子 (四庫全書本)",
+      "revision": 626213,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=626213",
+      "raw_file": "pages/fixed-258115.wikitext",
+      "source_start": 2262,
+      "source_end": 2293,
+      "source_line": 44,
+      "source_markup": "力命篇一推分{{SK notes|符問反}}命楊子之篇唯貴放逸",
+      "interpretive_limit": "刘向序层对两篇的旧评价，非本包要求各篇强行统一。"
+    },
+    {
+      "page_title": "列子 (四庫全書本)",
+      "revision": 626213,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=626213",
+      "raw_file": "pages/fixed-258115.wikitext",
+      "source_start": 2312,
+      "source_end": 2328,
+      "source_line": 44,
+      "source_markup": "不似一家之書然各有所明亦有可觀者",
+      "interpretive_limit": "旧序承认差异且仍可观，支持分声阅读，不证明今每句的成书年代。"
+    }
+  ]
+}

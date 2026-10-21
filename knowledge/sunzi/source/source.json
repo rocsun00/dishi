@@ -1,0 +1,42 @@
+{
+  "work_id": "sunzi",
+  "title": "孙子兵法",
+  "source_title": "孫子兵法",
+  "source_page_id": 11779,
+  "source_revision": 7906064,
+  "source_revision_timestamp": "2026-07-02T02:39:46Z",
+  "source_url": "https://zh.wikisource.org/w/index.php?title=孫子兵法&oldid=7906064",
+  "retrieved_on": "2026-10-19",
+  "raw_sha256": "b64a959ee36b213f9fdb863f37629928a56da7bfc3e7c5b89739aa468354e08e",
+  "scope": "传世十三篇；网页附加的答話未纳入正文，保留在原始快照中",
+  "edition_status": "工作底本为维基文库所列修订版；该条目未明示统一纸本底本，不称为学术定本",
+  "source_quality_marker": "Textquality 75%（站点模板标签，不是本项目测得的正确率）",
+  "normalization": [
+    "保留繁体正文与原标点",
+    "仅将维基链接转换为显示文字",
+    "另模板保留首项于正文，异文另存 editorial_notes",
+    "按源文本非空正文行分段，保留原行号",
+    "十三篇以外答話不进入检索正文"
+  ],
+  "source_attribution": "中文维基文库《孫子兵法》及其贡献者；使用时保留来源与修订号",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "依源页面所列适用许可保留归属；本库不把公共领域古文与站点新增编排、标点等权利混同",
+  "chapter_count": 13,
+  "passage_count": 74,
+  "text_characters_including_punctuation": 7435,
+  "cjk_character_count": 6083,
+  "variants": [
+    {
+      "passage_id": "SZ-06-006",
+      "primary": "擅",
+      "alternative": "為",
+      "kind": "source_variant_template"
+    },
+    {
+      "passage_id": "SZ-09-005",
+      "primary": "益多也",
+      "alternative": "益多",
+      "kind": "source_variant_template"
+    }
+  ]
+}

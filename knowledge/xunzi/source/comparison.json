@@ -1,0 +1,22 @@
+{
+  "title": "荀子 (四庫全書本)/卷10",
+  "revision": 622526,
+  "timestamp": "2016-10-14T02:58:51Z",
+  "url": "https://zh.wikisource.org/w/index.php?title=荀子 (四庫全書本)/卷10&oldid=622526",
+  "raw_file": "comparison-volume10.wikitext",
+  "raw_sha256": "287dbae55e722d255ded6dba73ff106be8db6fce3d602b359e52cccaa0515df9",
+  "scope": "仅对读XZ-15-025所选电子页××××占位附近；不并入工作本正文，不代表全卷或全书逐字校勘",
+  "working_passage_id": "XZ-15-025",
+  "comparison_verbatim_substring": "而順暴悍勇力之屬為之化而愿",
+  "additional_sources": [
+    {
+      "title": "荀子 (四庫全書本)/卷16",
+      "revision": 622552,
+      "timestamp": "2016-10-14T02:58:53Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=荀子 (四庫全書本)/卷16&oldid=622552",
+      "raw_file": "comparison-volume16.wikitext",
+      "raw_sha256": "905bb45c15e7f8c238bca195c647fb33443eff84638952baae0b1d9002be1a00",
+      "scope": "仅核对XZ-22-017一时之嫌的杨倞注与现代避嫌歧义，不裁定全篇训诂"
+    }
+  ]
+}

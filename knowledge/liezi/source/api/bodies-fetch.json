@@ -1,0 +1,170 @@
+{
+  "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%88%97%E5%AD%90%2F%E5%A4%A9%E7%91%9E%E7%AF%87%7C%E5%88%97%E5%AD%90%2F%E9%BB%83%E5%B8%9D%E7%AF%87%7C%E5%88%97%E5%AD%90%2F%E5%91%A8%E7%A9%86%E7%8E%8B%E7%AF%87%7C%E5%88%97%E5%AD%90%2F%E4%BB%B2%E5%B0%BC%E7%AF%87%7C%E5%88%97%E5%AD%90%2F%E6%B9%AF%E5%95%8F%E7%AF%87%7C%E5%88%97%E5%AD%90%2F%E5%8A%9B%E5%91%BD%E7%AF%87%7C%E5%88%97%E5%AD%90%2F%E6%A5%8A%E6%9C%B1%E7%AF%87%7C%E5%88%97%E5%AD%90%2F%E8%AA%AA%E7%AC%A6%E7%AF%87%7C%E5%88%97%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%88%97%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%88%97%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%88%97%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%88%97%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%88%97%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B76%7C%E5%88%97%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B77%7C%E5%88%97%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B78&redirects=1",
+  "retrieved_utc": "2026-10-20T16:33:19.113169+00:00",
+  "mode": "titles",
+  "response_path": "bodies.json",
+  "response_sha256": "7dcaf1713e588a2d1d212a7a3355e13235d05172e3be2cf9507096fe9062141b",
+  "pages": [
+    {
+      "title": "列子/天瑞篇",
+      "pageid": 12109,
+      "revid": 2269059,
+      "timestamp": "2023-03-18T14:36:57Z",
+      "raw_path": "bodies-12109.wikitext",
+      "chars": 3923,
+      "headings": [],
+      "raw_sha256": "b359e6a6c7acdce9344798709a15574b1f569cbf933d3d9ed4a26ace7db4ce7b"
+    },
+    {
+      "title": "列子/黃帝篇",
+      "pageid": 12110,
+      "revid": 2200525,
+      "timestamp": "2022-12-08T01:36:31Z",
+      "raw_path": "bodies-12110.wikitext",
+      "chars": 6777,
+      "headings": [],
+      "raw_sha256": "c60f5877c9af2ccc7927f50bc21612efc29b5b337e131f07bdb578bbc56a1636"
+    },
+    {
+      "title": "列子/周穆王篇",
+      "pageid": 12111,
+      "revid": 2200526,
+      "timestamp": "2022-12-08T01:37:02Z",
+      "raw_path": "bodies-12111.wikitext",
+      "chars": 3447,
+      "headings": [],
+      "raw_sha256": "f2eead8b120a9fba1109ba1bd9bd204ded76fba1b3d2305bba142b4741164de0"
+    },
+    {
+      "title": "列子/仲尼篇",
+      "pageid": 12112,
+      "revid": 2200527,
+      "timestamp": "2022-12-08T01:37:39Z",
+      "raw_path": "bodies-12112.wikitext",
+      "chars": 4199,
+      "headings": [],
+      "raw_sha256": "90d6143f7ca7fb81919f39d962e8300bd6b7a25cb40ba9ce354bc7a068f908c2"
+    },
+    {
+      "title": "列子/湯問篇",
+      "pageid": 12113,
+      "revid": 2608932,
+      "timestamp": "2025-10-22T14:10:39Z",
+      "raw_path": "bodies-12113.wikitext",
+      "chars": 6075,
+      "headings": [],
+      "raw_sha256": "63be2f44aff297cd57d309dd76618712926380766f40f6f78e9f3cd9349a31a5"
+    },
+    {
+      "title": "列子/力命篇",
+      "pageid": 12114,
+      "revid": 2200529,
+      "timestamp": "2022-12-08T01:38:32Z",
+      "raw_path": "bodies-12114.wikitext",
+      "chars": 3868,
+      "headings": [],
+      "raw_sha256": "8cfbeafbcdfa45b4d8b02d001351f04a9ff7aa5f961c323a2414141d59d87c0a"
+    },
+    {
+      "title": "列子/楊朱篇",
+      "pageid": 12115,
+      "revid": 2200530,
+      "timestamp": "2022-12-08T01:38:59Z",
+      "raw_path": "bodies-12115.wikitext",
+      "chars": 5165,
+      "headings": [],
+      "raw_sha256": "3dab600edbbbd4b4916e3252f24cb6225cc1cdcd97c6841087fa584db5ef4561"
+    },
+    {
+      "title": "列子/說符篇",
+      "pageid": 12117,
+      "revid": 2200531,
+      "timestamp": "2022-12-08T01:39:27Z",
+      "raw_path": "bodies-12117.wikitext",
+      "chars": 5864,
+      "headings": [],
+      "raw_sha256": "0cedb89840de204252305fe35db4a98b75a26f2f568a9450cbd90826b1c5ff1c"
+    },
+    {
+      "title": "列子 (四庫全書本)/卷1",
+      "pageid": 258093,
+      "revid": 768402,
+      "timestamp": "2016-10-25T07:40:50Z",
+      "raw_path": "bodies-258093.wikitext",
+      "chars": 11206,
+      "headings": [],
+      "raw_sha256": "7daf7f9f2860b731d640fe8a28adbd8b31a2f481d1fdd742370dcf85b0d8b238"
+    },
+    {
+      "title": "列子 (四庫全書本)/卷2",
+      "pageid": 258095,
+      "revid": 768406,
+      "timestamp": "2016-10-25T07:41:30Z",
+      "raw_path": "bodies-258095.wikitext",
+      "chars": 16689,
+      "headings": [],
+      "raw_sha256": "0e4d4f2c89bf2c7e7bcd9ca951911b27bda2af63ab1f8da133615b3139e73a39"
+    },
+    {
+      "title": "列子 (四庫全書本)/卷3",
+      "pageid": 258098,
+      "revid": 768409,
+      "timestamp": "2016-10-25T07:42:10Z",
+      "raw_path": "bodies-258098.wikitext",
+      "chars": 7577,
+      "headings": [],
+      "raw_sha256": "61afe808e07c005251ba4e2d9ec5dcfdd6ee225def227eb84a4b434397150d41"
+    },
+    {
+      "title": "列子 (四庫全書本)/卷4",
+      "pageid": 258100,
+      "revid": 768414,
+      "timestamp": "2016-10-25T07:42:50Z",
+      "raw_path": "bodies-258100.wikitext",
+      "chars": 11741,
+      "headings": [],
+      "raw_sha256": "7400febed1a8c65ba95d40df0a8df2ca667d74d81a03bd0f770337479e7ee102"
+    },
+    {
+      "title": "列子 (四庫全書本)/卷5",
+      "pageid": 258102,
+      "revid": 768418,
+      "timestamp": "2016-10-25T07:43:30Z",
+      "raw_path": "bodies-258102.wikitext",
+      "chars": 14182,
+      "headings": [],
+      "raw_sha256": "a4fffff5512c5a2e1f047b3e33df0886c4396472434febed1e05a978b3476d93"
+    },
+    {
+      "title": "列子 (四庫全書本)/卷6",
+      "pageid": 258106,
+      "revid": 768422,
+      "timestamp": "2016-10-25T07:44:10Z",
+      "raw_path": "bodies-258106.wikitext",
+      "chars": 8013,
+      "headings": [],
+      "raw_sha256": "c735f158782e5a41728889c574c65065e191f525cb58a141c9c6016e8933d1bd"
+    },
+    {
+      "title": "列子 (四庫全書本)/卷7",
+      "pageid": 258109,
+      "revid": 768426,
+      "timestamp": "2016-10-25T07:44:50Z",
+      "raw_path": "bodies-258109.wikitext",
+      "chars": 7591,
+      "headings": [],
+      "raw_sha256": "ab325b66eefacb07b9624a06849f561cd032dfe4d6c489877c27b6f82a1926b3"
+    },
+    {
+      "title": "列子 (四庫全書本)/卷8",
+      "pageid": 258111,
+      "revid": 768430,
+      "timestamp": "2016-10-25T07:45:30Z",
+      "raw_path": "bodies-258111.wikitext",
+      "chars": 10162,
+      "headings": [],
+      "raw_sha256": "85588095bf865f0b16457412c40e7fd7501483e7809efca3d05e7475de48ed08"
+    }
+  ],
+  "redirects": []
+}

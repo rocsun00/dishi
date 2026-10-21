@@ -1,0 +1,38 @@
+{
+  "id": "laozi",
+  "work_id": "laozi",
+  "title": "老子（道德经·王弼本正文）",
+  "prefix": "LZ",
+  "source_title": "道德經 (王弼本)",
+  "revision": 2354026,
+  "source_url": "https://zh.wikisource.org/w/index.php?title=道德經 (王弼本)&oldid=2354026",
+  "source_pages": [
+    {
+      "title": "道德經 (王弼本)",
+      "revision": 2354026,
+      "timestamp": "2024-01-10T10:23:54Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=道德經 (王弼本)&oldid=2354026",
+      "raw_sha256": "4827e5a84b37fdeaa99706b7505b3719b5eb40e2da8e7b8a0a499944051af611",
+      "start": 0,
+      "end": 35837,
+      "raw_file": "pages/1.wikitext"
+    }
+  ],
+  "retrieved_on": "2026-10-19",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "4827e5a84b37fdeaa99706b7505b3719b5eb40e2da8e7b8a0a499944051af611",
+  "extraction_sha256": "4fbc5a0c1488bbee8f75be8736c55c112e0fa1584fc1207a3a8f1162ac9aecc9",
+  "scope": "王弼本所载八十一章正文；王弼古注、跋与音义保存在快照，但不作为正文入库；按章合并被古注分隔的正文，每章一段。",
+  "edition_status": "中文维基文库《道德經 (王弼本)》固定电子工作底本；不冒称已逐字核验原刻本，也不等同所有老子传本。",
+  "chapter_count": 81,
+  "passage_count": 81,
+  "text_characters_including_punctuation": 6445,
+  "normalization": [
+    "移除古注星号模板，古注原文保存在快照及editorial_notes，不作为本库原典释义",
+    "保留原字与源标点，移除折行空白和注释行的冒号",
+    "维基链接取显示文字；另模板正文保留首项并记录异文；移除简繁转换保护符"
+  ],
+  "source_attribution": "中文维基文库相应原典页面及其贡献者；使用时保留固定修订号、来源和加工说明",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "保留站点所列适用许可及归属；古代原文与站点数字整理内容分别理解"
+}

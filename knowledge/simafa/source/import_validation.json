@@ -1,0 +1,25 @@
+{
+  "author_check": true,
+  "not_independent_review": true,
+  "kb_command": [
+    "python3",
+    "dishi/knowledge/kb.py",
+    "build",
+    "--book",
+    "simafa"
+  ],
+  "returncode": 0,
+  "validation": {
+    "id": "simafa",
+    "title": "司马法（现存五篇电子工作本）",
+    "valid": true,
+    "chapters": 5,
+    "passages": 68,
+    "readings": 68,
+    "concepts": 20,
+    "examples": 15,
+    "verified_quotes": 54,
+    "errors": []
+  },
+  "record_stage": "作者初稿结构与原貌自检；最终验收及定点修订另记，不冒称独立验收"
+}

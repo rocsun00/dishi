@@ -1,0 +1,319 @@
+{
+  "schema_version": 1,
+  "normalization": "wiki-body-v1",
+  "offset_unit": "Python Unicode code-point offsets, zero-based, end-exclusive",
+  "segments": [
+    {
+      "kind": "excluded",
+      "start": 0,
+      "end": 143,
+      "reason": "网页header、导航、朱熹章句参考链接、Textquality页面自标及空白，非《礼记·中庸》正文；不作作者与成书年代证据"
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-001",
+      "start": 143,
+      "end": 274
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-002",
+      "start": 274,
+      "end": 319
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-003",
+      "start": 319,
+      "end": 337
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-004",
+      "start": 337,
+      "end": 400
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-005",
+      "start": 400,
+      "end": 412
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-006",
+      "start": 412,
+      "end": 457
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-007",
+      "start": 457,
+      "end": 505
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-008",
+      "start": 505,
+      "end": 536
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-009",
+      "start": 536,
+      "end": 568
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-010",
+      "start": 568,
+      "end": 685
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-011",
+      "start": 685,
+      "end": 746
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-012",
+      "start": 746,
+      "end": 886
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-013",
+      "start": 886,
+      "end": 980
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-014",
+      "start": 980,
+      "end": 1088
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-015",
+      "start": 1088,
+      "end": 1210
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-016",
+      "start": 1210,
+      "end": 1232
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-017",
+      "start": 1232,
+      "end": 1317
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-018",
+      "start": 1317,
+      "end": 1416
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-019",
+      "start": 1416,
+      "end": 1546
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-020",
+      "start": 1546,
+      "end": 1750
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-021",
+      "start": 1750,
+      "end": 1944
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-022",
+      "start": 1944,
+      "end": 2115
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-023",
+      "start": 2115,
+      "end": 2238
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-024",
+      "start": 2238,
+      "end": 2302
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-025",
+      "start": 2302,
+      "end": 2429
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-026",
+      "start": 2429,
+      "end": 2585
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-027",
+      "start": 2585,
+      "end": 2643
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-028",
+      "start": 2643,
+      "end": 2731
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-029",
+      "start": 2731,
+      "end": 2783
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-030",
+      "start": 2783,
+      "end": 2914
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-031",
+      "start": 2914,
+      "end": 2941
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-032",
+      "start": 2941,
+      "end": 3013
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-033",
+      "start": 3013,
+      "end": 3057
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-034",
+      "start": 3057,
+      "end": 3124
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-035",
+      "start": 3124,
+      "end": 3210
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-036",
+      "start": 3210,
+      "end": 3329
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-037",
+      "start": 3329,
+      "end": 3537
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-038",
+      "start": 3537,
+      "end": 3597
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-039",
+      "start": 3597,
+      "end": 3637
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-040",
+      "start": 3637,
+      "end": 3692
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-041",
+      "start": 3692,
+      "end": 3796
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-042",
+      "start": 3796,
+      "end": 3834
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-043",
+      "start": 3834,
+      "end": 4044
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-044",
+      "start": 4044,
+      "end": 4149
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-045",
+      "start": 4149,
+      "end": 4314
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-046",
+      "start": 4314,
+      "end": 4383
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-047",
+      "start": 4383,
+      "end": 4461
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-048",
+      "start": 4461,
+      "end": 4506
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-049",
+      "start": 4506,
+      "end": 4536
+    },
+    {
+      "kind": "passage",
+      "id": "ZY-01-050",
+      "start": 4536,
+      "end": 4658
+    },
+    {
+      "kind": "excluded",
+      "start": 4658,
+      "end": 4678,
+      "reason": "正文后空白、四书导航及PD-old作品公版模板，非正文；不把模板当作上游全部数字整理的统一许可"
+    }
+  ]
+}

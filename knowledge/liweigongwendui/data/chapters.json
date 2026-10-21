@@ -1,0 +1,79 @@
+[
+  {
+    "chapter": 1,
+    "title": "卷上",
+    "group": "三卷工作本",
+    "source_heading": "卷上",
+    "source_chapter_number": 1,
+    "passage_ids": [
+      "LWG-01-001",
+      "LWG-01-002",
+      "LWG-01-003",
+      "LWG-01-004",
+      "LWG-01-005",
+      "LWG-01-006",
+      "LWG-01-007",
+      "LWG-01-008",
+      "LWG-01-009",
+      "LWG-01-010",
+      "LWG-01-011",
+      "LWG-01-012",
+      "LWG-01-013",
+      "LWG-01-014",
+      "LWG-01-015",
+      "LWG-01-016",
+      "LWG-01-017"
+    ]
+  },
+  {
+    "chapter": 2,
+    "title": "卷中",
+    "group": "三卷工作本",
+    "source_heading": "卷中",
+    "source_chapter_number": 2,
+    "passage_ids": [
+      "LWG-02-001",
+      "LWG-02-002",
+      "LWG-02-003",
+      "LWG-02-004",
+      "LWG-02-005",
+      "LWG-02-006",
+      "LWG-02-007",
+      "LWG-02-008",
+      "LWG-02-009",
+      "LWG-02-010",
+      "LWG-02-011",
+      "LWG-02-012",
+      "LWG-02-013",
+      "LWG-02-014",
+      "LWG-02-015",
+      "LWG-02-016",
+      "LWG-02-017",
+      "LWG-02-018"
+    ]
+  },
+  {
+    "chapter": 3,
+    "title": "卷下",
+    "group": "三卷工作本",
+    "source_heading": "卷下",
+    "source_chapter_number": 3,
+    "passage_ids": [
+      "LWG-03-001",
+      "LWG-03-002",
+      "LWG-03-003",
+      "LWG-03-004",
+      "LWG-03-005",
+      "LWG-03-006",
+      "LWG-03-007",
+      "LWG-03-008",
+      "LWG-03-009",
+      "LWG-03-010",
+      "LWG-03-011",
+      "LWG-03-012",
+      "LWG-03-013",
+      "LWG-03-014",
+      "LWG-03-015"
+    ]
+  }
+]

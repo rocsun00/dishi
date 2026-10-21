@@ -1,0 +1,793 @@
+{
+  "schema_version": 1,
+  "normalization": "wiki-body-v1",
+  "offset_unit": "Python Unicode code-point offsets, zero-based, end-exclusive",
+  "segments": [
+    {
+      "kind": "excluded",
+      "start": 0,
+      "end": 538,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-001",
+      "start": 538,
+      "end": 609
+    },
+    {
+      "kind": "excluded",
+      "start": 609,
+      "end": 611,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-002",
+      "start": 611,
+      "end": 687
+    },
+    {
+      "kind": "excluded",
+      "start": 687,
+      "end": 689,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-003",
+      "start": 689,
+      "end": 761
+    },
+    {
+      "kind": "excluded",
+      "start": 761,
+      "end": 763,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-004",
+      "start": 763,
+      "end": 834
+    },
+    {
+      "kind": "excluded",
+      "start": 834,
+      "end": 836,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-005",
+      "start": 836,
+      "end": 884
+    },
+    {
+      "kind": "excluded",
+      "start": 884,
+      "end": 886,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-006",
+      "start": 886,
+      "end": 937
+    },
+    {
+      "kind": "excluded",
+      "start": 937,
+      "end": 939,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-007",
+      "start": 939,
+      "end": 1237
+    },
+    {
+      "kind": "excluded",
+      "start": 1237,
+      "end": 1239,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-008",
+      "start": 1239,
+      "end": 1306
+    },
+    {
+      "kind": "excluded",
+      "start": 1306,
+      "end": 1308,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-009",
+      "start": 1308,
+      "end": 1361
+    },
+    {
+      "kind": "excluded",
+      "start": 1361,
+      "end": 1363,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-010",
+      "start": 1363,
+      "end": 1445
+    },
+    {
+      "kind": "excluded",
+      "start": 1445,
+      "end": 1447,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-011",
+      "start": 1447,
+      "end": 1542
+    },
+    {
+      "kind": "excluded",
+      "start": 1542,
+      "end": 1544,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-012",
+      "start": 1544,
+      "end": 1652
+    },
+    {
+      "kind": "excluded",
+      "start": 1652,
+      "end": 1654,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-013",
+      "start": 1654,
+      "end": 1729
+    },
+    {
+      "kind": "excluded",
+      "start": 1729,
+      "end": 1731,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-014",
+      "start": 1731,
+      "end": 1876
+    },
+    {
+      "kind": "excluded",
+      "start": 1876,
+      "end": 1878,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-015",
+      "start": 1878,
+      "end": 1995
+    },
+    {
+      "kind": "excluded",
+      "start": 1995,
+      "end": 1997,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-016",
+      "start": 1997,
+      "end": 2095
+    },
+    {
+      "kind": "excluded",
+      "start": 2095,
+      "end": 2097,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-017",
+      "start": 2097,
+      "end": 2304
+    },
+    {
+      "kind": "excluded",
+      "start": 2304,
+      "end": 2306,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-018",
+      "start": 2306,
+      "end": 2441
+    },
+    {
+      "kind": "excluded",
+      "start": 2441,
+      "end": 2443,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-019",
+      "start": 2443,
+      "end": 2483
+    },
+    {
+      "kind": "excluded",
+      "start": 2483,
+      "end": 2485,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-020",
+      "start": 2485,
+      "end": 2509
+    },
+    {
+      "kind": "excluded",
+      "start": 2509,
+      "end": 2511,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-021",
+      "start": 2511,
+      "end": 2603
+    },
+    {
+      "kind": "excluded",
+      "start": 2603,
+      "end": 2605,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-022",
+      "start": 2605,
+      "end": 2678
+    },
+    {
+      "kind": "excluded",
+      "start": 2678,
+      "end": 2680,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-023",
+      "start": 2680,
+      "end": 2836
+    },
+    {
+      "kind": "excluded",
+      "start": 2836,
+      "end": 2838,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-024",
+      "start": 2838,
+      "end": 2875
+    },
+    {
+      "kind": "excluded",
+      "start": 2875,
+      "end": 2877,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-025",
+      "start": 2877,
+      "end": 2920
+    },
+    {
+      "kind": "excluded",
+      "start": 2920,
+      "end": 2922,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-026",
+      "start": 2922,
+      "end": 2965
+    },
+    {
+      "kind": "excluded",
+      "start": 2965,
+      "end": 2967,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-027",
+      "start": 2967,
+      "end": 3025
+    },
+    {
+      "kind": "excluded",
+      "start": 3025,
+      "end": 3027,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-028",
+      "start": 3027,
+      "end": 3065
+    },
+    {
+      "kind": "excluded",
+      "start": 3065,
+      "end": 3067,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-029",
+      "start": 3067,
+      "end": 3105
+    },
+    {
+      "kind": "excluded",
+      "start": 3105,
+      "end": 3107,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-030",
+      "start": 3107,
+      "end": 3140
+    },
+    {
+      "kind": "excluded",
+      "start": 3140,
+      "end": 3142,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-031",
+      "start": 3142,
+      "end": 3180
+    },
+    {
+      "kind": "excluded",
+      "start": 3180,
+      "end": 3182,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-032",
+      "start": 3182,
+      "end": 3280
+    },
+    {
+      "kind": "excluded",
+      "start": 3280,
+      "end": 3282,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-01-033",
+      "start": 3282,
+      "end": 3381
+    },
+    {
+      "kind": "excluded",
+      "start": 3381,
+      "end": 3391,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-001",
+      "start": 3391,
+      "end": 3567
+    },
+    {
+      "kind": "excluded",
+      "start": 3567,
+      "end": 3569,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-002",
+      "start": 3569,
+      "end": 3597
+    },
+    {
+      "kind": "excluded",
+      "start": 3597,
+      "end": 3599,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-003",
+      "start": 3599,
+      "end": 3662
+    },
+    {
+      "kind": "excluded",
+      "start": 3662,
+      "end": 3664,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-004",
+      "start": 3664,
+      "end": 3702
+    },
+    {
+      "kind": "excluded",
+      "start": 3702,
+      "end": 3704,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-005",
+      "start": 3704,
+      "end": 3728
+    },
+    {
+      "kind": "excluded",
+      "start": 3728,
+      "end": 3730,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-006",
+      "start": 3730,
+      "end": 3764
+    },
+    {
+      "kind": "excluded",
+      "start": 3764,
+      "end": 3766,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-007",
+      "start": 3766,
+      "end": 3826
+    },
+    {
+      "kind": "excluded",
+      "start": 3826,
+      "end": 3828,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-008",
+      "start": 3828,
+      "end": 3882
+    },
+    {
+      "kind": "excluded",
+      "start": 3882,
+      "end": 3884,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-009",
+      "start": 3884,
+      "end": 3947
+    },
+    {
+      "kind": "excluded",
+      "start": 3947,
+      "end": 3949,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-010",
+      "start": 3949,
+      "end": 4073
+    },
+    {
+      "kind": "excluded",
+      "start": 4073,
+      "end": 4075,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-011",
+      "start": 4075,
+      "end": 4163
+    },
+    {
+      "kind": "excluded",
+      "start": 4163,
+      "end": 4165,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-012",
+      "start": 4165,
+      "end": 4225
+    },
+    {
+      "kind": "excluded",
+      "start": 4225,
+      "end": 4227,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-02-013",
+      "start": 4227,
+      "end": 4249
+    },
+    {
+      "kind": "excluded",
+      "start": 4249,
+      "end": 4258,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-001",
+      "start": 4258,
+      "end": 4383
+    },
+    {
+      "kind": "excluded",
+      "start": 4383,
+      "end": 4385,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-002",
+      "start": 4385,
+      "end": 4540
+    },
+    {
+      "kind": "excluded",
+      "start": 4540,
+      "end": 4542,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-003",
+      "start": 4542,
+      "end": 4625
+    },
+    {
+      "kind": "excluded",
+      "start": 4625,
+      "end": 4627,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-004",
+      "start": 4627,
+      "end": 4657
+    },
+    {
+      "kind": "excluded",
+      "start": 4657,
+      "end": 4659,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-005",
+      "start": 4659,
+      "end": 4777
+    },
+    {
+      "kind": "excluded",
+      "start": 4777,
+      "end": 4779,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-006",
+      "start": 4779,
+      "end": 4851
+    },
+    {
+      "kind": "excluded",
+      "start": 4851,
+      "end": 4853,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-007",
+      "start": 4853,
+      "end": 4892
+    },
+    {
+      "kind": "excluded",
+      "start": 4892,
+      "end": 4894,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-008",
+      "start": 4894,
+      "end": 4994
+    },
+    {
+      "kind": "excluded",
+      "start": 4994,
+      "end": 4996,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-009",
+      "start": 4996,
+      "end": 5037
+    },
+    {
+      "kind": "excluded",
+      "start": 5037,
+      "end": 5039,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-010",
+      "start": 5039,
+      "end": 5078
+    },
+    {
+      "kind": "excluded",
+      "start": 5078,
+      "end": 5080,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-011",
+      "start": 5080,
+      "end": 5150
+    },
+    {
+      "kind": "excluded",
+      "start": 5150,
+      "end": 5152,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-012",
+      "start": 5152,
+      "end": 5244
+    },
+    {
+      "kind": "excluded",
+      "start": 5244,
+      "end": 5246,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-013",
+      "start": 5246,
+      "end": 5337
+    },
+    {
+      "kind": "excluded",
+      "start": 5337,
+      "end": 5339,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-014",
+      "start": 5339,
+      "end": 5374
+    },
+    {
+      "kind": "excluded",
+      "start": 5374,
+      "end": 5376,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-015",
+      "start": 5376,
+      "end": 5437
+    },
+    {
+      "kind": "excluded",
+      "start": 5437,
+      "end": 5439,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-016",
+      "start": 5439,
+      "end": 5467
+    },
+    {
+      "kind": "excluded",
+      "start": 5467,
+      "end": 5469,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-017",
+      "start": 5469,
+      "end": 5499
+    },
+    {
+      "kind": "excluded",
+      "start": 5499,
+      "end": 5501,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-018",
+      "start": 5501,
+      "end": 5551
+    },
+    {
+      "kind": "excluded",
+      "start": 5551,
+      "end": 5553,
+      "reason": "网页header（含另存书目评论）、篇题、导航、空白或页尾模板/分类，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SL-03-019",
+      "start": 5553,
+      "end": 5593
+    },
+    {
+      "kind": "excluded",
+      "start": 5593,
+      "end": 5636,
+      "reason": "正文后空白、秦朝作品分类模板与兵家/武经七书分类，不是正文；秦标签不是已证成书年代"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "valid": true,
+  "scope": "原始API/独立页面/拼合快照/全部字符区间/三卷源条与序跋/大学问完整问答的独立结构检查；不作为解释正确性或古籍专家校勘的证明。",
+  "canonical_passages_sha256": "365051e6f1fbc6e37f128e0903f3c5a18b38bd3ce161f741e3483ab1ea4e8038",
+  "raw_sha256": "3395a838a3d18166f5aebb0631fad6f4788001cff1ac9e7de35d3be3d231bbfd",
+  "extraction_sha256": "f6e58c92ccd83042ec9b94025389e86248895e2a8c15eafd0338f27a62761b36",
+  "passages": 353,
+  "display_characters_including_punctuation": 83805,
+  "per_chapter_units": {
+    "1": 131,
+    "2": 72,
+    "3": 143,
+    "4": 7
+  },
+  "source_numbered_entries": 342,
+  "preface_postscript_units": 4,
+  "daxuewen_units": 7,
+  "source_pages_and_index_verified": 5,
+  "ref_notes_separately_preserved": 175,
+  "ancient_notes_separately_preserved": 1,
+  "unwrapped_editorial_note_excluded_display_characters": 69,
+  "errors": []
+}

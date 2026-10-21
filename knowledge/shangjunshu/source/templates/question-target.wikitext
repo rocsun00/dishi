@@ -1,0 +1,2 @@
+<span style="color: red; border: 1px solid red; BACKGROUND: pink" title="{{{1|未填描述，請補上。}}}"><b>�</b></span><noinclude>{{doc}}
+</noinclude>

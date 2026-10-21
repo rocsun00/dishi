@@ -1,0 +1,238 @@
+{
+  "id": "lunyu",
+  "work_id": "lunyu",
+  "title": "论语（二十篇电子工作本）",
+  "prefix": "LY",
+  "source_title": "論語/學而第一",
+  "revision": "multiple-pinned-pages",
+  "source_url": "https://zh.wikisource.org/w/index.php?title=論語/學而第一&oldid=11118093",
+  "source_pages": [
+    {
+      "title": "論語/學而第一",
+      "revision": 11118093,
+      "timestamp": "2026-10-03T12:45:42Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/學而第一&oldid=11118093",
+      "raw_sha256": "bfa804b1108d47fd525e1a568c17303a4a3d0a1934c4dc5f20e8a5e4ce6c011b",
+      "start": 27,
+      "end": 3019,
+      "raw_file": "pages/01.wikitext"
+    },
+    {
+      "title": "論語/爲政第二",
+      "revision": 11118094,
+      "timestamp": "2026-10-03T12:47:24Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/爲政第二&oldid=11118094",
+      "raw_sha256": "d7650e9241609da07c41ee916f19e67f438fbf2d6ab82226c8ecaec5b08ec623",
+      "start": 3046,
+      "end": 6550,
+      "raw_file": "pages/02.wikitext"
+    },
+    {
+      "title": "論語/八佾第三",
+      "revision": 2200702,
+      "timestamp": "2022-12-08T17:17:19Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/八佾第三&oldid=2200702",
+      "raw_sha256": "f44caba9b18595c34811f9cc71ae852dc8b9c0702d6c59210ebe0cf943ab26d9",
+      "start": 6577,
+      "end": 10129,
+      "raw_file": "pages/03.wikitext"
+    },
+    {
+      "title": "論語/里仁第四",
+      "revision": 2177314,
+      "timestamp": "2022-09-07T07:55:38Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/里仁第四&oldid=2177314",
+      "raw_sha256": "0d8ac1a8094ec8f5f84762b75000abaabdbd6c9583b232b59a9336daae08548a",
+      "start": 10156,
+      "end": 13594,
+      "raw_file": "pages/04.wikitext"
+    },
+    {
+      "title": "論語/公冶長第五",
+      "revision": 973596,
+      "timestamp": "2017-06-23T14:37:56Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/公冶長第五&oldid=973596",
+      "raw_sha256": "0f9a64f82f993e7974220045bb8f5ffc640ff6c073763bef7d3e5339d51985aa",
+      "start": 13622,
+      "end": 17482,
+      "raw_file": "pages/05.wikitext"
+    },
+    {
+      "title": "論語/雍也第六",
+      "revision": 11118098,
+      "timestamp": "2026-10-03T12:56:01Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/雍也第六&oldid=11118098",
+      "raw_sha256": "e5f5fc5e22b1a83fcec6a093893222cd95f58b75e6ecb689c0e977c4a4e9b333",
+      "start": 17509,
+      "end": 21368,
+      "raw_file": "pages/06.wikitext"
+    },
+    {
+      "title": "論語/述而第七",
+      "revision": 11118091,
+      "timestamp": "2026-10-03T12:39:49Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/述而第七&oldid=11118091",
+      "raw_sha256": "4c39123402ce6524d74affc2fe15ff1ce516a4b8a718cfd664807666cdcf880a",
+      "start": 21395,
+      "end": 25334,
+      "raw_file": "pages/07.wikitext"
+    },
+    {
+      "title": "論語/泰伯第八",
+      "revision": 11118097,
+      "timestamp": "2026-10-03T12:53:10Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/泰伯第八&oldid=11118097",
+      "raw_sha256": "a28d9d29a4b01b960c873e2dbce7d1e32f1b1268ca9d127ecf159d62b455c129",
+      "start": 25361,
+      "end": 27923,
+      "raw_file": "pages/08.wikitext"
+    },
+    {
+      "title": "論語/子罕第九",
+      "revision": 2018157,
+      "timestamp": "2021-02-20T15:01:48Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/子罕第九&oldid=2018157",
+      "raw_sha256": "7cd1c32b3b3644cc08da818a18e119c21c2a941d73bfec8c5b60f3c54e31de56",
+      "start": 27950,
+      "end": 31062,
+      "raw_file": "pages/09.wikitext"
+    },
+    {
+      "title": "論語/鄉黨第十",
+      "revision": 11118092,
+      "timestamp": "2026-10-03T12:42:40Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/鄉黨第十&oldid=11118092",
+      "raw_sha256": "15a52c17b6c80fbf13c8c6635a440ac9d0baafd0ef09187be4a599c909bdd7b6",
+      "start": 31089,
+      "end": 33312,
+      "raw_file": "pages/10.wikitext"
+    },
+    {
+      "title": "論語/先進第十一",
+      "revision": 11118105,
+      "timestamp": "2026-10-03T13:11:46Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/先進第十一&oldid=11118105",
+      "raw_sha256": "b1bdd79d191fb80c8d8fd8e2bf73bba84c81fe0626ce9efe4664ebe840ef85de",
+      "start": 33340,
+      "end": 36586,
+      "raw_file": "pages/11.wikitext"
+    },
+    {
+      "title": "論語/顏淵第十二",
+      "revision": 10602324,
+      "timestamp": "2026-09-26T13:58:51Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/顏淵第十二&oldid=10602324",
+      "raw_sha256": "38e97a6954349aac01c6b22c95fbd611a7fcaa3ab65bc7a3aa04a472ff4d595f",
+      "start": 36614,
+      "end": 39693,
+      "raw_file": "pages/12.wikitext"
+    },
+    {
+      "title": "論語/子路第十三",
+      "revision": 11118102,
+      "timestamp": "2026-10-03T13:02:54Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/子路第十三&oldid=11118102",
+      "raw_sha256": "eedef73b675f807f0de0a7e93e019d6c5fe5891b024fcdf831ec758f12c94292",
+      "start": 39721,
+      "end": 43310,
+      "raw_file": "pages/13.wikitext"
+    },
+    {
+      "title": "論語/憲問第十四",
+      "revision": 11118101,
+      "timestamp": "2026-10-03T13:01:00Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/憲問第十四&oldid=11118101",
+      "raw_sha256": "17fcc9d150b19a7af5430d7fecd409eb8d00853f48494612d22e2a60da1afb7d",
+      "start": 43338,
+      "end": 48451,
+      "raw_file": "pages/14.wikitext"
+    },
+    {
+      "title": "論語/衞靈公第十五",
+      "revision": 2058122,
+      "timestamp": "2021-07-08T09:35:15Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/衞靈公第十五&oldid=2058122",
+      "raw_sha256": "efa00c831799faf95b00aed953f5eb94743083399c39008572a7ce32d9feee77",
+      "start": 48480,
+      "end": 53248,
+      "raw_file": "pages/15.wikitext"
+    },
+    {
+      "title": "論語/季氏第十六",
+      "revision": 11118099,
+      "timestamp": "2026-10-03T12:58:51Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/季氏第十六&oldid=11118099",
+      "raw_sha256": "194297c2765eb2e7ccbbd1cebd4a3212a30ad60a690aaad96bf700c1b5284c14",
+      "start": 53276,
+      "end": 55522,
+      "raw_file": "pages/16.wikitext"
+    },
+    {
+      "title": "論語/陽貨第十七",
+      "revision": 1075085,
+      "timestamp": "2017-07-07T15:03:17Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/陽貨第十七&oldid=1075085",
+      "raw_sha256": "94829a5e8cd4577f69767c8429af22137814dbfe530a68b0be9f2570c3a55319",
+      "start": 55550,
+      "end": 58694,
+      "raw_file": "pages/17.wikitext"
+    },
+    {
+      "title": "論語/微子第十八",
+      "revision": 1311661,
+      "timestamp": "2017-09-29T16:05:08Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/微子第十八&oldid=1311661",
+      "raw_sha256": "2d0840780b597d8ba72ee757ff9e7282539b3066ae70f7227b3d16340010f3fc",
+      "start": 58722,
+      "end": 60359,
+      "raw_file": "pages/18.wikitext"
+    },
+    {
+      "title": "論語/子張第十九",
+      "revision": 1075051,
+      "timestamp": "2017-07-07T15:00:10Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/子張第十九&oldid=1075051",
+      "raw_sha256": "25951d615e46b772128adc816e4bb0b5b9de42da2e5b9855aeb2ea2e4b1c43f4",
+      "start": 60387,
+      "end": 63186,
+      "raw_file": "pages/19.wikitext"
+    },
+    {
+      "title": "論語/堯曰第二十",
+      "revision": 2175814,
+      "timestamp": "2022-09-02T19:17:43Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=論語/堯曰第二十&oldid=2175814",
+      "raw_sha256": "ffb7bce41ee691a5d8feb99c9c579690df617b8f9ff6caf06378a14eb800e2d0",
+      "start": 63214,
+      "end": 64889,
+      "raw_file": "pages/20.wikitext"
+    }
+  ],
+  "retrieved_on": "2026-10-19",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "3755a3c812f34cf448b90d09dc293015876e66c4d3c99c8098ac1d05316dfda4",
+  "extraction_sha256": "f82a86f8a7555e5a69d8c34972d73692a32e087fa9d4910a12ba721311a76303",
+  "scope": "传世二十篇，按电子底本原有章句标记分501段；不纳入序说、出土残篇或网站另附知道第二十二，保留网页现代参考注记但不混入正文。",
+  "edition_status": "固定中文维基文库分篇电子工作本，未对统一纸本逐字核校。各页有站点编者异文、句读或校改，均随固定版本保留并记录；重要歧义须另查可靠传本。",
+  "chapter_count": 20,
+  "passage_count": 501,
+  "text_characters_including_punctuation": 21703,
+  "normalization": [
+    "移除古注星号模板，古注原文保存在快照及editorial_notes，不作为本库原典释义",
+    "保留原字与源标点，移除折行空白和注释行的冒号",
+    "维基链接取显示文字；另模板正文保留首项并记录异文；移除简繁转换保护符",
+    "另2模板保留首项文字，注记作为说明单列，不误称为另一原句",
+    "参考ref标记单独保存在editorial_notes，现代参考注记不混入原典",
+    "多语言字形转换标记优先取zh默认项；无默认项时取zh-hant，再取zh-hans；普通保护标记仅去外壳"
+  ],
+  "source_attribution": "中文维基文库相应原典页面及其贡献者；使用时保留固定修订号、来源和加工说明",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "保留站点所列适用许可及归属；古代原文与站点数字整理内容分别理解",
+  "source_index": {
+    "title": "論語/全覽",
+    "revision": 1082965,
+    "url": "https://zh.wikisource.org/w/index.php?title=論語/全覽&oldid=1082965",
+    "raw_file": "index.wikitext",
+    "raw_sha256": "a75538f324b21492b4e10e5cc5dced4457962105a8d8f4acf140bdf145e6496f"
+  }
+}

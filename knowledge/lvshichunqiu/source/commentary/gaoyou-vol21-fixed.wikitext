@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=呂氏春秋|section=卷第二十一|prev=卷第二十|next=卷第二十二|type=子|notes=漢 高誘 注 景上海涵芬樓藏明刊本}}
+<pages from="2" to="23" index="Sibu Congkan0424-高誘-呂氏春秋-5-5.djvu" />

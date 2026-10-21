@@ -1,0 +1,99 @@
+{
+  "kind": "source-located-bibliographic-statements-not-modern-authorship-proof",
+  "offset_unit": "Python Unicode code points within individual raw reference file, [start,end)",
+  "evidence": [
+    {
+      "title": "尉繚子 (四庫全書本)",
+      "revision": 631878,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631878",
+      "raw_file": "pages/06-index.wikitext",
+      "source_start": 264,
+      "source_end": 275,
+      "source_line": 9,
+      "source_markup": "漢志雜家有尉繚三十九篇",
+      "interpretive_note": "本批四库本提要电子文本的数字；不同于另两参考页的二十九，未以记忆统一。"
+    },
+    {
+      "title": "尉繚子 (四庫全書本)",
+      "revision": 631878,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631878",
+      "raw_file": "pages/06-index.wikitext",
+      "source_start": 309,
+      "source_end": 325,
+      "source_line": 9,
+      "source_markup": "漢志兵形勢家内實别有尉繚三十一篇",
+      "interpretive_note": "清代编者转述汉志兵形势项，与今二十四篇对应只是该编者及其所引人的意见。"
+    },
+    {
+      "title": "尉繚子 (四庫全書本)",
+      "revision": 631878,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631878",
+      "raw_file": "pages/06-index.wikitext",
+      "source_start": 369,
+      "source_end": 397,
+      "source_line": 9,
+      "source_markup": "今書止二十四篇與所謂三十一篇者數不相合則後來已有所亡佚耳",
+      "interpretive_note": "四库编者据篇数差说明亡佚的意见，不据此补七篇名号或正文。"
+    },
+    {
+      "title": "尉繚子 (四庫全書本)",
+      "revision": 631878,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631878",
+      "raw_file": "pages/06-index.wikitext",
+      "source_start": 211,
+      "source_end": 222,
+      "source_line": 9,
+      "source_markup": "其人當六國時不知其本末",
+      "interpretive_note": "清代提要的归属不确定性，未作现代作者年代定论。"
+    },
+    {
+      "title": "漢書/卷030",
+      "revision": 7908197,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030&oldid=7908197",
+      "raw_file": "pages/08-hanshu.wikitext",
+      "source_start": 7098,
+      "source_end": 7109,
+      "source_line": 266,
+      "source_markup": "[[尉繚子]]二十九篇",
+      "interpretive_note": "所存汉书杂家电子页实际数字，与四库本提要三十九有异。"
+    },
+    {
+      "title": "漢書/卷030",
+      "revision": 7908197,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030&oldid=7908197",
+      "raw_file": "pages/08-hanshu.wikitext",
+      "source_start": 9675,
+      "source_end": 9681,
+      "source_line": 360,
+      "source_markup": "尉繚三十一篇",
+      "interpretive_note": "所存汉书兵形势著录，不冒充今本古篇对应表。"
+    },
+    {
+      "title": "四庫全書總目提要/卷099",
+      "revision": 1329524,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E7%B8%BD%E7%9B%AE%E6%8F%90%E8%A6%81%2F%E5%8D%B7099&oldid=1329524",
+      "raw_file": "pages/09-siku099.wikitext",
+      "source_start": 2922,
+      "source_end": 2938,
+      "source_line": 40,
+      "source_markup": "《漢志•雜家》有《尉繚》二十九篇",
+      "interpretive_note": "总目卷099电子页与本批四库本提要数字不同，按各自固定页保存。"
+    },
+    {
+      "title": "四庫全書總目提要/卷099",
+      "revision": 1329524,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E7%B8%BD%E7%9B%AE%E6%8F%90%E8%A6%81%2F%E5%8D%B7099&oldid=1329524",
+      "raw_file": "pages/09-siku099.wikitext",
+      "source_start": 2858,
+      "source_end": 2871,
+      "source_line": 40,
+      "source_markup": "其人當六國時，不知其本末。",
+      "interpretive_note": "总目明确承认人物本末不详；不升级为今人确证。"
+    }
+  ],
+  "limitations": [
+    "电子书目定点对读，未核原刻影像",
+    "清代编者及古目录意见不是已解决的作者年代和版本学结论",
+    "数字29/39差别只存不判正误，不按减法发明亡篇"
+  ]
+}

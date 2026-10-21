@@ -1,0 +1,17 @@
+[
+  {
+    "passage_id": "FL-01-012",
+    "kind": "source_punctuation_and_ancient_note_disagreement",
+    "description": "“往從其所”与“剛彊以禦”之间源正文未加标点，夹注本身保存不同断句解释；“用人無藝”等不作唯一确解。"
+  },
+  {
+    "passage_id": "FL-02-005",
+    "kind": "source_phrase_uncertain",
+    "description": "“有如病不宿誡”等保留源文，不强作确定逐字翻译。"
+  },
+  {
+    "passage_id": "FL-03-001",
+    "kind": "speaker_and_astronomy_boundary",
+    "description": "“知斗則修備”至“財幣欲其行如流水”为计然发言，岁星与灾荒固定周期是古代理论，非已证实预报模型。"
+  }
+]

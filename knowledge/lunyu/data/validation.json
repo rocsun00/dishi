@@ -1,0 +1,12 @@
+{
+  "id": "lunyu",
+  "title": "论语（二十篇电子工作本）",
+  "valid": true,
+  "chapters": 20,
+  "passages": 501,
+  "readings": 501,
+  "concepts": 60,
+  "examples": 24,
+  "verified_quotes": 84,
+  "errors": []
+}

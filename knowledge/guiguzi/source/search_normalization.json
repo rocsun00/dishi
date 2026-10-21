@@ -1,0 +1,9 @@
+{
+  "tool": "OpenCC Python reimplementation",
+  "version": "0.1.7",
+  "configuration": "t2s",
+  "purpose": "仅简体检索辅助，显示及引用保留固定原文",
+  "paragraph_count": 52,
+  "sha256": "9a65fc38b86561e5d3d7aea1352483a804d1a4f2743ef8a055ac743df40bc9d4",
+  "generated_on": "2026-10-19"
+}

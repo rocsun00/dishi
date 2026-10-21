@@ -1,0 +1,216 @@
+{
+  "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%A4%A9%E5%AE%98%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E8%AB%87%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%88%B6%E8%AB%87%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%88%B0%E5%A8%81%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%94%BB%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%AE%88%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8D%81%E4%BA%8C%E9%99%B5%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%AD%A6%E8%AD%B0%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%B0%87%E7%90%86%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8E%9F%E5%AE%98%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%B2%BB%E6%9C%AC%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%88%B0%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E9%87%8D%E5%88%91%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E4%BC%8D%E5%88%B6%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%88%86%E5%A1%9E%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%9D%9F%E4%BC%8D%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E7%B6%93%E5%8D%92%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8B%92%E5%8D%92%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%B0%87%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E8%B8%B5%E8%BB%8D%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E6%95%99%E4%B8%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E6%95%99%E4%B8%8B%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E4%BB%A4%E4%B8%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E4%BB%A4%E4%B8%8B%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B76&redirects=1",
+  "retrieved_utc": "2026-10-20T03:24:17.091470+00:00",
+  "mode": "titles",
+  "response_path": "body-titles.json",
+  "response_sha256": "1cc710e8b69c367e9e6ae4acfd2354329d80e4d02c6437e25769904cf5cf9d59",
+  "pages": [
+    {
+      "title": "尉繚子/兵令下",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/兵令上",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/兵教下",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/兵教上",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/踵軍令",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/將令",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/勒卒令",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/經卒令",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/束伍令",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/分塞令",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/伍制令",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/重刑令",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/戰權",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/治本",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/原官",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/將理",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/武議",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/十二陵",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/守權",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/攻權",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/戰威",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/制談",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/兵談",
+      "missing": true
+    },
+    {
+      "title": "尉繚子/天官",
+      "missing": true
+    },
+    {
+      "title": "六韜 (四庫全書本)/卷1",
+      "pageid": 260866,
+      "revid": 765100,
+      "timestamp": "2016-10-24T22:36:25Z",
+      "raw_path": "body-titles-260866.wikitext",
+      "chars": 3947,
+      "headings": [],
+      "raw_sha256": "349fa818d1a2e392952d3b03cc02f2bed2cf4b12cc43d1e7c358e4daa41de27a"
+    },
+    {
+      "title": "六韜 (四庫全書本)/卷2",
+      "pageid": 260867,
+      "revid": 765104,
+      "timestamp": "2016-10-24T22:37:05Z",
+      "raw_path": "body-titles-260867.wikitext",
+      "chars": 2250,
+      "headings": [],
+      "raw_sha256": "281155bee786e862a24302b182db3cd334829d0c10bc9fd056b6dfc4a2123b38"
+    },
+    {
+      "title": "六韜 (四庫全書本)/卷3",
+      "pageid": 260868,
+      "revid": 765108,
+      "timestamp": "2016-10-24T22:37:45Z",
+      "raw_path": "body-titles-260868.wikitext",
+      "chars": 4964,
+      "headings": [],
+      "raw_sha256": "49b291d891b9cad8d7baacb5a2c5b8dfeaa0b790a9f28b41ac4c0684c7df8118"
+    },
+    {
+      "title": "六韜 (四庫全書本)/卷4",
+      "pageid": 260869,
+      "revid": 631805,
+      "timestamp": "2016-10-14T04:02:05Z",
+      "raw_path": "body-titles-260869.wikitext",
+      "chars": 4482,
+      "headings": [],
+      "raw_sha256": "e9b2aafb893f4263c189ab20b31d6e2d517d473998fbec3907f0b6fc544d9f1f"
+    },
+    {
+      "title": "六韜 (四庫全書本)/卷5",
+      "pageid": 260870,
+      "revid": 631807,
+      "timestamp": "2016-10-14T04:02:05Z",
+      "raw_path": "body-titles-260870.wikitext",
+      "chars": 2508,
+      "headings": [],
+      "raw_sha256": "200e44529790a48c3e35ce44d57272d29d369751c036666df5fcd7f95830777f"
+    },
+    {
+      "title": "六韜 (四庫全書本)/卷6",
+      "pageid": 260871,
+      "revid": 631809,
+      "timestamp": "2016-10-14T04:02:05Z",
+      "raw_path": "body-titles-260871.wikitext",
+      "chars": 2990,
+      "headings": [],
+      "raw_sha256": "45186fcc5a7c6c0ff380abbf08eca14a3f2a262f3f5b6af36d8ebacbeb21fb49"
+    },
+    {
+      "title": "尉繚子 (四庫全書本)/卷1",
+      "pageid": 260899,
+      "revid": 631866,
+      "timestamp": "2016-10-14T04:02:11Z",
+      "raw_path": "body-titles-260899.wikitext",
+      "chars": 3321,
+      "headings": [],
+      "raw_sha256": "1b7234e844932511ed7468fd8fdf3695dea1884e983e49c747c6f14e6c62ab9c"
+    },
+    {
+      "title": "尉繚子 (四庫全書本)/卷2",
+      "pageid": 260900,
+      "revid": 631868,
+      "timestamp": "2016-10-14T04:02:11Z",
+      "raw_path": "body-titles-260900.wikitext",
+      "chars": 2548,
+      "headings": [],
+      "raw_sha256": "9d1babdf1b149c75366897e28873740db7c731bf6293c0c4e184ffe262493b94"
+    },
+    {
+      "title": "尉繚子 (四庫全書本)/卷3",
+      "pageid": 260901,
+      "revid": 631870,
+      "timestamp": "2016-10-14T04:02:11Z",
+      "raw_path": "body-titles-260901.wikitext",
+      "chars": 1726,
+      "headings": [],
+      "raw_sha256": "a39fb49c1c03c007e1c5346937cab383f9db295829b47bbf14e665158ee915a6"
+    },
+    {
+      "title": "尉繚子 (四庫全書本)/卷4",
+      "pageid": 260902,
+      "revid": 631872,
+      "timestamp": "2016-10-14T04:02:12Z",
+      "raw_path": "body-titles-260902.wikitext",
+      "chars": 1482,
+      "headings": [],
+      "raw_sha256": "5742acdc0fcf2b67f4c5a90be013cad9a26223e936e40b84fd27b2108ec19770"
+    },
+    {
+      "title": "尉繚子 (四庫全書本)/卷5",
+      "pageid": 260903,
+      "revid": 631874,
+      "timestamp": "2016-10-14T04:02:12Z",
+      "raw_path": "body-titles-260903.wikitext",
+      "chars": 2472,
+      "headings": [],
+      "raw_sha256": "1a56f58946ee4db53d0eb54744b860d5fc54a6c43205f30bb40c59102d29b6ed"
+    }
+  ],
+  "redirects": []
+}

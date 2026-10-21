@@ -1,0 +1,530 @@
+[
+  {
+    "passage_id": "LT-01-001",
+    "kind": "attribution_and_divination",
+    "source_phrase": "史編布卜",
+    "description": "卜兆、禹得皋陶与文王得师为叙事权威，未核为西周逐字史实。"
+  },
+  {
+    "passage_id": "LT-01-001",
+    "kind": "source_wording_preserved",
+    "source_phrase": "祿等以權；死等以權；官等以權",
+    "description": "源词义和配列不强定；四库电子卷一同见祿等以權死等以權官等以權，不凭其他熟本猜改。",
+    "comparison": {
+      "page_title": "六韜 (四庫全書本)/卷1",
+      "revision": 765100,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71&oldid=765100",
+      "raw_file": "pages/body-fixed-260866.wikitext",
+      "reading": "祿等以權死等以權官等以權",
+      "source_start": 363,
+      "source_end": 375,
+      "source_line": 11,
+      "collation_scope": "limited-pinned-electronic-passage-comparison; not image collation"
+    }
+  },
+  {
+    "passage_id": "LT-01-001",
+    "kind": "source_phrase_or_boundary",
+    "source_phrase": "樹斂",
+    "description": "具体训义保留，不据常见本改字。"
+  },
+  {
+    "passage_id": "LT-02-001",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "茅茨偏庭不剪",
+    "description": "主本偏庭，对读徧庭；电子异文照存，不据此制造唯一居室制度。",
+    "comparison": {
+      "page_title": "六韜 (四庫全書本)/卷1",
+      "revision": 765100,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71&oldid=765100",
+      "raw_file": "pages/body-fixed-260866.wikitext",
+      "reading": "茅茨徧庭不剪",
+      "source_start": 963,
+      "source_end": 969,
+      "source_line": 16,
+      "collation_scope": "limited-pinned-electronic-passage-comparison; not image collation"
+    }
+  },
+  {
+    "passage_id": "LT-03-001",
+    "kind": "violence_and_innocence",
+    "source_phrase": "無罪而罰則殺之",
+    "description": "原文把无罪施罚归为害生的暴政，不能净化成普通工作纠偏。"
+  },
+  {
+    "passage_id": "LT-05-001",
+    "kind": "source_phrase_or_boundary",
+    "source_phrase": "強而弱，忍而剛",
+    "description": "刚柔相配不等于一味示弱或无条件忍耐，具体字义不强作唯一译解。"
+  },
+  {
+    "passage_id": "LT-06-001",
+    "kind": "coercive_testing",
+    "source_phrase": "危之而觀其無恐",
+    "description": "古代试察法不具现代测评可靠性，不可故意制造危险验忠。"
+  },
+  {
+    "passage_id": "LT-07-001",
+    "kind": "source_wording_preserved",
+    "source_phrase": "日中必彗",
+    "description": "主本与四库电子同作彗；不据记忆改为常见异字，宽述为及时动作之喻。",
+    "comparison": {
+      "page_title": "六韜 (四庫全書本)/卷1",
+      "revision": 765100,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71&oldid=765100",
+      "raw_file": "pages/body-fixed-260866.wikitext",
+      "reading": "日中必彗操刀必割",
+      "source_start": 2172,
+      "source_end": 2180,
+      "source_line": 35,
+      "collation_scope": "limited-pinned-electronic-passage-comparison; not image collation"
+    }
+  },
+  {
+    "passage_id": "LT-07-001",
+    "kind": "coercion",
+    "source_phrase": "逆者，絕之以力",
+    "description": "和服论述含强制，对不同意见不可照搬斩绝。"
+  },
+  {
+    "passage_id": "LT-08-001",
+    "kind": "ancient_cosmology",
+    "source_phrase": "故發之以其陰，會之以其陽",
+    "description": "阴阳民机语言含混，不编成确定预测术。"
+  },
+  {
+    "passage_id": "LT-09-001",
+    "kind": "authority_and_dissent",
+    "source_phrase": "士有抗志高節",
+    "description": "本篇也从忠君立场排斥独立高节及外交，不能把六贼七害整体当现代价值表。"
+  },
+  {
+    "passage_id": "LT-09-001",
+    "kind": "violence",
+    "source_phrase": "可殺而不殺，大賊乃發",
+    "description": "严酷威刑是原论一部分，不把它洗成温和领导力。"
+  },
+  {
+    "passage_id": "LT-10-001",
+    "kind": "innocence_and_faction",
+    "source_phrase": "忠臣死於無罪",
+    "description": "朋党虚誉的后果包括无辜丧生，不能缩成单纯招聘失误。"
+  },
+  {
+    "passage_id": "LT-11-001",
+    "kind": "deterrence_boundary",
+    "source_phrase": "罰一以懲眾",
+    "description": "威慑目的不能取消事实、程序和比例，更不能找替罪者。"
+  },
+  {
+    "passage_id": "LT-12-001",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "聖有將動",
+    "description": "主本有字序照存；四库电子作聖人將動，异文不拼入主本。",
+    "comparison": {
+      "page_title": "六韜 (四庫全書本)/卷2",
+      "revision": 765104,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72&oldid=765104",
+      "raw_file": "pages/body-fixed-260867.wikitext",
+      "reading": "聖人將動必有愚色",
+      "source_start": 590,
+      "source_end": 598,
+      "source_line": 16,
+      "collation_scope": "limited-pinned-electronic-passage-comparison; not image collation"
+    }
+  },
+  {
+    "passage_id": "LT-12-001",
+    "kind": "source_script_preserved",
+    "source_phrase": "无取于天下者",
+    "description": "主文此处混简体，仍原样显示，不反向繁化或改为对读本。"
+  },
+  {
+    "passage_id": "LT-13-001",
+    "kind": "source_phrase_or_boundary",
+    "source_phrase": "萬國不通，各樂其所",
+    "description": "不通与各乐其所处于古代安定理想，不能自动等于封闭政策或现代自治。"
+  },
+  {
+    "passage_id": "LT-14-001",
+    "kind": "source_wording_preserved",
+    "source_phrase": "嚴其忠臣，而薄其賂",
+    "description": "严字和这节离间步骤细义保留；四库电子同有严，不改作貌似更顺的字。",
+    "comparison": {
+      "page_title": "六韜 (四庫全書本)/卷2",
+      "revision": 765104,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72&oldid=765104",
+      "raw_file": "pages/body-fixed-260867.wikitext",
+      "reading": "嚴其忠臣而薄其賂",
+      "source_start": 1295,
+      "source_end": 1303,
+      "source_line": 28,
+      "collation_scope": "limited-pinned-electronic-passage-comparison; not image collation"
+    }
+  },
+  {
+    "passage_id": "LT-14-001",
+    "kind": "manipulation_and_bribery",
+    "source_phrase": "陰賂左右",
+    "description": "十二节实含贿赂、离间、操纵与性别物化，现代只作历史理解和风险识别。"
+  },
+  {
+    "passage_id": "LT-14-001",
+    "kind": "source_phrase_or_boundary",
+    "source_phrase": "塞之以道",
+    "description": "道在这套封塞空间的权谋中使用，不因字面道而作伦理正当。"
+  },
+  {
+    "passage_id": "LT-15-001",
+    "kind": "anachronism",
+    "source_phrase": "天下者非一人之天下",
+    "description": "公共利益倾向不直接证明现代民主或主权制度已在此成立。"
+  },
+  {
+    "passage_id": "LT-16-001",
+    "kind": "necessity_boundary",
+    "source_phrase": "不得已而用之",
+    "description": "书内自称必要不自动确立现实动武的合法或正当。"
+  },
+  {
+    "passage_id": "LT-17-001",
+    "kind": "manipulation",
+    "source_phrase": "淫之以色，啗之以利",
+    "description": "诱欲塞明与离亲散众是操纵，后文惠民不抵销前部手段。"
+  },
+  {
+    "passage_id": "LT-18-001",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "攻鈗",
+    "description": "主本异字保留；四库对应攻銳。上下文只宽述冒难进攻，不把鈗训成已定器物。",
+    "comparison": {
+      "page_title": "六韜 (四庫全書本)/卷3",
+      "revision": 765108,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73&oldid=765108",
+      "raw_file": "pages/body-fixed-260868.wikitext",
+      "reading": "使冒難攻銳無所疑慮",
+      "source_start": 641,
+      "source_end": 650,
+      "source_line": 17,
+      "collation_scope": "limited-pinned-electronic-passage-comparison; not image collation"
+    }
+  },
+  {
+    "passage_id": "LT-18-001",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "方士二人",
+    "description": "主本二人，四库电子三人；主本所列人数合72，参考异文不据此回改。",
+    "comparison": {
+      "page_title": "六韜 (四庫全書本)/卷3",
+      "revision": 765108,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73&oldid=765108",
+      "raw_file": "pages/body-fixed-260868.wikitext",
+      "reading": "方士三人主百藥以治金瘡以痊萬病",
+      "source_start": 739,
+      "source_end": 754,
+      "source_line": 19,
+      "collation_scope": "limited-pinned-electronic-passage-comparison; not image collation"
+    }
+  },
+  {
+    "passage_id": "LT-18-001",
+    "kind": "occult_and_medical_boundary",
+    "source_phrase": "依託鬼神，以惑眾心",
+    "description": "主文明说惑众，不能当作真实神助；百药痊万病也不是医疗证据。"
+  },
+  {
+    "passage_id": "LT-19-001",
+    "kind": "numerical_rhetoric",
+    "source_phrase": "期不十日，不有亡國",
+    "description": "十日内必有亡国破军杀将为强断警句，不是普遍战期统计。"
+  },
+  {
+    "passage_id": "LT-19-001",
+    "kind": "source_phrase_or_boundary",
+    "source_phrase": "可事也",
+    "description": "针对刚毅自用者的事字细义未定，不自行补入操纵步骤。"
+  },
+  {
+    "passage_id": "LT-20-001",
+    "kind": "coercive_testing",
+    "source_phrase": "試之以色",
+    "description": "酒色危难试察可能伤害自主、隐私与安全，不是现代面试规则。"
+  },
+  {
+    "passage_id": "LT-21-001",
+    "kind": "later_bibliographical_opinion",
+    "source_phrase": "君避正殿",
+    "description": "四库提要用此判断晚出；这里只记清代编者意见，不据单词完成今本断代。"
+  },
+  {
+    "passage_id": "LT-21-001",
+    "kind": "authorization_boundary",
+    "source_phrase": "無君於後",
+    "description": "战场专任的极言，不等于现代负责人免监督或有生杀权。"
+  },
+  {
+    "passage_id": "LT-22-001",
+    "kind": "lethal_deterrence",
+    "source_phrase": "殺一人而三軍震",
+    "description": "杀人立威的残酷性照存；刑及贵与赏及小不能直接改写成现代公平程序。"
+  },
+  {
+    "passage_id": "LT-23-001",
+    "kind": "life_and_mobilization",
+    "source_phrase": "士非好死而樂傷也",
+    "description": "同苦激励目标仍指赴刃，现代转用应保护生命，不以同苦换牺牲。"
+  },
+  {
+    "passage_id": "LT-24-001",
+    "kind": "communication_and_bibliography",
+    "source_phrase": "主與將有陰符，凡八等",
+    "description": "长度编码不具已证现代保密效力；清代书目对阴符意义的讥评是另一层判断。"
+  },
+  {
+    "passage_id": "LT-24-001",
+    "kind": "wording_and_lethal_punishment",
+    "source_phrase": "告者皆誅之",
+    "description": "泄密、滞留及告者的句法适用范围保留，原文处以诛罚，不净化成普通保密纪律。"
+  },
+  {
+    "passage_id": "LT-25-001",
+    "kind": "cryptography_boundary",
+    "source_phrase": "書皆一合而再離，三發而一知",
+    "description": "三分分持不等于现代密码学秘密共享，原文没给验证或恢复机制。"
+  },
+  {
+    "passage_id": "LT-26-001",
+    "kind": "decision_preconditions",
+    "source_phrase": "未見形而戰，雖眾必敗",
+    "description": "不忽略察形和不胜则止前提，不能单摘忌犹疑鼓励信息不足时冒进。"
+  },
+  {
+    "passage_id": "LT-27-001",
+    "kind": "deception_boundary",
+    "source_phrase": "偽稱敵使者",
+    "description": "同服、伪使、重刑等战争诡诈原样保存，不作现代日常交往准则。"
+  },
+  {
+    "passage_id": "LT-28-001",
+    "kind": "divination_not_science",
+    "source_phrase": "去九百步外",
+    "description": "精细距离不证明律管五行候敌有效；古代尺度不强换现代米。"
+  },
+  {
+    "passage_id": "LT-29-001",
+    "kind": "divination_not_science",
+    "source_phrase": "城之氣出而南",
+    "description": "城气方向、神助与十日不雷雨的预测不具本项目核实的科学依据。"
+  },
+  {
+    "passage_id": "LT-29-001",
+    "kind": "violence",
+    "source_phrase": "城可屠",
+    "description": "攻城杀伤意向不可净化成抽象成功指标。"
+  },
+  {
+    "passage_id": "LT-30-001",
+    "kind": "civilian_military_boundary",
+    "source_phrase": "耒耜者，其行馬蒺藜也",
+    "description": "农器军用化保持历史语境，不转成现代武器改装指南；动员成本与征用权利要另核。"
+  },
+  {
+    "passage_id": "LT-31-001",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "武衝大扶胥",
+    "description": "首项主本武衝，对读武衛；不据参考回改器物名。",
+    "comparison": {
+      "page_title": "六韜 (四庫全書本)/卷4",
+      "revision": 631805,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74&oldid=631805",
+      "raw_file": "pages/body-fixed-260869.wikitext",
+      "reading": "武衛大扶胥三十六乘",
+      "source_start": 298,
+      "source_end": 307,
+      "source_line": 10,
+      "collation_scope": "limited-pinned-electronic-passage-comparison; not image collation"
+    }
+  },
+  {
+    "passage_id": "LT-31-001",
+    "kind": "source_phrase_or_boundary",
+    "source_phrase": "銅築固爲垂",
+    "description": "器物字句难明，参考对应含未解SKchar，暂不训成确定现代器具，更不据此复原制造。"
+  },
+  {
+    "passage_id": "LT-31-001",
+    "kind": "historical_numbers_and_technical_boundary",
+    "source_phrase": "甲士萬人，強弩六千",
+    "description": "编额、器物、尺度与重量是源文配置，不是已核军事实测或现代工程参数。"
+  },
+  {
+    "passage_id": "LT-32-001",
+    "kind": "markup_and_ancient_notes",
+    "source_phrase": "斗柄",
+    "description": "源繁简转换标记只确定显示斗；两条兵家取此象/利的古注保留于editorial_notes，不混入正文。"
+  },
+  {
+    "passage_id": "LT-33-001",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "中軍迭前迭後",
+    "description": "主本迭后，对读送后；只记电子异文不改主本。",
+    "comparison": {
+      "page_title": "六韜 (四庫全書本)/卷4",
+      "revision": 631805,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74&oldid=631805",
+      "raw_file": "pages/body-fixed-260869.wikitext",
+      "reading": "中軍迭前送後",
+      "source_start": 1604,
+      "source_end": 1610,
+      "source_line": 34,
+      "collation_scope": "limited-pinned-electronic-passage-comparison; not image collation"
+    }
+  },
+  {
+    "passage_id": "LT-34-001",
+    "kind": "coercive_desperation",
+    "source_phrase": "先燔吾輜重，燒吾糧食",
+    "description": "自毁物资迫死战是古代绝境动员，不作组织管理或个人自害鼓励。"
+  },
+  {
+    "passage_id": "LT-35-001",
+    "kind": "source_formatting_wording_anomaly",
+    "source_phrase": "太公曰：」太公曰：",
+    "description": "主本引语起止和答者标记重复，照原貌保留；不制造第二位答者或静默删除。"
+  },
+  {
+    "passage_id": "LT-39-001",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "吾盟誤失",
+    "description": "源字句难通；对读为吾{{SKchar|1974}}望誤失，未解字形不猜补主本。",
+    "comparison": {
+      "page_title": "六韜 (四庫全書本)/卷4",
+      "revision": 631805,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74&oldid=631805",
+      "raw_file": "pages/body-fixed-260869.wikitext",
+      "reading": "吾{{SKchar|1974}}望誤失",
+      "source_start": 3418,
+      "source_end": 3437,
+      "source_line": 50,
+      "collation_scope": "limited-pinned-electronic-passage-comparison; not image collation"
+    }
+  },
+  {
+    "passage_id": "LT-39-001",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "去敵二百里",
+    "description": "主本200里，对读20里；都不强换现代距离或当通用侦察标准。",
+    "comparison": {
+      "page_title": "六韜 (四庫全書本)/卷4",
+      "revision": 631805,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74&oldid=631805",
+      "raw_file": "pages/body-fixed-260869.wikitext",
+      "reading": "去敵二十里",
+      "source_start": 3512,
+      "source_end": 3517,
+      "source_line": 50,
+      "collation_scope": "limited-pinned-electronic-passage-comparison; not image collation"
+    }
+  },
+  {
+    "passage_id": "LT-40-001",
+    "kind": "siege_and_protection_boundary",
+    "source_phrase": "降者勿殺，得而勿戮",
+    "description": "保护降者和财物与长期断粮围城并存；不等同现代战争法，也不为围困平民免责。"
+  },
+  {
+    "passage_id": "LT-41-001",
+    "kind": "fire_safety_boundary",
+    "source_phrase": "見火起，即燔吾前",
+    "description": "古代火战不是现代火场逃生指南；火势、烟气、人员条件高度复杂，不照搬。"
+  },
+  {
+    "passage_id": "LT-42-001",
+    "kind": "source_phrase_or_boundary",
+    "source_phrase": "以少擊眾，則必敗矣",
+    "description": "败的主语与末句衔接存在解读余地；不硬译为己方必败或保证少胜众。"
+  },
+  {
+    "passage_id": "LT-44-001",
+    "kind": "source_phrase_or_boundary",
+    "source_phrase": "必會於晦",
+    "description": "晦的时点含义需保留，不能无据精确指定日期或把相会必胜当定律。"
+  },
+  {
+    "passage_id": "LT-47-001",
+    "kind": "source_phrase_or_boundary",
+    "source_phrase": "處山之高，則為敵所栖",
+    "description": "源栖字及高下困境语义不强定成现代高地必败定律。"
+  },
+  {
+    "passage_id": "LT-48-001",
+    "kind": "metaphor_not_occult",
+    "source_phrase": "烏散而雲合",
+    "description": "乌云是文本自释的分散聚合比喻，不是天气预测或神秘阵法。"
+  },
+  {
+    "passage_id": "LT-51-001",
+    "kind": "lethal_discipline",
+    "source_phrase": "後期至者斬",
+    "description": "严刑同步的代价明示，不移成现代项目延期惩罚。"
+  },
+  {
+    "passage_id": "LT-53-001",
+    "kind": "vulnerability_and_coercion",
+    "source_phrase": "有貧窮忿怒",
+    "description": "利用贫困、失势、复仇和羞耻组织敢死者的逻辑照存，不倡动员弱势者牺牲。"
+  },
+  {
+    "passage_id": "LT-54-001",
+    "kind": "historical_scaling",
+    "source_phrase": "百萬之眾",
+    "description": "层级训练扩大至百万是文本规模宣称，不是已核演训效果或无上限扩展规律。"
+  },
+  {
+    "passage_id": "LT-55-001",
+    "kind": "numerical_boundary",
+    "source_phrase": "一車當步卒八十人",
+    "description": "平易/险地车骑步折算是古代文本大数，不能当现代通用效能或人力换算公式。"
+  },
+  {
+    "passage_id": "LT-56-001",
+    "kind": "body_and_measurement_boundary",
+    "source_phrase": "長七尺五寸以上",
+    "description": "年龄身长与八石弩力为古代兵种选拔指标；尺度不强折现代值，也不作普通招聘门槛。"
+  },
+  {
+    "passage_id": "LT-57-001",
+    "kind": "body_and_role_boundary",
+    "source_phrase": "長七尺五寸以上",
+    "description": "骑士体格、驰射和越险要求是古代战斗岗位，不是普遍人格优劣标准。"
+  },
+  {
+    "passage_id": "LT-58-001",
+    "kind": "absolute_victory_claim",
+    "source_phrase": "萬戰必勝",
+    "description": "十害八胜是情境分类，万战必胜为夸张结果，不作可靠概率保证。"
+  },
+  {
+    "passage_id": "LT-59-001",
+    "kind": "enumeration_boundary",
+    "source_phrase": "此騎之十勝也",
+    "description": "本页十胜名下按八组敌人/地平段首可分八组，有的可能复合；不补造两项，不据现代分组断言古本缺文。"
+  },
+  {
+    "passage_id": "LT-60-001",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "均置蒺莉",
+    "description": "主本此处莉，前文多藜；四库电子相应为藜，只作字差保存。",
+    "comparison": {
+      "page_title": "六韜 (四庫全書本)/卷6",
+      "revision": 631809,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B76&oldid=631809",
+      "raw_file": "pages/body-fixed-260871.wikitext",
+      "reading": "均置蒺藜",
+      "source_start": 2798,
+      "source_end": 2802,
+      "source_line": 29,
+      "collation_scope": "limited-pinned-electronic-passage-comparison; not image collation"
+    }
+  }
+]

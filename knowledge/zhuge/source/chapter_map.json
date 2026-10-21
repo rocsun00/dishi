@@ -1,0 +1,249 @@
+{
+  "chapter_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "chapter_unit": "整理单元",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "早年、隆中对与荆州变局",
+      "passage_count": 6,
+      "passage_ids": [
+        "ZGL-01-001",
+        "ZGL-01-002",
+        "ZGL-01-003",
+        "ZGL-01-004",
+        "ZGL-01-005",
+        "ZGL-01-006"
+      ],
+      "layers": [
+        "陈寿史传正文"
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "出使孙权与赤壁联盟",
+      "passage_count": 5,
+      "passage_ids": [
+        "ZGL-02-001",
+        "ZGL-02-002",
+        "ZGL-02-003",
+        "ZGL-02-004",
+        "ZGL-02-005"
+      ],
+      "layers": [
+        "陈寿史传正文"
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "入蜀、劝进与托孤",
+      "passage_count": 5,
+      "passage_ids": [
+        "ZGL-03-001",
+        "ZGL-03-002",
+        "ZGL-03-003",
+        "ZGL-03-004",
+        "ZGL-03-005"
+      ],
+      "layers": [
+        "陈寿史传正文"
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "正议（裴注引亮集）",
+      "passage_count": 3,
+      "passage_ids": [
+        "ZGL-04-001",
+        "ZGL-04-002",
+        "ZGL-04-003"
+      ],
+      "layers": [
+        "裴松之注引《亮集》"
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "南征与前出师表",
+      "passage_count": 11,
+      "passage_ids": [
+        "ZGL-05-001",
+        "ZGL-05-002",
+        "ZGL-05-003",
+        "ZGL-05-004",
+        "ZGL-05-005",
+        "ZGL-05-006",
+        "ZGL-05-007",
+        "ZGL-05-008",
+        "ZGL-05-009",
+        "ZGL-05-010",
+        "ZGL-05-011"
+      ],
+      "layers": [
+        "陈寿史传正文",
+        "陈寿正文嵌载文书"
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "初次北伐与街亭自贬",
+      "passage_count": 6,
+      "passage_ids": [
+        "ZGL-06-001",
+        "ZGL-06-002",
+        "ZGL-06-003",
+        "ZGL-06-004",
+        "ZGL-06-005",
+        "ZGL-06-006"
+      ],
+      "layers": [
+        "陈寿史传正文"
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "后出师表（归属有争议附录）",
+      "passage_count": 8,
+      "passage_ids": [
+        "ZGL-07-001",
+        "ZGL-07-002",
+        "ZGL-07-003",
+        "ZGL-07-004",
+        "ZGL-07-005",
+        "ZGL-07-006",
+        "ZGL-07-007",
+        "ZGL-07-008"
+      ],
+      "layers": [
+        "归属有争议文献"
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "再北伐、身后安排与政务遗产",
+      "passage_count": 10,
+      "passage_ids": [
+        "ZGL-08-001",
+        "ZGL-08-002",
+        "ZGL-08-003",
+        "ZGL-08-004",
+        "ZGL-08-005",
+        "ZGL-08-006",
+        "ZGL-08-007",
+        "ZGL-08-008",
+        "ZGL-08-009",
+        "ZGL-08-010"
+      ],
+      "layers": [
+        "陈寿史传正文"
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "诸葛氏集旧目录与陈寿进集表",
+      "passage_count": 6,
+      "passage_ids": [
+        "ZGL-09-001",
+        "ZGL-09-002",
+        "ZGL-09-003",
+        "ZGL-09-004",
+        "ZGL-09-005",
+        "ZGL-09-006"
+      ],
+      "layers": [
+        "陈寿旧集目录及进集表",
+        "陈寿进集表"
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "与兄瑾言子乔书（存文）",
+      "passage_count": 1,
+      "passage_ids": [
+        "ZGL-10-001"
+      ],
+      "layers": [
+        "裴注引《亮集》家书片段"
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "与兄瑾言子瞻书（存文）",
+      "passage_count": 1,
+      "passage_ids": [
+        "ZGL-11-001"
+      ],
+      "layers": [
+        "陈寿附传嵌载家书片段"
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "陈寿论诸葛亮",
+      "passage_count": 3,
+      "passage_ids": [
+        "ZGL-12-001",
+        "ZGL-12-002",
+        "ZGL-12-003"
+      ],
+      "layers": [
+        "陈寿史论"
+      ]
+    },
+    {
+      "chapter": 13,
+      "title": "答李严书（裴注引集存文）",
+      "passage_count": 3,
+      "passage_ids": [
+        "ZGL-13-001",
+        "ZGL-13-002",
+        "ZGL-13-003"
+      ],
+      "layers": [
+        "裴松之注引《诸葛亮集》"
+      ]
+    },
+    {
+      "chapter": 14,
+      "title": "诫外甥书（太平御览存文）",
+      "passage_count": 3,
+      "passage_ids": [
+        "ZGL-14-001",
+        "ZGL-14-002",
+        "ZGL-14-003"
+      ],
+      "layers": [
+        "宋类书引文"
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "诫子书（太平御览存文）",
+      "passage_count": 4,
+      "passage_ids": [
+        "ZGL-15-001",
+        "ZGL-15-002",
+        "ZGL-15-003",
+        "ZGL-15-004"
+      ],
+      "layers": [
+        "宋类书引文"
+      ]
+    }
+  ]
+}

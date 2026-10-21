@@ -1,0 +1,1536 @@
+{
+  "schema_version": 1,
+  "normalization": "wiki-body-v1",
+  "segments": [
+    {
+      "kind": "excluded",
+      "start": 0,
+      "end": 80,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-01-001",
+      "start": 80,
+      "end": 119
+    },
+    {
+      "kind": "excluded",
+      "start": 119,
+      "end": 123,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-01-002",
+      "start": 123,
+      "end": 175
+    },
+    {
+      "kind": "excluded",
+      "start": 175,
+      "end": 179,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-01-003",
+      "start": 179,
+      "end": 352
+    },
+    {
+      "kind": "excluded",
+      "start": 352,
+      "end": 356,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-01-004",
+      "start": 356,
+      "end": 364
+    },
+    {
+      "kind": "excluded",
+      "start": 364,
+      "end": 368,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-01-005",
+      "start": 368,
+      "end": 452
+    },
+    {
+      "kind": "excluded",
+      "start": 452,
+      "end": 456,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-01-006",
+      "start": 456,
+      "end": 576
+    },
+    {
+      "kind": "excluded",
+      "start": 576,
+      "end": 580,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-01-007",
+      "start": 580,
+      "end": 623
+    },
+    {
+      "kind": "excluded",
+      "start": 623,
+      "end": 627,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-01-008",
+      "start": 627,
+      "end": 782
+    },
+    {
+      "kind": "excluded",
+      "start": 782,
+      "end": 786,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-01-009",
+      "start": 786,
+      "end": 838
+    },
+    {
+      "kind": "excluded",
+      "start": 838,
+      "end": 842,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-01-010",
+      "start": 842,
+      "end": 850
+    },
+    {
+      "kind": "excluded",
+      "start": 850,
+      "end": 865,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-001",
+      "start": 865,
+      "end": 932
+    },
+    {
+      "kind": "excluded",
+      "start": 932,
+      "end": 936,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-002",
+      "start": 936,
+      "end": 1043
+    },
+    {
+      "kind": "excluded",
+      "start": 1043,
+      "end": 1047,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-003",
+      "start": 1047,
+      "end": 1119
+    },
+    {
+      "kind": "excluded",
+      "start": 1119,
+      "end": 1123,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-004",
+      "start": 1123,
+      "end": 1180
+    },
+    {
+      "kind": "excluded",
+      "start": 1180,
+      "end": 1184,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-005",
+      "start": 1184,
+      "end": 1263
+    },
+    {
+      "kind": "excluded",
+      "start": 1263,
+      "end": 1267,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-006",
+      "start": 1267,
+      "end": 1320
+    },
+    {
+      "kind": "excluded",
+      "start": 1320,
+      "end": 1324,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-007",
+      "start": 1324,
+      "end": 1408
+    },
+    {
+      "kind": "excluded",
+      "start": 1408,
+      "end": 1412,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-008",
+      "start": 1412,
+      "end": 1450
+    },
+    {
+      "kind": "excluded",
+      "start": 1450,
+      "end": 1454,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-009",
+      "start": 1454,
+      "end": 1487
+    },
+    {
+      "kind": "excluded",
+      "start": 1487,
+      "end": 1491,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-010",
+      "start": 1491,
+      "end": 1582
+    },
+    {
+      "kind": "excluded",
+      "start": 1582,
+      "end": 1586,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-011",
+      "start": 1586,
+      "end": 1647
+    },
+    {
+      "kind": "excluded",
+      "start": 1647,
+      "end": 1651,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-012",
+      "start": 1651,
+      "end": 1706
+    },
+    {
+      "kind": "excluded",
+      "start": 1706,
+      "end": 1710,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-013",
+      "start": 1710,
+      "end": 1778
+    },
+    {
+      "kind": "excluded",
+      "start": 1778,
+      "end": 1782,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-014",
+      "start": 1782,
+      "end": 1881
+    },
+    {
+      "kind": "excluded",
+      "start": 1881,
+      "end": 1885,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-015",
+      "start": 1885,
+      "end": 1985
+    },
+    {
+      "kind": "excluded",
+      "start": 1985,
+      "end": 1989,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-016",
+      "start": 1989,
+      "end": 2101
+    },
+    {
+      "kind": "excluded",
+      "start": 2101,
+      "end": 2105,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-017",
+      "start": 2105,
+      "end": 2137
+    },
+    {
+      "kind": "excluded",
+      "start": 2137,
+      "end": 2141,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-018",
+      "start": 2141,
+      "end": 2238
+    },
+    {
+      "kind": "excluded",
+      "start": 2238,
+      "end": 2242,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-019",
+      "start": 2242,
+      "end": 2289
+    },
+    {
+      "kind": "excluded",
+      "start": 2289,
+      "end": 2293,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-02-020",
+      "start": 2293,
+      "end": 2356
+    },
+    {
+      "kind": "excluded",
+      "start": 2356,
+      "end": 2371,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-03-001",
+      "start": 2371,
+      "end": 2439
+    },
+    {
+      "kind": "excluded",
+      "start": 2439,
+      "end": 2443,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-03-002",
+      "start": 2443,
+      "end": 2614
+    },
+    {
+      "kind": "excluded",
+      "start": 2614,
+      "end": 2618,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-03-003",
+      "start": 2618,
+      "end": 3001
+    },
+    {
+      "kind": "excluded",
+      "start": 3001,
+      "end": 3005,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-03-004",
+      "start": 3005,
+      "end": 3173
+    },
+    {
+      "kind": "excluded",
+      "start": 3173,
+      "end": 3177,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-03-005",
+      "start": 3177,
+      "end": 3397
+    },
+    {
+      "kind": "excluded",
+      "start": 3397,
+      "end": 3401,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-03-006",
+      "start": 3401,
+      "end": 3771
+    },
+    {
+      "kind": "excluded",
+      "start": 3771,
+      "end": 3775,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-03-007",
+      "start": 3775,
+      "end": 4105
+    },
+    {
+      "kind": "excluded",
+      "start": 4105,
+      "end": 4109,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-03-008",
+      "start": 4109,
+      "end": 4340
+    },
+    {
+      "kind": "excluded",
+      "start": 4340,
+      "end": 4355,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-04-001",
+      "start": 4355,
+      "end": 4476
+    },
+    {
+      "kind": "excluded",
+      "start": 4476,
+      "end": 4480,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-04-002",
+      "start": 4480,
+      "end": 4680
+    },
+    {
+      "kind": "excluded",
+      "start": 4680,
+      "end": 4684,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-04-003",
+      "start": 4684,
+      "end": 4877
+    },
+    {
+      "kind": "excluded",
+      "start": 4877,
+      "end": 4881,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-04-004",
+      "start": 4881,
+      "end": 5052
+    },
+    {
+      "kind": "excluded",
+      "start": 5052,
+      "end": 5056,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-04-005",
+      "start": 5056,
+      "end": 5239
+    },
+    {
+      "kind": "excluded",
+      "start": 5239,
+      "end": 5243,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-04-006",
+      "start": 5243,
+      "end": 5323
+    },
+    {
+      "kind": "excluded",
+      "start": 5323,
+      "end": 5327,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-04-007",
+      "start": 5327,
+      "end": 5574
+    },
+    {
+      "kind": "excluded",
+      "start": 5574,
+      "end": 5701,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-05-001",
+      "start": 5701,
+      "end": 5831
+    },
+    {
+      "kind": "excluded",
+      "start": 5831,
+      "end": 5835,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-05-002",
+      "start": 5835,
+      "end": 5934
+    },
+    {
+      "kind": "excluded",
+      "start": 5934,
+      "end": 5938,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-05-003",
+      "start": 5938,
+      "end": 6043
+    },
+    {
+      "kind": "excluded",
+      "start": 6043,
+      "end": 6047,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-05-004",
+      "start": 6047,
+      "end": 6242
+    },
+    {
+      "kind": "excluded",
+      "start": 6242,
+      "end": 6246,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-05-005",
+      "start": 6246,
+      "end": 6388
+    },
+    {
+      "kind": "excluded",
+      "start": 6388,
+      "end": 6392,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-05-006",
+      "start": 6392,
+      "end": 6681
+    },
+    {
+      "kind": "excluded",
+      "start": 6681,
+      "end": 6685,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-05-007",
+      "start": 6685,
+      "end": 6884
+    },
+    {
+      "kind": "excluded",
+      "start": 6884,
+      "end": 6899,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-06-001",
+      "start": 6899,
+      "end": 7197
+    },
+    {
+      "kind": "excluded",
+      "start": 7197,
+      "end": 7201,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-06-002",
+      "start": 7201,
+      "end": 7385
+    },
+    {
+      "kind": "excluded",
+      "start": 7385,
+      "end": 7389,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-06-003",
+      "start": 7389,
+      "end": 7561
+    },
+    {
+      "kind": "excluded",
+      "start": 7561,
+      "end": 7565,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-06-004",
+      "start": 7565,
+      "end": 7805
+    },
+    {
+      "kind": "excluded",
+      "start": 7805,
+      "end": 7809,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-06-005",
+      "start": 7809,
+      "end": 8198
+    },
+    {
+      "kind": "excluded",
+      "start": 8198,
+      "end": 8202,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-06-006",
+      "start": 8202,
+      "end": 8471
+    },
+    {
+      "kind": "excluded",
+      "start": 8471,
+      "end": 8475,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-06-007",
+      "start": 8475,
+      "end": 8828
+    },
+    {
+      "kind": "excluded",
+      "start": 8828,
+      "end": 8843,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-07-001",
+      "start": 8843,
+      "end": 9176
+    },
+    {
+      "kind": "excluded",
+      "start": 9176,
+      "end": 9180,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-07-002",
+      "start": 9180,
+      "end": 9505
+    },
+    {
+      "kind": "excluded",
+      "start": 9505,
+      "end": 9509,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-07-003",
+      "start": 9509,
+      "end": 9753
+    },
+    {
+      "kind": "excluded",
+      "start": 9753,
+      "end": 9757,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-07-004",
+      "start": 9757,
+      "end": 9961
+    },
+    {
+      "kind": "excluded",
+      "start": 9961,
+      "end": 9965,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-07-005",
+      "start": 9965,
+      "end": 10122
+    },
+    {
+      "kind": "excluded",
+      "start": 10122,
+      "end": 10272,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-08-001",
+      "start": 10272,
+      "end": 10540
+    },
+    {
+      "kind": "excluded",
+      "start": 10540,
+      "end": 10544,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-08-002",
+      "start": 10544,
+      "end": 10761
+    },
+    {
+      "kind": "excluded",
+      "start": 10761,
+      "end": 10765,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-08-003",
+      "start": 10765,
+      "end": 11029
+    },
+    {
+      "kind": "excluded",
+      "start": 11029,
+      "end": 11044,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-09-001",
+      "start": 11044,
+      "end": 11285
+    },
+    {
+      "kind": "excluded",
+      "start": 11285,
+      "end": 11289,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-09-002",
+      "start": 11289,
+      "end": 11592
+    },
+    {
+      "kind": "excluded",
+      "start": 11592,
+      "end": 11596,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-09-003",
+      "start": 11596,
+      "end": 11745
+    },
+    {
+      "kind": "excluded",
+      "start": 11745,
+      "end": 11749,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-09-004",
+      "start": 11749,
+      "end": 11861
+    },
+    {
+      "kind": "excluded",
+      "start": 11861,
+      "end": 11876,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-10-001",
+      "start": 11876,
+      "end": 12035
+    },
+    {
+      "kind": "excluded",
+      "start": 12035,
+      "end": 12039,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-10-002",
+      "start": 12039,
+      "end": 12190
+    },
+    {
+      "kind": "excluded",
+      "start": 12190,
+      "end": 12206,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-11-001",
+      "start": 12206,
+      "end": 12455
+    },
+    {
+      "kind": "excluded",
+      "start": 12455,
+      "end": 12471,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-12-001",
+      "start": 12471,
+      "end": 12563
+    },
+    {
+      "kind": "excluded",
+      "start": 12563,
+      "end": 12567,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-12-002",
+      "start": 12567,
+      "end": 12962
+    },
+    {
+      "kind": "excluded",
+      "start": 12962,
+      "end": 12978,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-13-001",
+      "start": 12978,
+      "end": 13169
+    },
+    {
+      "kind": "excluded",
+      "start": 13169,
+      "end": 13173,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-13-002",
+      "start": 13173,
+      "end": 13461
+    },
+    {
+      "kind": "excluded",
+      "start": 13461,
+      "end": 13465,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-13-003",
+      "start": 13465,
+      "end": 13694
+    },
+    {
+      "kind": "excluded",
+      "start": 13694,
+      "end": 13698,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-13-004",
+      "start": 13698,
+      "end": 13850
+    },
+    {
+      "kind": "excluded",
+      "start": 13850,
+      "end": 13854,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-13-005",
+      "start": 13854,
+      "end": 13933
+    },
+    {
+      "kind": "excluded",
+      "start": 13933,
+      "end": 13949,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-14-001",
+      "start": 13949,
+      "end": 14181
+    },
+    {
+      "kind": "excluded",
+      "start": 14181,
+      "end": 14185,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-14-002",
+      "start": 14185,
+      "end": 14386
+    },
+    {
+      "kind": "excluded",
+      "start": 14386,
+      "end": 14390,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-14-003",
+      "start": 14390,
+      "end": 14628
+    },
+    {
+      "kind": "excluded",
+      "start": 14628,
+      "end": 14632,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-14-004",
+      "start": 14632,
+      "end": 14753
+    },
+    {
+      "kind": "excluded",
+      "start": 14753,
+      "end": 14904,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-15-001",
+      "start": 14904,
+      "end": 14992
+    },
+    {
+      "kind": "excluded",
+      "start": 14992,
+      "end": 14996,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-15-002",
+      "start": 14996,
+      "end": 15195
+    },
+    {
+      "kind": "excluded",
+      "start": 15195,
+      "end": 15199,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-15-003",
+      "start": 15199,
+      "end": 15431
+    },
+    {
+      "kind": "excluded",
+      "start": 15431,
+      "end": 15435,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-15-004",
+      "start": 15435,
+      "end": 15623
+    },
+    {
+      "kind": "excluded",
+      "start": 15623,
+      "end": 15627,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-15-005",
+      "start": 15627,
+      "end": 15824
+    },
+    {
+      "kind": "excluded",
+      "start": 15824,
+      "end": 15828,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-15-006",
+      "start": 15828,
+      "end": 16245
+    },
+    {
+      "kind": "excluded",
+      "start": 16245,
+      "end": 16261,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-17-001",
+      "start": 16261,
+      "end": 16358
+    },
+    {
+      "kind": "excluded",
+      "start": 16358,
+      "end": 16362,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-17-002",
+      "start": 16362,
+      "end": 16824
+    },
+    {
+      "kind": "excluded",
+      "start": 16824,
+      "end": 16828,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-17-003",
+      "start": 16828,
+      "end": 17299
+    },
+    {
+      "kind": "excluded",
+      "start": 17299,
+      "end": 17303,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-17-004",
+      "start": 17303,
+      "end": 17547
+    },
+    {
+      "kind": "excluded",
+      "start": 17547,
+      "end": 17551,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-17-005",
+      "start": 17551,
+      "end": 17677
+    },
+    {
+      "kind": "excluded",
+      "start": 17677,
+      "end": 17693,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-18-001",
+      "start": 17693,
+      "end": 17892
+    },
+    {
+      "kind": "excluded",
+      "start": 17892,
+      "end": 17896,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-18-002",
+      "start": 17896,
+      "end": 18267
+    },
+    {
+      "kind": "excluded",
+      "start": 18267,
+      "end": 18271,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-18-003",
+      "start": 18271,
+      "end": 18520
+    },
+    {
+      "kind": "excluded",
+      "start": 18520,
+      "end": 18524,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-18-004",
+      "start": 18524,
+      "end": 18641
+    },
+    {
+      "kind": "excluded",
+      "start": 18641,
+      "end": 18645,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-18-005",
+      "start": 18645,
+      "end": 18927
+    },
+    {
+      "kind": "excluded",
+      "start": 18927,
+      "end": 18931,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-18-006",
+      "start": 18931,
+      "end": 19119
+    },
+    {
+      "kind": "excluded",
+      "start": 19119,
+      "end": 19123,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-18-007",
+      "start": 19123,
+      "end": 19395
+    },
+    {
+      "kind": "excluded",
+      "start": 19395,
+      "end": 19544,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-19-001",
+      "start": 19544,
+      "end": 19613
+    },
+    {
+      "kind": "excluded",
+      "start": 19613,
+      "end": 19617,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-19-002",
+      "start": 19617,
+      "end": 19826
+    },
+    {
+      "kind": "excluded",
+      "start": 19826,
+      "end": 19830,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-19-003",
+      "start": 19830,
+      "end": 20171
+    },
+    {
+      "kind": "excluded",
+      "start": 20171,
+      "end": 20175,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-19-004",
+      "start": 20175,
+      "end": 20247
+    },
+    {
+      "kind": "excluded",
+      "start": 20247,
+      "end": 20251,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-19-005",
+      "start": 20251,
+      "end": 20458
+    },
+    {
+      "kind": "excluded",
+      "start": 20458,
+      "end": 20474,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-20-001",
+      "start": 20474,
+      "end": 20907
+    },
+    {
+      "kind": "excluded",
+      "start": 20907,
+      "end": 20911,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-20-002",
+      "start": 20911,
+      "end": 21193
+    },
+    {
+      "kind": "excluded",
+      "start": 21193,
+      "end": 21197,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-20-003",
+      "start": 21197,
+      "end": 21517
+    },
+    {
+      "kind": "excluded",
+      "start": 21517,
+      "end": 21558,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-22-001",
+      "start": 21558,
+      "end": 21806
+    },
+    {
+      "kind": "excluded",
+      "start": 21806,
+      "end": 21810,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-22-002",
+      "start": 21810,
+      "end": 22029
+    },
+    {
+      "kind": "excluded",
+      "start": 22029,
+      "end": 22033,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-22-003",
+      "start": 22033,
+      "end": 22087
+    },
+    {
+      "kind": "excluded",
+      "start": 22087,
+      "end": 22104,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-23-001",
+      "start": 22104,
+      "end": 22395
+    },
+    {
+      "kind": "excluded",
+      "start": 22395,
+      "end": 22399,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-23-002",
+      "start": 22399,
+      "end": 22635
+    },
+    {
+      "kind": "excluded",
+      "start": 22635,
+      "end": 22639,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-23-003",
+      "start": 22639,
+      "end": 22728
+    },
+    {
+      "kind": "excluded",
+      "start": 22728,
+      "end": 22745,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-24-001",
+      "start": 22745,
+      "end": 23041
+    },
+    {
+      "kind": "excluded",
+      "start": 23041,
+      "end": 23045,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-24-002",
+      "start": 23045,
+      "end": 23398
+    },
+    {
+      "kind": "excluded",
+      "start": 23398,
+      "end": 23415,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-25-001",
+      "start": 23415,
+      "end": 23741
+    },
+    {
+      "kind": "excluded",
+      "start": 23741,
+      "end": 23745,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-25-002",
+      "start": 23745,
+      "end": 23910
+    },
+    {
+      "kind": "excluded",
+      "start": 23910,
+      "end": 23914,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-25-003",
+      "start": 23914,
+      "end": 24279
+    },
+    {
+      "kind": "excluded",
+      "start": 24279,
+      "end": 24296,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-26-001",
+      "start": 24296,
+      "end": 24340
+    },
+    {
+      "kind": "excluded",
+      "start": 24340,
+      "end": 24344,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-26-002",
+      "start": 24344,
+      "end": 24645
+    },
+    {
+      "kind": "excluded",
+      "start": 24645,
+      "end": 24649,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-26-003",
+      "start": 24649,
+      "end": 24994
+    },
+    {
+      "kind": "excluded",
+      "start": 24994,
+      "end": 24998,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-26-004",
+      "start": 24998,
+      "end": 25396
+    },
+    {
+      "kind": "excluded",
+      "start": 25396,
+      "end": 25400,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "SJS-26-005",
+      "start": 25400,
+      "end": 25608
+    },
+    {
+      "kind": "excluded",
+      "start": 25608,
+      "end": 25665,
+      "reason": "网页头尾、附注、音义、跋或空白，未作正文"
+    }
+  ]
+}

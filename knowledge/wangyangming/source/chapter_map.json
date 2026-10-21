@@ -1,0 +1,2572 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "传习录上",
+      "source_title": "傳習錄/卷上",
+      "source_page": {
+        "title": "傳習錄/卷上",
+        "revision": 2603592,
+        "timestamp": "2025-10-05T05:47:40Z",
+        "url": "https://zh.wikisource.org/w/index.php?title=傳習錄/卷上&oldid=2603592",
+        "history_url": "https://zh.wikisource.org/w/index.php?title=傳習錄/卷上&action=history",
+        "raw_sha256": "18c034c52b8edad8235527050fa0f172e3898a963425a8f5b097fe46583087c4",
+        "start": 26,
+        "end": 32257,
+        "raw_file": "pages/01.wikitext",
+        "attribution": "中文维基文库《傳習錄/卷上》贡献者；作者/记录者详见本页源内题识",
+        "license": "CC BY-SA 4.0（站点数字文本条款；古代著作的公有领域属性与新增数字整理贡献分别理解）",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh"
+      },
+      "source_numbered_entries": "1–129",
+      "passage_ids": [
+        "WYM-01-001",
+        "WYM-01-002",
+        "WYM-01-003",
+        "WYM-01-004",
+        "WYM-01-005",
+        "WYM-01-006",
+        "WYM-01-007",
+        "WYM-01-008",
+        "WYM-01-009",
+        "WYM-01-010",
+        "WYM-01-011",
+        "WYM-01-012",
+        "WYM-01-013",
+        "WYM-01-014",
+        "WYM-01-015",
+        "WYM-01-016",
+        "WYM-01-017",
+        "WYM-01-018",
+        "WYM-01-019",
+        "WYM-01-020",
+        "WYM-01-021",
+        "WYM-01-022",
+        "WYM-01-023",
+        "WYM-01-024",
+        "WYM-01-025",
+        "WYM-01-026",
+        "WYM-01-027",
+        "WYM-01-028",
+        "WYM-01-029",
+        "WYM-01-030",
+        "WYM-01-031",
+        "WYM-01-032",
+        "WYM-01-033",
+        "WYM-01-034",
+        "WYM-01-035",
+        "WYM-01-036",
+        "WYM-01-037",
+        "WYM-01-038",
+        "WYM-01-039",
+        "WYM-01-040",
+        "WYM-01-041",
+        "WYM-01-042",
+        "WYM-01-043",
+        "WYM-01-044",
+        "WYM-01-045",
+        "WYM-01-046",
+        "WYM-01-047",
+        "WYM-01-048",
+        "WYM-01-049",
+        "WYM-01-050",
+        "WYM-01-051",
+        "WYM-01-052",
+        "WYM-01-053",
+        "WYM-01-054",
+        "WYM-01-055",
+        "WYM-01-056",
+        "WYM-01-057",
+        "WYM-01-058",
+        "WYM-01-059",
+        "WYM-01-060",
+        "WYM-01-061",
+        "WYM-01-062",
+        "WYM-01-063",
+        "WYM-01-064",
+        "WYM-01-065",
+        "WYM-01-066",
+        "WYM-01-067",
+        "WYM-01-068",
+        "WYM-01-069",
+        "WYM-01-070",
+        "WYM-01-071",
+        "WYM-01-072",
+        "WYM-01-073",
+        "WYM-01-074",
+        "WYM-01-075",
+        "WYM-01-076",
+        "WYM-01-077",
+        "WYM-01-078",
+        "WYM-01-079",
+        "WYM-01-080",
+        "WYM-01-081",
+        "WYM-01-082",
+        "WYM-01-083",
+        "WYM-01-084",
+        "WYM-01-085",
+        "WYM-01-086",
+        "WYM-01-087",
+        "WYM-01-088",
+        "WYM-01-089",
+        "WYM-01-090",
+        "WYM-01-091",
+        "WYM-01-092",
+        "WYM-01-093",
+        "WYM-01-094",
+        "WYM-01-095",
+        "WYM-01-096",
+        "WYM-01-097",
+        "WYM-01-098",
+        "WYM-01-099",
+        "WYM-01-100",
+        "WYM-01-101",
+        "WYM-01-102",
+        "WYM-01-103",
+        "WYM-01-104",
+        "WYM-01-105",
+        "WYM-01-106",
+        "WYM-01-107",
+        "WYM-01-108",
+        "WYM-01-109",
+        "WYM-01-110",
+        "WYM-01-111",
+        "WYM-01-112",
+        "WYM-01-113",
+        "WYM-01-114",
+        "WYM-01-115",
+        "WYM-01-116",
+        "WYM-01-117",
+        "WYM-01-118",
+        "WYM-01-119",
+        "WYM-01-120",
+        "WYM-01-121",
+        "WYM-01-122",
+        "WYM-01-123",
+        "WYM-01-124",
+        "WYM-01-125",
+        "WYM-01-126",
+        "WYM-01-127",
+        "WYM-01-128",
+        "WYM-01-129",
+        "WYM-01-130",
+        "WYM-01-131"
+      ],
+      "sections": [
+        {
+          "id": "WYM-01-001",
+          "part": "徐愛引言",
+          "source_section": "徐愛引言",
+          "attribution_layer": "门人序跋"
+        },
+        {
+          "id": "WYM-01-002",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号1",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-003",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号2",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-004",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号3",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-005",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号4",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-006",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号5",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-007",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号6",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-008",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号7",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-009",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号8",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-010",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号9",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-011",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号10",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-012",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号11",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-013",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号12",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-014",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号13",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-015",
+          "part": "以下門人徐愛錄",
+          "source_section": "源条号14",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-016",
+          "part": "徐愛跋",
+          "source_section": "徐愛跋",
+          "attribution_layer": "门人序跋"
+        },
+        {
+          "id": "WYM-01-017",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号15",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-018",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号16",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-019",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号17",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-020",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号18",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-021",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号19",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-022",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号20",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-023",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号21",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-024",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号22",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-025",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号23",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-026",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号24",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-027",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号25",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-028",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号26",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-029",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号27",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-030",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号28",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-031",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号29",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-032",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号30",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-033",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号31",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-034",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号32",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-035",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号33",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-036",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号34",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-037",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号35",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-038",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号36",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-039",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号37",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-040",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号38",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-041",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号39",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-042",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号40",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-043",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号41",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-044",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号42",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-045",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号43",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-046",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号44",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-047",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号45",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-048",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号46",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-049",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号47",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-050",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号48",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-051",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号49",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-052",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号50",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-053",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号51",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-054",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号52",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-055",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号53",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-056",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号54",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-057",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号55",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-058",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号56",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-059",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号57",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-060",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号58",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-061",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号59",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-062",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号60",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-063",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号61",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-064",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号62",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-065",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号63",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-066",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号64",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-067",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号65",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-068",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号66",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-069",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号67",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-070",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号68",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-071",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号69",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-072",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号70",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-073",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号71",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-074",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号72",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-075",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号73",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-076",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号74",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-077",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号75",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-078",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号76",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-079",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号77",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-080",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号78",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-081",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号79",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-082",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号80",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-083",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号81",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-084",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号82",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-085",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号83",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-086",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号84",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-087",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号85",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-088",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号86",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-089",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号87",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-090",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号88",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-091",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号89",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-092",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号90",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-093",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号91",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-094",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号92",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-095",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号93",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-096",
+          "part": "以下門人陸澄錄",
+          "source_section": "源条号94",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-097",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号95",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-098",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号96",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-099",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号97",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-100",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号98",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-101",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号99",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-102",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号100",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-103",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号101",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-104",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号102",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-105",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号103",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-106",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号104",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-107",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号105",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-108",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号106",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-109",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号107",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-110",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号108",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-111",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号109",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-112",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号110",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-113",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号111",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-114",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号112",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-115",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号113",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-116",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号114",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-117",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号115",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-118",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号116",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-119",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号117",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-120",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号118",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-121",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号119",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-122",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号120",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-123",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号121",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-124",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号122",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-125",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号123",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-126",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号124",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-127",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号125",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-128",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号126",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-129",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号127",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-130",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号128",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-01-131",
+          "part": "以下門人薛侃錄",
+          "source_section": "源条号129",
+          "attribution_layer": "门人所录问答"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "传习录中",
+      "source_title": "傳習錄/卷中",
+      "source_page": {
+        "title": "傳習錄/卷中",
+        "revision": 2509125,
+        "timestamp": "2024-12-22T14:22:25Z",
+        "url": "https://zh.wikisource.org/w/index.php?title=傳習錄/卷中&oldid=2509125",
+        "history_url": "https://zh.wikisource.org/w/index.php?title=傳習錄/卷中&action=history",
+        "raw_sha256": "0a7e74566a2a0792e9d7b22ffd6fee9318683d4892122c28ba7ef2e0fb0c3ca9",
+        "start": 32283,
+        "end": 71069,
+        "raw_file": "pages/02.wikitext",
+        "attribution": "中文维基文库《傳習錄/卷中》贡献者；作者/记录者详见本页源内题识",
+        "license": "CC BY-SA 4.0（站点数字文本条款；古代著作的公有领域属性与新增数字整理贡献分别理解）",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh"
+      },
+      "source_numbered_entries": "130–200",
+      "passage_ids": [
+        "WYM-02-001",
+        "WYM-02-002",
+        "WYM-02-003",
+        "WYM-02-004",
+        "WYM-02-005",
+        "WYM-02-006",
+        "WYM-02-007",
+        "WYM-02-008",
+        "WYM-02-009",
+        "WYM-02-010",
+        "WYM-02-011",
+        "WYM-02-012",
+        "WYM-02-013",
+        "WYM-02-014",
+        "WYM-02-015",
+        "WYM-02-016",
+        "WYM-02-017",
+        "WYM-02-018",
+        "WYM-02-019",
+        "WYM-02-020",
+        "WYM-02-021",
+        "WYM-02-022",
+        "WYM-02-023",
+        "WYM-02-024",
+        "WYM-02-025",
+        "WYM-02-026",
+        "WYM-02-027",
+        "WYM-02-028",
+        "WYM-02-029",
+        "WYM-02-030",
+        "WYM-02-031",
+        "WYM-02-032",
+        "WYM-02-033",
+        "WYM-02-034",
+        "WYM-02-035",
+        "WYM-02-036",
+        "WYM-02-037",
+        "WYM-02-038",
+        "WYM-02-039",
+        "WYM-02-040",
+        "WYM-02-041",
+        "WYM-02-042",
+        "WYM-02-043",
+        "WYM-02-044",
+        "WYM-02-045",
+        "WYM-02-046",
+        "WYM-02-047",
+        "WYM-02-048",
+        "WYM-02-049",
+        "WYM-02-050",
+        "WYM-02-051",
+        "WYM-02-052",
+        "WYM-02-053",
+        "WYM-02-054",
+        "WYM-02-055",
+        "WYM-02-056",
+        "WYM-02-057",
+        "WYM-02-058",
+        "WYM-02-059",
+        "WYM-02-060",
+        "WYM-02-061",
+        "WYM-02-062",
+        "WYM-02-063",
+        "WYM-02-064",
+        "WYM-02-065",
+        "WYM-02-066",
+        "WYM-02-067",
+        "WYM-02-068",
+        "WYM-02-069",
+        "WYM-02-070",
+        "WYM-02-071",
+        "WYM-02-072"
+      ],
+      "sections": [
+        {
+          "id": "WYM-02-001",
+          "part": "錢德洪序",
+          "source_section": "錢德洪序",
+          "attribution_layer": "门人序跋"
+        },
+        {
+          "id": "WYM-02-002",
+          "part": "答顧東橋書",
+          "source_section": "源条号130",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-003",
+          "part": "答顧東橋書",
+          "source_section": "源条号131",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-004",
+          "part": "答顧東橋書",
+          "source_section": "源条号132",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-005",
+          "part": "答顧東橋書",
+          "source_section": "源条号133",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-006",
+          "part": "答顧東橋書",
+          "source_section": "源条号134",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-007",
+          "part": "答顧東橋書",
+          "source_section": "源条号135",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-008",
+          "part": "答顧東橋書",
+          "source_section": "源条号136",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-009",
+          "part": "答顧東橋書",
+          "source_section": "源条号137",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-010",
+          "part": "答顧東橋書",
+          "source_section": "源条号138",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-011",
+          "part": "答顧東橋書",
+          "source_section": "源条号139",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-012",
+          "part": "答顧東橋書",
+          "source_section": "源条号140",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-013",
+          "part": "答顧東橋書",
+          "source_section": "源条号141",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-014",
+          "part": "答顧東橋書",
+          "source_section": "源条号142",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-015",
+          "part": "答顧東橋書",
+          "source_section": "源条号143",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-016",
+          "part": "答周道通書",
+          "source_section": "源条号144",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-017",
+          "part": "答周道通書",
+          "source_section": "源条号145",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-018",
+          "part": "答周道通書",
+          "source_section": "源条号146",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-019",
+          "part": "答周道通書",
+          "source_section": "源条号147",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-020",
+          "part": "答周道通書",
+          "source_section": "源条号148",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-021",
+          "part": "答周道通書",
+          "source_section": "源条号149",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-022",
+          "part": "答周道通書",
+          "source_section": "源条号150",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-023",
+          "part": "答陸原靜書",
+          "source_section": "源条号151",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-024",
+          "part": "答陸原靜書",
+          "source_section": "源条号152",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-025",
+          "part": "答陸原靜書",
+          "source_section": "源条号153",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-026",
+          "part": "答陸原靜書",
+          "source_section": "源条号154",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-027",
+          "part": "又",
+          "source_section": "源条号155",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-028",
+          "part": "又",
+          "source_section": "源条号156",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-029",
+          "part": "又",
+          "source_section": "源条号157",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-030",
+          "part": "又",
+          "source_section": "源条号158",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-031",
+          "part": "又",
+          "source_section": "源条号159",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-032",
+          "part": "又",
+          "source_section": "源条号160",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-033",
+          "part": "又",
+          "source_section": "源条号161",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-034",
+          "part": "又",
+          "source_section": "源条号162",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-035",
+          "part": "又",
+          "source_section": "源条号163",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-036",
+          "part": "又",
+          "source_section": "源条号164",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-037",
+          "part": "又",
+          "source_section": "源条号165",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-038",
+          "part": "又",
+          "source_section": "源条号166",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-039",
+          "part": "又",
+          "source_section": "源条号167",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-040",
+          "part": "答歐陽崇一",
+          "source_section": "源条号168",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-041",
+          "part": "答歐陽崇一",
+          "source_section": "源条号169",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-042",
+          "part": "答歐陽崇一",
+          "source_section": "源条号170",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-043",
+          "part": "答歐陽崇一",
+          "source_section": "源条号171",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-044",
+          "part": "答羅整菴少宰書",
+          "source_section": "源条号172",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-045",
+          "part": "答羅整菴少宰書",
+          "source_section": "源条号173",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-046",
+          "part": "答羅整菴少宰書",
+          "source_section": "源条号174",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-047",
+          "part": "答羅整菴少宰書",
+          "source_section": "源条号175",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-048",
+          "part": "答羅整菴少宰書",
+          "source_section": "源条号176",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-049",
+          "part": "答羅整菴少宰書",
+          "source_section": "源条号177",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-050",
+          "part": "答羅整菴少宰書",
+          "source_section": "源条号178",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-051",
+          "part": "答聶文蔚",
+          "source_section": "源条号179",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-052",
+          "part": "答聶文蔚",
+          "source_section": "源条号180",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-053",
+          "part": "答聶文蔚",
+          "source_section": "源条号181",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-054",
+          "part": "答聶文蔚",
+          "source_section": "源条号182",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-055",
+          "part": "答聶文蔚",
+          "source_section": "源条号183",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-056",
+          "part": "答聶文蔚",
+          "source_section": "源条号184",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-057",
+          "part": "答聶文蔚",
+          "source_section": "源条号185",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-058",
+          "part": "答聶文蔚",
+          "source_section": "源条号186",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-059",
+          "part": "二",
+          "source_section": "源条号187",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-060",
+          "part": "二",
+          "source_section": "源条号188",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-061",
+          "part": "二",
+          "source_section": "源条号189",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-062",
+          "part": "二",
+          "source_section": "源条号190",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-063",
+          "part": "訓蒙大意示教讀劉伯頌等",
+          "source_section": "源条号191",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-064",
+          "part": "訓蒙大意示教讀劉伯頌等",
+          "source_section": "源条号192",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-065",
+          "part": "訓蒙大意示教讀劉伯頌等",
+          "source_section": "源条号193",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-066",
+          "part": "訓蒙大意示教讀劉伯頌等",
+          "source_section": "源条号194",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-067",
+          "part": "訓蒙大意示教讀劉伯頌等",
+          "source_section": "源条号195",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-068",
+          "part": "教約",
+          "source_section": "源条号196",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-069",
+          "part": "教約",
+          "source_section": "源条号197",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-070",
+          "part": "教約",
+          "source_section": "源条号198",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-071",
+          "part": "教約",
+          "source_section": "源条号199",
+          "attribution_layer": "所辑书信及教约"
+        },
+        {
+          "id": "WYM-02-072",
+          "part": "教約",
+          "source_section": "源条号200",
+          "attribution_layer": "所辑书信及教约"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "传习录下",
+      "source_title": "傳習錄/卷下",
+      "source_page": {
+        "title": "傳習錄/卷下",
+        "revision": 2063633,
+        "timestamp": "2021-08-07T15:05:10Z",
+        "url": "https://zh.wikisource.org/w/index.php?title=傳習錄/卷下&oldid=2063633",
+        "history_url": "https://zh.wikisource.org/w/index.php?title=傳習錄/卷下&action=history",
+        "raw_sha256": "a33e45c31fc038640119cc7735da191a7cac39ff3307ec1504c1d801491bcb95",
+        "start": 71095,
+        "end": 99867,
+        "raw_file": "pages/03.wikitext",
+        "attribution": "中文维基文库《傳習錄/卷下》贡献者；作者/记录者详见本页源内题识",
+        "license": "CC BY-SA 4.0（站点数字文本条款；古代著作的公有领域属性与新增数字整理贡献分别理解）",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh"
+      },
+      "source_numbered_entries": "201–342",
+      "passage_ids": [
+        "WYM-03-001",
+        "WYM-03-002",
+        "WYM-03-003",
+        "WYM-03-004",
+        "WYM-03-005",
+        "WYM-03-006",
+        "WYM-03-007",
+        "WYM-03-008",
+        "WYM-03-009",
+        "WYM-03-010",
+        "WYM-03-011",
+        "WYM-03-012",
+        "WYM-03-013",
+        "WYM-03-014",
+        "WYM-03-015",
+        "WYM-03-016",
+        "WYM-03-017",
+        "WYM-03-018",
+        "WYM-03-019",
+        "WYM-03-020",
+        "WYM-03-021",
+        "WYM-03-022",
+        "WYM-03-023",
+        "WYM-03-024",
+        "WYM-03-025",
+        "WYM-03-026",
+        "WYM-03-027",
+        "WYM-03-028",
+        "WYM-03-029",
+        "WYM-03-030",
+        "WYM-03-031",
+        "WYM-03-032",
+        "WYM-03-033",
+        "WYM-03-034",
+        "WYM-03-035",
+        "WYM-03-036",
+        "WYM-03-037",
+        "WYM-03-038",
+        "WYM-03-039",
+        "WYM-03-040",
+        "WYM-03-041",
+        "WYM-03-042",
+        "WYM-03-043",
+        "WYM-03-044",
+        "WYM-03-045",
+        "WYM-03-046",
+        "WYM-03-047",
+        "WYM-03-048",
+        "WYM-03-049",
+        "WYM-03-050",
+        "WYM-03-051",
+        "WYM-03-052",
+        "WYM-03-053",
+        "WYM-03-054",
+        "WYM-03-055",
+        "WYM-03-056",
+        "WYM-03-057",
+        "WYM-03-058",
+        "WYM-03-059",
+        "WYM-03-060",
+        "WYM-03-061",
+        "WYM-03-062",
+        "WYM-03-063",
+        "WYM-03-064",
+        "WYM-03-065",
+        "WYM-03-066",
+        "WYM-03-067",
+        "WYM-03-068",
+        "WYM-03-069",
+        "WYM-03-070",
+        "WYM-03-071",
+        "WYM-03-072",
+        "WYM-03-073",
+        "WYM-03-074",
+        "WYM-03-075",
+        "WYM-03-076",
+        "WYM-03-077",
+        "WYM-03-078",
+        "WYM-03-079",
+        "WYM-03-080",
+        "WYM-03-081",
+        "WYM-03-082",
+        "WYM-03-083",
+        "WYM-03-084",
+        "WYM-03-085",
+        "WYM-03-086",
+        "WYM-03-087",
+        "WYM-03-088",
+        "WYM-03-089",
+        "WYM-03-090",
+        "WYM-03-091",
+        "WYM-03-092",
+        "WYM-03-093",
+        "WYM-03-094",
+        "WYM-03-095",
+        "WYM-03-096",
+        "WYM-03-097",
+        "WYM-03-098",
+        "WYM-03-099",
+        "WYM-03-100",
+        "WYM-03-101",
+        "WYM-03-102",
+        "WYM-03-103",
+        "WYM-03-104",
+        "WYM-03-105",
+        "WYM-03-106",
+        "WYM-03-107",
+        "WYM-03-108",
+        "WYM-03-109",
+        "WYM-03-110",
+        "WYM-03-111",
+        "WYM-03-112",
+        "WYM-03-113",
+        "WYM-03-114",
+        "WYM-03-115",
+        "WYM-03-116",
+        "WYM-03-117",
+        "WYM-03-118",
+        "WYM-03-119",
+        "WYM-03-120",
+        "WYM-03-121",
+        "WYM-03-122",
+        "WYM-03-123",
+        "WYM-03-124",
+        "WYM-03-125",
+        "WYM-03-126",
+        "WYM-03-127",
+        "WYM-03-128",
+        "WYM-03-129",
+        "WYM-03-130",
+        "WYM-03-131",
+        "WYM-03-132",
+        "WYM-03-133",
+        "WYM-03-134",
+        "WYM-03-135",
+        "WYM-03-136",
+        "WYM-03-137",
+        "WYM-03-138",
+        "WYM-03-139",
+        "WYM-03-140",
+        "WYM-03-141",
+        "WYM-03-142",
+        "WYM-03-143"
+      ],
+      "sections": [
+        {
+          "id": "WYM-03-001",
+          "part": "門人陳九川錄",
+          "source_section": "源条号201",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-002",
+          "part": "門人陳九川錄",
+          "source_section": "源条号202",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-003",
+          "part": "門人陳九川錄",
+          "source_section": "源条号203",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-004",
+          "part": "門人陳九川錄",
+          "source_section": "源条号204",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-005",
+          "part": "門人陳九川錄",
+          "source_section": "源条号205",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-006",
+          "part": "門人陳九川錄",
+          "source_section": "源条号206",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-007",
+          "part": "門人陳九川錄",
+          "source_section": "源条号207",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-008",
+          "part": "門人陳九川錄",
+          "source_section": "源条号208",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-009",
+          "part": "門人陳九川錄",
+          "source_section": "源条号209",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-010",
+          "part": "門人陳九川錄",
+          "source_section": "源条号210",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-011",
+          "part": "門人陳九川錄",
+          "source_section": "源条号211",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-012",
+          "part": "門人陳九川錄",
+          "source_section": "源条号212",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-013",
+          "part": "門人陳九川錄",
+          "source_section": "源条号213",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-014",
+          "part": "門人陳九川錄",
+          "source_section": "源条号214",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-015",
+          "part": "門人陳九川錄",
+          "source_section": "源条号215",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-016",
+          "part": "門人陳九川錄",
+          "source_section": "源条号216",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-017",
+          "part": "門人陳九川錄",
+          "source_section": "源条号217",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-018",
+          "part": "門人陳九川錄",
+          "source_section": "源条号218",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-019",
+          "part": "門人陳九川錄",
+          "source_section": "源条号219",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-020",
+          "part": "門人陳九川錄",
+          "source_section": "源条号220",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-021",
+          "part": "門人陳九川錄",
+          "source_section": "源条号221",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-022",
+          "part": "門人陳九川錄",
+          "source_section": "源条号222",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-023",
+          "part": "門人陳九川錄",
+          "source_section": "源条号223",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-024",
+          "part": "門人陳九川錄",
+          "source_section": "源条号224",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-025",
+          "part": "門人陳九川錄",
+          "source_section": "源条号225",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-026",
+          "part": "門人陳九川錄",
+          "source_section": "源条号226",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-027",
+          "part": "門人陳九川錄",
+          "source_section": "源条号227",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-028",
+          "part": "門人陳九川錄",
+          "source_section": "源条号228",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-029",
+          "part": "門人陳九川錄",
+          "source_section": "源条号229",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-030",
+          "part": "門人陳九川錄",
+          "source_section": "源条号230",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-031",
+          "part": "門人陳九川錄",
+          "source_section": "源条号231",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-032",
+          "part": "門人陳九川錄",
+          "source_section": "源条号232",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-033",
+          "part": "門人陳九川錄",
+          "source_section": "源条号233",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-034",
+          "part": "門人陳九川錄",
+          "source_section": "源条号234",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-035",
+          "part": "門人陳九川錄",
+          "source_section": "源条号235",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-036",
+          "part": "門人陳九川錄",
+          "source_section": "源条号236",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-037",
+          "part": "以下門人黃修易錄",
+          "source_section": "源条号237",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-038",
+          "part": "以下門人黃修易錄",
+          "source_section": "源条号238",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-039",
+          "part": "以下門人黃修易錄",
+          "source_section": "源条号239",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-040",
+          "part": "以下門人黃修易錄",
+          "source_section": "源条号240",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-041",
+          "part": "以下門人黃修易錄",
+          "source_section": "源条号241",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-042",
+          "part": "以下門人黃修易錄",
+          "source_section": "源条号242",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-043",
+          "part": "以下門人黃修易錄",
+          "source_section": "源条号243",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-044",
+          "part": "以下門人黃修易錄",
+          "source_section": "源条号244",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-045",
+          "part": "以下門人黃修易錄",
+          "source_section": "源条号245",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-046",
+          "part": "以下門人黃修易錄",
+          "source_section": "源条号246",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-047",
+          "part": "以下門人黃修易錄",
+          "source_section": "源条号247",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-048",
+          "part": "以下門人黃修易錄",
+          "source_section": "源条号248",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-049",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号249",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-050",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号250",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-051",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号251",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-052",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号252",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-053",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号253",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-054",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号254",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-055",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号255",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-056",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号256",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-057",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号257",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-058",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号258",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-059",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号259",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-060",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号260",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-061",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号261",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-062",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号262",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-063",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号263",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-064",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号264",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-065",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号265",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-066",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号266",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-067",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号267",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-068",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号268",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-069",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号269",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-070",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号270",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-071",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号271",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-072",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号272",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-073",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号273",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-074",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号274",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-075",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号275",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-076",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号276",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-077",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号277",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-078",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号278",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-079",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号279",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-080",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号280",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-081",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号281",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-082",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号282",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-083",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号283",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-084",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号284",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-085",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号285",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-086",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号286",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-087",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号287",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-088",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号288",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-089",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号289",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-090",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号290",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-091",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号291",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-092",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号292",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-093",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号293",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-094",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号294",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-095",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号295",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-096",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号296",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-097",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号297",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-098",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号298",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-099",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号299",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-100",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号300",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-101",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号301",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-102",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号302",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-103",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号303",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-104",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号304",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-105",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号305",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-106",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号306",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-107",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号307",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-108",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号308",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-109",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号309",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-110",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号310",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-111",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号311",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-112",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号312",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-113",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号313",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-114",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号314",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-115",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号315",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-116",
+          "part": "以下門人黃省曾錄",
+          "source_section": "源条号316",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-117",
+          "part": "此後黃以方錄",
+          "source_section": "源条号317",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-118",
+          "part": "此後黃以方錄",
+          "source_section": "源条号318",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-119",
+          "part": "此後黃以方錄",
+          "source_section": "源条号319",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-120",
+          "part": "此後黃以方錄",
+          "source_section": "源条号320",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-121",
+          "part": "此後黃以方錄",
+          "source_section": "源条号321",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-122",
+          "part": "此後黃以方錄",
+          "source_section": "源条号322",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-123",
+          "part": "此後黃以方錄",
+          "source_section": "源条号323",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-124",
+          "part": "此後黃以方錄",
+          "source_section": "源条号324",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-125",
+          "part": "此後黃以方錄",
+          "source_section": "源条号325",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-126",
+          "part": "此後黃以方錄",
+          "source_section": "源条号326",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-127",
+          "part": "此後黃以方錄",
+          "source_section": "源条号327",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-128",
+          "part": "此後黃以方錄",
+          "source_section": "源条号328",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-129",
+          "part": "此後黃以方錄",
+          "source_section": "源条号329",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-130",
+          "part": "此後黃以方錄",
+          "source_section": "源条号330",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-131",
+          "part": "此後黃以方錄",
+          "source_section": "源条号331",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-132",
+          "part": "此後黃以方錄",
+          "source_section": "源条号332",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-133",
+          "part": "此後黃以方錄",
+          "source_section": "源条号333",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-134",
+          "part": "此後黃以方錄",
+          "source_section": "源条号334",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-135",
+          "part": "此後黃以方錄",
+          "source_section": "源条号335",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-136",
+          "part": "此後黃以方錄",
+          "source_section": "源条号336",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-137",
+          "part": "此後黃以方錄",
+          "source_section": "源条号337",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-138",
+          "part": "此後黃以方錄",
+          "source_section": "源条号338",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-139",
+          "part": "此後黃以方錄",
+          "source_section": "源条号339",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-140",
+          "part": "此後黃以方錄",
+          "source_section": "源条号340",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-141",
+          "part": "此後黃以方錄",
+          "source_section": "源条号341",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-142",
+          "part": "此後黃以方錄",
+          "source_section": "源条号342",
+          "attribution_layer": "门人所录问答"
+        },
+        {
+          "id": "WYM-03-143",
+          "part": "錢德洪跋",
+          "source_section": "錢德洪跋",
+          "attribution_layer": "门人序跋"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "大学问",
+      "source_title": "王陽明集/卷26",
+      "source_page": {
+        "title": "王陽明集/卷26",
+        "revision": 7904491,
+        "timestamp": "2026-06-28T01:31:29Z",
+        "url": "https://zh.wikisource.org/w/index.php?title=王陽明集/卷26&oldid=7904491",
+        "history_url": "https://zh.wikisource.org/w/index.php?title=王陽明集/卷26&action=history",
+        "raw_sha256": "829674761298f6f67e5aa8a63ad3ae7b38b644ab38aad20031195843eae5add2",
+        "start": 99895,
+        "end": 116540,
+        "raw_file": "pages/04.wikitext",
+        "attribution": "中文维基文库《王陽明集/卷26》贡献者；作者/记录者详见本页源内题识",
+        "license": "CC BY-SA 4.0（站点数字文本条款；古代著作的公有领域属性与新增数字整理贡献分别理解）",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.zh"
+      },
+      "source_numbered_entries": "无源连续条号",
+      "passage_ids": [
+        "WYM-04-001",
+        "WYM-04-002",
+        "WYM-04-003",
+        "WYM-04-004",
+        "WYM-04-005",
+        "WYM-04-006",
+        "WYM-04-007"
+      ],
+      "sections": [
+        {
+          "id": "WYM-04-001",
+          "part": "钱德洪记录说明",
+          "source_section": "记录说明",
+          "attribution_layer": "门人题记"
+        },
+        {
+          "id": "WYM-04-002",
+          "part": "大学问",
+          "source_section": "问答1",
+          "attribution_layer": "钱德洪所录问答"
+        },
+        {
+          "id": "WYM-04-003",
+          "part": "大学问",
+          "source_section": "问答2",
+          "attribution_layer": "钱德洪所录问答"
+        },
+        {
+          "id": "WYM-04-004",
+          "part": "大学问",
+          "source_section": "问答3",
+          "attribution_layer": "钱德洪所录问答"
+        },
+        {
+          "id": "WYM-04-005",
+          "part": "大学问",
+          "source_section": "问答4",
+          "attribution_layer": "钱德洪所录问答"
+        },
+        {
+          "id": "WYM-04-006",
+          "part": "大学问",
+          "source_section": "问答5",
+          "attribution_layer": "钱德洪所录问答"
+        },
+        {
+          "id": "WYM-04-007",
+          "part": "大学问",
+          "source_section": "问答6",
+          "attribution_layer": "钱德洪所录问答"
+        }
+      ]
+    }
+  ],
+  "scope": "《传习录》三卷连续342条及4序跋完整；《大学问》题记及六问答完整。源条号不是统一古刻本编次，不补造王阳明全集。"
+}

@@ -1,0 +1,1697 @@
+[
+  {
+    "chapter": 1,
+    "title": "孟春紀",
+    "passage_ids": [
+      "LSCQ-01-001",
+      "LSCQ-01-002",
+      "LSCQ-01-003",
+      "LSCQ-01-004",
+      "LSCQ-01-005",
+      "LSCQ-01-006",
+      "LSCQ-01-007"
+    ]
+  },
+  {
+    "chapter": 2,
+    "title": "本生",
+    "passage_ids": [
+      "LSCQ-02-001",
+      "LSCQ-02-002",
+      "LSCQ-02-003",
+      "LSCQ-02-004",
+      "LSCQ-02-005"
+    ]
+  },
+  {
+    "chapter": 3,
+    "title": "重己",
+    "passage_ids": [
+      "LSCQ-03-001",
+      "LSCQ-03-002",
+      "LSCQ-03-003"
+    ]
+  },
+  {
+    "chapter": 4,
+    "title": "貴公",
+    "passage_ids": [
+      "LSCQ-04-001",
+      "LSCQ-04-002",
+      "LSCQ-04-003",
+      "LSCQ-04-004"
+    ]
+  },
+  {
+    "chapter": 5,
+    "title": "去私",
+    "passage_ids": [
+      "LSCQ-05-001",
+      "LSCQ-05-002",
+      "LSCQ-05-003",
+      "LSCQ-05-004",
+      "LSCQ-05-005",
+      "LSCQ-05-006"
+    ]
+  },
+  {
+    "chapter": 6,
+    "title": "仲春紀",
+    "passage_ids": [
+      "LSCQ-06-001",
+      "LSCQ-06-002",
+      "LSCQ-06-003",
+      "LSCQ-06-004",
+      "LSCQ-06-005",
+      "LSCQ-06-006",
+      "LSCQ-06-007",
+      "LSCQ-06-008"
+    ]
+  },
+  {
+    "chapter": 7,
+    "title": "貴生",
+    "passage_ids": [
+      "LSCQ-07-001",
+      "LSCQ-07-002",
+      "LSCQ-07-003",
+      "LSCQ-07-004",
+      "LSCQ-07-005",
+      "LSCQ-07-006",
+      "LSCQ-07-007"
+    ]
+  },
+  {
+    "chapter": 8,
+    "title": "情欲",
+    "passage_ids": [
+      "LSCQ-08-001",
+      "LSCQ-08-002",
+      "LSCQ-08-003",
+      "LSCQ-08-004"
+    ]
+  },
+  {
+    "chapter": 9,
+    "title": "當染",
+    "passage_ids": [
+      "LSCQ-09-001",
+      "LSCQ-09-002",
+      "LSCQ-09-003"
+    ]
+  },
+  {
+    "chapter": 10,
+    "title": "功名",
+    "passage_ids": [
+      "LSCQ-10-001",
+      "LSCQ-10-002",
+      "LSCQ-10-003",
+      "LSCQ-10-004",
+      "LSCQ-10-005"
+    ]
+  },
+  {
+    "chapter": 11,
+    "title": "季春紀",
+    "passage_ids": [
+      "LSCQ-11-001",
+      "LSCQ-11-002",
+      "LSCQ-11-003",
+      "LSCQ-11-004",
+      "LSCQ-11-005",
+      "LSCQ-11-006",
+      "LSCQ-11-007",
+      "LSCQ-11-008",
+      "LSCQ-11-009"
+    ]
+  },
+  {
+    "chapter": 12,
+    "title": "盡數",
+    "passage_ids": [
+      "LSCQ-12-001",
+      "LSCQ-12-002",
+      "LSCQ-12-003",
+      "LSCQ-12-004",
+      "LSCQ-12-005",
+      "LSCQ-12-006"
+    ]
+  },
+  {
+    "chapter": 13,
+    "title": "先己",
+    "passage_ids": [
+      "LSCQ-13-001",
+      "LSCQ-13-002",
+      "LSCQ-13-003",
+      "LSCQ-13-004",
+      "LSCQ-13-005"
+    ]
+  },
+  {
+    "chapter": 14,
+    "title": "論人",
+    "passage_ids": [
+      "LSCQ-14-001",
+      "LSCQ-14-002",
+      "LSCQ-14-003"
+    ]
+  },
+  {
+    "chapter": 15,
+    "title": "圜道",
+    "passage_ids": [
+      "LSCQ-15-001",
+      "LSCQ-15-002",
+      "LSCQ-15-003"
+    ]
+  },
+  {
+    "chapter": 16,
+    "title": "孟夏紀",
+    "passage_ids": [
+      "LSCQ-16-001",
+      "LSCQ-16-002",
+      "LSCQ-16-003",
+      "LSCQ-16-004",
+      "LSCQ-16-005",
+      "LSCQ-16-006",
+      "LSCQ-16-007",
+      "LSCQ-16-008"
+    ]
+  },
+  {
+    "chapter": 17,
+    "title": "勸學",
+    "passage_ids": [
+      "LSCQ-17-001",
+      "LSCQ-17-002",
+      "LSCQ-17-003"
+    ]
+  },
+  {
+    "chapter": 18,
+    "title": "尊師",
+    "passage_ids": [
+      "LSCQ-18-001",
+      "LSCQ-18-002",
+      "LSCQ-18-003",
+      "LSCQ-18-004",
+      "LSCQ-18-005"
+    ]
+  },
+  {
+    "chapter": 19,
+    "title": "誣徒",
+    "passage_ids": [
+      "LSCQ-19-001",
+      "LSCQ-19-002",
+      "LSCQ-19-003",
+      "LSCQ-19-004"
+    ]
+  },
+  {
+    "chapter": 20,
+    "title": "用眾",
+    "passage_ids": [
+      "LSCQ-20-001",
+      "LSCQ-20-002",
+      "LSCQ-20-003",
+      "LSCQ-20-004",
+      "LSCQ-20-005",
+      "LSCQ-20-006"
+    ]
+  },
+  {
+    "chapter": 21,
+    "title": "仲夏紀",
+    "passage_ids": [
+      "LSCQ-21-001",
+      "LSCQ-21-002",
+      "LSCQ-21-003",
+      "LSCQ-21-004",
+      "LSCQ-21-005",
+      "LSCQ-21-006"
+    ]
+  },
+  {
+    "chapter": 22,
+    "title": "大樂",
+    "passage_ids": [
+      "LSCQ-22-001",
+      "LSCQ-22-002",
+      "LSCQ-22-003",
+      "LSCQ-22-004"
+    ]
+  },
+  {
+    "chapter": 23,
+    "title": "侈樂",
+    "passage_ids": [
+      "LSCQ-23-001",
+      "LSCQ-23-002",
+      "LSCQ-23-003"
+    ]
+  },
+  {
+    "chapter": 24,
+    "title": "適音",
+    "passage_ids": [
+      "LSCQ-24-001",
+      "LSCQ-24-002",
+      "LSCQ-24-003",
+      "LSCQ-24-004"
+    ]
+  },
+  {
+    "chapter": 25,
+    "title": "古樂",
+    "passage_ids": [
+      "LSCQ-25-001",
+      "LSCQ-25-002",
+      "LSCQ-25-003",
+      "LSCQ-25-004",
+      "LSCQ-25-005",
+      "LSCQ-25-006",
+      "LSCQ-25-007",
+      "LSCQ-25-008",
+      "LSCQ-25-009",
+      "LSCQ-25-010",
+      "LSCQ-25-011",
+      "LSCQ-25-012",
+      "LSCQ-25-013",
+      "LSCQ-25-014",
+      "LSCQ-25-015"
+    ]
+  },
+  {
+    "chapter": 26,
+    "title": "季夏紀",
+    "passage_ids": [
+      "LSCQ-26-001",
+      "LSCQ-26-002",
+      "LSCQ-26-003",
+      "LSCQ-26-004",
+      "LSCQ-26-005",
+      "LSCQ-26-006",
+      "LSCQ-26-007",
+      "LSCQ-26-008"
+    ]
+  },
+  {
+    "chapter": 27,
+    "title": "音律",
+    "passage_ids": [
+      "LSCQ-27-001",
+      "LSCQ-27-002",
+      "LSCQ-27-003"
+    ]
+  },
+  {
+    "chapter": 28,
+    "title": "音初",
+    "passage_ids": [
+      "LSCQ-28-001",
+      "LSCQ-28-002",
+      "LSCQ-28-003",
+      "LSCQ-28-004",
+      "LSCQ-28-005"
+    ]
+  },
+  {
+    "chapter": 29,
+    "title": "制樂",
+    "passage_ids": [
+      "LSCQ-29-001",
+      "LSCQ-29-002",
+      "LSCQ-29-003"
+    ]
+  },
+  {
+    "chapter": 30,
+    "title": "明理",
+    "passage_ids": [
+      "LSCQ-30-001",
+      "LSCQ-30-002",
+      "LSCQ-30-003"
+    ]
+  },
+  {
+    "chapter": 31,
+    "title": "孟秋紀",
+    "passage_ids": [
+      "LSCQ-31-001",
+      "LSCQ-31-002",
+      "LSCQ-31-003",
+      "LSCQ-31-004",
+      "LSCQ-31-005",
+      "LSCQ-31-006"
+    ]
+  },
+  {
+    "chapter": 32,
+    "title": "蕩兵",
+    "passage_ids": [
+      "LSCQ-32-001",
+      "LSCQ-32-002",
+      "LSCQ-32-003",
+      "LSCQ-32-004"
+    ]
+  },
+  {
+    "chapter": 33,
+    "title": "振亂",
+    "passage_ids": [
+      "LSCQ-33-001",
+      "LSCQ-33-002",
+      "LSCQ-33-003"
+    ]
+  },
+  {
+    "chapter": 34,
+    "title": "禁塞",
+    "passage_ids": [
+      "LSCQ-34-001",
+      "LSCQ-34-002"
+    ]
+  },
+  {
+    "chapter": 35,
+    "title": "懷寵",
+    "passage_ids": [
+      "LSCQ-35-001",
+      "LSCQ-35-002",
+      "LSCQ-35-003",
+      "LSCQ-35-004"
+    ]
+  },
+  {
+    "chapter": 36,
+    "title": "仲秋紀",
+    "passage_ids": [
+      "LSCQ-36-001",
+      "LSCQ-36-002",
+      "LSCQ-36-003",
+      "LSCQ-36-004",
+      "LSCQ-36-005",
+      "LSCQ-36-006",
+      "LSCQ-36-007"
+    ]
+  },
+  {
+    "chapter": 37,
+    "title": "論威",
+    "passage_ids": [
+      "LSCQ-37-001",
+      "LSCQ-37-002",
+      "LSCQ-37-003",
+      "LSCQ-37-004",
+      "LSCQ-37-005",
+      "LSCQ-37-006"
+    ]
+  },
+  {
+    "chapter": 38,
+    "title": "簡選",
+    "passage_ids": [
+      "LSCQ-38-001",
+      "LSCQ-38-002",
+      "LSCQ-38-003",
+      "LSCQ-38-004",
+      "LSCQ-38-005",
+      "LSCQ-38-006",
+      "LSCQ-38-007"
+    ]
+  },
+  {
+    "chapter": 39,
+    "title": "決勝",
+    "passage_ids": [
+      "LSCQ-39-001",
+      "LSCQ-39-002"
+    ]
+  },
+  {
+    "chapter": 40,
+    "title": "愛士",
+    "passage_ids": [
+      "LSCQ-40-001",
+      "LSCQ-40-002",
+      "LSCQ-40-003",
+      "LSCQ-40-004"
+    ]
+  },
+  {
+    "chapter": 41,
+    "title": "季秋紀",
+    "passage_ids": [
+      "LSCQ-41-001",
+      "LSCQ-41-002",
+      "LSCQ-41-003",
+      "LSCQ-41-004",
+      "LSCQ-41-005",
+      "LSCQ-41-006",
+      "LSCQ-41-007",
+      "LSCQ-41-008"
+    ]
+  },
+  {
+    "chapter": 42,
+    "title": "順民",
+    "passage_ids": [
+      "LSCQ-42-001",
+      "LSCQ-42-002",
+      "LSCQ-42-003",
+      "LSCQ-42-004",
+      "LSCQ-42-005"
+    ]
+  },
+  {
+    "chapter": 43,
+    "title": "知士",
+    "passage_ids": [
+      "LSCQ-43-001",
+      "LSCQ-43-002"
+    ]
+  },
+  {
+    "chapter": 44,
+    "title": "審己",
+    "passage_ids": [
+      "LSCQ-44-001",
+      "LSCQ-44-002",
+      "LSCQ-44-003",
+      "LSCQ-44-004",
+      "LSCQ-44-005"
+    ]
+  },
+  {
+    "chapter": 45,
+    "title": "精通",
+    "passage_ids": [
+      "LSCQ-45-001",
+      "LSCQ-45-002",
+      "LSCQ-45-003",
+      "LSCQ-45-004"
+    ]
+  },
+  {
+    "chapter": 46,
+    "title": "孟冬紀",
+    "passage_ids": [
+      "LSCQ-46-001",
+      "LSCQ-46-002",
+      "LSCQ-46-003",
+      "LSCQ-46-004",
+      "LSCQ-46-005",
+      "LSCQ-46-006",
+      "LSCQ-46-007",
+      "LSCQ-46-008"
+    ]
+  },
+  {
+    "chapter": 47,
+    "title": "節喪",
+    "passage_ids": [
+      "LSCQ-47-001",
+      "LSCQ-47-002",
+      "LSCQ-47-003",
+      "LSCQ-47-004"
+    ]
+  },
+  {
+    "chapter": 48,
+    "title": "安死",
+    "passage_ids": [
+      "LSCQ-48-001",
+      "LSCQ-48-002",
+      "LSCQ-48-003",
+      "LSCQ-48-004",
+      "LSCQ-48-005"
+    ]
+  },
+  {
+    "chapter": 49,
+    "title": "異寶",
+    "passage_ids": [
+      "LSCQ-49-001",
+      "LSCQ-49-002",
+      "LSCQ-49-003",
+      "LSCQ-49-004"
+    ]
+  },
+  {
+    "chapter": 50,
+    "title": "異用",
+    "passage_ids": [
+      "LSCQ-50-001",
+      "LSCQ-50-002",
+      "LSCQ-50-003",
+      "LSCQ-50-004",
+      "LSCQ-50-005"
+    ]
+  },
+  {
+    "chapter": 51,
+    "title": "仲冬紀",
+    "passage_ids": [
+      "LSCQ-51-001",
+      "LSCQ-51-002",
+      "LSCQ-51-003",
+      "LSCQ-51-004",
+      "LSCQ-51-005",
+      "LSCQ-51-006"
+    ]
+  },
+  {
+    "chapter": 52,
+    "title": "至忠",
+    "passage_ids": [
+      "LSCQ-52-001",
+      "LSCQ-52-002",
+      "LSCQ-52-003"
+    ]
+  },
+  {
+    "chapter": 53,
+    "title": "忠廉",
+    "passage_ids": [
+      "LSCQ-53-001",
+      "LSCQ-53-002",
+      "LSCQ-53-003"
+    ]
+  },
+  {
+    "chapter": 54,
+    "title": "當務",
+    "passage_ids": [
+      "LSCQ-54-001",
+      "LSCQ-54-002",
+      "LSCQ-54-003",
+      "LSCQ-54-004",
+      "LSCQ-54-005"
+    ]
+  },
+  {
+    "chapter": 55,
+    "title": "長見",
+    "passage_ids": [
+      "LSCQ-55-001",
+      "LSCQ-55-002",
+      "LSCQ-55-003",
+      "LSCQ-55-004",
+      "LSCQ-55-005",
+      "LSCQ-55-006"
+    ]
+  },
+  {
+    "chapter": 56,
+    "title": "季冬紀",
+    "passage_ids": [
+      "LSCQ-56-001",
+      "LSCQ-56-002",
+      "LSCQ-56-003",
+      "LSCQ-56-004"
+    ]
+  },
+  {
+    "chapter": 57,
+    "title": "士節",
+    "passage_ids": [
+      "LSCQ-57-001",
+      "LSCQ-57-002"
+    ]
+  },
+  {
+    "chapter": 58,
+    "title": "介立",
+    "passage_ids": [
+      "LSCQ-58-001",
+      "LSCQ-58-002"
+    ]
+  },
+  {
+    "chapter": 59,
+    "title": "誠廉",
+    "passage_ids": [
+      "LSCQ-59-001",
+      "LSCQ-59-002"
+    ]
+  },
+  {
+    "chapter": 60,
+    "title": "不侵",
+    "passage_ids": [
+      "LSCQ-60-001",
+      "LSCQ-60-002",
+      "LSCQ-60-003",
+      "LSCQ-60-004"
+    ]
+  },
+  {
+    "chapter": 61,
+    "title": "序意",
+    "passage_ids": [
+      "LSCQ-61-001",
+      "LSCQ-61-002"
+    ]
+  },
+  {
+    "chapter": 62,
+    "title": "有始",
+    "passage_ids": [
+      "LSCQ-62-001",
+      "LSCQ-62-002",
+      "LSCQ-62-003",
+      "LSCQ-62-004",
+      "LSCQ-62-005",
+      "LSCQ-62-006",
+      "LSCQ-62-007",
+      "LSCQ-62-008",
+      "LSCQ-62-009",
+      "LSCQ-62-010",
+      "LSCQ-62-011",
+      "LSCQ-62-012",
+      "LSCQ-62-013",
+      "LSCQ-62-014"
+    ]
+  },
+  {
+    "chapter": 63,
+    "title": "應同",
+    "passage_ids": [
+      "LSCQ-63-001",
+      "LSCQ-63-002",
+      "LSCQ-63-003"
+    ]
+  },
+  {
+    "chapter": 64,
+    "title": "去尤",
+    "passage_ids": [
+      "LSCQ-64-001",
+      "LSCQ-64-002",
+      "LSCQ-64-003",
+      "LSCQ-64-004",
+      "LSCQ-64-005"
+    ]
+  },
+  {
+    "chapter": 65,
+    "title": "聽言",
+    "passage_ids": [
+      "LSCQ-65-001",
+      "LSCQ-65-002"
+    ]
+  },
+  {
+    "chapter": 66,
+    "title": "謹聽",
+    "passage_ids": [
+      "LSCQ-66-001",
+      "LSCQ-66-002",
+      "LSCQ-66-003"
+    ]
+  },
+  {
+    "chapter": 67,
+    "title": "務本",
+    "passage_ids": [
+      "LSCQ-67-001",
+      "LSCQ-67-002",
+      "LSCQ-67-003"
+    ]
+  },
+  {
+    "chapter": 68,
+    "title": "諭大",
+    "passage_ids": [
+      "LSCQ-68-001",
+      "LSCQ-68-002",
+      "LSCQ-68-003"
+    ]
+  },
+  {
+    "chapter": 69,
+    "title": "孝行",
+    "passage_ids": [
+      "LSCQ-69-001",
+      "LSCQ-69-002",
+      "LSCQ-69-003",
+      "LSCQ-69-004",
+      "LSCQ-69-005",
+      "LSCQ-69-006",
+      "LSCQ-69-007",
+      "LSCQ-69-008",
+      "LSCQ-69-009"
+    ]
+  },
+  {
+    "chapter": 70,
+    "title": "本味",
+    "passage_ids": [
+      "LSCQ-70-001",
+      "LSCQ-70-002",
+      "LSCQ-70-003",
+      "LSCQ-70-004"
+    ]
+  },
+  {
+    "chapter": 71,
+    "title": "首時",
+    "passage_ids": [
+      "LSCQ-71-001",
+      "LSCQ-71-002",
+      "LSCQ-71-003",
+      "LSCQ-71-004",
+      "LSCQ-71-005"
+    ]
+  },
+  {
+    "chapter": 72,
+    "title": "義賞",
+    "passage_ids": [
+      "LSCQ-72-001",
+      "LSCQ-72-002",
+      "LSCQ-72-003"
+    ]
+  },
+  {
+    "chapter": 73,
+    "title": "長攻",
+    "passage_ids": [
+      "LSCQ-73-001",
+      "LSCQ-73-002",
+      "LSCQ-73-003",
+      "LSCQ-73-004",
+      "LSCQ-73-005"
+    ]
+  },
+  {
+    "chapter": 74,
+    "title": "慎人",
+    "passage_ids": [
+      "LSCQ-74-001",
+      "LSCQ-74-002",
+      "LSCQ-74-003",
+      "LSCQ-74-004"
+    ]
+  },
+  {
+    "chapter": 75,
+    "title": "遇合",
+    "passage_ids": [
+      "LSCQ-75-001",
+      "LSCQ-75-002",
+      "LSCQ-75-003",
+      "LSCQ-75-004"
+    ]
+  },
+  {
+    "chapter": 76,
+    "title": "必己",
+    "passage_ids": [
+      "LSCQ-76-001",
+      "LSCQ-76-002",
+      "LSCQ-76-003",
+      "LSCQ-76-004",
+      "LSCQ-76-005"
+    ]
+  },
+  {
+    "chapter": 77,
+    "title": "慎大",
+    "passage_ids": [
+      "LSCQ-77-001",
+      "LSCQ-77-002",
+      "LSCQ-77-003",
+      "LSCQ-77-004"
+    ]
+  },
+  {
+    "chapter": 78,
+    "title": "權勳",
+    "passage_ids": [
+      "LSCQ-78-001",
+      "LSCQ-78-002",
+      "LSCQ-78-003",
+      "LSCQ-78-004",
+      "LSCQ-78-005"
+    ]
+  },
+  {
+    "chapter": 79,
+    "title": "下賢",
+    "passage_ids": [
+      "LSCQ-79-001",
+      "LSCQ-79-002",
+      "LSCQ-79-003",
+      "LSCQ-79-004",
+      "LSCQ-79-005",
+      "LSCQ-79-006"
+    ]
+  },
+  {
+    "chapter": 80,
+    "title": "報更",
+    "passage_ids": [
+      "LSCQ-80-001",
+      "LSCQ-80-002",
+      "LSCQ-80-003",
+      "LSCQ-80-004"
+    ]
+  },
+  {
+    "chapter": 81,
+    "title": "順說",
+    "passage_ids": [
+      "LSCQ-81-001",
+      "LSCQ-81-002",
+      "LSCQ-81-003",
+      "LSCQ-81-004"
+    ]
+  },
+  {
+    "chapter": 82,
+    "title": "不廣",
+    "passage_ids": [
+      "LSCQ-82-001",
+      "LSCQ-82-002",
+      "LSCQ-82-003",
+      "LSCQ-82-004",
+      "LSCQ-82-005",
+      "LSCQ-82-006"
+    ]
+  },
+  {
+    "chapter": 83,
+    "title": "貴因",
+    "passage_ids": [
+      "LSCQ-83-001",
+      "LSCQ-83-002",
+      "LSCQ-83-003",
+      "LSCQ-83-004",
+      "LSCQ-83-005"
+    ]
+  },
+  {
+    "chapter": 84,
+    "title": "察今",
+    "passage_ids": [
+      "LSCQ-84-001",
+      "LSCQ-84-002",
+      "LSCQ-84-003"
+    ]
+  },
+  {
+    "chapter": 85,
+    "title": "先識",
+    "passage_ids": [
+      "LSCQ-85-001",
+      "LSCQ-85-002",
+      "LSCQ-85-003",
+      "LSCQ-85-004",
+      "LSCQ-85-005"
+    ]
+  },
+  {
+    "chapter": 86,
+    "title": "觀世",
+    "passage_ids": [
+      "LSCQ-86-001",
+      "LSCQ-86-002",
+      "LSCQ-86-003"
+    ]
+  },
+  {
+    "chapter": 87,
+    "title": "知接",
+    "passage_ids": [
+      "LSCQ-87-001",
+      "LSCQ-87-002"
+    ]
+  },
+  {
+    "chapter": 88,
+    "title": "悔過",
+    "passage_ids": [
+      "LSCQ-88-001",
+      "LSCQ-88-002"
+    ]
+  },
+  {
+    "chapter": 89,
+    "title": "樂成",
+    "passage_ids": [
+      "LSCQ-89-001",
+      "LSCQ-89-002",
+      "LSCQ-89-003",
+      "LSCQ-89-004",
+      "LSCQ-89-005"
+    ]
+  },
+  {
+    "chapter": 90,
+    "title": "察微",
+    "passage_ids": [
+      "LSCQ-90-001",
+      "LSCQ-90-002",
+      "LSCQ-90-003",
+      "LSCQ-90-004",
+      "LSCQ-90-005"
+    ]
+  },
+  {
+    "chapter": 91,
+    "title": "去宥",
+    "passage_ids": [
+      "LSCQ-91-001",
+      "LSCQ-91-002",
+      "LSCQ-91-003"
+    ]
+  },
+  {
+    "chapter": 92,
+    "title": "正名",
+    "passage_ids": [
+      "LSCQ-92-001",
+      "LSCQ-92-002",
+      "LSCQ-92-003"
+    ]
+  },
+  {
+    "chapter": 93,
+    "title": "審分",
+    "passage_ids": [
+      "LSCQ-93-001",
+      "LSCQ-93-002",
+      "LSCQ-93-003",
+      "LSCQ-93-004",
+      "LSCQ-93-005",
+      "LSCQ-93-006"
+    ]
+  },
+  {
+    "chapter": 94,
+    "title": "君守",
+    "passage_ids": [
+      "LSCQ-94-001",
+      "LSCQ-94-002",
+      "LSCQ-94-003"
+    ]
+  },
+  {
+    "chapter": 95,
+    "title": "任數",
+    "passage_ids": [
+      "LSCQ-95-001",
+      "LSCQ-95-002",
+      "LSCQ-95-003",
+      "LSCQ-95-004"
+    ]
+  },
+  {
+    "chapter": 96,
+    "title": "勿躬",
+    "passage_ids": [
+      "LSCQ-96-001",
+      "LSCQ-96-002",
+      "LSCQ-96-003"
+    ]
+  },
+  {
+    "chapter": 97,
+    "title": "知度",
+    "passage_ids": [
+      "LSCQ-97-001",
+      "LSCQ-97-002",
+      "LSCQ-97-003",
+      "LSCQ-97-004",
+      "LSCQ-97-005",
+      "LSCQ-97-006"
+    ]
+  },
+  {
+    "chapter": 98,
+    "title": "慎勢",
+    "passage_ids": [
+      "LSCQ-98-001",
+      "LSCQ-98-002",
+      "LSCQ-98-003",
+      "LSCQ-98-004",
+      "LSCQ-98-005",
+      "LSCQ-98-006",
+      "LSCQ-98-007"
+    ]
+  },
+  {
+    "chapter": 99,
+    "title": "不二",
+    "passage_ids": [
+      "LSCQ-99-001"
+    ]
+  },
+  {
+    "chapter": 100,
+    "title": "執一",
+    "passage_ids": [
+      "LSCQ-100-001",
+      "LSCQ-100-002",
+      "LSCQ-100-003",
+      "LSCQ-100-004"
+    ]
+  },
+  {
+    "chapter": 101,
+    "title": "審應",
+    "passage_ids": [
+      "LSCQ-101-001",
+      "LSCQ-101-002",
+      "LSCQ-101-003",
+      "LSCQ-101-004",
+      "LSCQ-101-005",
+      "LSCQ-101-006",
+      "LSCQ-101-007"
+    ]
+  },
+  {
+    "chapter": 102,
+    "title": "重言",
+    "passage_ids": [
+      "LSCQ-102-001",
+      "LSCQ-102-002",
+      "LSCQ-102-003",
+      "LSCQ-102-004"
+    ]
+  },
+  {
+    "chapter": 103,
+    "title": "精諭",
+    "passage_ids": [
+      "LSCQ-103-001",
+      "LSCQ-103-002",
+      "LSCQ-103-003",
+      "LSCQ-103-004",
+      "LSCQ-103-005",
+      "LSCQ-103-006"
+    ]
+  },
+  {
+    "chapter": 104,
+    "title": "離謂",
+    "passage_ids": [
+      "LSCQ-104-001",
+      "LSCQ-104-002",
+      "LSCQ-104-003",
+      "LSCQ-104-004",
+      "LSCQ-104-005",
+      "LSCQ-104-006"
+    ]
+  },
+  {
+    "chapter": 105,
+    "title": "淫辭",
+    "passage_ids": [
+      "LSCQ-105-001",
+      "LSCQ-105-002",
+      "LSCQ-105-003",
+      "LSCQ-105-004",
+      "LSCQ-105-005",
+      "LSCQ-105-006",
+      "LSCQ-105-007",
+      "LSCQ-105-008"
+    ]
+  },
+  {
+    "chapter": 106,
+    "title": "不屈",
+    "passage_ids": [
+      "LSCQ-106-001",
+      "LSCQ-106-002",
+      "LSCQ-106-003",
+      "LSCQ-106-004"
+    ]
+  },
+  {
+    "chapter": 107,
+    "title": "應言",
+    "passage_ids": [
+      "LSCQ-107-001",
+      "LSCQ-107-002",
+      "LSCQ-107-003",
+      "LSCQ-107-004",
+      "LSCQ-107-005",
+      "LSCQ-107-006"
+    ]
+  },
+  {
+    "chapter": 108,
+    "title": "具備",
+    "passage_ids": [
+      "LSCQ-108-001",
+      "LSCQ-108-002"
+    ]
+  },
+  {
+    "chapter": 109,
+    "title": "離俗",
+    "passage_ids": [
+      "LSCQ-109-001",
+      "LSCQ-109-002",
+      "LSCQ-109-003",
+      "LSCQ-109-004"
+    ]
+  },
+  {
+    "chapter": 110,
+    "title": "高義",
+    "passage_ids": [
+      "LSCQ-110-001",
+      "LSCQ-110-002",
+      "LSCQ-110-003",
+      "LSCQ-110-004",
+      "LSCQ-110-005"
+    ]
+  },
+  {
+    "chapter": 111,
+    "title": "上德",
+    "passage_ids": [
+      "LSCQ-111-001",
+      "LSCQ-111-002",
+      "LSCQ-111-003",
+      "LSCQ-111-004"
+    ]
+  },
+  {
+    "chapter": 112,
+    "title": "用民",
+    "passage_ids": [
+      "LSCQ-112-001",
+      "LSCQ-112-002",
+      "LSCQ-112-003",
+      "LSCQ-112-004",
+      "LSCQ-112-005",
+      "LSCQ-112-006",
+      "LSCQ-112-007"
+    ]
+  },
+  {
+    "chapter": 113,
+    "title": "適威",
+    "passage_ids": [
+      "LSCQ-113-001",
+      "LSCQ-113-002",
+      "LSCQ-113-003"
+    ]
+  },
+  {
+    "chapter": 114,
+    "title": "為欲",
+    "passage_ids": [
+      "LSCQ-114-001",
+      "LSCQ-114-002",
+      "LSCQ-114-003",
+      "LSCQ-114-004"
+    ]
+  },
+  {
+    "chapter": 115,
+    "title": "貴信",
+    "passage_ids": [
+      "LSCQ-115-001",
+      "LSCQ-115-002",
+      "LSCQ-115-003"
+    ]
+  },
+  {
+    "chapter": 116,
+    "title": "舉難",
+    "passage_ids": [
+      "LSCQ-116-001",
+      "LSCQ-116-002",
+      "LSCQ-116-003",
+      "LSCQ-116-004",
+      "LSCQ-116-005"
+    ]
+  },
+  {
+    "chapter": 117,
+    "title": "恃君",
+    "passage_ids": [
+      "LSCQ-117-001",
+      "LSCQ-117-002",
+      "LSCQ-117-003",
+      "LSCQ-117-004",
+      "LSCQ-117-005"
+    ]
+  },
+  {
+    "chapter": 118,
+    "title": "長利",
+    "passage_ids": [
+      "LSCQ-118-001",
+      "LSCQ-118-002",
+      "LSCQ-118-003",
+      "LSCQ-118-004",
+      "LSCQ-118-005"
+    ]
+  },
+  {
+    "chapter": 119,
+    "title": "知分",
+    "passage_ids": [
+      "LSCQ-119-001",
+      "LSCQ-119-002",
+      "LSCQ-119-003",
+      "LSCQ-119-004",
+      "LSCQ-119-005"
+    ]
+  },
+  {
+    "chapter": 120,
+    "title": "召類",
+    "passage_ids": [
+      "LSCQ-120-001",
+      "LSCQ-120-002",
+      "LSCQ-120-003",
+      "LSCQ-120-004",
+      "LSCQ-120-005"
+    ]
+  },
+  {
+    "chapter": 121,
+    "title": "達鬱",
+    "passage_ids": [
+      "LSCQ-121-001",
+      "LSCQ-121-002",
+      "LSCQ-121-003",
+      "LSCQ-121-004",
+      "LSCQ-121-005"
+    ]
+  },
+  {
+    "chapter": 122,
+    "title": "行論",
+    "passage_ids": [
+      "LSCQ-122-001",
+      "LSCQ-122-002",
+      "LSCQ-122-003",
+      "LSCQ-122-004",
+      "LSCQ-122-005"
+    ]
+  },
+  {
+    "chapter": 123,
+    "title": "驕恣",
+    "passage_ids": [
+      "LSCQ-123-001",
+      "LSCQ-123-002",
+      "LSCQ-123-003",
+      "LSCQ-123-004",
+      "LSCQ-123-005"
+    ]
+  },
+  {
+    "chapter": 124,
+    "title": "觀表",
+    "passage_ids": [
+      "LSCQ-124-001",
+      "LSCQ-124-002",
+      "LSCQ-124-003",
+      "LSCQ-124-004"
+    ]
+  },
+  {
+    "chapter": 125,
+    "title": "開春",
+    "passage_ids": [
+      "LSCQ-125-001",
+      "LSCQ-125-002",
+      "LSCQ-125-003",
+      "LSCQ-125-004"
+    ]
+  },
+  {
+    "chapter": 126,
+    "title": "察賢",
+    "passage_ids": [
+      "LSCQ-126-001",
+      "LSCQ-126-002"
+    ]
+  },
+  {
+    "chapter": 127,
+    "title": "期賢",
+    "passage_ids": [
+      "LSCQ-127-001",
+      "LSCQ-127-002",
+      "LSCQ-127-003"
+    ]
+  },
+  {
+    "chapter": 128,
+    "title": "審為",
+    "passage_ids": [
+      "LSCQ-128-001",
+      "LSCQ-128-002",
+      "LSCQ-128-003",
+      "LSCQ-128-004"
+    ]
+  },
+  {
+    "chapter": 129,
+    "title": "愛類",
+    "passage_ids": [
+      "LSCQ-129-001",
+      "LSCQ-129-002",
+      "LSCQ-129-003",
+      "LSCQ-129-004"
+    ]
+  },
+  {
+    "chapter": 130,
+    "title": "貴卒",
+    "passage_ids": [
+      "LSCQ-130-001",
+      "LSCQ-130-002",
+      "LSCQ-130-003",
+      "LSCQ-130-004",
+      "LSCQ-130-005"
+    ]
+  },
+  {
+    "chapter": 131,
+    "title": "慎行",
+    "passage_ids": [
+      "LSCQ-131-001",
+      "LSCQ-131-002",
+      "LSCQ-131-003"
+    ]
+  },
+  {
+    "chapter": 132,
+    "title": "無義",
+    "passage_ids": [
+      "LSCQ-132-001",
+      "LSCQ-132-002",
+      "LSCQ-132-003",
+      "LSCQ-132-004",
+      "LSCQ-132-005"
+    ]
+  },
+  {
+    "chapter": 133,
+    "title": "疑似",
+    "passage_ids": [
+      "LSCQ-133-001",
+      "LSCQ-133-002",
+      "LSCQ-133-003"
+    ]
+  },
+  {
+    "chapter": 134,
+    "title": "壹行",
+    "passage_ids": [
+      "LSCQ-134-001",
+      "LSCQ-134-002",
+      "LSCQ-134-003",
+      "LSCQ-134-004",
+      "LSCQ-134-005",
+      "LSCQ-134-006"
+    ]
+  },
+  {
+    "chapter": 135,
+    "title": "求人",
+    "passage_ids": [
+      "LSCQ-135-001",
+      "LSCQ-135-002",
+      "LSCQ-135-003",
+      "LSCQ-135-004",
+      "LSCQ-135-005"
+    ]
+  },
+  {
+    "chapter": 136,
+    "title": "察傳",
+    "passage_ids": [
+      "LSCQ-136-001",
+      "LSCQ-136-002",
+      "LSCQ-136-003"
+    ]
+  },
+  {
+    "chapter": 137,
+    "title": "貴直",
+    "passage_ids": [
+      "LSCQ-137-001",
+      "LSCQ-137-002",
+      "LSCQ-137-003",
+      "LSCQ-137-004"
+    ]
+  },
+  {
+    "chapter": 138,
+    "title": "直諫",
+    "passage_ids": [
+      "LSCQ-138-001",
+      "LSCQ-138-002",
+      "LSCQ-138-003"
+    ]
+  },
+  {
+    "chapter": 139,
+    "title": "知化",
+    "passage_ids": [
+      "LSCQ-139-001",
+      "LSCQ-139-002"
+    ]
+  },
+  {
+    "chapter": 140,
+    "title": "過理",
+    "passage_ids": [
+      "LSCQ-140-001",
+      "LSCQ-140-002",
+      "LSCQ-140-003",
+      "LSCQ-140-004"
+    ]
+  },
+  {
+    "chapter": 141,
+    "title": "壅塞",
+    "passage_ids": [
+      "LSCQ-141-001",
+      "LSCQ-141-002",
+      "LSCQ-141-003",
+      "LSCQ-141-004",
+      "LSCQ-141-005"
+    ]
+  },
+  {
+    "chapter": 142,
+    "title": "原亂",
+    "passage_ids": [
+      "LSCQ-142-001",
+      "LSCQ-142-002"
+    ]
+  },
+  {
+    "chapter": 143,
+    "title": "不苟",
+    "passage_ids": [
+      "LSCQ-143-001",
+      "LSCQ-143-002",
+      "LSCQ-143-003",
+      "LSCQ-143-004",
+      "LSCQ-143-005"
+    ]
+  },
+  {
+    "chapter": 144,
+    "title": "贊能",
+    "passage_ids": [
+      "LSCQ-144-001",
+      "LSCQ-144-002",
+      "LSCQ-144-003"
+    ]
+  },
+  {
+    "chapter": 145,
+    "title": "自知",
+    "passage_ids": [
+      "LSCQ-145-001",
+      "LSCQ-145-002",
+      "LSCQ-145-003",
+      "LSCQ-145-004",
+      "LSCQ-145-005"
+    ]
+  },
+  {
+    "chapter": 146,
+    "title": "當賞",
+    "passage_ids": [
+      "LSCQ-146-001",
+      "LSCQ-146-002",
+      "LSCQ-146-003"
+    ]
+  },
+  {
+    "chapter": 147,
+    "title": "博志",
+    "passage_ids": [
+      "LSCQ-147-001",
+      "LSCQ-147-002",
+      "LSCQ-147-003",
+      "LSCQ-147-004",
+      "LSCQ-147-005"
+    ]
+  },
+  {
+    "chapter": 148,
+    "title": "貴當",
+    "passage_ids": [
+      "LSCQ-148-001",
+      "LSCQ-148-002",
+      "LSCQ-148-003"
+    ]
+  },
+  {
+    "chapter": 149,
+    "title": "似順",
+    "passage_ids": [
+      "LSCQ-149-001",
+      "LSCQ-149-002",
+      "LSCQ-149-003",
+      "LSCQ-149-004"
+    ]
+  },
+  {
+    "chapter": 150,
+    "title": "別類",
+    "passage_ids": [
+      "LSCQ-150-001",
+      "LSCQ-150-002",
+      "LSCQ-150-003",
+      "LSCQ-150-004",
+      "LSCQ-150-005",
+      "LSCQ-150-006"
+    ]
+  },
+  {
+    "chapter": 151,
+    "title": "有度",
+    "passage_ids": [
+      "LSCQ-151-001",
+      "LSCQ-151-002",
+      "LSCQ-151-003",
+      "LSCQ-151-004",
+      "LSCQ-151-005"
+    ]
+  },
+  {
+    "chapter": 152,
+    "title": "分職",
+    "passage_ids": [
+      "LSCQ-152-001",
+      "LSCQ-152-002",
+      "LSCQ-152-003",
+      "LSCQ-152-004",
+      "LSCQ-152-005",
+      "LSCQ-152-006"
+    ]
+  },
+  {
+    "chapter": 153,
+    "title": "處方",
+    "passage_ids": [
+      "LSCQ-153-001",
+      "LSCQ-153-002",
+      "LSCQ-153-003",
+      "LSCQ-153-004",
+      "LSCQ-153-005"
+    ]
+  },
+  {
+    "chapter": 154,
+    "title": "慎小",
+    "passage_ids": [
+      "LSCQ-154-001",
+      "LSCQ-154-002",
+      "LSCQ-154-003",
+      "LSCQ-154-004",
+      "LSCQ-154-005"
+    ]
+  },
+  {
+    "chapter": 155,
+    "title": "士容",
+    "passage_ids": [
+      "LSCQ-155-001",
+      "LSCQ-155-002",
+      "LSCQ-155-003",
+      "LSCQ-155-004"
+    ]
+  },
+  {
+    "chapter": 156,
+    "title": "務大",
+    "passage_ids": [
+      "LSCQ-156-001",
+      "LSCQ-156-002",
+      "LSCQ-156-003",
+      "LSCQ-156-004",
+      "LSCQ-156-005"
+    ]
+  },
+  {
+    "chapter": 157,
+    "title": "上農",
+    "passage_ids": [
+      "LSCQ-157-001",
+      "LSCQ-157-002",
+      "LSCQ-157-003",
+      "LSCQ-157-004",
+      "LSCQ-157-005",
+      "LSCQ-157-006",
+      "LSCQ-157-007"
+    ]
+  },
+  {
+    "chapter": 158,
+    "title": "任地",
+    "passage_ids": [
+      "LSCQ-158-001",
+      "LSCQ-158-002",
+      "LSCQ-158-003",
+      "LSCQ-158-004",
+      "LSCQ-158-005"
+    ]
+  },
+  {
+    "chapter": 159,
+    "title": "辯土",
+    "passage_ids": [
+      "LSCQ-159-001",
+      "LSCQ-159-002",
+      "LSCQ-159-003",
+      "LSCQ-159-004"
+    ]
+  },
+  {
+    "chapter": 160,
+    "title": "審時",
+    "passage_ids": [
+      "LSCQ-160-001",
+      "LSCQ-160-002",
+      "LSCQ-160-003",
+      "LSCQ-160-004",
+      "LSCQ-160-005",
+      "LSCQ-160-006",
+      "LSCQ-160-007",
+      "LSCQ-160-008"
+    ]
+  }
+]

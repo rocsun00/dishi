@@ -1,0 +1,734 @@
+{
+  "schema_version": 1,
+  "normalization": "wiki-body-v1",
+  "offset_unit": "Python Unicode code-point offsets, zero-based, end-exclusive",
+  "segments": [
+    {
+      "kind": "excluded",
+      "start": 0,
+      "end": 782,
+      "reason": "现代Header容器及清代书目评论（后者完整另存front_matter.json与《首序与书目按语》）；或韬名/篇题/组序与空白，不是60篇正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-01-001",
+      "start": 782,
+      "end": 1500
+    },
+    {
+      "kind": "excluded",
+      "start": 1500,
+      "end": 1513,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-02-001",
+      "start": 1513,
+      "end": 1914
+    },
+    {
+      "kind": "excluded",
+      "start": 1914,
+      "end": 1927,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-03-001",
+      "start": 1927,
+      "end": 2192
+    },
+    {
+      "kind": "excluded",
+      "start": 2192,
+      "end": 2205,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-04-001",
+      "start": 2205,
+      "end": 2470
+    },
+    {
+      "kind": "excluded",
+      "start": 2470,
+      "end": 2483,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-05-001",
+      "start": 2483,
+      "end": 2654
+    },
+    {
+      "kind": "excluded",
+      "start": 2654,
+      "end": 2667,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-06-001",
+      "start": 2667,
+      "end": 3001
+    },
+    {
+      "kind": "excluded",
+      "start": 3001,
+      "end": 3014,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-07-001",
+      "start": 3014,
+      "end": 3302
+    },
+    {
+      "kind": "excluded",
+      "start": 3302,
+      "end": 3315,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-08-001",
+      "start": 3315,
+      "end": 3576
+    },
+    {
+      "kind": "excluded",
+      "start": 3576,
+      "end": 3589,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-09-001",
+      "start": 3589,
+      "end": 4266
+    },
+    {
+      "kind": "excluded",
+      "start": 4266,
+      "end": 4279,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-10-001",
+      "start": 4279,
+      "end": 4523
+    },
+    {
+      "kind": "excluded",
+      "start": 4523,
+      "end": 4537,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-11-001",
+      "start": 4537,
+      "end": 4638
+    },
+    {
+      "kind": "excluded",
+      "start": 4638,
+      "end": 4667,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-12-001",
+      "start": 4667,
+      "end": 5249
+    },
+    {
+      "kind": "excluded",
+      "start": 5249,
+      "end": 5263,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-13-001",
+      "start": 5263,
+      "end": 5692
+    },
+    {
+      "kind": "excluded",
+      "start": 5692,
+      "end": 5707,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-14-001",
+      "start": 5707,
+      "end": 6304
+    },
+    {
+      "kind": "excluded",
+      "start": 6304,
+      "end": 6318,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-15-001",
+      "start": 6318,
+      "end": 6531
+    },
+    {
+      "kind": "excluded",
+      "start": 6531,
+      "end": 6545,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-16-001",
+      "start": 6545,
+      "end": 6852
+    },
+    {
+      "kind": "excluded",
+      "start": 6852,
+      "end": 6866,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-17-001",
+      "start": 6866,
+      "end": 7154
+    },
+    {
+      "kind": "excluded",
+      "start": 7154,
+      "end": 7183,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-18-001",
+      "start": 7183,
+      "end": 7788
+    },
+    {
+      "kind": "excluded",
+      "start": 7788,
+      "end": 7802,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-19-001",
+      "start": 7802,
+      "end": 8169
+    },
+    {
+      "kind": "excluded",
+      "start": 8169,
+      "end": 8183,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-20-001",
+      "start": 8183,
+      "end": 8543
+    },
+    {
+      "kind": "excluded",
+      "start": 8543,
+      "end": 8558,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-21-001",
+      "start": 8558,
+      "end": 9041
+    },
+    {
+      "kind": "excluded",
+      "start": 9041,
+      "end": 9056,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-22-001",
+      "start": 9056,
+      "end": 9192
+    },
+    {
+      "kind": "excluded",
+      "start": 9192,
+      "end": 9207,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-23-001",
+      "start": 9207,
+      "end": 9485
+    },
+    {
+      "kind": "excluded",
+      "start": 9485,
+      "end": 9500,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-24-001",
+      "start": 9500,
+      "end": 9726
+    },
+    {
+      "kind": "excluded",
+      "start": 9726,
+      "end": 9741,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-25-001",
+      "start": 9741,
+      "end": 9908
+    },
+    {
+      "kind": "excluded",
+      "start": 9908,
+      "end": 9923,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-26-001",
+      "start": 9923,
+      "end": 10429
+    },
+    {
+      "kind": "excluded",
+      "start": 10429,
+      "end": 10444,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-27-001",
+      "start": 10444,
+      "end": 11077
+    },
+    {
+      "kind": "excluded",
+      "start": 11077,
+      "end": 11092,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-28-001",
+      "start": 11092,
+      "end": 11483
+    },
+    {
+      "kind": "excluded",
+      "start": 11483,
+      "end": 11498,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-29-001",
+      "start": 11498,
+      "end": 11953
+    },
+    {
+      "kind": "excluded",
+      "start": 11953,
+      "end": 11967,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-30-001",
+      "start": 11967,
+      "end": 12308
+    },
+    {
+      "kind": "excluded",
+      "start": 12308,
+      "end": 12338,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-31-001",
+      "start": 12338,
+      "end": 13664
+    },
+    {
+      "kind": "excluded",
+      "start": 13664,
+      "end": 13679,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-32-001",
+      "start": 13679,
+      "end": 13803
+    },
+    {
+      "kind": "excluded",
+      "start": 13803,
+      "end": 13818,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-33-001",
+      "start": 13818,
+      "end": 13965
+    },
+    {
+      "kind": "excluded",
+      "start": 13965,
+      "end": 13980,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-34-001",
+      "start": 13980,
+      "end": 14501
+    },
+    {
+      "kind": "excluded",
+      "start": 14501,
+      "end": 14516,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-35-001",
+      "start": 14516,
+      "end": 14830
+    },
+    {
+      "kind": "excluded",
+      "start": 14830,
+      "end": 14845,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-36-001",
+      "start": 14845,
+      "end": 15136
+    },
+    {
+      "kind": "excluded",
+      "start": 15136,
+      "end": 15151,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-37-001",
+      "start": 15151,
+      "end": 15504
+    },
+    {
+      "kind": "excluded",
+      "start": 15504,
+      "end": 15519,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-38-001",
+      "start": 15519,
+      "end": 15820
+    },
+    {
+      "kind": "excluded",
+      "start": 15820,
+      "end": 15837,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-39-001",
+      "start": 15837,
+      "end": 16141
+    },
+    {
+      "kind": "excluded",
+      "start": 16141,
+      "end": 16155,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-40-001",
+      "start": 16155,
+      "end": 16567
+    },
+    {
+      "kind": "excluded",
+      "start": 16567,
+      "end": 16582,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-41-001",
+      "start": 16582,
+      "end": 16851
+    },
+    {
+      "kind": "excluded",
+      "start": 16851,
+      "end": 16866,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-42-001",
+      "start": 16866,
+      "end": 17059
+    },
+    {
+      "kind": "excluded",
+      "start": 17059,
+      "end": 17089,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-43-001",
+      "start": 17089,
+      "end": 17294
+    },
+    {
+      "kind": "excluded",
+      "start": 17294,
+      "end": 17309,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-44-001",
+      "start": 17309,
+      "end": 17700
+    },
+    {
+      "kind": "excluded",
+      "start": 17700,
+      "end": 17715,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-45-001",
+      "start": 17715,
+      "end": 18022
+    },
+    {
+      "kind": "excluded",
+      "start": 18022,
+      "end": 18037,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-46-001",
+      "start": 18037,
+      "end": 18307
+    },
+    {
+      "kind": "excluded",
+      "start": 18307,
+      "end": 18324,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-47-001",
+      "start": 18324,
+      "end": 18603
+    },
+    {
+      "kind": "excluded",
+      "start": 18603,
+      "end": 18620,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-48-001",
+      "start": 18620,
+      "end": 18966
+    },
+    {
+      "kind": "excluded",
+      "start": 18966,
+      "end": 18981,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-49-001",
+      "start": 18981,
+      "end": 19219
+    },
+    {
+      "kind": "excluded",
+      "start": 19219,
+      "end": 19233,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-50-001",
+      "start": 19233,
+      "end": 19491
+    },
+    {
+      "kind": "excluded",
+      "start": 19491,
+      "end": 19521,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-51-001",
+      "start": 19521,
+      "end": 19683
+    },
+    {
+      "kind": "excluded",
+      "start": 19683,
+      "end": 19698,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-52-001",
+      "start": 19698,
+      "end": 19871
+    },
+    {
+      "kind": "excluded",
+      "start": 19871,
+      "end": 19886,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-53-001",
+      "start": 19886,
+      "end": 20198
+    },
+    {
+      "kind": "excluded",
+      "start": 20198,
+      "end": 20213,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-54-001",
+      "start": 20213,
+      "end": 20407
+    },
+    {
+      "kind": "excluded",
+      "start": 20407,
+      "end": 20422,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-55-001",
+      "start": 20422,
+      "end": 20958
+    },
+    {
+      "kind": "excluded",
+      "start": 20958,
+      "end": 20974,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-56-001",
+      "start": 20974,
+      "end": 21075
+    },
+    {
+      "kind": "excluded",
+      "start": 21075,
+      "end": 21091,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-57-001",
+      "start": 21091,
+      "end": 21197
+    },
+    {
+      "kind": "excluded",
+      "start": 21197,
+      "end": 21212,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-58-001",
+      "start": 21212,
+      "end": 21685
+    },
+    {
+      "kind": "excluded",
+      "start": 21685,
+      "end": 21700,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-59-001",
+      "start": 21700,
+      "end": 22336
+    },
+    {
+      "kind": "excluded",
+      "start": 22336,
+      "end": 22350,
+      "reason": "韬名/篇题/组序及空白，不是正文"
+    },
+    {
+      "kind": "passage",
+      "id": "LT-60-001",
+      "start": 22350,
+      "end": 22599
+    },
+    {
+      "kind": "excluded",
+      "start": 22599,
+      "end": 22644,
+      "reason": "正文后空白、PD-old许可与Category分类页面标记，不是正文"
+    }
+  ],
+  "front_matter_saved_in": "front_matter.json"
+}

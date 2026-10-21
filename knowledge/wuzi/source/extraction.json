@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "normalization": "wiki-body-v1",
+  "offset_unit": "Python Unicode code points; half-open [start,end)",
+  "segments": [
+    {
+      "kind": "excluded",
+      "start": 0,
+      "end": 145,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-01-001",
+      "start": 145,
+      "end": 172
+    },
+    {
+      "kind": "excluded",
+      "start": 172,
+      "end": 174,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-01-002",
+      "start": 174,
+      "end": 402
+    },
+    {
+      "kind": "excluded",
+      "start": 402,
+      "end": 404,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-01-003",
+      "start": 404,
+      "end": 469
+    },
+    {
+      "kind": "excluded",
+      "start": 469,
+      "end": 471,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-01-004",
+      "start": 471,
+      "end": 628
+    },
+    {
+      "kind": "excluded",
+      "start": 628,
+      "end": 630,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-01-005",
+      "start": 630,
+      "end": 769
+    },
+    {
+      "kind": "excluded",
+      "start": 769,
+      "end": 771,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-01-006",
+      "start": 771,
+      "end": 876
+    },
+    {
+      "kind": "excluded",
+      "start": 876,
+      "end": 878,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-01-007",
+      "start": 878,
+      "end": 1029
+    },
+    {
+      "kind": "excluded",
+      "start": 1029,
+      "end": 1031,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-01-008",
+      "start": 1031,
+      "end": 1258
+    },
+    {
+      "kind": "excluded",
+      "start": 1258,
+      "end": 1260,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-01-009",
+      "start": 1260,
+      "end": 1353
+    },
+    {
+      "kind": "excluded",
+      "start": 1353,
+      "end": 1355,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-01-010",
+      "start": 1355,
+      "end": 1492
+    },
+    {
+      "kind": "excluded",
+      "start": 1492,
+      "end": 1514,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-02-001",
+      "start": 1514,
+      "end": 1570
+    },
+    {
+      "kind": "excluded",
+      "start": 1570,
+      "end": 1572,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-02-002",
+      "start": 1572,
+      "end": 2107
+    },
+    {
+      "kind": "excluded",
+      "start": 2107,
+      "end": 2109,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-02-003",
+      "start": 2109,
+      "end": 2426
+    },
+    {
+      "kind": "excluded",
+      "start": 2426,
+      "end": 2428,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-02-004",
+      "start": 2428,
+      "end": 2547
+    },
+    {
+      "kind": "excluded",
+      "start": 2547,
+      "end": 2549,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-02-005",
+      "start": 2549,
+      "end": 2707
+    },
+    {
+      "kind": "excluded",
+      "start": 2707,
+      "end": 2730,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-03-001",
+      "start": 2730,
+      "end": 2856
+    },
+    {
+      "kind": "excluded",
+      "start": 2856,
+      "end": 2858,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-03-002",
+      "start": 2858,
+      "end": 3015
+    },
+    {
+      "kind": "excluded",
+      "start": 3015,
+      "end": 3017,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-03-003",
+      "start": 3017,
+      "end": 3117
+    },
+    {
+      "kind": "excluded",
+      "start": 3117,
+      "end": 3119,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-03-004",
+      "start": 3119,
+      "end": 3205
+    },
+    {
+      "kind": "excluded",
+      "start": 3205,
+      "end": 3207,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-03-005",
+      "start": 3207,
+      "end": 3354
+    },
+    {
+      "kind": "excluded",
+      "start": 3354,
+      "end": 3356,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-03-006",
+      "start": 3356,
+      "end": 3448
+    },
+    {
+      "kind": "excluded",
+      "start": 3448,
+      "end": 3450,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-03-007",
+      "start": 3450,
+      "end": 3556
+    },
+    {
+      "kind": "excluded",
+      "start": 3556,
+      "end": 3558,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-03-008",
+      "start": 3558,
+      "end": 3730
+    },
+    {
+      "kind": "excluded",
+      "start": 3730,
+      "end": 3753,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-04-001",
+      "start": 3753,
+      "end": 3929
+    },
+    {
+      "kind": "excluded",
+      "start": 3929,
+      "end": 3931,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-04-002",
+      "start": 3931,
+      "end": 4131
+    },
+    {
+      "kind": "excluded",
+      "start": 4131,
+      "end": 4133,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-04-003",
+      "start": 4133,
+      "end": 4238
+    },
+    {
+      "kind": "excluded",
+      "start": 4238,
+      "end": 4240,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-04-004",
+      "start": 4240,
+      "end": 4440
+    },
+    {
+      "kind": "excluded",
+      "start": 4440,
+      "end": 4442,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-04-005",
+      "start": 4442,
+      "end": 4591
+    },
+    {
+      "kind": "excluded",
+      "start": 4591,
+      "end": 4614,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-05-001",
+      "start": 4614,
+      "end": 4733
+    },
+    {
+      "kind": "excluded",
+      "start": 4733,
+      "end": 4735,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-05-002",
+      "start": 4735,
+      "end": 4843
+    },
+    {
+      "kind": "excluded",
+      "start": 4843,
+      "end": 4845,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-05-003",
+      "start": 4845,
+      "end": 5074
+    },
+    {
+      "kind": "excluded",
+      "start": 5074,
+      "end": 5076,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-05-004",
+      "start": 5076,
+      "end": 5146
+    },
+    {
+      "kind": "excluded",
+      "start": 5146,
+      "end": 5148,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-05-005",
+      "start": 5148,
+      "end": 5250
+    },
+    {
+      "kind": "excluded",
+      "start": 5250,
+      "end": 5252,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-05-006",
+      "start": 5252,
+      "end": 5391
+    },
+    {
+      "kind": "excluded",
+      "start": 5391,
+      "end": 5393,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-05-007",
+      "start": 5393,
+      "end": 5496
+    },
+    {
+      "kind": "excluded",
+      "start": 5496,
+      "end": 5498,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-05-008",
+      "start": 5498,
+      "end": 5581
+    },
+    {
+      "kind": "excluded",
+      "start": 5581,
+      "end": 5583,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-05-009",
+      "start": 5583,
+      "end": 5666
+    },
+    {
+      "kind": "excluded",
+      "start": 5666,
+      "end": 5668,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-05-010",
+      "start": 5668,
+      "end": 5746
+    },
+    {
+      "kind": "excluded",
+      "start": 5746,
+      "end": 5769,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-06-001",
+      "start": 5769,
+      "end": 5849
+    },
+    {
+      "kind": "excluded",
+      "start": 5849,
+      "end": 5851,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-06-002",
+      "start": 5851,
+      "end": 5882
+    },
+    {
+      "kind": "excluded",
+      "start": 5882,
+      "end": 5884,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-06-003",
+      "start": 5884,
+      "end": 6025
+    },
+    {
+      "kind": "excluded",
+      "start": 6025,
+      "end": 6027,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-06-004",
+      "start": 6027,
+      "end": 6201
+    },
+    {
+      "kind": "excluded",
+      "start": 6201,
+      "end": 6203,
+      "reason": "页头元数据、篇题、空白或gototop导航；不含正文句"
+    },
+    {
+      "kind": "passage",
+      "id": "WZ-06-005",
+      "start": 6203,
+      "end": 6270
+    },
+    {
+      "kind": "excluded",
+      "start": 6270,
+      "end": 6343,
+      "reason": "正文尾空白、gototop导航、PD-old公版模板及分类；不含正文句"
+    }
+  ]
+}

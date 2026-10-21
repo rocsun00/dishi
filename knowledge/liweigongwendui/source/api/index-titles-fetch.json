@@ -1,0 +1,71 @@
+{
+  "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E4%B8%89%E7%95%A5%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A5%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A5+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%7C%E5%94%90%E5%A4%AA%E5%AE%97%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&redirects=1",
+  "retrieved_utc": "2026-10-20T15:01:06.044524+00:00",
+  "mode": "titles",
+  "response_path": "index-titles.json",
+  "response_sha256": "f5fec2c3756185211fc16f48583ee5fcff740c5dc380a9269aa776945b880330",
+  "pages": [
+    {
+      "title": "黃石公三略 (四庫全書本)",
+      "missing": true
+    },
+    {
+      "title": "三略",
+      "pageid": 7690,
+      "revid": 2358300,
+      "timestamp": "2024-01-19T13:23:00Z",
+      "raw_path": "index-titles-7690.wikitext",
+      "chars": 5636,
+      "headings": [
+        "==上略==",
+        "==中略==",
+        "==下略=="
+      ],
+      "raw_sha256": "79f7c73a6ac7b689608fc90ff1cb2846de16518f8228e547a6d2bc6b241b3db2"
+    },
+    {
+      "title": "唐李問對",
+      "pageid": 56025,
+      "revid": 2358304,
+      "timestamp": "2024-01-19T13:26:17Z",
+      "raw_path": "index-titles-56025.wikitext",
+      "chars": 158,
+      "headings": [],
+      "raw_sha256": "c3f4f14d14bb9030e46f867a2f4b4a3562f1f703fefa12618ef554a7559ca519"
+    },
+    {
+      "title": "黃石公三畧 (四庫全書本)",
+      "pageid": 254961,
+      "revid": 619906,
+      "timestamp": "2016-10-14T02:39:30Z",
+      "raw_path": "index-titles-254961.wikitext",
+      "chars": 1300,
+      "headings": [],
+      "raw_sha256": "cf7fb04e08f9c128ab91c1ccc5f6346293f78ebfffade68e8f075dd1400a772c"
+    },
+    {
+      "title": "李衛公問對 (四庫全書本)",
+      "pageid": 260913,
+      "revid": 631894,
+      "timestamp": "2016-10-14T04:02:13Z",
+      "raw_path": "index-titles-260913.wikitext",
+      "chars": 887,
+      "headings": [],
+      "raw_sha256": "7bb0e7fc7a467d2d924f1d7d0bba9f5ea2e8b3a9c0fd1db5a3b81b3f919823b9"
+    }
+  ],
+  "redirects": [
+    {
+      "from": "唐太宗李衛公問對",
+      "to": "唐李問對"
+    },
+    {
+      "from": "黃石公三略",
+      "to": "三略"
+    },
+    {
+      "from": "李衛公問對",
+      "to": "唐李問對"
+    }
+  ]
+}

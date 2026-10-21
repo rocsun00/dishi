@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=吳子|section=卷第下|prev=卷第上|next=|type=子|notes=景常熟瞿氏鐵琴銅劍樓藏景宋鈔本}}
+<pages from="124" to="135" index="Sibu Congkan0343-姜尚、吴起、田穰苴-六韜·吳子·司馬法-1-1.djvu" />

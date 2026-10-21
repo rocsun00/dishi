@@ -1,0 +1,486 @@
+{
+  "work_id": "weiliaozi",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "天官第一",
+      "part": "卷1",
+      "source_heading": "天官第一",
+      "page_title": "尉繚子 (四庫全書本)/卷1",
+      "revision": 631866,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 226,
+      "source_body_end": 473,
+      "combined_body_start": 226,
+      "combined_body_end": 473,
+      "selected_raw_sha256": "9c8d654b7e2fc0434a6b7b8fa7dcb64a180dbddc488d4523d3577424ecc91bdd",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-01-001"
+      ],
+      "first_body_text": "梁惠王問尉繚子曰黄帝形德可以百勝有之乎尉繚子對曰刑以伐之德以守之非所謂天官時日隂陽向背也黄帝者人事而已矣何者今有城東西攻不能取南北攻不能取四方豈無順時乘之者耶然不能取者城髙池深兵器備具財穀多積豪士一謀",
+      "last_body_text": "濟水向山阪而陳以二萬二千五百人擊紂之億萬而滅商豈紂不得天官之陳哉楚將公子心與齊人戰時有彗星出柄在齊柄所在勝不可擊公子心曰彗星何知以彗鬭者固倒而勝焉明日與齊戰大破之黄帝曰先神先鬼先稽我智謂之天官人事而已"
+    },
+    {
+      "chapter": 2,
+      "title": "兵談第二",
+      "part": "卷1",
+      "source_heading": "兵談第二",
+      "page_title": "尉繚子 (四庫全書本)/卷1",
+      "revision": 631866,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 497,
+      "source_body_end": 838,
+      "combined_body_start": 497,
+      "combined_body_end": 838,
+      "selected_raw_sha256": "e1ae1938cf8ab6cecf57d154daaa06d4de77ce61e9b6a84ce8246a20b27c0ddc",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-02-001"
+      ],
+      "first_body_text": "量土地肥磽而立邑建城稱地以城稱人以人稱粟三相稱則内可以固守外可以戰勝戰勝於外備主於内勝備相應猶合符節無異故也治兵者若秘于地若邃于天生于無故開之大不窕小不恢明乎禁舍開塞民流者親之地不任者任之夫土廣而任則",
+      "last_body_text": "者難矣兵之所及羊腸亦勝鋸齒亦勝緣山亦勝入谷亦勝方亦勝圎亦勝重者如山如林如江如河輕者如炮如燔如垣壓之如雲覆之令人聚不得以散散不得以聚左不得以右右不得以左兵如總木弩如羊角人人無不騰陵張膽絶乎疑慮堂堂決而去"
+    },
+    {
+      "chapter": 3,
+      "title": "制談第三",
+      "part": "卷1",
+      "source_heading": "制談第三",
+      "page_title": "尉繚子 (四庫全書本)/卷1",
+      "revision": 631866,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 862,
+      "source_body_end": 1704,
+      "combined_body_start": 862,
+      "combined_body_end": 1704,
+      "selected_raw_sha256": "d43025bf00cb33530f3303c05277168798d2437f744a514494dbeffb0b4e4681",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-03-001"
+      ],
+      "first_body_text": "凡兵制必先定制先定則士不亂士不亂則刑乃明金鼓所指則百人盡鬭陷行亂陳則千人盡鬭覆軍殺將則萬人齊刃天下莫能當其戰矣古者士有什伍車有偏列鼓鳴旗麾先登者未嘗非多力國士也先死者亦未嘗非多力國士也損敵一人而損我百",
+      "last_body_text": "臂爭出農戰而天下無敵矣故曰發號出令信行國内民言有可以勝敵者毋許其空言必試其能戰也視人之地而有之分人之民而畜之必能内有其賢者也不能内有其賢而欲有天下必覆軍殺將如此雖戰勝而國益弱得地而國益貧由國中之制弊矣"
+    },
+    {
+      "chapter": 4,
+      "title": "戰威第四",
+      "part": "卷1",
+      "source_heading": "戰威第四",
+      "page_title": "尉繚子 (四庫全書本)/卷1",
+      "revision": 631866,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 1728,
+      "source_body_end": 2474,
+      "combined_body_start": 1728,
+      "combined_body_end": 2474,
+      "selected_raw_sha256": "343e5f122dcd20fa0a7557e06d7247b2c9fc04f262b91c3fd58447fcfd79c9b7",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-04-001"
+      ],
+      "first_body_text": "凡兵有以道勝有以威勝有以力勝講武料敵使敵之氣失而師散雖刑全而不為之用此道勝也審法制明賞罰便器用使民有必戰之心此威勝也破軍殺將乘闉發機潰衆奪地成功乃返此力勝也王侯知此所以三勝者畢矣夫將之所以戰者民也民之",
+      "last_body_text": "事利明法審令不卜筮而獲吉貴功養勞不禱祠而得福故曰天時不如地利地利不如人和聖人所貴人事而已夫勤勞之師將必先已暑不張葢寒不重衣險必下步軍井成而後飲軍食熟而後飯軍壘成而後舍勞佚必以身同之如此師雖久而不老不弊"
+    },
+    {
+      "chapter": 5,
+      "title": "攻權第五",
+      "part": "卷1",
+      "source_heading": "攻權第五",
+      "page_title": "尉繚子 (四庫全書本)/卷1",
+      "revision": 631866,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 2498,
+      "source_body_end": 3187,
+      "combined_body_start": 2498,
+      "combined_body_end": 3187,
+      "selected_raw_sha256": "e0d2fa99856010e410017647b4d013a040f8e80e59bfff20d14803246740bc8a",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-05-001"
+      ],
+      "first_body_text": "兵以靜勝國以專勝力分者弱心疑者背夫力弱故進退不豪縱敵不擒將吏士卒動靜一身心既疑背則計決而不動動決而不禁異口虚言將無修容卒無常試發攻必衂是謂疾陵之兵無足與鬭將帥者心也羣下者支節也其心動以誠則支節必力其心",
+      "last_body_text": "敵救未至而一城已降津梁未發要塞未修城險未設渠答未張則雖有城無守矣逺堡未入戍客未歸則雖有人無人矣六畜未聚五穀未收財用無斂則雖有資無資矣夫城邑空虚而資盡者我因其虚而攻之法曰獨出獨入敵人不接刃而致之此之謂也"
+    },
+    {
+      "chapter": 6,
+      "title": "守權第六",
+      "part": "卷2",
+      "source_heading": "守權第六",
+      "page_title": "尉繚子 (四庫全書本)/卷2",
+      "revision": 631868,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 230,
+      "source_body_end": 609,
+      "combined_body_start": 3551,
+      "combined_body_end": 3930,
+      "selected_raw_sha256": "e12ee550decdd5173152ea8381b127be44f9a0de5a04e2a654f10b1273b73807",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-06-001"
+      ],
+      "first_body_text": "凡守者進不郭圉退不亭障以禦戰非善者也豪傑英俊堅甲利兵勁弩強矢盡在郭中乃收窖廩毁折而入保令客氣十百倍而主之氣不半焉敵攻者傷之甚也然而世將弗能知夫守者不失其險者也守法城一丈十人守之工食不與焉出者不守守者不",
+      "last_body_text": "必鼓其豪傑英俊堅甲利兵勁弩強矢并於前么麽毁瘠者并於後十萬之衆頓於城下救必開之守必出之出據要塞但救其後無絶其糧道中外相應此救而示之不誠示之不誠則倒敵而待之者也後其壯前其老彼敵無前守不得而止矣此守權之謂也"
+    },
+    {
+      "chapter": 7,
+      "title": "十二陵第七",
+      "part": "卷2",
+      "source_heading": "十二陵第七",
+      "page_title": "尉繚子 (四庫全書本)/卷2",
+      "revision": 631868,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 634,
+      "source_body_end": 769,
+      "combined_body_start": 3955,
+      "combined_body_end": 4090,
+      "selected_raw_sha256": "d962e8867fdd9abce9fee15f5c4454e698f42b42143cf3e0e25ebdbc54b2ae98",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-07-001"
+      ],
+      "first_body_text": "威在於不變惠在於因時機在於應事戰在於治氣攻在於意表守在於外飾無過在於度數無困在於豫備慎在於畏小智在於治大除害在於敢㫁得衆在於下人悔在於任疑孽在於屠戮偏在於多私不祥在於惡聞己過不度在於竭民財不明在於受間",
+      "last_body_text": "數無困在於豫備慎在於畏小智在於治大除害在於敢㫁得衆在於下人悔在於任疑孽在於屠戮偏在於多私不祥在於惡聞己過不度在於竭民財不明在於受間不實在於輕發固陋在於離賢禍在於好利害在於親小人亡在於無所守危在於無號令"
+    },
+    {
+      "chapter": 8,
+      "title": "武議第八",
+      "part": "卷2",
+      "source_heading": "武議第八",
+      "page_title": "尉繚子 (四庫全書本)/卷2",
+      "revision": 631868,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 793,
+      "source_body_end": 1850,
+      "combined_body_start": 4114,
+      "combined_body_end": 5171,
+      "selected_raw_sha256": "b8760469918bb77a5e703c504fc135dc1d9c32ab6c9c19bfe6c21286cfa12b50",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-08-001"
+      ],
+      "first_body_text": "凡兵不攻無過之城不殺無罪之人夫殺人之父兄利人之財貨臣妾人之子女此皆盜也故兵者所以誅暴亂禁不義也兵之所加者農不離其田業賈不離其肆宅士大夫不離其官府由其武議在於一人故兵不血刃而天下親焉萬乘農戰千乘救守百乘",
+      "last_body_text": "揮兵指刃此將事也一劒之任非將事也三軍成行一舍而後成三舍三舍之餘如決川源望敵在前因其所長而用之敵白者堊之赤者赭之吳起與秦戰未合一夫不勝其勇前獲雙首而還吳起立斬之軍吏諫曰此材士也起曰材士則是也非吾令也斬之"
+    },
+    {
+      "chapter": 9,
+      "title": "將理第九",
+      "part": "卷2",
+      "source_heading": "將理第九",
+      "page_title": "尉繚子 (四庫全書本)/卷2",
+      "revision": 631868,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 1874,
+      "source_body_end": 2141,
+      "combined_body_start": 5195,
+      "combined_body_end": 5462,
+      "selected_raw_sha256": "78b7bd29892f6e43e02b487a74cb618aa73b88821342960949998eec0e22cd78",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-09-001"
+      ],
+      "first_body_text": "凡將理官也萬物之主也不私於一人夫能無私於一人故萬物至而制之萬物至而命之君子不救囚於五步之外雖鉤矢射之弗追也故善審囚之情不待箠楚而囚之情可畢矣笞人之背灼人之脇束人之指而訊囚之情雖國士有不勝其酷而自誣矣今",
+      "last_body_text": "之事百人聮千人之事千人聮萬人之事所聮之者親戚兄弟也其次婚姻也其次知識故人也是農無不離田業賈無不離肆宅士大夫無不離官府如此闗聮良民皆囚之情也兵法曰十萬之師出日費千金今良民十萬而聮於囹圄上不能省臣以為危也"
+    },
+    {
+      "chapter": 10,
+      "title": "原官第十",
+      "part": "卷2",
+      "source_heading": "原官第十",
+      "page_title": "尉繚子 (四庫全書本)/卷2",
+      "revision": 631868,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 2165,
+      "source_body_end": 2421,
+      "combined_body_start": 5486,
+      "combined_body_end": 5742,
+      "selected_raw_sha256": "de3f62be5a535161b21d6fe28a5618759dad9eef072c65ed9021b87f0a79ce69",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-10-001"
+      ],
+      "first_body_text": "官者事之所主為治之本也制者職分四民治之分也貴爵富祿必稱尊卑之體也好善罰惡正比法會計民之具也均井地節賦斂取與之度也程工人備器用匠工之功也分地塞要殄怪禁淫之事也守法稽㫁臣下之節也明法稽驗主上之操也明主守等",
+      "last_body_text": "知彼動者靜之決也官分文武惟王之二術也俎豆同制天子之會也遊說間諜無自入正議之術也諸侯有謹天子之禮君民繼世承王之命也更好易常違王明德故禮得以伐也官無事治上無慶賞民無獄訟國無商賈何王之至也明舉上達在王垂聽也"
+    },
+    {
+      "chapter": 11,
+      "title": "治本第十一",
+      "part": "卷3",
+      "source_heading": "治本第十一",
+      "page_title": "尉繚子 (四庫全書本)/卷3",
+      "revision": 631870,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 231,
+      "source_body_end": 738,
+      "combined_body_start": 6100,
+      "combined_body_end": 6607,
+      "selected_raw_sha256": "f6b3156876b420fd48a5e4106db49b8346265775ec564827c3a1ce553548165d",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-11-001"
+      ],
+      "first_body_text": "凡治人者何曰非五穀無以充腹非絲麻無以葢形故充腹有粒葢形有縷夫在芸耨妻在機杼民無二事則有儲蓄夫無雕文刻鏤之事女無繡飾纂組之作木器液金器腥聖人飲于土食于土故埏埴以為器天下無費今也金木之性不寒而衣繡飾馬牛之",
+      "last_body_text": "曰神明二曰垂光三曰洪敘四曰無敵此天子之事也野物不為犧牲雜學不為通儒今說者曰百里之海不能飲一夫三尺之泉足止三軍渴臣謂欲生于無度邪生於無禁大上神化其次因物其下在于無奪民時無損民財夫禁必以武而成賞必以文而成"
+    },
+    {
+      "chapter": 12,
+      "title": "戰權第十二",
+      "part": "卷3",
+      "source_heading": "戰權第十二",
+      "page_title": "尉繚子 (四庫全書本)/卷3",
+      "revision": 631870,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 763,
+      "source_body_end": 1047,
+      "combined_body_start": 6632,
+      "combined_body_end": 6916,
+      "selected_raw_sha256": "78408340db1169ecdc0e2dca0ea2f796f7adfce8ffa7b9a1c613c5b9ee93ea3b",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-12-001"
+      ],
+      "first_body_text": "兵法曰千人而成權萬人而成武權先加人者敵不力交武先加人者敵無威接故兵貴先勝於此則勝彼矣弗勝於此則弗勝彼矣凡我往則彼來彼來則我往相為勝敗此戰之理然也夫精誠在乎神明戰權在乎道之所極有者無之無者有之安所信之先",
+      "last_body_text": "不可守敗者無人兵無道也意往而不疑則從之奪敵而無前則加之明視而髙居則威之兵道極矣其言無謹偷失其陵犯無節破矣水潰雷擊三軍亂矣必安其危去其患以智決之髙之以廊廟之論重之以受命之論銳之以踰垠之論則敵國可不戰而服"
+    },
+    {
+      "chapter": 13,
+      "title": "重刑令第十三",
+      "part": "卷3",
+      "source_heading": "重刑令第十三",
+      "page_title": "尉繚子 (四庫全書本)/卷3",
+      "revision": 631870,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 1073,
+      "source_body_end": 1178,
+      "combined_body_start": 6942,
+      "combined_body_end": 7047,
+      "selected_raw_sha256": "78fa9e2d9d41b0427a1cb2b73b9a94deae9f0f20213efd8031714bcb1bf76962",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-13-001"
+      ],
+      "first_body_text": "將自千人以上有戰而北守而降離地逃衆命曰國賊身戮家殘去其籍發其墳墓暴其骨于市男女公于官自百人以上有戰而北守而降離地逃衆命曰軍賊身死家殘男女公于官使民内畏重刑則外輕敵故先王明制度於前重威刑於後刑重則内畏内",
+      "last_body_text": "上有戰而北守而降離地逃衆命曰國賊身戮家殘去其籍發其墳墓暴其骨于市男女公于官自百人以上有戰而北守而降離地逃衆命曰軍賊身死家殘男女公于官使民内畏重刑則外輕敵故先王明制度於前重威刑於後刑重則内畏内畏則外堅矣"
+    },
+    {
+      "chapter": 14,
+      "title": "伍制令第十四",
+      "part": "卷3",
+      "source_heading": "伍制令第十四",
+      "page_title": "尉繚子 (四庫全書本)/卷3",
+      "revision": 631870,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 1204,
+      "source_body_end": 1409,
+      "combined_body_start": 7073,
+      "combined_body_end": 7278,
+      "selected_raw_sha256": "ef0551aff00acfa444f290a3510221776df1c03b9e8c336688287f99ccabf33e",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-14-001"
+      ],
+      "first_body_text": "軍中之制五人為伍伍相保也十人為什什相保也五十人為屬屬相保也百人為閭閭相保也伍有干令犯禁者揭之免於罪知而弗揭全伍有誅什有干令犯禁者揭之免於罪知而弗揭全什有誅屬有干令犯禁者揭之免於罪知而弗揭全屬有誅閭有干",
+      "last_body_text": "之免於罪知而弗揭全閭有誅吏自什長以上至左右將上下皆相保也有干令犯禁者揭之免於罪知而弗揭者皆與同罪夫什伍相結上下相聮無有不得之奸無有不揭之罪父不得以私其子兄不得以私其弟而况國人聚舍同食烏能以干令相私者哉"
+    },
+    {
+      "chapter": 15,
+      "title": "分塞令第十五",
+      "part": "卷3",
+      "source_heading": "分塞令第十五",
+      "page_title": "尉繚子 (四庫全書本)/卷3",
+      "revision": 631870,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 1435,
+      "source_body_end": 1592,
+      "combined_body_start": 7304,
+      "combined_body_end": 7461,
+      "selected_raw_sha256": "e3290f05e770ae9ad77fe57e9e1a2a7e19aceeafb891d7c95042a3cdb6646cb5",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-15-001"
+      ],
+      "first_body_text": "中軍左右前後軍皆有分地方之以行垣而無通其交往將有分地帥有分地伯有分地皆營其溝洫而明其塞令使非百人無得通非其百人而入者伯誅之伯不誅與之同罪軍中縱横之道百有二十步而立一府柱量人與地柱道相望禁行淸道非將吏之",
+      "last_body_text": "者伯誅之伯不誅與之同罪軍中縱横之道百有二十步而立一府柱量人與地柱道相望禁行淸道非將吏之符節不得通行采薪芻牧者皆成行伍不成行伍者不得通行吏屬無節士無伍者横門誅之踰分于地者誅之故内無干令犯禁則外無不獲之奸"
+    },
+    {
+      "chapter": 16,
+      "title": "束伍令第十六",
+      "part": "卷4",
+      "source_heading": "束伍令第十六",
+      "page_title": "尉繚子 (四庫全書本)/卷4",
+      "revision": 631872,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 232,
+      "source_body_end": 380,
+      "combined_body_start": 7827,
+      "combined_body_end": 7975,
+      "selected_raw_sha256": "ed587118d6e7cae49abe73b385dfdb2687edcb0dcb20b26e41ca44f1faeef6f8",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-16-001"
+      ],
+      "first_body_text": "束伍之令曰五人為伍共一符收於將吏之所亡伍而得伍者當之得伍而不亡有賞亡伍不得伍身死家殘亡長得長當之得長不亡有賞亡長不得長身死家殘復戰得首長除之亡將得將當之得將不亡有賞亡將不得將坐離地遁逃之法戰誅之法曰什",
+      "last_body_text": "得長不亡有賞亡長不得長身死家殘復戰得首長除之亡將得將當之得將不亡有賞亡將不得將坐離地遁逃之法戰誅之法曰什長得誅十人伯長得誅十長千人之將得誅百人之長萬人之將得誅千人之將左右將軍得誅萬人之將大將軍無不得誅"
+    },
+    {
+      "chapter": 17,
+      "title": "經卒令第十七",
+      "part": "卷4",
+      "source_heading": "經卒令第十七",
+      "page_title": "尉繚子 (四庫全書本)/卷4",
+      "revision": 631872,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 406,
+      "source_body_end": 617,
+      "combined_body_start": 8001,
+      "combined_body_end": 8212,
+      "selected_raw_sha256": "0f6b281cafd5989de966067c4d382eb0b58ad4b65ea39a66e3ea6ba3681b048c",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-17-001"
+      ],
+      "first_body_text": "經卒者以經令分之為三分焉左軍蒼旗卒戴蒼羽右軍白旗卒戴白羽中軍黄旗卒戴黄羽卒有五章前一行蒼章次二行赤章次三行黄章次四行白章次五行黑章次以經卒亡章者有誅前一五行置章于首次二五行置章于項次三五行置章于胷次四",
+      "last_body_text": "章于腰如此卒無非其吏吏無非其卒見非而不詰見亂而不禁其罪如之鼓行交鬭則前行進為犯難後行退為辱衆踰五行而前者有賞踰五行而後者有誅所以知進退先後吏卒之功也故曰鼓之前如雷霆動如風雨莫敢當其前莫敢躡其後言有經也"
+    },
+    {
+      "chapter": 18,
+      "title": "勒卒令第十八",
+      "part": "卷4",
+      "source_heading": "勒卒令第十八",
+      "page_title": "尉繚子 (四庫全書本)/卷4",
+      "revision": 631872,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 643,
+      "source_body_end": 953,
+      "combined_body_start": 8238,
+      "combined_body_end": 8548,
+      "selected_raw_sha256": "fcf6d5c3fd4a09fb6c30a09ce2c117ac0006a1c26ba1bf7cde18595241dbb321",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-18-001"
+      ],
+      "first_body_text": "金鼓鈴旗四者各有法鼓之則進重鼓則擊金之則止重金則退鈴傳令也旗麾之左則左麾之右則右奇兵則反是一鼓一擊而左一鼓一擊而右一步一鼓步鼓也十步一鼓趨鼓也音不絶騖鼓也商將鼓也角帥鼓也小鼓伯鼓也三鼓同則將帥伯其心一",
+      "last_body_text": "之無疑故能敗敵而制其命夫蚤決先定若計不先定慮不蚤決則進退不定疑生必敗故正兵貴先奇兵貴後或先或後制敵者也世將不知法者專命而行先擊而勇無不敗者也其舉有疑而不疑其往有信而不信其致有遲疾而不遲疾是三者戰之累也"
+    },
+    {
+      "chapter": 19,
+      "title": "將令第十九",
+      "part": "卷4",
+      "source_heading": "將令第十九",
+      "page_title": "尉繚子 (四庫全書本)/卷4",
+      "revision": 631872,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 978,
+      "source_body_end": 1085,
+      "combined_body_start": 8573,
+      "combined_body_end": 8680,
+      "selected_raw_sha256": "060887a8b7027dfaf372cf685634bd2846b87428bacef7867f4bcf94584c8a96",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-19-001"
+      ],
+      "first_body_text": "將軍受命君必先謀於廟行令于廷君身以斧鉞授將曰左右中軍皆有分職若踰分而上請者死軍無二令二令者誅留令者誅失令者誅將軍告曰出國門之外期日中設營表置轅門期之如過時則坐法將軍入營則閉門清道有敢行者誅有敢髙言者誅",
+      "last_body_text": "謀於廟行令于廷君身以斧鉞授將曰左右中軍皆有分職若踰分而上請者死軍無二令二令者誅留令者誅失令者誅將軍告曰出國門之外期日中設營表置轅門期之如過時則坐法將軍入營則閉門清道有敢行者誅有敢髙言者誅有敢不從令者誅"
+    },
+    {
+      "chapter": 20,
+      "title": "踵軍令第二十",
+      "part": "卷4",
+      "source_heading": "踵軍令第二十",
+      "page_title": "尉繚子 (四庫全書本)/卷4",
+      "revision": 631872,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 1111,
+      "source_body_end": 1354,
+      "combined_body_start": 8706,
+      "combined_body_end": 8949,
+      "selected_raw_sha256": "1451e7390215774fb5c29802e823e7dec8e1e9ef955b150f5f8a1a726f88b44f",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-20-001"
+      ],
+      "first_body_text": "所謂踵軍者去大軍百里期于會地為三日熟食前軍而行為戰合之表合表乃起踵軍饗士使為之戰勢是謂趨戰者也興軍者前踵軍而行合表乃起去大軍一倍其道去踵軍百里期于會地為六日熟食使為戰備分卒據要害戰利則追北按兵而趨之踵",
+      "last_body_text": "合表起即皆㑹也大軍為計日之食起戰具無不及也令行而起不如令者誅凡稱分塞者四境之内當興軍踵軍既行則四境之民無得行者奉王之命授持符節名為順職之吏非順職之吏而行者誅之戰合表起順職之吏乃行用以相參故欲戰先安内也"
+    },
+    {
+      "chapter": 21,
+      "title": "兵敎上第二十一",
+      "part": "卷5",
+      "source_heading": "兵敎上第二十一",
+      "page_title": "尉繚子 (四庫全書本)/卷5",
+      "revision": 631874,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 229,
+      "source_body_end": 732,
+      "combined_body_start": 9306,
+      "combined_body_end": 9809,
+      "selected_raw_sha256": "b2743b8f98537e962a0f487f186922b10efa7b27b28ecada61667c6c19c924c9",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-21-001"
+      ],
+      "first_body_text": "兵之敎令分營居陳有非令而進退者如犯敎之罪前行者前行敎之後行者後行敎之左行者左行敎之右行者右行敎之敎舉五人其甲首有賞弗敎如犯敎之罪羅地者自揭其伍伍内互掲之免其罪凡伍臨陳若一人有不盡死於敵則敎者如犯法者之",
+      "last_body_text": "死生之分敎之死而不疑者有以也令守者必固戰者必鬭奸謀不作姦民不語令行無變兵行無猜輕者若霆奮敵若驚舉功别德明如白黑令民從上令如四肢應心也前軍絶行亂陳破堅如潰者有以也此之謂兵敎所以開封疆守社稷除患害成武德也"
+    },
+    {
+      "chapter": 22,
+      "title": "兵敎下第二十二",
+      "part": "卷5",
+      "source_heading": "兵敎下第二十二",
+      "page_title": "尉繚子 (四庫全書本)/卷5",
+      "revision": 631874,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 759,
+      "source_body_end": 1421,
+      "combined_body_start": 9836,
+      "combined_body_end": 10498,
+      "selected_raw_sha256": "a21331ba43a302c091e0f93979a61312edab1cabcbc2d77c1a23d5db2159bd7a",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-22-001"
+      ],
+      "first_body_text": "臣聞人君有必勝之道故能并兼廣大以一其制度則威加天下有十二焉一曰連刑謂同罪保伍也二曰地禁謂禁止行道以網外奸也三曰全軍謂甲首相附三五相同以結其聮也四曰開塞謂分地以限各死其職而堅守也五曰分限謂左右相禁前後相",
+      "last_body_text": "患辨訟吏究其事累且敗也日暮路逺還有剉氣師老將貪爭掠易敗凡將輕壘卑衆動可攻也將重壘髙衆懼可圍也凡圍必開其小利使漸夷弱則節吝有不食者矣衆夜擊者驚也衆避事者離也待人之救期戰而蹙皆心失而氣傷也傷氣敗軍曲謀敗國"
+    },
+    {
+      "chapter": 23,
+      "title": "兵令上第二十三",
+      "part": "卷5",
+      "source_heading": "兵令上第二十三",
+      "page_title": "尉繚子 (四庫全書本)/卷5",
+      "revision": 631874,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 1448,
+      "source_body_end": 1794,
+      "combined_body_start": 10525,
+      "combined_body_end": 10871,
+      "selected_raw_sha256": "a9c4b4d57107dccf15dfd2bf68f0dccff2062dd4c634050b5577e3bc088d7fe0",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-23-001"
+      ],
+      "first_body_text": "兵者凶器也爭者逆德也事必有本故王者伐暴亂本仁義焉戰國則以立威抗敵相圗而不能廢兵也兵者以武為植以文為種武為表文為裏能審此二者知勝敗矣文所以視利害辨安危武所以犯強敵力攻守也專一則勝離散則敗陳以密則固鋒以疏",
+      "last_body_text": "兵劒斧立之兵㦸弩將亦居中善御敵者正兵先合而後扼之此必勝之術也陳之斧鉞飾之旗章有功必賞犯令必死存亡死生在枹之端雖天下有善兵者莫能禦此矣矢射未交長刃未接前譟者謂之虚後譟者謂之實不譟者謂之秘虚實秘者兵之體也"
+    },
+    {
+      "chapter": 24,
+      "title": "兵令下第二十四",
+      "part": "卷5",
+      "source_heading": "兵令下第二十四",
+      "page_title": "尉繚子 (四庫全書本)/卷5",
+      "revision": 631874,
+      "scope_type": "complete-extant-chapter",
+      "source_body_start": 1821,
+      "source_body_end": 2345,
+      "combined_body_start": 10898,
+      "combined_body_end": 11422,
+      "selected_raw_sha256": "7ab203fef964074588ddfc895acddccae2583d1e64a5d6bfc41541595f1a6962",
+      "passage_count": 1,
+      "passage_ids": [
+        "WLZ-24-001"
+      ],
+      "first_body_text": "諸去大軍為前禦之備者邊縣列侯各相去三五里聞大軍為前禦之備戰則皆禁行所以安内也内卒出戍令將吏授旗鼓戈甲發日後將吏及出縣封界者以坐後戍法兵戍邊一歲遂亡不候代者法比亡軍父母妻子知之與同罪弗知赦之卒後將吏而至",
+      "last_body_text": "善用兵者能殺士卒之半其次殺其十三其次殺其十一能殺其半者威加海内殺十三者力加諸侯殺十一者令行士卒故曰百萬之衆不用命不如萬人之鬭也萬人之鬭不如百人之奮也賞如明月信如四時令如斧鉞制如干將士卒不用命者未之聞也"
+    }
+  ],
+  "scope_notice": "四库电子本五卷二十四篇，24个源篇正文自然长段；不是汉志杂家三十九篇或兵形势三十一篇的逐号重建。不把普通页面missing当作古书亡佚。"
+}

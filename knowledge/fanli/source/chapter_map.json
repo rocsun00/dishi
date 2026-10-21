@@ -1,0 +1,92 @@
+{
+  "collection_id": "fanli",
+  "collection_title": "范蠡相关早期文献集（三个明确范围文献单元）",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "国语·越语下（全卷）",
+      "scope_type": "whole-volume",
+      "page_title": "國語/卷21",
+      "revision": 1968473,
+      "source_body_start": 100,
+      "source_body_end": 7250,
+      "combined_body_start": 100,
+      "combined_body_end": 7250,
+      "selected_raw_sha256": "2f0616277f7345ffa2686379d0379b81cd6fb599830b97e21b133f049716d628",
+      "first_body_text": "越王句踐即位三年而欲伐吳，范蠡進諫曰：「夫國家之事，有持盈，有定傾，有節事。」王曰：「為三者，奈何？」對曰：「持盈者與天，定傾者與人，節事者",
+      "last_body_text": "金寫范蠡之狀而朝禮之，浹日而令大夫朝之，環會稽三百里者以為范蠡地，曰：「後世子孫，有敢侵蠡之地者，使無終沒於越國，皇天后土、四鄉地主正之。」",
+      "before_boundary_context": "{{Header|title=國語卷第二十一|author=左丘明|section=越語下|times=春秋|previous=[[../卷20|越語上]]|type=|from=|notes=}}\n",
+      "after_boundary_context": "",
+      "passage_count": 17,
+      "passage_ids": [
+        "FL-01-001",
+        "FL-01-002",
+        "FL-01-003",
+        "FL-01-004",
+        "FL-01-005",
+        "FL-01-006",
+        "FL-01-007",
+        "FL-01-008",
+        "FL-01-009",
+        "FL-01-010",
+        "FL-01-011",
+        "FL-01-012",
+        "FL-01-013",
+        "FL-01-014",
+        "FL-01-015",
+        "FL-01-016",
+        "FL-01-017"
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "史记·越王勾践世家“范蠡”节（完整节）",
+      "scope_type": "complete-selected-section",
+      "page_title": "史記/卷041",
+      "revision": 11132202,
+      "source_body_start": 3754,
+      "source_body_end": 5329,
+      "combined_body_start": 11004,
+      "combined_body_end": 12579,
+      "selected_raw_sha256": "732330d6ffaf9bb5f9af3fd2178a2fd201c1578428e96c0ed0fb01eb939dfd00",
+      "first_body_text": "范蠡事越王句踐，旣苦身力，與句踐深謀二十餘年，竟滅呉，報會稽之恥，北渡兵於淮以臨齊、晉，號令中國，以尊周室，句踐以霸，而范蠡稱上將軍。還反國",
+      "last_body_text": "故范蠡三徙，成名於天下，非茍去而已，所止必成名。卒老死于陶，故世傳曰陶朱公。",
+      "before_boundary_context": "而越以此散，諸族子爭立，或爲王，或爲君，濱-{於}-江南海上，服朝-{於}-楚。\n\n==閩君搖==\n\n-{後}-七世，至閩君搖，佐諸侯平秦。漢髙帝-{復}-以搖爲越王，以奉越-{後}-。東越，閩君，皆其-{後}-也。\n\n",
+      "after_boundary_context": "==太史公曰==\n\n太史公曰：禹之功大矣，漸九川，定九州，至-{于}-今諸夏艾安。及苗裔句踐，苦身焦思，終滅彊呉，北觀兵中國，以尊周室，號稱霸王。句踐可不謂賢哉！蓋有禹之遺烈焉。-{范}-蠡三遷皆有榮名，名垂-{後}-世",
+      "passage_count": 9,
+      "passage_ids": [
+        "FL-02-001",
+        "FL-02-002",
+        "FL-02-003",
+        "FL-02-004",
+        "FL-02-005",
+        "FL-02-006",
+        "FL-02-007",
+        "FL-02-008",
+        "FL-02-009"
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "史记·货殖列传“范蠡”节（完整节）",
+      "scope_type": "complete-selected-section",
+      "page_title": "史記/卷129",
+      "revision": 11132204,
+      "source_body_start": 1009,
+      "source_body_end": 1493,
+      "combined_body_start": 13822,
+      "combined_body_end": 14306,
+      "selected_raw_sha256": "cf747cc1440c2fb230b104d6acef088ae9fc86635275d84144587e95e868f271",
+      "first_body_text": "昔者越王句踐困於會稽之上，乃用范蠡、計然。計然曰：「知斗則修備，時用則知物，二者形則萬貨之情可得而觀已。故歲在金，穰；水，毀；木，饑；火，旱",
+      "last_body_text": "能擇人而任時。十九年之中三致千金，再分散與貧交疏昆弟。此所謂富好行其德者也。後年衰老而聽子孫，子孫修業而息之，遂至巨萬。故言富者皆稱陶朱公。",
+      "before_boundary_context": "而仁義附焉。富者得埶益彰，失埶則客無所之，以而不樂。夷狄益甚。諺曰：「千金之子，不死於市。」此非空言也。故曰：「天下熙熙，皆為利來；天下壤壤，皆為利往。」夫千乘之王，萬家之侯，百室之君，尚猶患貧，而況匹夫編戶之民乎！\n\n",
+      "after_boundary_context": "=== 子贛 ===\n子贛既學於仲尼，退而仕於衛，廢著鬻財於曹、魯之閒，七十子之徒，賜最為饒益。原憲不厭糟糠，匿於窮巷。子貢結駟連騎，束帛之幣以聘享諸侯，所至，國君無不分庭與之抗禮。夫使孔子名布揚於天下者，子貢先後之也。",
+      "passage_count": 2,
+      "passage_ids": [
+        "FL-03-001",
+        "FL-03-002"
+      ]
+    }
+  ],
+  "scope_notice": "一卷全文加两节完整叙事；不称两篇《史记》全文，不称范蠡全集。页面完整快照保留范围外文本，未进入本集正文、检索与引文。"
+}

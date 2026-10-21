@@ -1,0 +1,672 @@
+{
+  "schema_version": 1,
+  "normalization": "wiki-body-v1",
+  "segments": [
+    {
+      "kind": "excluded",
+      "start": 0,
+      "end": 243,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-01-001",
+      "start": 243,
+      "end": 988
+    },
+    {
+      "kind": "excluded",
+      "start": 988,
+      "end": 990,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-01-002",
+      "start": 990,
+      "end": 1235
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-01-003",
+      "start": 1235,
+      "end": 1359
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-01-004",
+      "start": 1359,
+      "end": 1590
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-01-005",
+      "start": 1590,
+      "end": 2086
+    },
+    {
+      "kind": "excluded",
+      "start": 2086,
+      "end": 2088,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-01-006",
+      "start": 2088,
+      "end": 2669
+    },
+    {
+      "kind": "excluded",
+      "start": 2669,
+      "end": 2671,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-02-001",
+      "start": 2671,
+      "end": 2864
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-02-002",
+      "start": 2864,
+      "end": 2948
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-02-003",
+      "start": 2948,
+      "end": 3006
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-02-004",
+      "start": 3006,
+      "end": 3201
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-02-005",
+      "start": 3201,
+      "end": 3496
+    },
+    {
+      "kind": "excluded",
+      "start": 3496,
+      "end": 3498,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-03-001",
+      "start": 3498,
+      "end": 3609
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-03-002",
+      "start": 3609,
+      "end": 3768
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-03-003",
+      "start": 3768,
+      "end": 4716
+    },
+    {
+      "kind": "excluded",
+      "start": 4716,
+      "end": 4718,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-03-004",
+      "start": 4718,
+      "end": 5064
+    },
+    {
+      "kind": "excluded",
+      "start": 5064,
+      "end": 5066,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-03-005",
+      "start": 5066,
+      "end": 5155
+    },
+    {
+      "kind": "excluded",
+      "start": 5155,
+      "end": 5227,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-04-001",
+      "start": 5227,
+      "end": 5317
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-04-002",
+      "start": 5317,
+      "end": 5497
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-04-003",
+      "start": 5497,
+      "end": 5554
+    },
+    {
+      "kind": "excluded",
+      "start": 5554,
+      "end": 5559,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-05-001",
+      "start": 5559,
+      "end": 5931
+    },
+    {
+      "kind": "excluded",
+      "start": 5931,
+      "end": 5945,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-05-002",
+      "start": 5945,
+      "end": 6057
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-05-003",
+      "start": 6057,
+      "end": 6118
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-05-004",
+      "start": 6118,
+      "end": 6190
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-05-005",
+      "start": 6190,
+      "end": 6258
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-05-006",
+      "start": 6258,
+      "end": 6359
+    },
+    {
+      "kind": "excluded",
+      "start": 6359,
+      "end": 6361,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-05-007",
+      "start": 6361,
+      "end": 6529
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-05-008",
+      "start": 6529,
+      "end": 6604
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-05-009",
+      "start": 6604,
+      "end": 6663
+    },
+    {
+      "kind": "excluded",
+      "start": 6663,
+      "end": 6665,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-05-010",
+      "start": 6665,
+      "end": 6745
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-05-011",
+      "start": 6745,
+      "end": 6793
+    },
+    {
+      "kind": "excluded",
+      "start": 6793,
+      "end": 6808,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-06-001",
+      "start": 6808,
+      "end": 7337
+    },
+    {
+      "kind": "excluded",
+      "start": 7337,
+      "end": 7339,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-06-002",
+      "start": 7339,
+      "end": 7490
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-06-003",
+      "start": 7490,
+      "end": 7780
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-06-004",
+      "start": 7780,
+      "end": 7786
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-06-005",
+      "start": 7786,
+      "end": 7886
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-06-006",
+      "start": 7886,
+      "end": 7906
+    },
+    {
+      "kind": "excluded",
+      "start": 7906,
+      "end": 8115,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-07-001",
+      "start": 8115,
+      "end": 8302
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-07-002",
+      "start": 8302,
+      "end": 8362
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-07-003",
+      "start": 8362,
+      "end": 8421
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-07-004",
+      "start": 8421,
+      "end": 8502
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-07-005",
+      "start": 8502,
+      "end": 8568
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-07-006",
+      "start": 8568,
+      "end": 8687
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-07-007",
+      "start": 8687,
+      "end": 8739
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-07-008",
+      "start": 8739,
+      "end": 8868
+    },
+    {
+      "kind": "excluded",
+      "start": 8868,
+      "end": 8898,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-08-001",
+      "start": 8898,
+      "end": 8986
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-08-002",
+      "start": 8986,
+      "end": 9496
+    },
+    {
+      "kind": "excluded",
+      "start": 9496,
+      "end": 9498,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-08-003",
+      "start": 9498,
+      "end": 10361
+    },
+    {
+      "kind": "excluded",
+      "start": 10361,
+      "end": 10363,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-08-004",
+      "start": 10363,
+      "end": 10638
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-08-005",
+      "start": 10638,
+      "end": 11008
+    },
+    {
+      "kind": "excluded",
+      "start": 11008,
+      "end": 11010,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-08-006",
+      "start": 11010,
+      "end": 11046
+    },
+    {
+      "kind": "excluded",
+      "start": 11046,
+      "end": 11048,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-08-007",
+      "start": 11048,
+      "end": 11215
+    },
+    {
+      "kind": "excluded",
+      "start": 11215,
+      "end": 11217,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-08-008",
+      "start": 11217,
+      "end": 11317
+    },
+    {
+      "kind": "excluded",
+      "start": 11317,
+      "end": 11319,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-08-009",
+      "start": 11319,
+      "end": 11934
+    },
+    {
+      "kind": "excluded",
+      "start": 11934,
+      "end": 11936,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-08-010",
+      "start": 11936,
+      "end": 12404
+    },
+    {
+      "kind": "excluded",
+      "start": 12404,
+      "end": 12406,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-09-001",
+      "start": 12406,
+      "end": 12638
+    },
+    {
+      "kind": "excluded",
+      "start": 12638,
+      "end": 12640,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-09-002",
+      "start": 12640,
+      "end": 12762
+    },
+    {
+      "kind": "excluded",
+      "start": 12762,
+      "end": 12764,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-09-003",
+      "start": 12764,
+      "end": 13099
+    },
+    {
+      "kind": "excluded",
+      "start": 13099,
+      "end": 13101,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-09-004",
+      "start": 13101,
+      "end": 13316
+    },
+    {
+      "kind": "excluded",
+      "start": 13316,
+      "end": 13318,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-09-005",
+      "start": 13318,
+      "end": 13567
+    },
+    {
+      "kind": "excluded",
+      "start": 13567,
+      "end": 13569,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-09-006",
+      "start": 13569,
+      "end": 13658
+    },
+    {
+      "kind": "excluded",
+      "start": 13658,
+      "end": 13792,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-10-001",
+      "start": 13792,
+      "end": 13834
+    },
+    {
+      "kind": "excluded",
+      "start": 13834,
+      "end": 13950,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-11-001",
+      "start": 13950,
+      "end": 13973
+    },
+    {
+      "kind": "excluded",
+      "start": 13973,
+      "end": 15087,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-12-001",
+      "start": 15087,
+      "end": 15165
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-12-002",
+      "start": 15165,
+      "end": 15232
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-12-003",
+      "start": 15232,
+      "end": 15271
+    },
+    {
+      "kind": "excluded",
+      "start": 15271,
+      "end": 22885,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-13-001",
+      "start": 22885,
+      "end": 22923
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-13-002",
+      "start": 22923,
+      "end": 22974
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-13-003",
+      "start": 22974,
+      "end": 23002
+    },
+    {
+      "kind": "excluded",
+      "start": 23002,
+      "end": 34304,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-14-001",
+      "start": 34304,
+      "end": 34341
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-14-002",
+      "start": 34341,
+      "end": 34374
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-14-003",
+      "start": 34374,
+      "end": 34412
+    },
+    {
+      "kind": "excluded",
+      "start": 34412,
+      "end": 34419,
+      "reason": "网页头尾、附传未选内容、非本集古注或文献引入语/引号/标签；原始快照保留，可按单元边界回查"
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-15-001",
+      "start": 34419,
+      "end": 34451
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-15-002",
+      "start": 34451,
+      "end": 34476
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-15-003",
+      "start": 34476,
+      "end": 34492
+    },
+    {
+      "kind": "passage",
+      "id": "ZGL-15-004",
+      "start": 34492,
+      "end": 34522
+    },
+    {
+      "kind": "excluded",
+      "start": 34522,
+      "end": 34652,
+      "reason": "本集以外的其他人引文及网页尾部，保留源快照但不作诸葛亮正文"
+    }
+  ]
+}

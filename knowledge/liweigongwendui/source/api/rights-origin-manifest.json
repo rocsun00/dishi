@@ -1,0 +1,75 @@
+{
+  "fetched_by": "urllib.request; explicit User-Agent; official HTTPS API",
+  "records": [
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&origin=%2A&titles=%E5%8F%B8%E9%A6%AC%E6%B3%95",
+      "file": "source/api/01.json",
+      "retrieved_at_utc": "2026-10-20T02:03:09.864623+00:00",
+      "sha256": "1560927c06e0c7a64572bf9a5455506e79135c550810153dd592e02d324d0273"
+    },
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&origin=%2A&revids=2358301",
+      "file": "source/api/01-fixed.json",
+      "retrieved_at_utc": "2026-10-20T02:03:09.962620+00:00",
+      "sha256": "1560927c06e0c7a64572bf9a5455506e79135c550810153dd592e02d324d0273"
+    },
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&origin=%2A&titles=%E5%8F%B8%E9%A6%AC%E6%B3%95+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29",
+      "file": "source/api/02.json",
+      "retrieved_at_utc": "2026-10-20T02:03:10.063161+00:00",
+      "sha256": "a8c2c1263f47207fffc8e90cbbc4079836c516b363396b4034466faf17582402"
+    },
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&origin=%2A&revids=631817",
+      "file": "source/api/02-fixed.json",
+      "retrieved_at_utc": "2026-10-20T02:03:10.163547+00:00",
+      "sha256": "a8c2c1263f47207fffc8e90cbbc4079836c516b363396b4034466faf17582402"
+    },
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&origin=%2A&titles=%E5%8F%B8%E9%A6%AC%E6%B3%95+%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29",
+      "file": "source/api/03.json",
+      "retrieved_at_utc": "2026-10-20T02:03:10.260997+00:00",
+      "sha256": "a30323d71d6472c4275fb701655711d1fb5c805a07b4bb5feca2e45b0cc0c725"
+    },
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&origin=%2A&revids=1398248",
+      "file": "source/api/03-fixed.json",
+      "retrieved_at_utc": "2026-10-20T02:03:10.356574+00:00",
+      "sha256": "a30323d71d6472c4275fb701655711d1fb5c805a07b4bb5feca2e45b0cc0c725"
+    },
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo&origin=%2A",
+      "file": "source/api/site-rights.json",
+      "retrieved_at_utc": "2026-10-20T02:03:10.423425+00:00",
+      "sha256": "e113e25ced1ad609affcd45e846e0fe125dc28f2c5c5592d54b9bfb5a1e97ca0"
+    },
+    {
+      "file": "source/api/04.json",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030&oldid=7908197",
+      "retrieved_at_utc": "2026-10-20T02:04:03.925051Z",
+      "sha256": "d28a78afa981849f318c6a9b5a9a3b27aafca544f24434c84b8c0ab69c9d9890",
+      "acquisition": "shared capture copied byte-for-byte from sibling wuzi/source/api/01.json",
+      "request_url_provenance": "Exact original request URL not retained in sibling record; public page/fixed API endpoint is recorded here for provenance, not a new request."
+    },
+    {
+      "file": "source/api/04-fixed.json",
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&revids=7908197&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main",
+      "retrieved_at_utc": "2026-10-20T02:04:03.925051Z",
+      "sha256": "d28a78afa981849f318c6a9b5a9a3b27aafca544f24434c84b8c0ab69c9d9890",
+      "acquisition": "shared capture copied byte-for-byte from sibling wuzi/source/api/01-fixed.json",
+      "request_url_provenance": "Exact original request URL not retained in sibling record; public page/fixed API endpoint is recorded here for provenance, not a new request."
+    },
+    {
+      "file": "source/api/05-fixed.json",
+      "url": "https://zh.wikisource.org/w/api.php?action=query&prop=revisions&revids=7895410&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&format=json",
+      "retrieved_at_utc": "2026-10-20T02:06:22.896496+00:00",
+      "sha256": "1e34c417c268e78892d71e7224d9aefb69b24deafe0e8af9c8d99942697d06d5",
+      "acquisition": "root shared single pinned-revision API capture; no title/fixed double-fetch claimed"
+    }
+  ],
+  "notes": [
+    "All original response bytes retained without JSON reformatting.",
+    "HTTP429 during later reference request; no retries by this author after root coordination. Bibliography refs shared by team.",
+    "Acquisition UTC crosses into 2026-10-20; editorial local date America/Chicago remains 2026-10-19."
+  ]
+}

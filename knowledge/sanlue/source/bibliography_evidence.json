@@ -1,0 +1,98 @@
+[
+  {
+    "layer": "web_metadata",
+    "page_title": "三略",
+    "revision": 2358300,
+    "url": "https://zh.wikisource.org/w/index.php?title=%E4%B8%89%E7%95%A5&oldid=2358300",
+    "raw_file": "source.wikitext",
+    "start": 53,
+    "end": 61,
+    "line": 5,
+    "quote": "|times=秦",
+    "limited_use": "只证网页标签，不证秦代成书。"
+  },
+  {
+    "layer": "main_header_bibliography",
+    "page_title": "三略",
+    "revision": 2358300,
+    "url": "https://zh.wikisource.org/w/index.php?title=%E4%B8%89%E7%95%A5&oldid=2358300",
+    "raw_file": "source.wikitext",
+    "start": 471,
+    "end": 508,
+    "line": 8,
+    "quote": "其為漢詔援據此書，或為此書剽竊漢詔，雖均無可考。疑以傳疑，亦姑過而存之焉。",
+    "limited_use": "主本书目评论保留汉诏与本书先后未定。"
+  },
+  {
+    "layer": "main_header_bibliography",
+    "page_title": "三略",
+    "revision": 2358300,
+    "url": "https://zh.wikisource.org/w/index.php?title=%E4%B8%89%E7%95%A5&oldid=2358300",
+    "raw_file": "source.wikitext",
+    "start": 426,
+    "end": 437,
+    "line": 8,
+    "quote": "其非圯橋授受之書明甚。",
+    "limited_use": "此为书目评论的判断，非本项目据原始史料独立确证。"
+  },
+  {
+    "layer": "siku_bibliography",
+    "page_title": "黃石公三畧 (四庫全書本)",
+    "revision": 619906,
+    "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=619906",
+    "raw_file": "pages/fixed-254961.wikitext",
+    "start": 210,
+    "end": 227,
+    "line": 9,
+    "quote": "始見於隋書經籍志云下邳神人撰成氏注",
+    "limited_use": "只证四库提要如何转述早期目录；本包未另取隋书原页交叉核对。"
+  },
+  {
+    "layer": "siku_bibliography",
+    "page_title": "黃石公三畧 (四庫全書本)",
+    "revision": 619906,
+    "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=619906",
+    "raw_file": "pages/fixed-254961.wikitext",
+    "start": 276,
+    "end": 283,
+    "line": 9,
+    "quote": "先儒多疑其偽作",
+    "limited_use": "四库提要记录前儒疑伪立场，不由此定唯一作者。"
+  },
+  {
+    "layer": "siku_bibliography",
+    "page_title": "黃石公三畧 (四庫全書本)",
+    "revision": 619906,
+    "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=619906",
+    "raw_file": "pages/fixed-254961.wikitext",
+    "start": 566,
+    "end": 581,
+    "line": 9,
+    "quote": "則其來亦已逺矣今故仍録而存之焉",
+    "limited_use": "另一版本提要以汉诏引语论由来已远，与主本notes的先后未定分层保留。"
+  },
+  {
+    "layer": "siku_zhijie_bibliography",
+    "page_title": "黃石公三畧 (四庫全書本)",
+    "revision": 619906,
+    "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=619906",
+    "raw_file": "pages/fixed-254961.wikitext",
+    "start": 781,
+    "end": 799,
+    "line": 11,
+    "quote": "於書中引越王勾踐投醪飲士一事無以為解",
+    "limited_use": "此在直解提要批评刘寅解释层，不反向给主本“昔者良将”补出勾践人名或授书史实。"
+  },
+  {
+    "layer": "siku_bibliography_electronic_anomaly",
+    "page_title": "黃石公三畧 (四庫全書本)",
+    "revision": 619906,
+    "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=619906",
+    "raw_file": "pages/fixed-254961.wikitext",
+    "start": 534,
+    "end": 539,
+    "line": 9,
+    "quote": "後漢先武帝",
+    "limited_use": "参考电子本此处作先武，主本notes作光武；未核影印，不静默改参考原貌。"
+  }
+]

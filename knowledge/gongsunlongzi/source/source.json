@@ -1,0 +1,88 @@
+{
+  "id": "gongsunlongzi",
+  "work_id": "gongsunlongzi",
+  "title": "公孙龙子（现存六篇正文）",
+  "prefix": "GSL",
+  "source_title": "公孫龍子/1",
+  "revision": "multiple-pinned-pages",
+  "source_url": "https://zh.wikisource.org/w/index.php?title=公孫龍子/1&oldid=2440798",
+  "source_pages": [
+    {
+      "title": "公孫龍子/1",
+      "revision": 2440798,
+      "timestamp": "2024-07-27T09:35:24Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=公孫龍子/1&oldid=2440798",
+      "raw_sha256": "9b45ff918aae961bb3e924aba325546252077ae085ab15d1304132729c4031ad",
+      "start": 26,
+      "end": 2108,
+      "raw_file": "pages/1.wikitext"
+    },
+    {
+      "title": "公孫龍子/2",
+      "revision": 2440799,
+      "timestamp": "2024-07-27T09:53:29Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=公孫龍子/2&oldid=2440799",
+      "raw_sha256": "cf914f9491211556075504b9b46993b008555ffae401a05cefaae1732da362cd",
+      "start": 2134,
+      "end": 4403,
+      "raw_file": "pages/2.wikitext"
+    },
+    {
+      "title": "公孫龍子/3",
+      "revision": 2440800,
+      "timestamp": "2024-07-27T10:07:52Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=公孫龍子/3&oldid=2440800",
+      "raw_sha256": "c6ed014395c5476bb3d221ee8b8b8bb25a0d1026597a146de2155214a2a1aa50",
+      "start": 4429,
+      "end": 5743,
+      "raw_file": "pages/3.wikitext"
+    },
+    {
+      "title": "公孫龍子/4",
+      "revision": 2441221,
+      "timestamp": "2024-07-28T04:13:49Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=公孫龍子/4&oldid=2441221",
+      "raw_sha256": "a3af392db7cc295f1c4396a82f9e563d3ada2ffbb0d04ee8944a5a018f282390",
+      "start": 5769,
+      "end": 8555,
+      "raw_file": "pages/4.wikitext"
+    },
+    {
+      "title": "公孫龍子/5",
+      "revision": 2441230,
+      "timestamp": "2024-07-28T04:56:09Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=公孫龍子/5&oldid=2441230",
+      "raw_sha256": "c5692b67e549fbee5f3ecd76ef4437f04346cd082ff0a05523c3fca52271beee",
+      "start": 8581,
+      "end": 11391,
+      "raw_file": "pages/5.wikitext"
+    },
+    {
+      "title": "公孫龍子/6",
+      "revision": 2441233,
+      "timestamp": "2024-07-28T05:05:15Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=公孫龍子/6&oldid=2441233",
+      "raw_sha256": "3dad30af54858435bb97f9a8ae46114e637284a55e7b4c2a5af6c1e03c28825a",
+      "start": 11417,
+      "end": 12760,
+      "raw_file": "pages/6.wikitext"
+    }
+  ],
+  "retrieved_on": "2026-10-19",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "e4652e2f27c77100f5ae0772f1064293963caebd78640ad0a246e3770ed8d6ea",
+  "extraction_sha256": "2672511b8b1d3da3dd45d948f9615cf1bfa651d90ab32e3eeb714f5b6f3986d3",
+  "scope": "现存跡府、白馬、指物、通變、堅白、名實六篇正文；谢希深注与校注保存在快照，不混入原文。古籍著录的亡佚篇不在本库范围。",
+  "edition_status": "固定电子工作底本含宋谢希深注、钱熙祚校的传本信息；难句与篇章年代、作者问题有争议，不冒称六篇均由公孙龙本人亲定。",
+  "chapter_count": 6,
+  "passage_count": 35,
+  "text_characters_including_punctuation": 4070,
+  "normalization": [
+    "移除古注星号模板，古注原文保存在快照及editorial_notes，不作为本库原典释义",
+    "保留原字与源标点，移除折行空白和注释行的冒号",
+    "维基链接取显示文字；另模板正文保留首项并记录异文；移除简繁转换保护符"
+  ],
+  "source_attribution": "中文维基文库相应原典页面及其贡献者；使用时保留固定修订号、来源和加工说明",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "保留站点所列适用许可及归属；古代原文与站点数字整理内容分别理解"
+}

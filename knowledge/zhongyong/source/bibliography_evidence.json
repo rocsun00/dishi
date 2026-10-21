@@ -1,0 +1,62 @@
+[
+  {
+    "kind": "later_compilation_reference",
+    "statement": "33章只属于所存朱熹章句后世分章证据；不反写本篇固有结构。",
+    "quote": "右第三十三章。",
+    "source": {
+      "pageid": 16030,
+      "title": "四書章句集註/中庸章句",
+      "revision": 7904735,
+      "timestamp": "2026-06-28T01:42:33Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E4%B8%AD%E5%BA%B8%E7%AB%A0%E5%8F%A5&oldid=7904735",
+      "raw_file": "pages/fixed-16030.wikitext",
+      "raw_sha256": "e5859047b1c091b8cdb59c41a586eb18e9dba31c1a6c505785c6bd041c912139",
+      "characters": 19042,
+      "title_and_fixed_identical": true
+    },
+    "raw_file": "pages/fixed-16030.wikitext",
+    "start": 18874,
+    "end": 18881,
+    "line": 177
+  },
+  {
+    "kind": "later_attribution_claim",
+    "statement": "子思授孟子及孔门心法是本段后世解说，不能独立证明成书过程。",
+    "quote": "子思恐其久而差也，故筆之於書，以授孟子。",
+    "source": {
+      "pageid": 16030,
+      "title": "四書章句集註/中庸章句",
+      "revision": 7904735,
+      "timestamp": "2026-06-28T01:42:33Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E4%B8%AD%E5%BA%B8%E7%AB%A0%E5%8F%A5&oldid=7904735",
+      "raw_file": "pages/fixed-16030.wikitext",
+      "raw_sha256": "e5859047b1c091b8cdb59c41a586eb18e9dba31c1a6c505785c6bd041c912139",
+      "characters": 19042,
+      "title_and_fixed_identical": true
+    },
+    "raw_file": "pages/fixed-16030.wikitext",
+    "start": 255,
+    "end": 275,
+    "line": 11
+  },
+  {
+    "kind": "page_header_reference",
+    "statement": "主本页头明确另见宋代朱熹章句；主本页头author为空，不从缺字段推出作者或年代。",
+    "quote": "另見宋代朱熹所撰之[[四書章句集註/中庸章句]]",
+    "source": {
+      "pageid": 7122,
+      "title": "禮記/中庸",
+      "revision": 11117440,
+      "timestamp": "2026-10-02T15:06:51Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E7%A6%AE%E8%A8%98/%E4%B8%AD%E5%BA%B8&oldid=11117440",
+      "raw_file": "pages/fixed-7122.wikitext",
+      "raw_sha256": "a896b355406e91f40d592b06a74ab30206fb82b12a7875b3df8cd014f97d155d",
+      "characters": 4678,
+      "title_and_fixed_identical": true
+    },
+    "raw_file": "source.wikitext",
+    "start": 95,
+    "end": 119,
+    "line": 7
+  }
+]

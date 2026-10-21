@@ -1,0 +1,936 @@
+[
+  {
+    "passage_id": "LIE-01-003",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "天地無全功，聖人無全能，萬物無全用。",
+    "description": "误把各有所宜当身份永远不可改变，或据无不能自称全能。 不能以古代分职为职业歧视和僵固分工辩护。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 647,
+      "end": 665,
+      "line": 7
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷1",
+      "revision": 768402,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71&oldid=768402",
+      "raw_file": "pages/fixed-258093.wikitext",
+      "start": 2471,
+      "end": 2486,
+      "line": 12,
+      "source_markup": "天地無全功聖人無全能萬物無全用",
+      "reading": "天地無全功聖人無全能萬物無全用",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-01-011",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "運轉亡已，天地密移，疇覺之哉？",
+    "description": "误以为凡失必另得或变化必守某种等量补偿。 此为现代观察转译，不能由密移推出任何具体变化速度。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 2742,
+      "end": 2757,
+      "line": 23
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷1",
+      "revision": 768402,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71&oldid=768402",
+      "raw_file": "pages/fixed-258093.wikitext",
+      "start": 8234,
+      "end": 8246,
+      "line": 12,
+      "source_markup": "運轉亡已天地密移疇覺之哉",
+      "reading": "運轉亡已天地密移疇覺之哉",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-01-012",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "壞與不壞，吾所不能知也。",
+    "description": "误把杞人忧天等于所有担忧都愚蠢。 最后不容心不可用来忽略可核实风险或他人恐惧。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3257,
+      "end": 3269,
+      "line": 25
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷1",
+      "revision": 768402,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71&oldid=768402",
+      "raw_file": "pages/fixed-258093.wikitext",
+      "start": 9370,
+      "end": 9380,
+      "line": 12,
+      "source_markup": "壞與不壞吾所不能知也",
+      "reading": "壞與不壞吾所不能知也",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-01-014",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "天地萬物不相離也",
+    "description": "误把一切皆盗当作偷窃合理化。 公私超越是哲学论说，不自动撤销法律、产权及生态责任。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3822,
+      "end": 3830,
+      "line": 29
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷1",
+      "revision": 768402,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71&oldid=768402",
+      "raw_file": "pages/fixed-258093.wikitext",
+      "start": 10606,
+      "end": 10630,
+      "line": 12,
+      "source_markup": "天地萬物不相離{{SK notes|力智反}}也",
+      "reading": "天地萬物不相離也",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-02-008",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "凡重外者拙內。",
+    "description": "误把失败全部归于想赢，或以不怕水代替训练。 不能用忘水测试、责备紧张者或撤除防护。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 6985,
+      "end": 6992,
+      "line": 45
+    }
+  },
+  {
+    "passage_id": "LIE-02-010",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "用志不分，乃疑於神",
+    "description": "误把专注当无需练习的神力，或只求精神状态。 故事中的成功比例不是实验结果，不能承诺人人同效。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 7420,
+      "end": 7429,
+      "line": 49
+    }
+  },
+  {
+    "passage_id": "LIE-02-014",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "彼將任我以事，而效我以功",
+    "description": "误将所有称赞视作阴谋，或自称避名便不再受名牵。 不能凭一次优待猜测他人恶意；现实关系须直接求证。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 8684,
+      "end": 8696,
+      "line": 57
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷2",
+      "revision": 768406,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72&oldid=768406",
+      "raw_file": "pages/fixed-258095.wikitext",
+      "start": 12711,
+      "end": 12722,
+      "line": 11,
+      "source_markup": "彼將任我以事而效我以功",
+      "reading": "彼將任我以事而效我以功",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-02-019",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "聖人以智籠羣愚，亦猶狙公之以智籠衆狙也。",
+    "description": "误把它包装成骗过他人的管理技巧。 早晚偏好可能有真实效用差异，不能轻称对方愚昧。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 10172,
+      "end": 10192,
+      "line": 67
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷2",
+      "revision": 768406,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72&oldid=768406",
+      "raw_file": "pages/fixed-258095.wikitext",
+      "start": 15831,
+      "end": 15849,
+      "line": 11,
+      "source_markup": "聖人以智籠羣愚亦猶狙公之以智籠衆狙也",
+      "reading": "聖人以智籠羣愚亦猶狙公之以智籠衆狙也",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-03-001",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "予一人不盈於德而諧於樂",
+    "description": "误把篇首神游只读成反欲望，或将尽乐赞语读成无条件放纵。 神游时间与八骏异域不作已验证历史事实。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 11695,
+      "end": 11706,
+      "line": 73
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷3",
+      "revision": 768409,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73&oldid=768409",
+      "raw_file": "pages/fixed-258098.wikitext",
+      "start": 2694,
+      "end": 2705,
+      "line": 11,
+      "source_markup": "予一人不盈于德而諧於樂",
+      "reading": "予一人不盈于德而諧於樂",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-03-005",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "寬其役夫之程，減己思慮之事",
+    "description": "误让役夫用夜梦为君接受白日剥削。 劳役压迫未被梦取消；现代劳动权利另有依据。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 12931,
+      "end": 12944,
+      "line": 81
+    }
+  },
+  {
+    "passage_id": "LIE-03-006",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "夢與不夢，臣所不能辨也。",
+    "description": "误以为真假不能辨就什么都可断言，或所有纠纷各分一半。 寓言分鹿不是司法程序模板，未知也不取消权利。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 13264,
+      "end": 13276,
+      "line": 83
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷3",
+      "revision": 768409,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73&oldid=768409",
+      "raw_file": "pages/fixed-258098.wikitext",
+      "start": 5848,
+      "end": 5858,
+      "line": 11,
+      "source_markup": "夢與不夢臣所不能辨也",
+      "reading": "夢與不夢臣所不能辨也",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-03-007",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "存亡、得失、哀樂、好惡，擾擾萬緒起矣。",
+    "description": "误以为失忆最好，或痛苦记忆应一概删除。 不据本段自行治疗失忆、限制进食或幽禁他人。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 13601,
+      "end": 13620,
+      "line": 85
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷3",
+      "revision": 768409,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73&oldid=768409",
+      "raw_file": "pages/fixed-258098.wikitext",
+      "start": 6646,
+      "end": 6660,
+      "line": 11,
+      "source_markup": "存亡得失哀樂好惡擾擾萬緒起矣",
+      "reading": "存亡得失哀樂好惡擾擾萬緒起矣",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-04-004",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "夫回能仁而不能反，賜能辯而不能訥",
+    "description": "误认为好老师必须每项优于学生，或变通可取消原则。 不能以不能反为名任意否定仁义或勇气。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 15439,
+      "end": 15455,
+      "line": 97
+    }
+  },
+  {
+    "passage_id": "LIE-04-007",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "外游者，求備於物；內觀者，取足於身。",
+    "description": "误读为不应旅行、学习或接触外界。 取足于身不能用来要求资源不足者安于缺乏。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 16183,
+      "end": 16201,
+      "line": 103
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷4",
+      "revision": 768414,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74&oldid=768414",
+      "raw_file": "pages/fixed-258100.wikitext",
+      "start": 5521,
+      "end": 5535,
+      "line": 11,
+      "source_markup": "外游者求備於物内觀者取足於身",
+      "reading": "外游者求備於物内觀者取足於身",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-04-005",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "用無言爲言亦言，無知爲知亦知。",
+    "description": "误以为无言更高，或一切不可说即可免于解释。 涉及承诺、错误和公共责任时仍需要清楚说明。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 15778,
+      "end": 15793,
+      "line": 99
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷4",
+      "revision": 768414,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74&oldid=768414",
+      "raw_file": "pages/fixed-258100.wikitext",
+      "start": 4568,
+      "end": 4581,
+      "line": 11,
+      "source_markup": "用無言為言亦言無知為知亦知",
+      "reading": "用無言為言亦言無知為知亦知",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-04-015",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "聚塊也，積塵也，雖無爲而非理也。",
+    "description": "误以为不用心便可不管任何事。 现代判断仍依事实职责，古代无心不替代专业工作。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 18318,
+      "end": 18334,
+      "line": 119
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷4",
+      "revision": 768414,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74&oldid=768414",
+      "raw_file": "pages/fixed-258100.wikitext",
+      "start": 11578,
+      "end": 11608,
+      "line": 11,
+      "source_markup": "聚塊也積塵也{{SK notes|此則府宅}}雖無為而非理也",
+      "reading": "聚塊也積塵也雖無為而非理也",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-05-002",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "帝感其誠，命夸蛾氏二子負二山",
+    "description": "误说只要坚持就能按人力工程移山。 不能以子孙无穷将成本强加后代或忽略环境代价。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 20142,
+      "end": 20156,
+      "line": 123
+    }
+  },
+  {
+    "passage_id": "LIE-05-007",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "孔子不能決也。",
+    "description": "误以为孔子不知便证明所有知识无用。 本段不提供现代天文学答案，也不把儿童直觉自动当真。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 21250,
+      "end": 21257,
+      "line": 133
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷5",
+      "revision": 768418,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75&oldid=768418",
+      "raw_file": "pages/fixed-258102.wikitext",
+      "start": 7891,
+      "end": 7897,
+      "line": 11,
+      "source_markup": "孔子不能决也",
+      "reading": "孔子不能决也",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-05-012",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "志想象猶吾心也。",
+    "description": "误把知音当无需沟通的读心，补入本段无有的绝弦故事。 文学契合不证明人能精确读出他人所有意图。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 22487,
+      "end": 22495,
+      "line": 143
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷5",
+      "revision": 768418,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75&oldid=768418",
+      "raw_file": "pages/fixed-258102.wikitext",
+      "start": 10592,
+      "end": 10599,
+      "line": 11,
+      "source_markup": "志想象猶吾心也",
+      "reading": "志想象猶吾心也",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-05-014",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "乃謀殺飛衛",
+    "description": "误把前半专注训练摘成纯励志。 故事中的谋杀、危险练眼及秘术垄断不能转成现实做法。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 23176,
+      "end": 23181,
+      "line": 147
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷5",
+      "revision": 768418,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75&oldid=768418",
+      "raw_file": "pages/fixed-258102.wikitext",
+      "start": 11906,
+      "end": 11911,
+      "line": 11,
+      "source_markup": "乃謀殺飛衛",
+      "reading": "乃謀殺飛衛",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-06-001",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "既謂之命，柰何有制之者邪？",
+    "description": "误以为命能算定一切、能替所有行为免责。 不确定性不能直接支持占卜、躺平或取消问责。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 24774,
+      "end": 24787,
+      "line": 155
+    }
+  },
+  {
+    "passage_id": "LIE-06-002",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "汝之達，非智得也；北宮子之窮，非愚失也。",
+    "description": "误以为富必恶、穷必善，或不公全由天定。 古代皆天强断不可掩盖现实歧视和改善责任。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 25281,
+      "end": 25301,
+      "line": 157
+    }
+  },
+  {
+    "passage_id": "LIE-06-003",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "以賢臨人，未有得人者也",
+    "description": "误以为不荐朋友就是忘恩，或宽容等于不问过错。 古代国相评价不作已核实人物定论，也不取消现代监督。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 26180,
+      "end": 26191,
+      "line": 159
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷6",
+      "revision": 768422,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B76&oldid=768422",
+      "raw_file": "pages/fixed-258106.wikitext",
+      "start": 3045,
+      "end": 3055,
+      "line": 11,
+      "source_markup": "以賢臨人未有得人者也",
+      "reading": "以賢臨人未有得人者也",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-06-013",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "勢使然也",
+    "description": "误把有命理解为不必赴时追术。 命不是概率模型，现实风险需另据数据估计。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 28247,
+      "end": 28251,
+      "line": 179
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷6",
+      "revision": 768422,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B76&oldid=768422",
+      "raw_file": "pages/fixed-258106.wikitext",
+      "start": 7842,
+      "end": 7846,
+      "line": 11,
+      "source_markup": "勢使然也",
+      "reading": "勢使然也",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-07-010",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "悉天下奉一身不取也。",
+    "description": "误把一毛单读为只顾自己，或强迫个人为抽象天下献身。 没有一条古句可替代现实权利与分配程序。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 31329,
+      "end": 31339,
+      "line": 199
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷7",
+      "revision": 768426,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B77&oldid=768426",
+      "raw_file": "pages/fixed-258109.wikitext",
+      "start": 4660,
+      "end": 4669,
+      "line": 11,
+      "source_markup": "悉天下奉一身不取也",
+      "reading": "悉天下奉一身不取也",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-07-006",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "勤能使逸，飢能使飽，寒能使溫，窮能使達也。",
+    "description": "误把杨朱篇完全等同不助人，或以死相捐取消哀悼。 后续古代养生与任葬说不可当医疗或现代殡葬规范。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 29414,
+      "end": 29435,
+      "line": 191
+    }
+  },
+  {
+    "passage_id": "LIE-07-009",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "何遽遲速於其閒乎？",
+    "description": "误摘久生苦来支持轻生，或说任之就不必照护。 疾病痛苦与生命危机仍须寻求现实支持和专业照护。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 31268,
+      "end": 31277,
+      "line": 197
+    }
+  },
+  {
+    "passage_id": "LIE-07-016",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "但惡夫守名而累實。",
+    "description": "误以为不求名就无需信誉，或为实际利益可随意背约。 兼利不能只算自己，承诺与受影响者的代价仍须承担。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 33409,
+      "end": 33418,
+      "line": 211
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷7",
+      "revision": 768426,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B77&oldid=768426",
+      "raw_file": "pages/fixed-258109.wikitext",
+      "start": 7432,
+      "end": 7440,
+      "line": 11,
+      "source_markup": "但惡夫守名而累實",
+      "reading": "但惡夫守名而累實",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-08-002",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "知子之所以中者乎？",
+    "description": "误把一次成功等同掌握方法。 知道原因也不保证每次成功，不能编造因果叙事。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 34029,
+      "end": 34038,
+      "line": 215
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷8",
+      "revision": 768430,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B78&oldid=768430",
+      "raw_file": "pages/fixed-258111.wikitext",
+      "start": 1264,
+      "end": 1272,
+      "line": 11,
+      "source_markup": "知子之所以中者乎",
+      "reading": "知子之所以中者乎",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-08-008",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "民有恥心，則何盜之爲？",
+    "description": "误把以貌识盗当真实可靠技术。 故事的德化效果未有现实数据，不能据此废司法或按面相抓人。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 35256,
+      "end": 35267,
+      "line": 227
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷8",
+      "revision": 768430,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B78&oldid=768430",
+      "raw_file": "pages/fixed-258111.wikitext",
+      "start": 2998,
+      "end": 3007,
+      "line": 11,
+      "source_markup": "民有恥心則何盗之爲",
+      "reading": "民有恥心則何盗之爲",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-08-014",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "得其精而忘其麤，在其內而忘其外；",
+    "description": "误以为所有基础信息错误都可称识本质。 安全、合规等必要细节仍不可忽略，寓言不替错误免检。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 36588,
+      "end": 36604,
+      "line": 239
+    },
+    "comparison": {
+      "page_title": "列子 (四庫全書本)/卷8",
+      "revision": 768430,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%88%97%E5%AD%90%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B78&oldid=768430",
+      "raw_file": "pages/fixed-258111.wikitext",
+      "start": 5621,
+      "end": 5651,
+      "line": 11,
+      "source_markup": "得其精而忘其麤{{SK notes|與麄同}}在其內而忘其外",
+      "reading": "得其精而忘其麤在其內而忘其外",
+      "scope": "仅此电子主文字串的定点对读；夹注SK notes在display中排除而在source_markup存留，异体字不回改主本；未核影像。",
+      "locator_rule": "移除模板夹注/标签/标点建立带原Unicode映射的参考显示；仅定位key逐字t2s，不生成或改写参考原字。"
+    }
+  },
+  {
+    "passage_id": "LIE-08-027",
+    "kind": "semantic_and_application_boundary",
+    "source_phrase": "捕而放之，恩過不相補矣。",
+    "description": "误以为动机良好或当场救了一只就净有益。 不据古例否定所有救助；具体生态与动物处置需专业依据。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 38698,
+      "end": 38710,
+      "line": 265
+    }
+  },
+  {
+    "passage_id": "LIE-01-004",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "種有幾",
+    "description": "古代物类互化与神话生殖；罕见字及物名留疑，不能译成现代进化或胚胎学。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1061,
+      "end": 1064,
+      "line": 9
+    }
+  },
+  {
+    "passage_id": "LIE-01-007",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "男尊女卑",
+    "description": "人物明确说出的历史性别等级，不删抹、不认作今日原则。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1864,
+      "end": 1868,
+      "line": 15
+    }
+  },
+  {
+    "passage_id": "LIE-02-003",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "心庚念是非",
+    "description": "主本庚与仲尼篇更分存；不静默整齐化，也不以年数作固定课程。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 4882,
+      "end": 4887,
+      "line": 35
+    }
+  },
+  {
+    "passage_id": "LIE-02-004",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "姬！魚語女。",
+    "description": "电子原字可疑，未据熟句回改；仅据全段解释论旨。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 5194,
+      "end": 5200,
+      "line": 37
+    }
+  },
+  {
+    "passage_id": "LIE-02-013",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "罪乎不誫不止",
+    "description": "壶子示相段疑词保留，不补为占卜或诊断术。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 8091,
+      "end": 8097,
+      "line": 55
+    }
+  },
+  {
+    "passage_id": "LIE-03-006",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "覆之以蕉",
+    "description": "蕉的具体植物训释留疑，不因成语固化为香蕉叶。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 12985,
+      "end": 12989,
+      "line": 83
+    }
+  },
+  {
+    "passage_id": "LIE-04-003",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "西方之人有聖者焉",
+    "description": "圣者未命名，不确认为佛陀，也不从西方二字决定年代。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 15230,
+      "end": 15238,
+      "line": 95
+    }
+  },
+  {
+    "passage_id": "LIE-04-006",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "口無不同",
+    "description": "与黄帝篇相关段字句不同，两个源组均完整保留。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 16002,
+      "end": 16006,
+      "line": 101
+    }
+  },
+  {
+    "passage_id": "LIE-04-013",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "白馬非馬",
+    "description": "这是本书公子牟辩护链，不冒称公孙龙原著逐字引用或叙事者定论。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 17806,
+      "end": 17810,
+      "line": 115
+    }
+  },
+  {
+    "passage_id": "LIE-05-001",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "心死形廢",
+    "description": "神视气听见焦螟的神异描述，非微生物显微镜发现记录。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 19637,
+      "end": 19641,
+      "line": 121
+    }
+  },
+  {
+    "passage_id": "LIE-05-006",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "其長子生，則鮮而食之",
+    "description": "古代异域传闻非核实民族志；文化解释不认可食婴弃老。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 20994,
+      "end": 21004,
+      "line": 131
+    }
+  },
+  {
+    "passage_id": "LIE-05-009",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "剖胷探心",
+    "description": "易心寓言不能认证古代手术史或提供医疗操作。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 21718,
+      "end": 21722,
+      "line": 137
+    }
+  },
+  {
+    "passage_id": "LIE-05-013",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "廢其肝，則目不能視",
+    "description": "文本按古代脏器关联写倡偶，不作现代生理学。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 22827,
+      "end": 22836,
+      "line": 145
+    }
+  },
+  {
+    "passage_id": "LIE-06-004",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "子產執而戮之，俄而誅之。",
+    "description": "字面重复与邓析死因按主本留存；未据外史整齐化，也不替杀人免责。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 26336,
+      "end": 26348,
+      "line": 161
+    }
+  },
+  {
+    "passage_id": "LIE-06-006",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "季梁之疾自瘳",
+    "description": "寓言自愈不证明医疗无用；仲尼篇另写季梁之死，两个故事非可拼成完整病历。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 26864,
+      "end": 26870,
+      "line": 165
+    }
+  },
+  {
+    "passage_id": "LIE-06-009",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "墨杘、單至、嘽咺、憋懯",
+    "description": "古名与性状疑难，依整组论旨宽释，不做现代人格分类。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 27348,
+      "end": 27359,
+      "line": 171
+    }
+  },
+  {
+    "passage_id": "LIE-07-007",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "皆擇稚齒婑媠者以盈之",
+    "description": "叙事含将年轻女子物化、酒色不顾安危，不能洗成纯自由价值。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 30033,
+      "end": 30043,
+      "line": 193
+    }
+  },
+  {
+    "passage_id": "LIE-07-011",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "熙熙然以至於誅",
+    "description": "极端四圣二凶论辩未计受害者；文本仍写纣被诛，不能改成暴君全善终。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 32090,
+      "end": 32097,
+      "line": 201
+    }
+  },
+  {
+    "passage_id": "LIE-08-022",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "唯請",
+    "description": "底本字义留疑，不静默回改为情。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 37749,
+      "end": 37751,
+      "line": 255
+    }
+  },
+  {
+    "passage_id": "LIE-08-023",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "爲亡得喪",
+    "description": "末句难训，保留而不补成唯一白话。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 38207,
+      "end": 38211,
+      "line": 257
+    }
+  },
+  {
+    "passage_id": "LIE-08-026",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "凡人有術不能行者有矣",
+    "description": "胡子只争知识和能行可分，不等于已证明不死术真实。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 38521,
+      "end": 38531,
+      "line": 263
+    }
+  },
+  {
+    "passage_id": "LIE-08-031",
+    "kind": "source_phrase_or_interpretation_boundary",
+    "source_phrase": "徒欲爲薪而教吾伐之也",
+    "description": "是树主人的动机猜测，非叙述者已证老人恶意。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 39057,
+      "end": 39067,
+      "line": 273
+    }
+  }
+]

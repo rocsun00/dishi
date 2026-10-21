@@ -1,0 +1,9 @@
+{
+  "tool": "OpenCC Python reimplementation",
+  "version": "0.1.7",
+  "configuration": "t2s",
+  "purpose": "仅简体检索辅助；显示和引句沿固定主文；SKchar不猜补，显示占位不反改原模板",
+  "paragraph_count": 24,
+  "sha256": "259758fb2d3d5f17154e7e2377ffad604b982e58ab3d65aca321c2f0ecf7916b",
+  "generated_at_utc": "2026-10-20T03:25:49.508332+00:00"
+}

@@ -1,0 +1,267 @@
+[
+  {
+    "passage_id": "WYM-01-023",
+    "kind": "source_formatting_anomaly",
+    "markup": "皆聖人所能為，</u>堯</u>、<u>舜</u>何不盡為之",
+    "display": "皆聖人所能為，堯、舜何不盡為之",
+    "treatment": "仅对固定来源已见的多余格式标记作受限处理；原始markup及异常记录保留，无汉字补改。"
+  },
+  {
+    "passage_id": "WYM-01-103",
+    "kind": "source_reading_uncertainty",
+    "source_text": "一循於埋",
+    "treatment": "固定电子页原貌保留；释义概述上下文循理之意，不把埋默改为理。"
+  },
+  {
+    "passage_id": "WYM-01-124",
+    "kind": "source_confusable_glyph",
+    "character": "囗",
+    "codepoint": "U+56D7",
+    "count": 2,
+    "treatment": "源原字形囗保留，不默改为口；此处须另核版本。"
+  },
+  {
+    "passage_id": "WYM-01-129",
+    "kind": "source_reading_uncertainty",
+    "source_text": "愚不肯者",
+    "treatment": "保留源词，未据意补字。"
+  },
+  {
+    "passage_id": "WYM-02-009",
+    "kind": "source_formatting_anomaly",
+    "markup": "<<u>有苗</u>",
+    "display": "有苗",
+    "treatment": "仅对固定来源已见的多余格式标记作受限处理；原始markup及异常记录保留，无汉字补改。"
+  },
+  {
+    "passage_id": "WYM-02-049",
+    "kind": "source_confusable_glyph",
+    "character": "囗",
+    "codepoint": "U+56D7",
+    "count": 1,
+    "treatment": "源原字形囗保留，不默改为口；此处须另核版本。"
+  },
+  {
+    "passage_id": "WYM-04-006",
+    "kind": "source_reading_uncertainty",
+    "source_text": "民德親民",
+    "treatment": "固定源原貌保留，不静默改明德；释义依其前后明德亲民论旨作提要。"
+  },
+  {
+    "passage_id": "WYM-04-007",
+    "kind": "source_punctuation_uncertainty",
+    "source_text": "何謂身心之形體？運用之謂也。何謂心身之靈明？主宰之謂也。",
+    "treatment": "固定源句读保留；未据古本重排，不把现代标点视为本人手定。"
+  },
+  {
+    "passage_id": "WYM-01-011",
+    "kind": "source_reading_uncertainty",
+    "source_text": "道心常為一身之主／道心為生",
+    "treatment": "同条前后引句字样相异，固定源保持，不默改生为主。"
+  },
+  {
+    "passage_id": "WYM-02-002",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "膏育"
+    ],
+    "treatment": "完整阅读中观察到的字词疑处，原字保留，不据常见语句或现代想当然猜补；释义以可辨上下文为限，确定引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-02-006",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "率天下而路"
+    ],
+    "treatment": "完整阅读中观察到的字词疑处，原字保留，不据常见语句或现代想当然猜补；释义以可辨上下文为限，确定引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-02-009",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "昏誾",
+      "繄辭"
+    ],
+    "treatment": "完整阅读中观察到的字词疑处，原字保留，不据常见语句或现代想当然猜补；释义以可辨上下文为限，确定引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-02-018",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "妍榿"
+    ],
+    "treatment": "完整阅读中观察到的字词疑处，原字保留，不据常见语句或现代想当然猜补；释义以可辨上下文为限，确定引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-02-031",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "戒慎恐催"
+    ],
+    "treatment": "完整阅读中观察到的字词疑处，原字保留，不据常见语句或现代想当然猜补；释义以可辨上下文为限，确定引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-02-037",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "聖貿"
+    ],
+    "treatment": "完整阅读中观察到的字词疑处，原字保留，不据常见语句或现代想当然猜补；释义以可辨上下文为限，确定引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-02-039",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "無所所住"
+    ],
+    "treatment": "完整阅读中观察到的字词疑处，原字保留，不据常见语句或现代想当然猜补；释义以可辨上下文为限，确定引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-02-043",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "妍㜐",
+      "荀有欺"
+    ],
+    "treatment": "完整阅读中观察到的字词疑处，原字保留，不据常见语句或现代想当然猜补；释义以可辨上下文为限，确定引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-02-049",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "面陳囗析"
+    ],
+    "treatment": "完整阅读中观察到的字词疑处，原字保留，不据常见语句或现代想当然猜补；释义以可辨上下文为限，确定引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-02-051",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "天下無冶"
+    ],
+    "treatment": "完整阅读中观察到的字词疑处，原字保留，不据常见语句或现代想当然猜补；释义以可辨上下文为限，确定引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-02-059",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "地力軍務"
+    ],
+    "treatment": "完整阅读中观察到的字词疑处，原字保留，不据常见语句或现代想当然猜补；释义以可辨上下文为限，确定引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-02-061",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "惻坦"
+    ],
+    "treatment": "完整阅读中观察到的字词疑处，原字保留，不据常见语句或现代想当然猜补；释义以可辨上下文为限，确定引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-03-069",
+    "kind": "source_inline_variant_annotation",
+    "source_text": "僊（仙）",
+    "treatment": "源内括列异体原样显示；属于所选电子工作本的字形提示，不冒称阳明本人原稿已含括号。"
+  },
+  {
+    "passage_id": "WYM-03-018",
+    "source_section": "源条号218",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "杜人是非"
+    ],
+    "treatment": "全文配读观察到的电子页疑词入口；原字保留，未定讹、未据意改字，确定训释或引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-03-067",
+    "source_section": "源条号267",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "畫夜",
+      "賭聞"
+    ],
+    "treatment": "全文配读观察到的电子页疑词入口；原字保留，未定讹、未据意改字，确定训释或引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-03-073",
+    "source_section": "源条号273",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "孟子病源"
+    ],
+    "treatment": "全文配读观察到的电子页疑词入口；原字保留，未定讹、未据意改字，确定训释或引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-03-078",
+    "source_section": "源条号278",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "天壽不貳"
+    ],
+    "treatment": "全文配读观察到的电子页疑词入口；原字保留，未定讹、未据意改字，确定训释或引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-03-114",
+    "source_section": "源条号314",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "癸末",
+      "宜若虛"
+    ],
+    "treatment": "全文配读观察到的电子页疑词入口；原字保留，未定讹、未据意改字，确定训释或引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-03-116",
+    "source_section": "源条号316",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "申變無力"
+    ],
+    "treatment": "全文配读观察到的电子页疑词入口；原字保留，未定讹、未据意改字，确定训释或引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-03-117",
+    "source_section": "源条号317",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "不善正了"
+    ],
+    "treatment": "全文配读观察到的电子页疑词入口；原字保留，未定讹、未据意改字，确定训释或引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-03-123",
+    "source_section": "源条号323",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "慎擉"
+    ],
+    "treatment": "全文配读观察到的电子页疑词入口；原字保留，未定讹、未据意改字，确定训释或引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-03-135",
+    "source_section": "源条号335",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "心禮"
+    ],
+    "treatment": "全文配读观察到的电子页疑词入口；原字保留，未定讹、未据意改字，确定训释或引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-03-142",
+    "source_section": "源条号342",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "恫梓"
+    ],
+    "treatment": "全文配读观察到的电子页疑词入口；原字保留，未定讹、未据意改字，确定训释或引文须另核版本。"
+  },
+  {
+    "passage_id": "WYM-02-072",
+    "source_section": "源条号200",
+    "kind": "source_reading_uncertainty",
+    "source_text": [
+      "無瑕"
+    ],
+    "treatment": "全文配读观察到的电子页疑词入口；原字保留，未定讹、未据意改字，确定训释或引文须另核版本。"
+  }
+]

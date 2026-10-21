@@ -1,0 +1,48 @@
+{
+  "fetched_by": "parent agent official HTTPS API; author copies raw batch bytes and selected pages",
+  "records": [
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E4%B8%89%E7%95%A5%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A5%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A5+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%7C%E5%94%90%E5%A4%AA%E5%AE%97%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&redirects=1",
+      "file": "api/index-titles.json",
+      "retrieved_at_utc": "2026-10-20T15:01:06.044524+00:00",
+      "sha256": "f5fec2c3756185211fc16f48583ee5fcff740c5dc380a9269aa776945b880330",
+      "metadata_file": "api/index-titles-fetch.json",
+      "metadata_sha256": "bbaefe2e17b74a916ca1ab5c483d802f3a0ab56f6802fd3a14a1b828774930f6",
+      "acquisition_mode": "parent-official-HTTPS-API-shared-batch",
+      "shared_response_note": "完整原响应亦含三略等同批页面；本书选用页面另列，未裁剪或虚构单页请求"
+    },
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8A%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%AD%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8B%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&redirects=1",
+      "file": "api/body-titles.json",
+      "retrieved_at_utc": "2026-10-20T15:01:59.454763+00:00",
+      "sha256": "420754e47957bd45b12d8cbb5ad9f3b9f84ac6a7f139003896dad8a517ca899f",
+      "metadata_file": "api/body-titles-fetch.json",
+      "metadata_sha256": "34802fb2577763eb5aa0699f2e162d0d677a1aa7332b8184f96352faf535a081",
+      "acquisition_mode": "parent-official-HTTPS-API-shared-batch",
+      "shared_response_note": "完整原响应亦含三略等同批页面；本书选用页面另列，未裁剪或虚构单页请求"
+    },
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2358300%7C2358304%7C619906%7C631894%7C1536621%7C1536622%7C1536623%7C619896%7C619898%7C619900%7C631886%7C786937%7C631890",
+      "file": "api/fixed.json",
+      "retrieved_at_utc": "2026-10-20T15:02:55.751899+00:00",
+      "sha256": "2f58c809e56cc8b92faf6a09cd26267bcddedd5bea4b198c0d14dc9bdcbf9bb9",
+      "metadata_file": "api/fixed-fetch.json",
+      "metadata_sha256": "88a424c4b4f6d1760ad702ff54a07715b629bf03aae1034ef8e1a626f3145bf1",
+      "acquisition_mode": "parent-official-HTTPS-API-shared-batch",
+      "shared_response_note": "完整原响应亦含三略等同批页面；本书选用页面另列，未裁剪或虚构单页请求"
+    },
+    {
+      "file": "api/site-rights.json",
+      "sha256": "e113e25ced1ad609affcd45e846e0fe125dc28f2c5c5592d54b9bfb5a1e97ca0",
+      "acquisition_mode": "byte-for-byte-reuse",
+      "copied_from": "../liutao/source/api/site-rights.json",
+      "original_retrieval_evidence": "../liutao/source/fetch_manifest.json",
+      "note": "沿用六韬已捕获站点rights原始响应；本次没有重发rights请求，不把文件复制时间当抓取时间",
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo&origin=%2A",
+      "retrieved_at_utc": "2026-10-20T02:03:10.423425+00:00",
+      "retrieval_time_basis": "Original simafa capture, reused in liutao; preserved prior capture time, no new request",
+      "original_manifest_copy": "api/rights-origin-manifest.json",
+      "original_manifest_sha256": "08166eee28db42462bccef03ef2e259acf74aeb60c427be9344f786ce82fa3ba"
+    }
+  ]
+}

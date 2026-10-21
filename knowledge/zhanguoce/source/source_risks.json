@@ -1,0 +1,32 @@
+[
+  {
+    "passage_id": "ZGC-13-003",
+    "kind": "source_placeholder_or_private_use",
+    "characters": {
+      "": 1
+    },
+    "treatment": "原样保留，不擅填补；译释须明示疑字。"
+  },
+  {
+    "passage_id": "ZGC-13-004",
+    "kind": "source_placeholder_or_private_use",
+    "characters": {
+      "□": 5
+    },
+    "treatment": "原样保留，不擅填补；译释须明示疑字。"
+  },
+  {
+    "passage_id": "ZGC-10-006",
+    "kind": "source_glyph_description_unresolved",
+    "source_text": "勝<上股下目>曰",
+    "description": "<上股下目>是源页明确字形部件描述，不是已确定编码汉字；源古注另载相关解释但本库不静默以“臀”等字代入。",
+    "treatment": "保留固定源字符串作为未定字形，释义只称第三位进言者，不凭未知人名确考身份；引用时明示字形待校。"
+  },
+  {
+    "passage_id": "ZGC-23-005",
+    "kind": "source_glyph_description_unresolved",
+    "source_text": "圍〈蔷-回+田〉",
+    "description": "源在地名位置以全角角括号记录部件增减描述，仍为未定字形，后文另作薔，不能据后字或今字静默替换。",
+    "treatment": "正文及快照不改；释义只称魏邑并提示字形未定，不以该描述作已考定地名。"
+  }
+]

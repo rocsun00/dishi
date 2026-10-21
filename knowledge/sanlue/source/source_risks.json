@@ -1,0 +1,806 @@
+[
+  {
+    "passage_id": "SL-01-002",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "強者，怨之所攻。",
+    "description": "主本怨，对读人；德贼、人助与怨攻的配属依主本解释，不据一字认定柔弱必胜。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 649,
+      "end": 657,
+      "line": 15
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "强者人之所攻",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 285,
+      "end": 291,
+      "line": 9,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-006",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "策無遣",
+    "description": "主本遣，对读遺；原字保留，不补成唯一逐字训释。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 910,
+      "end": 913,
+      "line": 23
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "則筞無遺",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 486,
+      "end": 490,
+      "line": 10,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-007",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "服者，居之",
+    "description": "主本居，对读活，处置降服者的字义不同，原文未改。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1060,
+      "end": 1065,
+      "line": 25
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "服者活之",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 591,
+      "end": 595,
+      "line": 10,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-007",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "敵暴，緩之",
+    "description": "主本緩，对读綏，缓待与安抚的解释空间保留。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1138,
+      "end": 1143,
+      "line": 25
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "敵暴綏之",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 643,
+      "end": 647,
+      "line": 10,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-007",
+    "kind": "point_comparison_same_or_clarifying_reading",
+    "source_phrase": "四網，羅之",
+    "description": "短语主本与对读同有四網，具体训诂未定，不制造四张现代关系网模型。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1174,
+      "end": 1179,
+      "line": 25
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "四網羅之",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 667,
+      "end": 671,
+      "line": 10,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-007",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "令士自處",
+    "description": "主本士，对读土；不依据电子异文强定封土安排的逐字细节。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1232,
+      "end": 1236,
+      "line": 25
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "令土自處",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 713,
+      "end": 717,
+      "line": 10,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-007",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "拔而勿久",
+    "description": "与得而勿有等并列，具体动作与对象省略，宽述分配/间接控制不补战法。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1190,
+      "end": 1194,
+      "line": 25
+    }
+  },
+  {
+    "passage_id": "SL-01-010",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "睹以財",
+    "description": "主本睹，对读贍；财物招致之方向可述，未静默改字。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1423,
+      "end": 1426,
+      "line": 31
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "贍以財",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 866,
+      "end": 869,
+      "line": 11,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-011",
+    "kind": "point_comparison_same_or_clarifying_reading",
+    "source_phrase": "敵有全因",
+    "description": "两电子本均作全因，义有疑；共同出现不是已核影像，也不补为全擒。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1476,
+      "end": 1480,
+      "line": 33
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "敵有全因",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 910,
+      "end": 914,
+      "line": 12,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-012",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "可用而不可疲",
+    "description": "不作士卒无生理疲劳的经验断言，共担与积恩仍不能取消休整。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1621,
+      "end": 1627,
+      "line": 35
+    }
+  },
+  {
+    "passage_id": "SL-01-014",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "乘眾",
+    "description": "主本乘，对读乖，直接影响兵众失序的读法，不据主本作兵多即败之说。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1759,
+      "end": 1761,
+      "line": 39
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "乖衆不可使伐人",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 1136,
+      "end": 1143,
+      "line": 14,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-014",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "圍邑則不廢",
+    "description": "主本圍邑，对读圗邑；廢字两者均存，断读和战法细义保留。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1773,
+      "end": 1778,
+      "line": 39
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "圗邑則不廢",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 1148,
+      "end": 1153,
+      "line": 14,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-015",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "以罰為裹",
+    "description": "主本裹，对读裏；保留主本，表里方向由上下文宽述。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1962,
+      "end": 1966,
+      "line": 41
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "以罰為裏",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 1315,
+      "end": 1319,
+      "line": 16,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-016",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "士可下而不可驕",
+    "description": "可下的主客体有解读空间，不在释义中硬定唯一逐字译文。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 2015,
+      "end": 2022,
+      "line": 43
+    }
+  },
+  {
+    "passage_id": "SL-01-017",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "有四，則禍及國",
+    "description": "层进的警戒式论述，非缺点计数即可预测败亡的公式。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 2296,
+      "end": 2303,
+      "line": 45
+    }
+  },
+  {
+    "passage_id": "SL-01-018",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "財入營",
+    "description": "财货与众奸会相接，不解释为禁止合法军费与军需；也不据此猜出具体贿赂制度。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 2386,
+      "end": 2389,
+      "line": 47
+    }
+  },
+  {
+    "passage_id": "SL-01-019",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "盯誡",
+    "description": "主本盯，对读明，明显电子疑字保持不改；语境只说明应警戒四项。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 2478,
+      "end": 2480,
+      "line": 49
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "此四者将之明誡也",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 1705,
+      "end": 1713,
+      "line": 20,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-021",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "香餌之下，必有死魚",
+    "description": "鱼饵致死与重赏效死并举，照实承认诱动和牺牲语境，不洗成纯关怀。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 2518,
+      "end": 2527,
+      "line": 53
+    }
+  },
+  {
+    "passage_id": "SL-01-023",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "千里，無一年之食",
+    "description": "里数、年食是古代供给警戒，非现代物流比例或成本计算式。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 2771,
+      "end": 2779,
+      "line": 57
+    }
+  },
+  {
+    "passage_id": "SL-01-027",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "威而不震",
+    "description": "主本而不，对读無不，义向差异显著；不以主本硬说强宗没有威慑。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 2984,
+      "end": 2988,
+      "line": 65
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "威無不震",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 2095,
+      "end": 2099,
+      "line": 27,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-031",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "卑賤陵貴",
+    "description": "维护古代尊卑名分，不作为现代平等参与或晋升有罪的准则。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3159,
+      "end": 3163,
+      "line": 73
+    }
+  },
+  {
+    "passage_id": "SL-01-032",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "變古易常",
+    "description": "与佞臣苛政并列，非证明任何制度变革必有害。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3264,
+      "end": 3268,
+      "line": 75
+    }
+  },
+  {
+    "passage_id": "SL-01-033",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "姦雄乃遯",
+    "description": "主本遯，对读遷，均保留于各自原貌，不用作具体除奸手段。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3336,
+      "end": 3340,
+      "line": 77
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "奸雄乃遷",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 2367,
+      "end": 2371,
+      "line": 34,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-01-033",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "德乃洋益",
+    "description": "主本益，对读溢，广益方向可述，不改电子主文。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3376,
+      "end": 3380,
+      "line": 77
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷上",
+      "revision": 619896,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=619896",
+      "reading": "徳乃洋溢",
+      "raw_file": "pages/fixed-254956.wikitext",
+      "start": 2399,
+      "end": 2403,
+      "line": 34,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-02-001",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "群臣讓功",
+    "description": "主本群臣，对读君臣，范围不同；不合并出所谓古本原话。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3429,
+      "end": 3433,
+      "line": 81
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷中",
+      "revision": 619898,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD&oldid=619898",
+      "reading": "君臣讓功",
+      "raw_file": "pages/fixed-254957.wikitext",
+      "start": 236,
+      "end": 240,
+      "line": 8,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-02-003",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "使貪、使愚",
+    "description": "原典工具化分类，非现代人格科学，不可利用认知弱点诱导承担伤害。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3612,
+      "end": 3617,
+      "line": 85
+    }
+  },
+  {
+    "passage_id": "SL-02-004",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "無使辯士談說敵美",
+    "description": "含对真实信息传播的控制，不美化为开放沟通。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3671,
+      "end": 3679,
+      "line": 87
+    }
+  },
+  {
+    "passage_id": "SL-02-005",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "蔔問",
+    "description": "主本蔔，对读卜；只解释占问，不默改显示字。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3720,
+      "end": 3722,
+      "line": 89
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷中",
+      "revision": 619898,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD&oldid=619898",
+      "reading": "卜問軍之吉凶",
+      "raw_file": "pages/fixed-254957.wikitext",
+      "start": 464,
+      "end": 470,
+      "line": 11,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-02-009",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "非陰謀，無以成功",
+    "description": "主本陰謀，对读隂計；该权术断言不推广到所有现代事业。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3938,
+      "end": 3946,
+      "line": 97
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷中",
+      "revision": 619898,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD&oldid=619898",
+      "reading": "非隂計無以成功",
+      "raw_file": "pages/fixed-254957.wikitext",
+      "start": 641,
+      "end": 648,
+      "line": 14,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-02-011",
+    "kind": "point_comparison_same_or_clarifying_reading",
+    "source_phrase": "亡者，非喪其身也",
+    "description": "本段主动限定亡为夺威废权，不误译为本处必杀，也不外推古代从不杀功臣。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 4108,
+      "end": 4116,
+      "line": 101
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷中",
+      "revision": 619898,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD&oldid=619898",
+      "reading": "亡者非䘮其身也謂奪其威廢其權也",
+      "raw_file": "pages/fixed-254957.wikitext",
+      "start": 767,
+      "end": 782,
+      "line": 15,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-02-012",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "弱之以位，奪之以國",
+    "description": "职位封国是削权安置，不能装成纯粹奖励或现代自愿契约。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 4197,
+      "end": 4206,
+      "line": 103
+    }
+  },
+  {
+    "passage_id": "SL-02-012",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "其論駁也",
+    "description": "驳杂的评价方向可述，具体褒贬分寸保留，不伪造古注。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 4220,
+      "end": 4224,
+      "line": 103
+    }
+  },
+  {
+    "passage_id": "SL-03-002",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "非金、石、絲、竹也",
+    "description": "先释民乐家业，随后仍作乐节和，不断章说全盘排斥音乐。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 4434,
+      "end": 4443,
+      "line": 110
+    }
+  },
+  {
+    "passage_id": "SL-03-003",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "釋遠謀近者",
+    "description": "与求贤舍近取远对象不同，不造字面近远永恒战略公式。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 4553,
+      "end": 4558,
+      "line": 112
+    }
+  },
+  {
+    "passage_id": "SL-03-005",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "討賊報仇",
+    "description": "原典义含杀伐复仇，不能改写成完全温和伦理，更不授权现代私力复仇。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 4732,
+      "end": 4736,
+      "line": 116
+    }
+  },
+  {
+    "passage_id": "SL-03-006",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "政不正",
+    "description": "主本正，对读立；对应链条重复出现，正文依主本两处均保留。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 4820,
+      "end": 4823,
+      "line": 118
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷下",
+      "revision": 619900,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&oldid=619900",
+      "reading": "令不行則政不立政不立則道不通",
+      "raw_file": "pages/fixed-254958.wikitext",
+      "start": 647,
+      "end": 661,
+      "line": 11,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-03-008",
+    "kind": "point_comparison_same_or_clarifying_reading",
+    "source_phrase": "疑定惑還",
+    "description": "主本与对读同有此句，具体还义保留，不能推出以封口消除疑惑。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 4946,
+      "end": 4950,
+      "line": 122
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷下",
+      "revision": 619900,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&oldid=619900",
+      "reading": "疑定惑還國乃可安",
+      "raw_file": "pages/fixed-254958.wikitext",
+      "start": 757,
+      "end": 765,
+      "line": 14,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-03-010",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "犯上者誅",
+    "description": "古代等级与严刑语境，诛不统一淡化成普通考核，批评领导非现代犯上罪。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 5060,
+      "end": 5064,
+      "line": 126
+    }
+  },
+  {
+    "passage_id": "SL-03-012",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "亂邦之祿",
+    "description": "主本祿，对读粟；按各自字形保留，不混引。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 5197,
+      "end": 5201,
+      "line": 130
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷下",
+      "revision": 619900,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&oldid=619900",
+      "reading": "不食亂邦之粟",
+      "raw_file": "pages/fixed-254958.wikitext",
+      "start": 963,
+      "end": 969,
+      "line": 17,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-03-013",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "其克必矣",
+    "description": "义兵必胜是修辞论证，自称义不证明现实正当或必胜。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 5289,
+      "end": 5293,
+      "line": 132
+    }
+  },
+  {
+    "passage_id": "SL-03-015",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "殺生在君",
+    "description": "集中生杀于君的政治前提照实呈现，不洗成普通管理权限。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 5407,
+      "end": 5411,
+      "line": 136
+    }
+  },
+  {
+    "passage_id": "SL-03-015",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "四民用靈",
+    "description": "主本靈，对读虚，关键疑字直接影响经济含义；不靠猜字造均衡或劳动公式。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 5417,
+      "end": 5421,
+      "line": 136
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷下",
+      "revision": 619900,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&oldid=619900",
+      "reading": "四民用虚國乃無儲",
+      "raw_file": "pages/fixed-254958.wikitext",
+      "start": 1145,
+      "end": 1153,
+      "line": 18,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-03-017",
+    "kind": "electronic_witness_difference",
+    "source_phrase": "上下乃昏",
+    "description": "主本乃，对读皆，差异保留，均在君臣名分语境。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 5484,
+      "end": 5488,
+      "line": 140
+    },
+    "comparison": {
+      "page_title": "黃石公三畧 (四庫全書本)/卷下",
+      "revision": 619900,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&oldid=619900",
+      "reading": "上下皆昏",
+      "raw_file": "pages/fixed-254958.wikitext",
+      "start": 1201,
+      "end": 1205,
+      "line": 20,
+      "scope": "仅定点对读电子转录；未核影印古刻，主本未改"
+    }
+  },
+  {
+    "passage_id": "SL-03-018",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "殃及三世",
+    "description": "累世祸福为报应式劝戒，不是可验证的个体命运预测。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 5505,
+      "end": 5509,
+      "line": 142
+    }
+  },
+  {
+    "passage_id": "SL-03-019",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "去壹利百",
+    "description": "去的对象省略，不当然指杀掉一人，不由人数取消少数基本权利。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 5573,
+      "end": 5577,
+      "line": 144
+    }
+  }
+]

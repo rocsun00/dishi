@@ -1,0 +1,12 @@
+{
+  "id": "mozi",
+  "title": "墨子（现存五十三篇电子工作本）",
+  "valid": true,
+  "chapters": 53,
+  "passages": 650,
+  "readings": 650,
+  "concepts": 159,
+  "examples": 53,
+  "verified_quotes": 212,
+  "errors": []
+}

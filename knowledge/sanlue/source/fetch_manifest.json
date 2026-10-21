@@ -1,0 +1,44 @@
+{
+  "fetched_by": "root agent: official HTTPS MediaWiki API via Python urllib; book helper copies captured raw bytes",
+  "records": [
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E4%B8%89%E7%95%A5%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A5%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A5+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%7C%E5%94%90%E5%A4%AA%E5%AE%97%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&redirects=1",
+      "file": "api/index-titles.json",
+      "retrieved_at_utc": "2026-10-20T15:01:06.044524+00:00",
+      "sha256": "f5fec2c3756185211fc16f48583ee5fcff740c5dc380a9269aa776945b880330",
+      "acquisition_mode": "shared-real-http-batch",
+      "provenance_file": "api/index-titles-fetch.json"
+    },
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8A%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%AD%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8B%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&redirects=1",
+      "file": "api/body-titles.json",
+      "retrieved_at_utc": "2026-10-20T15:01:59.454763+00:00",
+      "sha256": "420754e47957bd45b12d8cbb5ad9f3b9f84ac6a7f139003896dad8a517ca899f",
+      "acquisition_mode": "shared-real-http-batch",
+      "provenance_file": "api/body-titles-fetch.json"
+    },
+    {
+      "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2358300%7C2358304%7C619906%7C631894%7C1536621%7C1536622%7C1536623%7C619896%7C619898%7C619900%7C631886%7C786937%7C631890",
+      "file": "api/fixed.json",
+      "retrieved_at_utc": "2026-10-20T15:02:55.751899+00:00",
+      "sha256": "2f58c809e56cc8b92faf6a09cd26267bcddedd5bea4b198c0d14dc9bdcbf9bb9",
+      "acquisition_mode": "shared-real-http-batch",
+      "provenance_file": "api/fixed-fetch.json"
+    }
+  ],
+  "rights_record": {
+    "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo&origin=%2A",
+    "file": "api/site-rights.json",
+    "retrieved_at_utc": "2026-10-20T02:03:10.423425+00:00",
+    "sha256": "e113e25ced1ad609affcd45e846e0fe125dc28f2c5c5592d54b9bfb5a1e97ca0",
+    "acquisition_mode": "shared-prior-capture-byte-copy",
+    "original_manifest": "../liutao/source/fetch_manifest.json",
+    "provenance_file": "api/shared-rights-provenance.json"
+  },
+  "notes": [
+    "Three retained API batches contain additional Liweigongwendui responses; they are shared acquisition evidence, not Sanlue body.",
+    "Each of five selected Sanlue pages has actual titles and fixed-revid fetches; page bytes compared identical.",
+    "The missing 略-spelled Siku title is only an alternate-title lookup miss; canonical title uses 畧 and all three volumes are present.",
+    "No new HTTP requests, dates, or URLs invented by this authoring helper."
+  ]
+}

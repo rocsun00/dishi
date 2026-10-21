@@ -1,0 +1,305 @@
+{
+  "id": "wuzi",
+  "work_id": "wuzi",
+  "title": "吴子（现存六篇电子工作本）",
+  "prefix": "WZ",
+  "source_title": "吳子",
+  "revision": 2358297,
+  "source_url": "https://zh.wikisource.org/w/index.php?title=%E5%90%B3%E5%AD%90&oldid=2358297",
+  "source_pages": [
+    {
+      "title": "吳子",
+      "revision": 2358297,
+      "timestamp": "2024-01-19T13:20:49Z",
+      "retrieved_at_utc": "2026-10-20T02:04:03.356580Z",
+      "raw_file": "pages/00.wikitext",
+      "api_response": "api/00.json",
+      "fixed_api_response": "api/00-fixed.json",
+      "raw_sha256": "6305cb6bc2489e9465b7775f3a2339beea4d1651df22011627cb9b08d1b1010d",
+      "api_sha256": "d1ac333e3884afba68999547a402c1fe3df5a37800419dc31b430a0c501fe935",
+      "fixed_api_sha256": "d1ac333e3884afba68999547a402c1fe3df5a37800419dc31b430a0c501fe935",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%90%B3%E5%AD%90&oldid=2358297",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%90%B3%E5%AD%90&action=history",
+      "author_attribution": "旧题吴起；逐句作者及现存本成书不在本项目确断",
+      "contributors_attribution": "吳子 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%90%B3%E5%AD%90",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2358297",
+      "fixed_retrieved_at_utc": "2026-10-20T02:04:03.358710Z",
+      "start": 0,
+      "end": 6343
+    }
+  ],
+  "reference_pages": [
+    {
+      "title": "漢書/卷030",
+      "revision": 7908197,
+      "timestamp": "2026-07-15T01:11:32Z",
+      "retrieved_at_utc": "2026-10-20T02:04:03.925051Z",
+      "raw_file": "pages/01.wikitext",
+      "api_response": "api/01.json",
+      "fixed_api_response": "api/01-fixed.json",
+      "raw_sha256": "8f44ee30f3c0f7bb3cb628409531c2ace1e27386fcd878a5e12247649361024f",
+      "api_sha256": "d28a78afa981849f318c6a9b5a9a3b27aafca544f24434c84b8c0ab69c9d9890",
+      "fixed_api_sha256": "d28a78afa981849f318c6a9b5a9a3b27aafca544f24434c84b8c0ab69c9d9890",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030&oldid=7908197",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030&action=history",
+      "author_attribution": "班固等《汉书》著录",
+      "contributors_attribution": "漢書/卷030 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=7908197",
+      "fixed_retrieved_at_utc": "2026-10-20T02:04:03.925691Z"
+    },
+    {
+      "title": "四庫全書總目提要/卷099",
+      "revision": 1329524,
+      "timestamp": "2017-12-07T14:40:11Z",
+      "retrieved_at_utc": "2026-10-20T02:04:04.191912Z",
+      "raw_file": "pages/02.wikitext",
+      "api_response": "api/02.json",
+      "fixed_api_response": "api/02-fixed.json",
+      "raw_sha256": "7573d8f826031e90e80c0cc848626ff92f7e473af51900e7a6f0af3f43d157b1",
+      "api_sha256": "f67b7ec4be3c7f93cef704030e71d7f338930d90b04520304f90015abcf2e898",
+      "fixed_api_sha256": "f67b7ec4be3c7f93cef704030e71d7f338930d90b04520304f90015abcf2e898",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E7%B8%BD%E7%9B%AE%E6%8F%90%E8%A6%81%2F%E5%8D%B7099&oldid=1329524",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E7%B8%BD%E7%9B%AE%E6%8F%90%E8%A6%81%2F%E5%8D%B7099&action=history",
+      "author_attribution": "纪昀等《四库全书总目》编纂者",
+      "contributors_attribution": "四庫全書總目提要/卷099 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E7%B8%BD%E7%9B%AE%E6%8F%90%E8%A6%81%2F%E5%8D%B7099",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=1329524",
+      "fixed_retrieved_at_utc": "2026-10-20T02:04:04.194583Z"
+    }
+  ],
+  "navigation_reference_pages": [
+    {
+      "title": "吳子 (四部叢刊本)/卷第上",
+      "revision": 2655905,
+      "timestamp": "2026-02-27T05:58:50Z",
+      "retrieved_at_utc": "2026-10-20T02:04:04.389427Z",
+      "raw_file": "pages/03.wikitext",
+      "api_response": "api/03.json",
+      "fixed_api_response": "api/03-fixed.json",
+      "raw_sha256": "0122e2a861ddc9d2ff72f00942453e609360c5f084c919a297f0b44492dfaa3b",
+      "api_sha256": "fccbd337af615454020a5dbb5fe7a60a058b2fdf72e914732e366ef2035135fb",
+      "fixed_api_sha256": "fccbd337af615454020a5dbb5fe7a60a058b2fdf72e914732e366ef2035135fb",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%90%B3%E5%AD%90+%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29%2F%E5%8D%B7%E7%AC%AC%E4%B8%8A&oldid=2655905",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%90%B3%E5%AD%90+%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29%2F%E5%8D%B7%E7%AC%AC%E4%B8%8A&action=history",
+      "author_attribution": "旧题吴起；逐句作者及现存本成书不在本项目确断",
+      "contributors_attribution": "吳子 (四部叢刊本)/卷第上 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%90%B3%E5%AD%90+%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29%2F%E5%8D%B7%E7%AC%AC%E4%B8%8A",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2655905",
+      "fixed_retrieved_at_utc": "2026-10-20T02:04:04.389766Z"
+    },
+    {
+      "title": "吳子 (四部叢刊本)/卷第下",
+      "revision": 2655906,
+      "timestamp": "2026-02-27T05:58:52Z",
+      "retrieved_at_utc": "2026-10-20T02:04:04.564883Z",
+      "raw_file": "pages/04.wikitext",
+      "api_response": "api/04.json",
+      "fixed_api_response": "api/04-fixed.json",
+      "raw_sha256": "bfd206a94324c112ea6289b09f385e73d4f97b66ab9b804a916570a0f5338696",
+      "api_sha256": "b1d07946c054dce2f44697bdbf117fd236f94bb79b70a316dc62a5742e8258f2",
+      "fixed_api_sha256": "b1d07946c054dce2f44697bdbf117fd236f94bb79b70a316dc62a5742e8258f2",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%90%B3%E5%AD%90+%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29%2F%E5%8D%B7%E7%AC%AC%E4%B8%8B&oldid=2655906",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%90%B3%E5%AD%90+%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29%2F%E5%8D%B7%E7%AC%AC%E4%B8%8B&action=history",
+      "author_attribution": "旧题吴起；逐句作者及现存本成书不在本项目确断",
+      "contributors_attribution": "吳子 (四部叢刊本)/卷第下 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%90%B3%E5%AD%90+%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29%2F%E5%8D%B7%E7%AC%AC%E4%B8%8B",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2655906",
+      "fixed_retrieved_at_utc": "2026-10-20T02:04:04.565165Z"
+    }
+  ],
+  "retrieved_on": "2026-10-20",
+  "retrieved_at_utc": "2026-10-20T02:04:03.356580Z",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "6305cb6bc2489e9465b7775f3a2339beea4d1651df22011627cb9b08d1b1010d",
+  "extraction_sha256": "9f77037a85f4831f94ca35eb737e436b87deebcf056dc06c41e1dd3a730557e9",
+  "scope": "完整收录所选固定有标点电子页《图国》《料敌》《治兵》《论将》《应变》《励士》六篇43个源页自然段；不补古四十八篇的其他篇名、正文或编号。汉书著录、四库古代书目判断与四部包含页结构另存参考，不混入六篇正文。",
+  "edition_status": "中文维基文库《吳子》有标点工作页，页头旧题吴起并标战国，未说明据何具体刻本；本项目不据页头确断全部文字成书年代或吴起逐句亲著，未对勘原刻影像，亦不借四部导航冒称影宋本正文已核。",
+  "chapter_count": 6,
+  "chapter_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "chapter_unit": "篇现存正文",
+  "passage_count": 43,
+  "text_characters_including_punctuation": 5937,
+  "ancient_note_count": 0,
+  "normalization": [
+    "官方API按标题与固定revid双取，原响应不美化改写，原貌与SHA保存；采集UTC与版本UTC分列。",
+    "保持43个源页自然段及原顺序，逐段保留Unicode字符[start,end)与行号；首段跨行对话以source_dialogue_group关联，不重编为古篇次。",
+    "正文不含古注模板，editorial_notes逐段为空；书目条的古人见解不混主文，现代释义不伪称古注。",
+    "页头元数据、篇题、导航、公版模板及分类以extraction穷尽标记排除；源字、标点无猜补，OpenCC t2s只用于检索辅助。"
+  ],
+  "source_attribution": "旧题吴起；今传本编纂与逐句作者未作定案。数字电子本由中文维基文库对应页贡献者整理，逐页固定修订、历史、采集UTC、API/raw SHA及署名见fetch_manifest.json。汉书为古著录，四库为清代编者对旧籍的意见，不冒充吴起原文或现代最终鉴定。",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "CC BY-SA 4.0为上游数字整理声明；古代原作公版、数字整理、项目现代释义分层，保留署名和改动记录；新增内容发布许可另行决定，不抹去适用上游义务。",
+  "source_risks": [
+    {
+      "passage_id": "WZ-01-002",
+      "kind": "source_wording_preserved",
+      "source_phrase": "爍以犀象；革車奄戶，縵輪籠轂；承桑氏",
+      "description": "源本器物词与古史例证照存；未以熟悉的通行异字改写，具体字形与史事未逐字核原刻。"
+    },
+    {
+      "passage_id": "WZ-01-003",
+      "kind": "historical_claim_not_independently_verified",
+      "source_phrase": "大戰七十六，全勝六十四；拓地千里",
+      "description": "篇内叙述者的战功数字，不能当作现代核实统计或后文方法效力的独立证明。"
+    },
+    {
+      "passage_id": "WZ-01-004",
+      "kind": "ancient_divination_and_mobilization",
+      "source_phrase": "啟於元龜；進死為榮，退生為辱",
+      "description": "龟卜与天时属于古代信念；亲民与赴死的动员张力保留，现代不能转用死亡荣辱。"
+    },
+    {
+      "passage_id": "WZ-01-006",
+      "kind": "numerical_rhetoric_not_law",
+      "source_phrase": "五勝者禍，四勝者弊，三勝者霸，二勝者王，一勝者帝",
+      "description": "本段警戒数胜难守，不作为固定胜次与结果的经验定律。"
+    },
+    {
+      "passage_id": "WZ-01-008",
+      "kind": "military_violence_and_wording",
+      "source_phrase": "王臣失位；屠城",
+      "description": "源文王臣照存；编选求功、洗耻精锐并指向屠城，不删成单纯人才管理。"
+    },
+    {
+      "passage_id": "WZ-02-001",
+      "kind": "historical_setting_uncertain",
+      "source_phrase": "六國兵四守",
+      "description": "地缘陈述按书内设问保存；与诸国国号、方位和成书层次的关系不在项目定案。"
+    },
+    {
+      "passage_id": "WZ-02-002",
+      "kind": "generalization_and_coercion",
+      "source_phrase": "齊性剛；秦性強；楚性弱；燕性愨；三晉者，中國也",
+      "description": "国别性格为古代概括，不给现代民族地域定性；诱利、设伏等保留战争性质。"
+    },
+    {
+      "passage_id": "WZ-02-003",
+      "kind": "difficult_wording_and_divination",
+      "source_phrase": "早興寤遷；晏興無間；祅祥數起；陳功居列",
+      "description": "行军与列目字句不据其他常见本猜改；不卜不占须与全书龟卜语境并读，祅祥不作现实占验。"
+    },
+    {
+      "passage_id": "WZ-03-001",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "膏鐧有餘",
+      "description": "源本作膏鐧，释义仅在战车保养语境宽述，不静默改作其他常见字。"
+    },
+    {
+      "passage_id": "WZ-03-004",
+      "kind": "coercive_mobilization_boundary",
+      "source_phrase": "必死則生，幸生則死；使智者不及謀",
+      "description": "绝境、赴死和压缩思考时间的战争动员明确保留，不把它称为现代组织有效性的科学证据。"
+    },
+    {
+      "passage_id": "WZ-03-006",
+      "kind": "ancient_collective_control",
+      "source_phrase": "什伍相保",
+      "description": "编组互保或相互约束不能直接移成连带惩罚现代同事。"
+    },
+    {
+      "passage_id": "WZ-03-007",
+      "kind": "ancient_cosmology_boundary",
+      "source_phrase": "左青龍，右白虎，前朱雀，後玄武，招搖在上",
+      "description": "方位军阵与古代星象语言照存；不据此预测项目、命运或医学事实。"
+    },
+    {
+      "passage_id": "WZ-03-008",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "謹落四下；不傷於末，必傷於始",
+      "description": "修马难句和始末饥饱断语不作唯一训诂、现代马医诊断或定量养护指导。"
+    },
+    {
+      "passage_id": "WZ-04-002",
+      "kind": "deception_and_attribution_boundary",
+      "source_phrase": "使其君臣相怨，上下相咎",
+      "description": "事机实含间谍与离间，不净化成通用信息管理，也不把全篇逐句确认为吴起实录。"
+    },
+    {
+      "passage_id": "WZ-04-005",
+      "kind": "status_and_risk_boundary",
+      "source_phrase": "令賤而勇者；務於北",
+      "description": "低身份者承担试敌风险及佯退保留历史语境；北在此不是方位北方。"
+    },
+    {
+      "passage_id": "WZ-05-003",
+      "kind": "source_phrase_and_subject_uncertain",
+      "source_phrase": "彼聽吾說，解之而去；不聽吾說，斬使焚書",
+      "description": "行动主语与层次有解释余地；不补写唯一情节或给杀使行为现代正当性；五军方案的车骑资源前提不可省略。"
+    },
+    {
+      "passage_id": "WZ-05-004",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "以方從之",
+      "description": "方字与具体阵形/相从方式未定，只依上下文宽述按众寡调整，不制造精确兵法。"
+    },
+    {
+      "passage_id": "WZ-05-010",
+      "kind": "conquest_and_civilian_boundary",
+      "source_phrase": "御其祿秩；示民無殘心",
+      "description": "御禄秩具体训释保留余地；城破接管与保护民产并列，不把不残自称等同现代战争法或当然正当。"
+    },
+    {
+      "passage_id": "WZ-06-004",
+      "kind": "historical_claim_and_suicidal_mobilization",
+      "source_phrase": "一人投命，足懼千夫；而破秦五十萬眾",
+      "description": "死贼类比、投命动员与战果数字分层，均非现代统计或普遍激励法，不鼓励以自毁换取组织目标。"
+    },
+    {
+      "passage_id": "WZ-06-005",
+      "kind": "metric_and_wording_boundary",
+      "source_phrase": "若車不得車，騎不得騎，徒不得徒",
+      "description": "按同类战果计功的得字尺度未在原文细释；不假造统计口径，现代指标分析须声明是转译。"
+    }
+  ],
+  "source_observations": [
+    {
+      "kind": "scope_and_bibliography",
+      "description": "汉书兵权谋类确列《吴起》四十八篇；本书只能称现存六篇电子本，不以48减6认定其他42篇标题、篇号或具体亡文。"
+    },
+    {
+      "kind": "authorship_and_compilation",
+      "description": "四库吴子条记隋唐一卷、晁氏三卷及六篇，并主张古48篇有附益；这是四库编者自己的解释，不据此定案无亡佚或全部吴起亲作。"
+    },
+    {
+      "kind": "title_difference",
+      "description": "四库条引晁氏列说国、变化，主本题图国、应变，说明古目录称法有异；本项目沿主文源题，不用书目猜改。"
+    },
+    {
+      "kind": "commentary_boundary",
+      "description": "主本六篇段内无古注或校案模板，古注数0如实记录；四库条、汉书著录及项目校记为各自层次。"
+    },
+    {
+      "kind": "navigation_only",
+      "description": "四部丛刊上/下固定页仅含pages范围标签；没有获取该标签的Page命名空间转录与影像，不作为全文对勘依据。"
+    }
+  ]
+}

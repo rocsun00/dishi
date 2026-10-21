@@ -1,0 +1,842 @@
+{
+  "id": "liweigongwendui",
+  "work_id": "liweigongwendui",
+  "title": "李卫公问对（三卷电子工作本）",
+  "prefix": "LWG",
+  "source_title": "唐李問對",
+  "revision": "1536621/1536622/1536623",
+  "source_url": "https://zh.wikisource.org/w/index.php?title=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D&oldid=2358304",
+  "source_pages": [
+    {
+      "title": "唐李問對/卷上",
+      "pageid": 56029,
+      "revision": 1536621,
+      "timestamp": "2019-02-03T04:53:50Z",
+      "raw_file": "pages/fixed-56029.wikitext",
+      "title_raw_file": "pages/body-titles-56029.wikitext",
+      "raw_sha256": "df5aafcba9ec626b66e285289943c25d5719ab0a5395f455cda58594ddbce485",
+      "api_response": "api/body-titles.json",
+      "fixed_api_response": "api/fixed.json",
+      "api_sha256": "420754e47957bd45b12d8cbb5ad9f3b9f84ac6a7f139003896dad8a517ca899f",
+      "fixed_api_sha256": "2f58c809e56cc8b92faf6a09cd26267bcddedd5bea4b198c0d14dc9bdcbf9bb9",
+      "double_fetch_content_equal": true,
+      "retrieved_at_utc": "2026-10-20T15:01:59.454763+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T15:02:55.751899+00:00",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8A%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%AD%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8B%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2358300%7C2358304%7C619906%7C631894%7C1536621%7C1536622%7C1536623%7C619896%7C619898%7C619900%7C631886%7C786937%7C631890",
+      "acquisition_mode": "parent-official-title-and-fixed-shared-batches",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8A&oldid=1536621",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8A&action=history",
+      "author_attribution": "旧题李靖、唐；君臣问答框架不证明李靖自著或唐代逐字实录",
+      "contributors_attribution": "唐李問對/卷上 — 中文维基文库贡献者，署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "start": 0,
+      "end": 5244
+    },
+    {
+      "title": "唐李問對/卷中",
+      "pageid": 56030,
+      "revision": 1536622,
+      "timestamp": "2019-02-03T04:54:01Z",
+      "raw_file": "pages/fixed-56030.wikitext",
+      "title_raw_file": "pages/body-titles-56030.wikitext",
+      "raw_sha256": "797d140d7cb6bead9fdfb54a08816bf8aba6eae57a93ab809d367b0c18b1f860",
+      "api_response": "api/body-titles.json",
+      "fixed_api_response": "api/fixed.json",
+      "api_sha256": "420754e47957bd45b12d8cbb5ad9f3b9f84ac6a7f139003896dad8a517ca899f",
+      "fixed_api_sha256": "2f58c809e56cc8b92faf6a09cd26267bcddedd5bea4b198c0d14dc9bdcbf9bb9",
+      "double_fetch_content_equal": true,
+      "retrieved_at_utc": "2026-10-20T15:01:59.454763+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T15:02:55.751899+00:00",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8A%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%AD%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8B%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2358300%7C2358304%7C619906%7C631894%7C1536621%7C1536622%7C1536623%7C619896%7C619898%7C619900%7C631886%7C786937%7C631890",
+      "acquisition_mode": "parent-official-title-and-fixed-shared-batches",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%AD&oldid=1536622",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%AD&action=history",
+      "author_attribution": "旧题李靖、唐；君臣问答框架不证明李靖自著或唐代逐字实录",
+      "contributors_attribution": "唐李問對/卷中 — 中文维基文库贡献者，署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "start": 5244,
+      "end": 10015
+    },
+    {
+      "title": "唐李問對/卷下",
+      "pageid": 56031,
+      "revision": 1536623,
+      "timestamp": "2019-02-03T04:54:12Z",
+      "raw_file": "pages/fixed-56031.wikitext",
+      "title_raw_file": "pages/body-titles-56031.wikitext",
+      "raw_sha256": "b9f72a7254ae73828f6f87f7f5cb6cd8a438ae1684fcd3eeb69e0e9bb883e2b6",
+      "api_response": "api/body-titles.json",
+      "fixed_api_response": "api/fixed.json",
+      "api_sha256": "420754e47957bd45b12d8cbb5ad9f3b9f84ac6a7f139003896dad8a517ca899f",
+      "fixed_api_sha256": "2f58c809e56cc8b92faf6a09cd26267bcddedd5bea4b198c0d14dc9bdcbf9bb9",
+      "double_fetch_content_equal": true,
+      "retrieved_at_utc": "2026-10-20T15:01:59.454763+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T15:02:55.751899+00:00",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8A%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%AD%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8B%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2358300%7C2358304%7C619906%7C631894%7C1536621%7C1536622%7C1536623%7C619896%7C619898%7C619900%7C631886%7C786937%7C631890",
+      "acquisition_mode": "parent-official-title-and-fixed-shared-batches",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8B&oldid=1536623",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8B&action=history",
+      "author_attribution": "旧题李靖、唐；君臣问答框架不证明李靖自著或唐代逐字实录",
+      "contributors_attribution": "唐李問對/卷下 — 中文维基文库贡献者，署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "start": 10015,
+      "end": 14166
+    }
+  ],
+  "reference_pages": [
+    {
+      "title": "唐李問對",
+      "pageid": 56025,
+      "revision": 2358304,
+      "timestamp": "2024-01-19T13:26:17Z",
+      "raw_file": "pages/fixed-56025.wikitext",
+      "title_raw_file": "pages/index-titles-56025.wikitext",
+      "raw_sha256": "c3f4f14d14bb9030e46f867a2f4b4a3562f1f703fefa12618ef554a7559ca519",
+      "api_response": "api/index-titles.json",
+      "fixed_api_response": "api/fixed.json",
+      "api_sha256": "f5fec2c3756185211fc16f48583ee5fcff740c5dc380a9269aa776945b880330",
+      "fixed_api_sha256": "2f58c809e56cc8b92faf6a09cd26267bcddedd5bea4b198c0d14dc9bdcbf9bb9",
+      "double_fetch_content_equal": true,
+      "retrieved_at_utc": "2026-10-20T15:01:06.044524+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T15:02:55.751899+00:00",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E4%B8%89%E7%95%A5%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A5%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A5+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%7C%E5%94%90%E5%A4%AA%E5%AE%97%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2358300%7C2358304%7C619906%7C631894%7C1536621%7C1536622%7C1536623%7C619896%7C619898%7C619900%7C631886%7C786937%7C631890",
+      "acquisition_mode": "parent-official-title-and-fixed-shared-batches",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D&oldid=2358304",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D&action=history",
+      "author_attribution": "旧题李靖、唐；君臣问答框架不证明李靖自著或唐代逐字实录",
+      "contributors_attribution": "唐李問對 — 中文维基文库贡献者，署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    },
+    {
+      "title": "李衛公問對 (四庫全書本)",
+      "pageid": 260913,
+      "revision": 631894,
+      "timestamp": "2016-10-14T04:02:13Z",
+      "raw_file": "pages/fixed-260913.wikitext",
+      "title_raw_file": "pages/index-titles-260913.wikitext",
+      "raw_sha256": "7bb0e7fc7a467d2d924f1d7d0bba9f5ea2e8b3a9c0fd1db5a3b81b3f919823b9",
+      "api_response": "api/index-titles.json",
+      "fixed_api_response": "api/fixed.json",
+      "api_sha256": "f5fec2c3756185211fc16f48583ee5fcff740c5dc380a9269aa776945b880330",
+      "fixed_api_sha256": "2f58c809e56cc8b92faf6a09cd26267bcddedd5bea4b198c0d14dc9bdcbf9bb9",
+      "double_fetch_content_equal": true,
+      "retrieved_at_utc": "2026-10-20T15:01:06.044524+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T15:02:55.751899+00:00",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E4%B8%89%E7%95%A5%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A5%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A5+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%7C%E5%94%90%E5%A4%AA%E5%AE%97%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2358300%7C2358304%7C619906%7C631894%7C1536621%7C1536622%7C1536623%7C619896%7C619898%7C619900%7C631886%7C786937%7C631890",
+      "acquisition_mode": "parent-official-title-and-fixed-shared-batches",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631894",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&action=history",
+      "author_attribution": "四库电子转录参考；未逐字核原刻影像",
+      "contributors_attribution": "李衛公問對 (四庫全書本) — 中文维基文库贡献者，署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    },
+    {
+      "title": "李衛公問對 (四庫全書本)/卷上",
+      "pageid": 260909,
+      "revision": 631886,
+      "timestamp": "2016-10-14T04:02:12Z",
+      "raw_file": "pages/fixed-260909.wikitext",
+      "title_raw_file": "pages/body-titles-260909.wikitext",
+      "raw_sha256": "ab24db85ce1c7b9d081f20796ca4a0023b1f7e97c90d092c0b4175f98643fada",
+      "api_response": "api/body-titles.json",
+      "fixed_api_response": "api/fixed.json",
+      "api_sha256": "420754e47957bd45b12d8cbb5ad9f3b9f84ac6a7f139003896dad8a517ca899f",
+      "fixed_api_sha256": "2f58c809e56cc8b92faf6a09cd26267bcddedd5bea4b198c0d14dc9bdcbf9bb9",
+      "double_fetch_content_equal": true,
+      "retrieved_at_utc": "2026-10-20T15:01:59.454763+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T15:02:55.751899+00:00",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8A%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%AD%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8B%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2358300%7C2358304%7C619906%7C631894%7C1536621%7C1536622%7C1536623%7C619896%7C619898%7C619900%7C631886%7C786937%7C631890",
+      "acquisition_mode": "parent-official-title-and-fixed-shared-batches",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=631886",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&action=history",
+      "author_attribution": "四库电子转录参考；未逐字核原刻影像",
+      "contributors_attribution": "李衛公問對 (四庫全書本)/卷上 — 中文维基文库贡献者，署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    },
+    {
+      "title": "李衛公問對 (四庫全書本)/卷中",
+      "pageid": 260910,
+      "revision": 786937,
+      "timestamp": "2016-10-27T10:48:13Z",
+      "raw_file": "pages/fixed-260910.wikitext",
+      "title_raw_file": "pages/body-titles-260910.wikitext",
+      "raw_sha256": "01ffc333f971a9f0a6b9c4261f14511af0b5fc36ff2e9f43a6faccf984b921ba",
+      "api_response": "api/body-titles.json",
+      "fixed_api_response": "api/fixed.json",
+      "api_sha256": "420754e47957bd45b12d8cbb5ad9f3b9f84ac6a7f139003896dad8a517ca899f",
+      "fixed_api_sha256": "2f58c809e56cc8b92faf6a09cd26267bcddedd5bea4b198c0d14dc9bdcbf9bb9",
+      "double_fetch_content_equal": true,
+      "retrieved_at_utc": "2026-10-20T15:01:59.454763+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T15:02:55.751899+00:00",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8A%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%AD%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8B%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2358300%7C2358304%7C619906%7C631894%7C1536621%7C1536622%7C1536623%7C619896%7C619898%7C619900%7C631886%7C786937%7C631890",
+      "acquisition_mode": "parent-official-title-and-fixed-shared-batches",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD&oldid=786937",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD&action=history",
+      "author_attribution": "四库电子转录参考；未逐字核原刻影像",
+      "contributors_attribution": "李衛公問對 (四庫全書本)/卷中 — 中文维基文库贡献者，署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    },
+    {
+      "title": "李衛公問對 (四庫全書本)/卷下",
+      "pageid": 260911,
+      "revision": 631890,
+      "timestamp": "2016-10-14T04:02:13Z",
+      "raw_file": "pages/fixed-260911.wikitext",
+      "title_raw_file": "pages/body-titles-260911.wikitext",
+      "raw_sha256": "962ee8863f4b4376dc68b0a38c20b12cde53e8717ecd04e298289c12494735f5",
+      "api_response": "api/body-titles.json",
+      "fixed_api_response": "api/fixed.json",
+      "api_sha256": "420754e47957bd45b12d8cbb5ad9f3b9f84ac6a7f139003896dad8a517ca899f",
+      "fixed_api_sha256": "2f58c809e56cc8b92faf6a09cd26267bcddedd5bea4b198c0d14dc9bdcbf9bb9",
+      "double_fetch_content_equal": true,
+      "retrieved_at_utc": "2026-10-20T15:01:59.454763+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T15:02:55.751899+00:00",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8A%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%AD%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8B%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2358300%7C2358304%7C619906%7C631894%7C1536621%7C1536622%7C1536623%7C619896%7C619898%7C619900%7C631886%7C786937%7C631890",
+      "acquisition_mode": "parent-official-title-and-fixed-shared-batches",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&oldid=631890",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&action=history",
+      "author_attribution": "四库电子转录参考；未逐字核原刻影像",
+      "contributors_attribution": "李衛公問對 (四庫全書本)/卷下 — 中文维基文库贡献者，署名历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    }
+  ],
+  "retrieved_on": "2026-10-20",
+  "retrieved_date_timezone": "America/Chicago; actual UTC in page metadata and fetch_manifest",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "be858a6c90d69df4825e35774a7a09815fdb9fe1961626f53f52933ac16ea57f",
+  "extraction_sha256": "b13d0eb9bcf4c1fcf918269f70cf42b7424a46331c9749a9702f36e8d2676300",
+  "classification": "后世兵学扩展；3源卷不是3原始单篇，不证作者亲笔",
+  "scope": "完整卷上17组、卷中18组、卷下15组；共50源空行话题组，全部连续问答保留。卷中第17组连续包含唐俭用间及主客迟速两话题，遵源不拆。",
+  "edition_status": "中文维基文库无版名标点电子工作本；另存四库目录提要与三卷作有限定点电子对读，未作全本影印校勘。",
+  "authorship_status": "后世兵学扩展。旧题李靖，页面times唐仅旧题；唐太宗与李靖问答框架不证明逐字实录或李靖自著。四库提要所引阮逸、唐末宋初等说另层保存，非据以断定唯一作者或年代。",
+  "chapter_count": 3,
+  "chapter_unit": "源卷（上中下）",
+  "passage_count": 50,
+  "text_characters_including_punctuation": 13178,
+  "normalization": [
+    "三主卷API原字节和逐title/固定修订双取原貌分存，合并快照无插入字符。",
+    "onlyinclude容器内以空行自然话题组取完整连续切片，保留同组全部问答轮次。",
+    "行首冒号属于维基缩进格式由现有wiki-body-v1剥除，空白折叠；原字标点和疑字不改，原貌source_markup可核。",
+    "source_start/end为合并快照Python字符偏移[start,end)，source_line一基；另存页面局部坐标。",
+    "四库提要为后世书目层，不混作三卷正文；t2s只供独立简体检索。"
+  ],
+  "source_attribution": "古代作品旧题李靖；数字文本中文维基文库逐页贡献者（历史见页面记录）；导读思想卡问答与现代边界为AI整理。",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "站点数字整理CC BY-SA 4.0；古作公版与现代整理分层；保留贡献历史、许可和改动记录。",
+  "front_matter_file": "front_matter.json",
+  "source_risks_file": "source_risks.json",
+  "source_risks": [
+    {
+      "passage_id": "LWG-01-001",
+      "kind": "historical_claim",
+      "source_phrase": "臣請師三萬，擒之",
+      "description": "书内征高丽决策和兵数、胜果主张照存；未作为现代可执行军事规律或独立史实。",
+      "primary_coordinate": {
+        "combined_source_start": 100,
+        "combined_source_end": 108,
+        "page_source_start": 100,
+        "page_source_end": 108,
+        "page_source_line": 4,
+        "raw_file": "pages/fixed-56029.wikitext",
+        "revision": 1536621
+      }
+    },
+    {
+      "passage_id": "LWG-01-002",
+      "kind": "interpretive_boundary",
+      "source_phrase": "此真敗却也，非奇也",
+      "description": "同组后续明确限制退却为奇的条件，不能把失控败退事后包装为奇计。",
+      "primary_coordinate": {
+        "combined_source_start": 690,
+        "combined_source_end": 699,
+        "page_source_start": 690,
+        "page_source_end": 699,
+        "page_source_line": 19,
+        "raw_file": "pages/fixed-56029.wikitext",
+        "revision": 1536621
+      }
+    },
+    {
+      "passage_id": "LWG-01-003",
+      "kind": "coercive_command",
+      "source_phrase": "如驅羣羊",
+      "description": "高度服从与信息不对称的古军比喻，现代协作须保留自主、理解及纠错。",
+      "primary_coordinate": {
+        "combined_source_start": 1048,
+        "combined_source_end": 1052,
+        "page_source_start": 1048,
+        "page_source_end": 1052,
+        "page_source_line": 25,
+        "raw_file": "pages/fixed-56029.wikitext",
+        "revision": 1536621
+      }
+    },
+    {
+      "passage_id": "LWG-01-006",
+      "kind": "historical_inference",
+      "source_phrase": "蓋堅為垂所陷明矣",
+      "description": "这是从慕容垂独全推陷害的书内推断，不是史句已经证明的唯一淝水败因。",
+      "primary_coordinate": {
+        "combined_source_start": 1843,
+        "combined_source_end": 1851,
+        "page_source_start": 1843,
+        "page_source_end": 1851,
+        "page_source_line": 46,
+        "raw_file": "pages/fixed-56029.wikitext",
+        "revision": 1536621
+      }
+    },
+    {
+      "passage_id": "LWG-01-007",
+      "kind": "nested_citation",
+      "source_phrase": "君命有所不受",
+      "description": "问对内嵌引兵法，字面与今他书引用须回原书核验；临机权不等于无授权边界。",
+      "primary_coordinate": {
+        "combined_source_start": 2086,
+        "combined_source_end": 2092,
+        "page_source_start": 2086,
+        "page_source_end": 2092,
+        "page_source_line": 51,
+        "raw_file": "pages/fixed-56029.wikitext",
+        "revision": 1536621
+      }
+    },
+    {
+      "passage_id": "LWG-01-009",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "十軌無里",
+      "description": "主本无字照存；四库电子为字，本库不静默改。",
+      "primary_coordinate": {
+        "combined_source_start": 2932,
+        "combined_source_end": 2936,
+        "page_source_start": 2932,
+        "page_source_end": 2936,
+        "page_source_line": 65,
+        "raw_file": "pages/fixed-56029.wikitext",
+        "revision": 1536621
+      },
+      "comparison": {
+        "page_title": "李衛公問對 (四庫全書本)/卷上",
+        "revision": 631886,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=631886",
+        "raw_file": "pages/fixed-260909.wikitext",
+        "source_start": 2334,
+        "source_end": 2338,
+        "source_line": 15,
+        "source_markup": "十軌為里",
+        "collation_scope": "limited-pinned-electronic-passage-comparison; not full-book image collation"
+      }
+    },
+    {
+      "passage_id": "LWG-01-009",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "五鄉一帥",
+      "description": "主本一帅及其相应一帅五旅照存，四库电子此处五乡为师；编制层次不凭记忆统一。",
+      "primary_coordinate": {
+        "combined_source_start": 2969,
+        "combined_source_end": 2973,
+        "page_source_start": 2969,
+        "page_source_end": 2973,
+        "page_source_line": 65,
+        "raw_file": "pages/fixed-56029.wikitext",
+        "revision": 1536621
+      },
+      "comparison": {
+        "page_title": "李衛公問對 (四庫全書本)/卷上",
+        "revision": 631886,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=631886",
+        "raw_file": "pages/fixed-260909.wikitext",
+        "source_start": 2365,
+        "source_end": 2383,
+        "source_line": 15,
+        "source_markup": "五鄉為師故萬人為軍亦由司馬法一師五旅",
+        "collation_scope": "limited-pinned-electronic-passage-comparison; not full-book image collation"
+      }
+    },
+    {
+      "passage_id": "LWG-01-009",
+      "kind": "ancient_numerical_claim",
+      "source_phrase": "四萬五千人，勝紂七十萬眾",
+      "description": "牧野兵数与从黄帝太公管仲的传承谱系均是本书主张，未据以建立古史事实。",
+      "primary_coordinate": {
+        "combined_source_start": 2731,
+        "combined_source_end": 2743,
+        "page_source_start": 2731,
+        "page_source_end": 2743,
+        "page_source_line": 63,
+        "raw_file": "pages/fixed-56029.wikitext",
+        "revision": 1536621
+      }
+    },
+    {
+      "passage_id": "LWG-01-010",
+      "kind": "bibliographic_classification",
+      "source_phrase": "三門、四種",
+      "description": "本书转述太公与汉兵家分类，不能用来证明今六韬三略与汉著录逐字相同。",
+      "primary_coordinate": {
+        "combined_source_start": 3262,
+        "combined_source_end": 3267,
+        "page_source_start": 3262,
+        "page_source_end": 3267,
+        "page_source_line": 71,
+        "raw_file": "pages/fixed-56029.wikitext",
+        "revision": 1536621
+      }
+    },
+    {
+      "passage_id": "LWG-01-013",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "凡車千乘，將吏二人",
+      "description": "主本千乘照存，对读作十乘；不能把显著疑数当古代通用官兵比例。",
+      "primary_coordinate": {
+        "combined_source_start": 3993,
+        "combined_source_end": 4002,
+        "page_source_start": 3993,
+        "page_source_end": 4002,
+        "page_source_line": 87,
+        "raw_file": "pages/fixed-56029.wikitext",
+        "revision": 1536621
+      },
+      "comparison": {
+        "page_title": "李衛公問對 (四庫全書本)/卷上",
+        "revision": 631886,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A&oldid=631886",
+        "raw_file": "pages/fixed-260909.wikitext",
+        "source_start": 3127,
+        "source_end": 3135,
+        "source_line": 18,
+        "source_markup": "凡車十乘將吏二人",
+        "collation_scope": "limited-pinned-electronic-passage-comparison; not full-book image collation"
+      }
+    },
+    {
+      "passage_id": "LWG-01-014",
+      "kind": "deception_and_identity",
+      "source_phrase": "變號易服",
+      "description": "蕃汉分法与变身份标记为古代边地统治、欺敌语境，不移为现代族群管理或合作手段。",
+      "primary_coordinate": {
+        "combined_source_start": 4256,
+        "combined_source_end": 4260,
+        "page_source_start": 4256,
+        "page_source_end": 4260,
+        "page_source_line": 91,
+        "raw_file": "pages/fixed-56029.wikitext",
+        "revision": 1536621
+      }
+    },
+    {
+      "passage_id": "LWG-01-017",
+      "kind": "imperial_domination",
+      "source_phrase": "以蠻夷攻蠻夷",
+      "description": "源旧称和役使逻辑照存，不能洗成没有权力代价的多元合作，也不作为今日称谓。",
+      "primary_coordinate": {
+        "combined_source_start": 5179,
+        "combined_source_end": 5185,
+        "page_source_start": 5179,
+        "page_source_end": 5185,
+        "page_source_line": 115,
+        "raw_file": "pages/fixed-56029.wikitext",
+        "revision": 1536621
+      }
+    },
+    {
+      "passage_id": "LWG-02-002",
+      "kind": "assimilation_boundary",
+      "source_phrase": "則皆漢人矣",
+      "description": "与本无蕃汉之别同段的同化表述并存，不能直接等同现代多元平等。",
+      "primary_coordinate": {
+        "combined_source_start": 5775,
+        "combined_source_end": 5780,
+        "page_source_start": 531,
+        "page_source_end": 536,
+        "page_source_line": 12,
+        "raw_file": "pages/fixed-56030.wikitext",
+        "revision": 1536622
+      }
+    },
+    {
+      "passage_id": "LWG-02-002",
+      "kind": "electronic_witness_difference",
+      "source_phrase": "則虞卒出焉",
+      "description": "主本虞卒意义保留，四库电子作汉卒；正文不依对读改字。",
+      "primary_coordinate": {
+        "combined_source_start": 5843,
+        "combined_source_end": 5848,
+        "page_source_start": 599,
+        "page_source_end": 604,
+        "page_source_line": 12,
+        "raw_file": "pages/fixed-56030.wikitext",
+        "revision": 1536622
+      },
+      "comparison": {
+        "page_title": "李衛公問對 (四庫全書本)/卷中",
+        "revision": 786937,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD&oldid=786937",
+        "raw_file": "pages/fixed-260910.wikitext",
+        "source_start": 1491,
+        "source_end": 1496,
+        "source_line": 13,
+        "source_markup": "則漢卒出焉",
+        "collation_scope": "limited-pinned-electronic-passage-comparison; not full-book image collation"
+      }
+    },
+    {
+      "passage_id": "LWG-02-005",
+      "kind": "nested_title_difference",
+      "source_phrase": "束武令",
+      "description": "本书引尉缭子篇题作武，四库电子作伍；不反改本书原字，不把嵌引当尉缭子本字。",
+      "primary_coordinate": {
+        "combined_source_start": 6248,
+        "combined_source_end": 6251,
+        "page_source_start": 1004,
+        "page_source_end": 1007,
+        "page_source_line": 25,
+        "raw_file": "pages/fixed-56030.wikitext",
+        "revision": 1536622
+      },
+      "comparison": {
+        "page_title": "李衛公問對 (四庫全書本)/卷中",
+        "revision": 786937,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD&oldid=786937",
+        "raw_file": "pages/fixed-260910.wikitext",
+        "source_start": 1769,
+        "source_end": 1776,
+        "source_line": 14,
+        "source_markup": "尉繚子有束伍令",
+        "collation_scope": "limited-pinned-electronic-passage-comparison; not full-book image collation"
+      }
+    },
+    {
+      "passage_id": "LWG-02-005",
+      "kind": "numerical_remainder_preserved",
+      "source_phrase": "三百人為正，六十人為奇",
+      "description": "前列总数三百七十五与这里三百加六十未尽十五；四库电子亦存这些数，不擅补或猜改。",
+      "primary_coordinate": {
+        "combined_source_start": 6397,
+        "combined_source_end": 6408,
+        "page_source_start": 1153,
+        "page_source_end": 1164,
+        "page_source_line": 25,
+        "raw_file": "pages/fixed-56030.wikitext",
+        "revision": 1536622
+      },
+      "comparison": {
+        "page_title": "李衛公問對 (四庫全書本)/卷中",
+        "revision": 786937,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD&oldid=786937",
+        "raw_file": "pages/fixed-260910.wikitext",
+        "source_start": 1895,
+        "source_end": 1911,
+        "source_line": 14,
+        "source_markup": "三百七十五人三百人為正六十人為竒",
+        "collation_scope": "limited-pinned-electronic-passage-comparison; not full-book image collation"
+      }
+    },
+    {
+      "passage_id": "LWG-02-006",
+      "kind": "formation_measurements",
+      "source_phrase": "相去各十步",
+      "description": "队距、节步、角鼓与六花形状是古文本制度，无阵图与现代演训验证，不能声明可唯一复原或万能应用。",
+      "primary_coordinate": {
+        "combined_source_start": 6895,
+        "combined_source_end": 6900,
+        "page_source_start": 1651,
+        "page_source_end": 1656,
+        "page_source_line": 35,
+        "raw_file": "pages/fixed-56030.wikitext",
+        "revision": 1536622
+      }
+    },
+    {
+      "passage_id": "LWG-02-007",
+      "kind": "lethal_discipline",
+      "source_phrase": "餘部不進救者，斬",
+      "description": "源引军法有斩杀，照存暴力边界；靖辨临敌立表与教战不等于明确否定此刑。",
+      "primary_coordinate": {
+        "combined_source_start": 7078,
+        "combined_source_end": 7086,
+        "page_source_start": 1834,
+        "page_source_end": 1842,
+        "page_source_line": 38,
+        "raw_file": "pages/fixed-56030.wikitext",
+        "revision": 1536622
+      }
+    },
+    {
+      "passage_id": "LWG-02-012",
+      "kind": "cosmology_boundary",
+      "source_phrase": "兵形象水，因地制流",
+      "description": "因地制形而不拘物象，不等于已建立现代科学，也不消除同书利用术数操众。",
+      "primary_coordinate": {
+        "combined_source_start": 8286,
+        "combined_source_end": 8295,
+        "page_source_start": 3042,
+        "page_source_end": 3051,
+        "page_source_line": 63,
+        "raw_file": "pages/fixed-56030.wikitext",
+        "revision": 1536622
+      }
+    },
+    {
+      "passage_id": "LWG-02-014",
+      "kind": "manipulation",
+      "source_phrase": "使貪使愚之術",
+      "description": "保存术数被解释为驱使贪愚且要求保密，非平等知情教育；不能作欺骗团队的管理技巧。",
+      "primary_coordinate": {
+        "combined_source_start": 8751,
+        "combined_source_end": 8757,
+        "page_source_start": 3507,
+        "page_source_end": 3513,
+        "page_source_line": 75,
+        "raw_file": "pages/fixed-56030.wikitext",
+        "revision": 1536622
+      }
+    },
+    {
+      "passage_id": "LWG-02-015",
+      "kind": "punitive_boundary",
+      "source_phrase": "然後可以嚴刑也",
+      "description": "先爱后威仍认可严刑，不美化为纯温情；现代处罚须另有事实、比例、程序与申诉。",
+      "primary_coordinate": {
+        "combined_source_start": 8972,
+        "combined_source_end": 8979,
+        "page_source_start": 3728,
+        "page_source_end": 3735,
+        "page_source_line": 80,
+        "raw_file": "pages/fixed-56030.wikitext",
+        "revision": 1536622
+      }
+    },
+    {
+      "passage_id": "LWG-02-016",
+      "kind": "historical_self_claim",
+      "source_phrase": "未嘗戮一揚干，斬一莊賈",
+      "description": "书内以古军法故事作自比，不能译成全役零死亡或现代权利保护实证。",
+      "primary_coordinate": {
+        "combined_source_start": 9260,
+        "combined_source_end": 9271,
+        "page_source_start": 4016,
+        "page_source_end": 4027,
+        "page_source_line": 86,
+        "raw_file": "pages/fixed-56030.wikitext",
+        "revision": 1536622
+      }
+    },
+    {
+      "passage_id": "LWG-02-017",
+      "kind": "sacrifice_and_witness_difference",
+      "source_phrase": "所以去大惡，不顧小義也",
+      "description": "否认死间意图仍把使者安全称小义；四库电子去大患，不静改。",
+      "primary_coordinate": {
+        "combined_source_start": 9385,
+        "combined_source_end": 9396,
+        "page_source_start": 4141,
+        "page_source_end": 4152,
+        "page_source_line": 90,
+        "raw_file": "pages/fixed-56030.wikitext",
+        "revision": 1536622
+      },
+      "comparison": {
+        "page_title": "李衛公問對 (四庫全書本)/卷下",
+        "revision": 631890,
+        "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&oldid=631890",
+        "raw_file": "pages/fixed-260911.wikitext",
+        "source_start": 667,
+        "source_end": 677,
+        "source_line": 10,
+        "source_markup": "所以去大患不顧小義也",
+        "collation_scope": "limited-pinned-electronic-passage-comparison; not full-book image collation"
+      }
+    },
+    {
+      "passage_id": "LWG-02-017",
+      "kind": "war_cost",
+      "source_phrase": "因糧於敵",
+      "description": "主客转换含取粮于敌和使敌饥劳，不能转成没有受害方的企业资源技巧；源同组两话题不拆。",
+      "primary_coordinate": {
+        "combined_source_start": 9691,
+        "combined_source_end": 9695,
+        "page_source_start": 4447,
+        "page_source_end": 4451,
+        "page_source_line": 95,
+        "raw_file": "pages/fixed-56030.wikitext",
+        "revision": 1536622
+      }
+    },
+    {
+      "passage_id": "LWG-03-001",
+      "kind": "anti_taboo_boundary",
+      "source_phrase": "便乎人事而已",
+      "description": "人事便利与真实险地判断并重，反拘忌不是无视风险或现代科学实证。",
+      "primary_coordinate": {
+        "combined_source_start": 10172,
+        "combined_source_end": 10178,
+        "page_source_start": 157,
+        "page_source_end": 163,
+        "page_source_line": 4,
+        "raw_file": "pages/fixed-56031.wikitext",
+        "revision": 1536623
+      }
+    },
+    {
+      "passage_id": "LWG-03-003",
+      "kind": "causal_overstatement",
+      "source_phrase": "古今勝敗，率由一誤而已",
+      "description": "棋局比喻强调失误，不能当战争和一般组织结果的完整单因解释。",
+      "primary_coordinate": {
+        "combined_source_start": 10713,
+        "combined_source_end": 10724,
+        "page_source_start": 698,
+        "page_source_end": 709,
+        "page_source_line": 15,
+        "raw_file": "pages/fixed-56031.wikitext",
+        "revision": 1536623
+      }
+    },
+    {
+      "passage_id": "LWG-03-004",
+      "kind": "absolute_success_claim",
+      "source_phrase": "百戰百勝",
+      "description": "攻守论中的强断保留为文本主张，不转换为现代成功保证。",
+      "primary_coordinate": {
+        "combined_source_start": 11115,
+        "combined_source_end": 11119,
+        "page_source_start": 1100,
+        "page_source_end": 1104,
+        "page_source_line": 20,
+        "raw_file": "pages/fixed-56031.wikitext",
+        "revision": 1536623
+      }
+    },
+    {
+      "passage_id": "LWG-03-006",
+      "kind": "metaphor_boundary",
+      "source_phrase": "非限時刻而言也",
+      "description": "朝昼暮由本书明确解释为譬喻，不作固定时刻士气或工作效率规律。",
+      "primary_coordinate": {
+        "combined_source_start": 11709,
+        "combined_source_end": 11716,
+        "page_source_start": 1694,
+        "page_source_end": 1701,
+        "page_source_line": 31,
+        "raw_file": "pages/fixed-56031.wikitext",
+        "revision": 1536623
+      }
+    },
+    {
+      "passage_id": "LWG-03-007",
+      "kind": "manufactured_dependency",
+      "source_phrase": "莫若黜勣",
+      "description": "先贬后用制造感恩的君权权术，不能洗成公平任免或人才培养。",
+      "primary_coordinate": {
+        "combined_source_start": 11835,
+        "combined_source_end": 11839,
+        "page_source_start": 1820,
+        "page_source_end": 1824,
+        "page_source_line": 35,
+        "raw_file": "pages/fixed-56031.wikitext",
+        "revision": 1536623
+      }
+    },
+    {
+      "passage_id": "LWG-03-008",
+      "kind": "unverified_personal_allegation",
+      "source_phrase": "內實嫉賢",
+      "description": "本书密议对长孙无忌的人格指控及侯君集犯逆归因未独立史证，不作已证人物定论。",
+      "primary_coordinate": {
+        "combined_source_start": 11949,
+        "combined_source_end": 11953,
+        "page_source_start": 1934,
+        "page_source_end": 1938,
+        "page_source_line": 40,
+        "raw_file": "pages/fixed-56031.wikitext",
+        "revision": 1536623
+      }
+    },
+    {
+      "passage_id": "LWG-03-010",
+      "kind": "delegation_boundary",
+      "source_phrase": "便宜從事",
+      "description": "命将重委权实质；不能把古军授斧钺推毂与君命停效原样移为现代无限授权。",
+      "primary_coordinate": {
+        "combined_source_start": 12535,
+        "combined_source_end": 12539,
+        "page_source_start": 2520,
+        "page_source_end": 2524,
+        "page_source_line": 51,
+        "raw_file": "pages/fixed-56031.wikitext",
+        "revision": 1536623
+      }
+    },
+    {
+      "passage_id": "LWG-03-011",
+      "kind": "anti_taboo_and_control",
+      "source_phrase": "及其成功，在人事而已矣",
+      "description": "同组还主张使贪使愚和利用神怪，不能只摘此句称科学启蒙；胜果是文本叙事。",
+      "primary_coordinate": {
+        "combined_source_start": 13022,
+        "combined_source_end": 13033,
+        "page_source_start": 3007,
+        "page_source_end": 3018,
+        "page_source_line": 60,
+        "raw_file": "pages/fixed-56031.wikitext",
+        "revision": 1536623
+      }
+    },
+    {
+      "passage_id": "LWG-03-013",
+      "kind": "opponent_agency",
+      "source_phrase": "敵有人焉",
+      "description": "必来战等强称受敌是否有能人限制，不能假定对方总按己方诱导行动。",
+      "primary_coordinate": {
+        "combined_source_start": 13430,
+        "combined_source_end": 13434,
+        "page_source_start": 3415,
+        "page_source_end": 3419,
+        "page_source_line": 70,
+        "raw_file": "pages/fixed-56031.wikitext",
+        "revision": 1536623
+      }
+    },
+    {
+      "passage_id": "LWG-03-015",
+      "kind": "attribution_frame",
+      "source_phrase": "盡傳其書與李勣",
+      "description": "问答与传书结尾构成兵学叙事框架，不证明李靖亲著、现场逐字记载或各段成于唐。",
+      "primary_coordinate": {
+        "combined_source_start": 14109,
+        "combined_source_end": 14116,
+        "page_source_start": 4094,
+        "page_source_end": 4101,
+        "page_source_line": 81,
+        "raw_file": "pages/fixed-56031.wikitext",
+        "revision": 1536623
+      }
+    }
+  ],
+  "bibliography_evidence_file": "bibliography_evidence.json"
+}

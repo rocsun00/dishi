@@ -1,0 +1,38 @@
+{{Lua|Module:Year Link|Module:Year Link/data}}
+{{high-risk|110,000+}}
+此模板可將紀年轉換為所對應的公元，在鼠標移動到紀年時顯示公元，並加上公元的分類。
+
+不過需要注意的是：年初和年末並非一一對應，且[[:Category:需要指定公元的紀年|年號有重複的情況]]。此時，需指定本模板的第二個參數。如：
+
+<nowiki>{{YL|天復元年|901年}}</nowiki>
+
+<nowiki>{{YL|康熙壬寅|1662年}}</nowiki>
+
+可參考：
+* [[w:|維基百科]]
+* [http://sinocal.sinica.edu.tw/ 中央研究院兩千年中西曆轉換]
+
+欲修订年号转换错误或新增年号转换，参见[[Module:Year Link/data|Year Link/data]]
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "年號",
+			"required": true,
+			"example": "天復元年",
+			"type": "string"
+		},
+		"2": {
+			"label": "公元年份",
+			"example": "901年",
+			"type": "string"
+		}
+	},
+	"description": "將年號鏈接至公元紀年分類",
+	"format": "inline"
+}
+</templatedata>
+
+=== 測試 ===
+
+對本模版進行修改后，請注意檢視[[Template:Year_Link/測試樣例]]並保證各行輸出符合預期。

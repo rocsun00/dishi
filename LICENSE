@@ -1,0 +1,41 @@
+Dishi — content licensing notice
+
+Except for the exclusions below, the project's new content, selection and
+arrangement, explanations, documentation, and bilingual examples are licensed
+under the Creative Commons Attribution-ShareAlike 4.0 International License
+(CC BY-SA 4.0), to the extent the contributors hold copyright or similar rights.
+
+Attribution: Dishi contributors. Retain the project title, this notice, the
+license link, the upstream attribution notices, and an indication of changes.
+
+License: https://creativecommons.org/licenses/by-sa/4.0/
+Legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
+
+Exclusions and scope
+
+1. Original Python source code written for this project is under the MIT
+   License in LICENSE-CODE. This does not cover upstream code or templates
+   retained in source evidence, or quoted text embedded in code.
+2. Ancient works that are in the public domain remain in the public domain.
+   This notice creates no new exclusive rights in those works or in facts.
+3. Upstream digital transcriptions, punctuation, editorial notes, templates,
+   modules, and other third-party contributions retain their applicable terms.
+   Preserve the notices, fixed source links, contributor-history links, and
+   processing records listed in THIRD_PARTY_NOTICES.md and each work's source
+   metadata. This project does not relicense them under MIT.
+4. Bibliographic references, quotations, trademarks, and other third-party
+   material are not licensed by this notice merely because they are included
+   or mentioned here. Known evidence limits are recorded in the notices.
+
+No warranties are given; the content is provided as-is and as-available under
+the applicable license terms. The licenses do not imply endorsement by the
+upstream contributors or resolve all other rights that may apply to a use.
+
+中文说明
+
+本项目新增内容、编选与编排、解读、文档及双语示例，在贡献者有权许可的
+范围内采用CC BY-SA 4.0。项目署名为Dishi contributors；保留项目名称、许可
+链接、来源署名与改动说明。改编分发须遵守该许可的相同方式共享等条件。
+原创Python代码适用LICENSE-CODE中的MIT许可。古代公版原作的法定地位不变；
+第三方数字整理、古今注记、模板及引用按原有适用条款保留，不统一改成MIT。
+逐书署名与已知证据边界见THIRD_PARTY_NOTICES.md和docs/source-attribution.json。

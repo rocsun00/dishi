@@ -1,0 +1,236 @@
+{
+  "id": "mengzi",
+  "work_id": "mengzi",
+  "title": "孟子（七篇十四卷电子工作本）",
+  "prefix": "MJ",
+  "source_title": "孟子/梁惠王上",
+  "revision": "multiple-pinned-pages",
+  "source_url": "https://zh.wikisource.org/w/index.php?title=孟子/梁惠王上&oldid=2642991",
+  "source_pages": [
+    {
+      "title": "孟子/梁惠王上",
+      "revision": 2642991,
+      "timestamp": "2026-01-19T14:38:17Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/梁惠王上&oldid=2642991",
+      "raw_sha256": "b1111818f30a90f244fc010588fad44c635a74b85031498d86f7bfd583619dff",
+      "start": 27,
+      "end": 3673,
+      "raw_file": "pages/01.wikitext"
+    },
+    {
+      "title": "孟子/梁惠王下",
+      "revision": 2636980,
+      "timestamp": "2025-12-28T05:14:05Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/梁惠王下&oldid=2636980",
+      "raw_sha256": "7b44ac8a57dea6016e5f8ab5a70f927c217d96aafd4294148d4daed8235b2be6",
+      "start": 3700,
+      "end": 8284,
+      "raw_file": "pages/02.wikitext"
+    },
+    {
+      "title": "孟子/公孫丑上",
+      "revision": 2636981,
+      "timestamp": "2025-12-28T05:20:18Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/公孫丑上&oldid=2636981",
+      "raw_sha256": "d1c1459d77972dc3f413f73a9a56302322e67b944df0d1748b4332e6e06cb501",
+      "start": 8311,
+      "end": 12185,
+      "raw_file": "pages/03.wikitext"
+    },
+    {
+      "title": "孟子/公孫丑下",
+      "revision": 8750853,
+      "timestamp": "2026-09-03T02:52:11Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/公孫丑下&oldid=8750853",
+      "raw_sha256": "40ba7a47eee6ac8edc3da97c1bfe289594b2af160a7bb3687f9057948dd74684",
+      "start": 12212,
+      "end": 15908,
+      "raw_file": "pages/04.wikitext"
+    },
+    {
+      "title": "孟子/滕文公上",
+      "revision": 2636984,
+      "timestamp": "2025-12-28T05:34:06Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/滕文公上&oldid=2636984",
+      "raw_sha256": "2932b357917d33a3013eea37b33489465bbecbcc274ccbe60d7b4e3cc35c747d",
+      "start": 15935,
+      "end": 19502,
+      "raw_file": "pages/05.wikitext"
+    },
+    {
+      "title": "孟子/滕文公下",
+      "revision": 2636985,
+      "timestamp": "2025-12-28T05:39:10Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/滕文公下&oldid=2636985",
+      "raw_sha256": "7561804eea26bd31aa8ff94055fdcffa5245249862a8337071e691aad8ef818f",
+      "start": 19529,
+      "end": 23610,
+      "raw_file": "pages/06.wikitext"
+    },
+    {
+      "title": "孟子/離婁上",
+      "revision": 2636988,
+      "timestamp": "2025-12-28T05:44:32Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/離婁上&oldid=2636988",
+      "raw_sha256": "be6b0b6afbe53901fd173aec8d35e0adfd4af47e5074092162c5955a5d62d0d2",
+      "start": 23636,
+      "end": 27569,
+      "raw_file": "pages/07.wikitext"
+    },
+    {
+      "title": "孟子/離婁下",
+      "revision": 2636994,
+      "timestamp": "2025-12-28T05:49:35Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/離婁下&oldid=2636994",
+      "raw_sha256": "1ee6ff13f1326be574d7af1e2187aec1d1e6aebf6e73befa9d961c9b0b82f0cf",
+      "start": 27595,
+      "end": 31228,
+      "raw_file": "pages/08.wikitext"
+    },
+    {
+      "title": "孟子/萬章上",
+      "revision": 2636998,
+      "timestamp": "2025-12-28T05:53:24Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/萬章上&oldid=2636998",
+      "raw_sha256": "1303cdf6569f7622dfc2081de4727f050096670b7a9a11e07544f47c31d8d531",
+      "start": 31254,
+      "end": 35055,
+      "raw_file": "pages/09.wikitext"
+    },
+    {
+      "title": "孟子/萬章下",
+      "revision": 7912092,
+      "timestamp": "2026-08-04T05:16:56Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/萬章下&oldid=7912092",
+      "raw_sha256": "8749a337f795cb67341cc57116e9f1f94d7084f236e23beb006007f413dcc2dc",
+      "start": 35081,
+      "end": 38679,
+      "raw_file": "pages/10.wikitext"
+    },
+    {
+      "title": "孟子/告子上",
+      "revision": 2637004,
+      "timestamp": "2025-12-28T06:01:59Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/告子上&oldid=2637004",
+      "raw_sha256": "f7acc38fe8501c8ef7c43bc11e8bd482a7fdc9e186f7e96f105f504b5b6f59d7",
+      "start": 38705,
+      "end": 42651,
+      "raw_file": "pages/11.wikitext"
+    },
+    {
+      "title": "孟子/告子下",
+      "revision": 2637005,
+      "timestamp": "2025-12-28T06:06:30Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/告子下&oldid=2637005",
+      "raw_sha256": "f6124218fe137d20e5283ce9fff4a48d78e58c8d3284e9b204f8292c10b8dc8a",
+      "start": 42677,
+      "end": 46552,
+      "raw_file": "pages/12.wikitext"
+    },
+    {
+      "title": "孟子/盡心上",
+      "revision": 2637007,
+      "timestamp": "2025-12-28T06:12:52Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/盡心上&oldid=2637007",
+      "raw_sha256": "8e1e6f2bbb7bb40877900bfbc70fcff0d7c66975067d1597c53829f6e38196dc",
+      "start": 46578,
+      "end": 50465,
+      "raw_file": "pages/13.wikitext"
+    },
+    {
+      "title": "孟子/盡心下",
+      "revision": 2637012,
+      "timestamp": "2025-12-28T06:51:29Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=孟子/盡心下&oldid=2637012",
+      "raw_sha256": "090b80cdc19781b308c025432e65fff048d4cf85730c0676ab4eedc414151a7d",
+      "start": 50491,
+      "end": 54139,
+      "raw_file": "pages/14.wikitext"
+    }
+  ],
+  "retrieved_on": "2026-10-19",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "3edc5a2ab7fd53093075fea913666ae59fc6f4307b25b732ab3fab79d15a5474",
+  "extraction_sha256": "9f9d69cdaf74eac01b2b1c0a7c739e4e135f3efc6a7541df577353c706400a4f",
+  "scope": "传世七篇，各分上、下，共十四卷；按所选固定电子页章句号分260个完整问答/语录定位单元，保留七篇组及上下卷信息，不逐个“曰”拆段。",
+  "edition_status": "中文维基文库逐篇固定电子工作本；未逐字对照统一纸本或影印古本。源字、标点、已选择的异文保持原貌，解释与现代转用另列。",
+  "chapter_count": 14,
+  "passage_count": 260,
+  "text_characters_including_punctuation": 44972,
+  "normalization": [
+    "保存逐页原始wikitext、修订号、时间和SHA256；每段通过提取区间追溯原页",
+    "孟子严格取唯一onlyinclude区间，以源章句号切分260个正文单元；卷内问答保持完整；章句标题不混正文",
+    "所选孟子正文不含古注星号模板或ref注；3处另模板源异文以首项为正文，异文另存editorial_notes，不混作正文",
+    "保留源字及源标点；链接取显示文字；另/另2首项作正文并记录异文；去除普通简繁保护符及折行空白",
+    "OpenCC t2s简体仅另存检索层，显示与引句仍取原文"
+  ],
+  "source_attribution": "中文维基文库相应原典页面及其贡献者；使用时保留固定修订号、来源和加工说明",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "保留站点所列适用许可及归属；古代原文与站点数字整理内容分别理解",
+  "source_index": {
+    "title": "孟子",
+    "revision": 2636962,
+    "timestamp": "2025-12-28T04:43:05Z",
+    "url": "https://zh.wikisource.org/w/index.php?title=孟子&oldid=2636962",
+    "raw_file": "index.wikitext",
+    "raw_sha256": "e746800c86f6158b5846cd90b4115a10747db76107d08c6bf1830b52208fca72"
+  },
+  "chapter_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "original_structure": {
+    "parts": 7,
+    "upper_lower_volumes": 14,
+    "source_section_counts": [
+      7,
+      16,
+      9,
+      14,
+      5,
+      10,
+      28,
+      33,
+      9,
+      9,
+      20,
+      16,
+      46,
+      38
+    ],
+    "section_count": 260
+  },
+  "chapter_unit": "卷",
+  "commentary_references": [
+    {
+      "title": "四書疑節 (四庫全書本)/卷11",
+      "revision": 523094,
+      "timestamp": "2016-10-03T05:13:11Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E6%9B%B8%E7%96%91%E7%AF%80%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B711&oldid=523094",
+      "raw_file": "commentary-sishu-yijie-volume11.wikitext",
+      "raw_sha256": "542081448aa11d487355f24a67b1c5d4579169357e123e639aaf30263e1c0723",
+      "scope": "仅为MJ-12-012亮/信的后出解释与评价之辅助参考，未纳入孟子正文或正式释义以外的古注检索"
+    },
+    {
+      "title": "孟子解 (四庫全書本)",
+      "revision": 524360,
+      "timestamp": "2016-10-03T05:34:51Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%AD%9F%E5%AD%90%E8%A7%A3%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=524360",
+      "raw_file": "commentary-mengzi-jie.wikitext",
+      "raw_sha256": "85f0c040ba63c945c50f041e36b41ab933a5d1d15e39e73196c418865e94ba60",
+      "scope": "仅为MJ-12-012亮/信的后出解释与评价之辅助参考，未纳入孟子正文或正式释义以外的古注检索"
+    }
+  ]
+}

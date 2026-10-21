@@ -1,0 +1,38 @@
+{
+  "id": "daxue",
+  "work_id": "daxue",
+  "title": "大学（礼记篇本）",
+  "prefix": "DX",
+  "source_title": "禮記/大學",
+  "revision": 11117454,
+  "source_url": "https://zh.wikisource.org/w/index.php?title=禮記/大學&oldid=11117454",
+  "source_pages": [
+    {
+      "title": "禮記/大學",
+      "revision": 11117454,
+      "timestamp": "2026-10-02T15:08:45Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=禮記/大學&oldid=11117454",
+      "raw_sha256": "ba4b8fa66779d64bb39cbc60570b6ff97dc7c5debdfb928fffaeeeef609f04c7",
+      "start": 0,
+      "end": 2500,
+      "raw_file": "pages/1.wikitext"
+    }
+  ],
+  "retrieved_on": "2026-10-19",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "ba4b8fa66779d64bb39cbc60570b6ff97dc7c5debdfb928fffaeeeef609f04c7",
+  "extraction_sha256": "3e26e9ebec8df84053a3dd2feaec3373522fe03db421747ac964364aec43ed95",
+  "scope": "《礼记·大学》篇本全文；按论述转折分为16段，段落编号为项目所加，不采用朱熹重排及补传。",
+  "edition_status": "固定电子《礼记》篇本，与朱熹《大学章句》的次序和解释须区分；格物、亲民等词有解释争议，不以此库定于一说。",
+  "chapter_count": 1,
+  "passage_count": 16,
+  "text_characters_including_punctuation": 2169,
+  "normalization": [
+    "移除古注星号模板，古注原文保存在快照及editorial_notes，不作为本库原典释义",
+    "保留原字与源标点，移除折行空白和注释行的冒号",
+    "维基链接取显示文字；另模板正文保留首项并记录异文；移除简繁转换保护符"
+  ],
+  "source_attribution": "中文维基文库相应原典页面及其贡献者；使用时保留固定修订号、来源和加工说明",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "保留站点所列适用许可及归属；古代原文与站点数字整理内容分别理解"
+}

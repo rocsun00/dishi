@@ -1,0 +1,25 @@
+{
+  "author_check": true,
+  "not_independent_review": true,
+  "kb_command": [
+    "python3",
+    "dishi/knowledge/kb.py",
+    "build",
+    "--book",
+    "liutao"
+  ],
+  "returncode": 0,
+  "validation": {
+    "id": "liutao",
+    "title": "六韬（六韬六十篇电子工作本）",
+    "valid": true,
+    "chapters": 60,
+    "passages": 60,
+    "readings": 60,
+    "concepts": 67,
+    "examples": 60,
+    "verified_quotes": 158,
+    "errors": []
+  },
+  "record_stage": "作者合并定版的结构与来源自检；独立验收另记"
+}

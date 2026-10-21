@@ -1,0 +1,15 @@
+{
+  "reused_from": "../liutao/source/api/site-rights.json",
+  "original_record": {
+    "file": "api/site-rights.json",
+    "sha256": "e113e25ced1ad609affcd45e846e0fe125dc28f2c5c5592d54b9bfb5a1e97ca0",
+    "acquisition_mode": "shared-prior-capture-byte-copy",
+    "original_manifest": "api/shared-wuzi-fetch_manifest.json",
+    "provenance": "Original request URLs/UTC retained in copied original manifest, not a new request.",
+    "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo&origin=%2A",
+    "retrieved_at_utc": "2026-10-20T02:03:10.423425+00:00",
+    "shared_original": "../simafa/source/api/site-rights.json",
+    "retrieval_time_basis": "original shared simafa capture; UTC preserved from original manifest"
+  },
+  "note": "No new rights request. Original capture URL/time copied from existing liutao manifest, which identifies simafa capture."
+}

@@ -1,0 +1,28 @@
+{
+  "basis": "所选固定来源目录明确所标亡/篇亡及正文缺篇；不补造佚文。",
+  "source_index": {
+    "title": "商君書",
+    "revision": 2593685,
+    "timestamp": "2025-08-25T06:51:12Z",
+    "url": "https://zh.wikisource.org/w/index.php?title=商君書&oldid=2593685",
+    "raw_sha256": "5477704c7dd67e878fef4b28bc84e39201561ba83c3be8470d13631a60a19249",
+    "raw_file": "index.wikitext"
+  },
+  "chapters": [
+    {
+      "chapter": 16,
+      "title": "刑約",
+      "source_volume": 4,
+      "status": "篇亡",
+      "evidence": "固定目录卷四标“刑約第十六{{*|篇亡}}”；卷四正文无第十六篇题及正文。"
+    },
+    {
+      "chapter": 21,
+      "title": "御盜",
+      "source_volume": 5,
+      "status": "篇亡",
+      "source_body_heading": "御盗第二十一",
+      "evidence": "固定目录卷五标“御盜第二十一{{*|篇亡}}”；卷五该篇仅有“[內容及篇目俱亡]”来源说明，不当作正文。"
+    }
+  ]
+}

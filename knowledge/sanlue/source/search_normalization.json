@@ -1,0 +1,9 @@
+{
+  "tool": "OpenCC Python reimplementation",
+  "version": "0.1.7",
+  "configuration": "t2s",
+  "purpose": "仅简体检索；显示引句维持固定主本原字，疑字不由检索层倒改",
+  "paragraph_count": 65,
+  "sha256": "135f68f60416983dd3b9b32213f97b8576973d1768a0a4333094650bfb1aff1a",
+  "generated_on": "2026-10-20"
+}

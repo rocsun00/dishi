@@ -1,0 +1,13 @@
+{{header
+| title    = 傳習錄
+| section  = 
+| author   = 王守仁
+| previous =
+| next     = 
+| times = 明
+| notes    = 
+}}
+
+:*[[/卷上|卷上]]
+:*[[/卷中|卷中]]
+:*[[/卷下|卷下]]

@@ -1,0 +1,2 @@
+{{四部叢刊頁眉|title=太平御覽|section=卷之四百五十九|prev=卷之四百五十八|next=卷之四百六十|type=子|notes=宋 李昉 等奉勅撰 中華學藝社借照日本帝室圖書寮京都東福寺東京靜嘉堂文庫藏宋刊本}}
+<pages from="34" to="49" index="Sibu Congkan Sanbian303-李昉-太平御覽-136-070.djvu" />

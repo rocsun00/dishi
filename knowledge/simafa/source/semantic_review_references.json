@@ -1,0 +1,31 @@
+{
+  "layer": "modern_semantic_review_reference_not_primary_or_ancient_note",
+  "verified_utc": "2026-10-20T02:15:07.741260+00:00",
+  "method": "root independently opened both public pages with web tool; full remote page not archived; paraphrases and bibliographic locator only",
+  "references": [
+    {
+      "author": "鄔可晶",
+      "title": "《司馬法》校注商兌",
+      "publisher": "复旦大学出土文献与古文字研究中心",
+      "published": "2008-10-18",
+      "url": "https://www.fdgwz.org.cn/Web/Show/527",
+      "locators": [
+        "讨论右兵段",
+        "讨论凡人之形、名行、人生段",
+        "讨论日成行微及军无小听段"
+      ],
+      "use": "支持词义辨析与保留训释分歧，不把该学者主张当成唯一确译，不改主本字句"
+    },
+    {
+      "author": "明·刘寅",
+      "title": "司馬法直解（武經七書直解）",
+      "publisher": "识典古籍数字整理页",
+      "url": "https://www.shidianguji.com/zh/book/NGJ89241199902242975490/chapter/1lozjzyo3d5ic",
+      "locators": [
+        "天子之义力同/方同相关段",
+        "定爵右兵相关段"
+      ],
+      "use": "古注解释参考，只保存书目信息与释义概述，不归入主本古注层"
+    }
+  ]
+}

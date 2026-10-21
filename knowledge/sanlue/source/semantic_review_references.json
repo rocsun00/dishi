@@ -1,0 +1,26 @@
+{
+  "checked_utc": "2026-10-20T15:23:50.280315+00:00",
+  "scope": "Auxiliary historical lexical opinions for SL-03-017; not primary source text, not original notes, not a unique interpretation or dating proof.",
+  "references": [
+    {
+      "title": "[清]黄生《义府》卷上：疑",
+      "url": "https://www.shidianguji.com/zh/book/CZH019/chapter/1kxs8id6zy6g5",
+      "obtained": "Reviewer and root both web-opened text; returned lines176–178. No fixed-revision or raw-HTTP archive claimed.",
+      "observed_short_quotes": [
+        "疑當讀爲儗",
+        "大都疑國，大臣疑主"
+      ],
+      "paraphrase": "黄生提出儗、比拟之读，并援国语、韩非等句。此为清代训诂意见，用以保留解释空间。"
+    },
+    {
+      "title": "刘寅《三略直解》卷下",
+      "url": "https://www.wenlinshe.com/tw/chapter/skqs_zibu/san-lve-zhi-jie/juan-xia.html",
+      "obtained": "Reviewer web search excerpts only; direct open/find cache miss. Root read the reviewer-recorded excerpts, did not acquire complete page.",
+      "observed_short_quotes": [
+        "大臣有疑主之心",
+        "下侵上權"
+      ],
+      "limits": "不据疑主之心四字强定刘寅必取现代怀疑义；不当作全文对勘或今本年代证据。"
+    }
+  ]
+}

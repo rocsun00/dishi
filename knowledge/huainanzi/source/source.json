@@ -1,0 +1,421 @@
+{
+  "id": "huainanzi",
+  "work_id": "huainanzi",
+  "title": "淮南子（传世二十一篇电子工作本）",
+  "prefix": "HNZ",
+  "source_title": "淮南子/原道訓",
+  "revision": "multiple-pinned-pages",
+  "source_url": "https://zh.wikisource.org/w/index.php?title=淮南子/原道訓&oldid=2630005",
+  "source_pages": [
+    {
+      "title": "淮南子/原道訓",
+      "revision": 2630005,
+      "timestamp": "2025-12-10T07:45:43Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/原道訓&oldid=2630005",
+      "raw_sha256": "a85f4b95df0e289037fdad793a9e332f76ac1cbfb1cbabcad4d885a9e84494cd",
+      "start": 27,
+      "end": 7276,
+      "raw_file": "pages/01.wikitext"
+    },
+    {
+      "title": "淮南子/俶真訓",
+      "revision": 7909094,
+      "timestamp": "2026-07-20T14:35:19Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/俶真訓&oldid=7909094",
+      "raw_sha256": "44e58620b55537e0a76314a9f091d9d524689108531bc93aa37b69f4019ac426",
+      "start": 7303,
+      "end": 13592,
+      "raw_file": "pages/02.wikitext"
+    },
+    {
+      "title": "淮南子/天文訓",
+      "revision": 7909148,
+      "timestamp": "2026-07-21T03:24:52Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/天文訓&oldid=7909148",
+      "raw_sha256": "8b100de02eb7f44c330aca55bc9b9b705fca732e0ca3187f633bc2036026a50c",
+      "start": 13619,
+      "end": 22816,
+      "raw_file": "pages/03.wikitext"
+    },
+    {
+      "title": "淮南子/墜形訓",
+      "revision": 7908921,
+      "timestamp": "2026-07-19T14:46:40Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/墜形訓&oldid=7908921",
+      "raw_sha256": "b468197f819f65859ba79ea30a5d9c2913dab750953b663dfb08acfcf5b7b1c5",
+      "start": 22843,
+      "end": 27530,
+      "raw_file": "pages/04.wikitext"
+    },
+    {
+      "title": "淮南子/時則訓",
+      "revision": 7909283,
+      "timestamp": "2026-07-22T02:21:31Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/時則訓&oldid=7909283",
+      "raw_sha256": "f0a5d82346a15a77f7e4806dde3c8d652ae71739a4d4b3e1dbc3a4756afd7e0c",
+      "start": 27557,
+      "end": 34504,
+      "raw_file": "pages/05.wikitext"
+    },
+    {
+      "title": "淮南子/覽冥訓",
+      "revision": 3933631,
+      "timestamp": "2026-05-09T09:20:16Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/覽冥訓&oldid=3933631",
+      "raw_sha256": "80f6e4ac8a4a0fb6b8de6ec56701d4a37593eb4d85dd57a76f04925f51e5d1d7",
+      "start": 34531,
+      "end": 38298,
+      "raw_file": "pages/06.wikitext"
+    },
+    {
+      "title": "淮南子/精神訓",
+      "revision": 7909697,
+      "timestamp": "2026-07-24T11:15:53Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/精神訓&oldid=7909697",
+      "raw_sha256": "9efdb81dfd374a64130829da3bc0d9438111647f57a6f4365275700af9892ed6",
+      "start": 38325,
+      "end": 43673,
+      "raw_file": "pages/07.wikitext"
+    },
+    {
+      "title": "淮南子/本經訓",
+      "revision": 2606194,
+      "timestamp": "2025-10-14T00:25:26Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/本經訓&oldid=2606194",
+      "raw_sha256": "0bf2ae363cfbb41e39f52591181e7f4aae961f8f0559d770a12a3ef7ce8949ed",
+      "start": 43700,
+      "end": 48482,
+      "raw_file": "pages/08.wikitext"
+    },
+    {
+      "title": "淮南子/主術訓",
+      "revision": 1513234,
+      "timestamp": "2018-11-11T10:10:28Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/主術訓&oldid=1513234",
+      "raw_sha256": "ea51981bd80e5bfec59d0726ad2ba6411ccb31289b029f2c6d2f6a972787fe5a",
+      "start": 48509,
+      "end": 60559,
+      "raw_file": "pages/09.wikitext"
+    },
+    {
+      "title": "淮南子/繆稱訓",
+      "revision": 7904648,
+      "timestamp": "2026-06-28T01:38:16Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/繆稱訓&oldid=7904648",
+      "raw_sha256": "1d8eaaa1480df096828c7b8ba6d653403fd50fc58bddca8eb996392d7fd72aee",
+      "start": 60586,
+      "end": 67464,
+      "raw_file": "pages/10.wikitext"
+    },
+    {
+      "title": "淮南子/齊俗訓",
+      "revision": 1809081,
+      "timestamp": "2020-05-14T05:04:25Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/齊俗訓&oldid=1809081",
+      "raw_sha256": "5e46659f186865a808bf030621fa0538ce5d9041879fda3c94ee5ff5da222cea",
+      "start": 67491,
+      "end": 76412,
+      "raw_file": "pages/11.wikitext"
+    },
+    {
+      "title": "淮南子/道應訓",
+      "revision": 1965494,
+      "timestamp": "2020-09-25T03:37:59Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/道應訓&oldid=1965494",
+      "raw_sha256": "cc733a2cb5ecd9f10e953353c21b93fc6717d42941a4e04a1e9d8aa16d801ba2",
+      "start": 76439,
+      "end": 89033,
+      "raw_file": "pages/12.wikitext"
+    },
+    {
+      "title": "淮南子/氾論訓",
+      "revision": 1809092,
+      "timestamp": "2020-05-14T05:18:51Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/氾論訓&oldid=1809092",
+      "raw_sha256": "3447e9a4603bf5b23ff8ecdf8ee25a7f8d084a4671011796b34a513f47ef6967",
+      "start": 89060,
+      "end": 99007,
+      "raw_file": "pages/13.wikitext"
+    },
+    {
+      "title": "淮南子/詮言訓",
+      "revision": 7904511,
+      "timestamp": "2026-06-28T01:32:23Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/詮言訓&oldid=7904511",
+      "raw_sha256": "bbb0ee0026de2a4257acc2828967dbc7dcaee5399e9923bba3acc2d7edc6c5a9",
+      "start": 99034,
+      "end": 106283,
+      "raw_file": "pages/14.wikitext"
+    },
+    {
+      "title": "淮南子/兵略訓",
+      "revision": 850046,
+      "timestamp": "2017-04-04T02:46:37Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/兵略訓&oldid=850046",
+      "raw_sha256": "33b8aa57d75993156d55e88fc771dcba5928320f692b338fed9e52cac9d6ca9d",
+      "start": 106310,
+      "end": 115901,
+      "raw_file": "pages/15.wikitext"
+    },
+    {
+      "title": "淮南子/說山訓",
+      "revision": 1809109,
+      "timestamp": "2020-05-14T05:34:45Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/說山訓&oldid=1809109",
+      "raw_sha256": "fee67c968d84f89776cd599f67e7eb5e088b2aa1d3323ae4ce8017fd3f206a65",
+      "start": 115928,
+      "end": 122593,
+      "raw_file": "pages/16.wikitext"
+    },
+    {
+      "title": "淮南子/說林訓",
+      "revision": 1809119,
+      "timestamp": "2020-05-14T05:42:21Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/說林訓&oldid=1809119",
+      "raw_sha256": "598128b64c5b0b7090cd26ba7d6306dae3bdc77fa50140873a825a9c186b6181",
+      "start": 122620,
+      "end": 128853,
+      "raw_file": "pages/17.wikitext"
+    },
+    {
+      "title": "淮南子/人間訓",
+      "revision": 9458284,
+      "timestamp": "2026-09-08T09:21:24Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/人間訓&oldid=9458284",
+      "raw_sha256": "e7f6b39ac4d86f3a3f15ab1f384f403e58e1fceab3f11b99d478c124631bbf3a",
+      "start": 128880,
+      "end": 141619,
+      "raw_file": "pages/18.wikitext"
+    },
+    {
+      "title": "淮南子/脩務訓",
+      "revision": 7904476,
+      "timestamp": "2026-06-28T01:30:55Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/脩務訓&oldid=7904476",
+      "raw_sha256": "8b2358283c61d0ede85bd934432a04ab26e33d8706ac5cbfd106de86eb289876",
+      "start": 141646,
+      "end": 147913,
+      "raw_file": "pages/19.wikitext"
+    },
+    {
+      "title": "淮南子/泰族訓",
+      "revision": 7904569,
+      "timestamp": "2026-06-28T01:34:50Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/泰族訓&oldid=7904569",
+      "raw_sha256": "98585fe616213fda7f1d3e41f201e03082bec9623ce25b8228846126fdccdb56",
+      "start": 147940,
+      "end": 159015,
+      "raw_file": "pages/20.wikitext"
+    },
+    {
+      "title": "淮南子/要略",
+      "revision": 9458285,
+      "timestamp": "2026-09-08T09:22:04Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/要略&oldid=9458285",
+      "raw_sha256": "283dc34ea060fdbf9d164e533498389278fc4fa7c9366f56ae0e688648c12072",
+      "start": 159041,
+      "end": 163304,
+      "raw_file": "pages/21.wikitext"
+    }
+  ],
+  "retrieved_on": "2026-10-19",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "216b730f4c7a8d3da756ca413e8812ec2ee31f602e6440ec7f07fed82e7c8df6",
+  "extraction_sha256": "a1ade7b5a9f6299a79be3d364a281f9e417f77663034ae52d9319baaa9cfc0ef",
+  "scope": "传世内篇二十一篇（含《要略》）；每篇为工作章，保留源自然空行定位，不把著录中已佚外三十三篇补造成正文。时则训篇内七分节另存定位；超长源自然段保留完整。",
+  "edition_status": "中文维基文库逐篇固定电子工作本；第四篇按目录重定向读取《淮南子/墜形訓》，目录题作墬形訓；未逐字对照统一纸本或影印古本。私用区字与疑文保留原貌，另列风险，不擅补正。",
+  "chapter_count": 21,
+  "passage_count": 460,
+  "text_characters_including_punctuation": 157972,
+  "normalization": [
+    "保存官方API逐页固定修订wikitext、时间、URL及SHA256；合并原始快照全字符区间分为正文与排除片段",
+    "唯一onlyinclude内取正文；精确排除时则训导航行、其七个分节题及源内独立卷题；齐俗训末尾独立PD-old版权模板排除",
+    "以所选源页自然空行定位；长自然段不擅拆；时则训七分节另存source_section",
+    "原道训1条古注星号模板移出正文并另存editorial_notes；另模板11处以首项为正文并保存异文",
+    "保留源字、源标点与8个私用区字；维基链接取显示文字，简繁保护符去壳；不擅补字",
+    "OpenCC0.1.7 t2s简体仅另存检索辅助层，显示及引用仍用固定原文",
+    "齐俗训源页另含“國不亡怴A未必無禮也”不明字串，保留原貌并列入同段来源风险。",
+    "繆称训“よ”、说林训“?駁”不明字符及天文训“日[爲]德”源内括补均保留原貌；前两项列入source_risks，不擅改写。"
+  ],
+  "source_attribution": "中文维基文库相应原典页面及其贡献者；使用时保留固定修订号、来源和加工说明",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "保留站点所列适用许可及归属；古代原文与站点数字整理内容分别理解",
+  "source_index": {
+    "title": "淮南子",
+    "revision": 2375739,
+    "timestamp": "2024-03-20T10:22:36Z",
+    "url": "https://zh.wikisource.org/w/index.php?title=淮南子&oldid=2375739",
+    "raw_file": "index.wikitext",
+    "raw_sha256": "95cd1a2a4e0a1330c2c92b02eb8c8fdf5f46151bf02b7dd507dd4df79457b1a8"
+  },
+  "source_redirects": [
+    {
+      "title": "淮南子/墬形訓",
+      "revision": 1498056,
+      "timestamp": "2018-09-05T04:48:12Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=淮南子/墬形訓&oldid=1498056",
+      "raw_sha256": "329cfbecca81bf39fec678393c4df51d50d69769cb2b7181bb6a825cfd3df826",
+      "start": 0,
+      "end": 21,
+      "raw_file": "redirect-04.wikitext",
+      "target_title": "淮南子/墜形訓",
+      "coordinate_space": "start/end仅指raw_file独立重定向快照坐标，不指source.wikitext拼合正文坐标"
+    }
+  ],
+  "original_structure": {
+    "transmitted_inner_chapters": 21,
+    "lost_outer_chapters_recorded": 33,
+    "lost_outer_included": false,
+    "shize_sections": [
+      "春",
+      "夏",
+      "秋",
+      "冬",
+      "五位",
+      "六合",
+      "制度"
+    ],
+    "ancient_note_count": 1,
+    "variant_template_count": 11,
+    "unresolved_private_use_characters": 8
+  },
+  "chapter_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "source_risks": [
+    {
+      "passage_id": "HNZ-07-006",
+      "kind": "source_unresolved_glyph_description",
+      "description": "<月曷>",
+      "treatment": "来源以部件描述代字，原样保留；未对读确字，不擅改写或据此确定语义。"
+    },
+    {
+      "passage_id": "HNZ-10-005",
+      "kind": "source_unresolved_foreign_or_placeholder_character",
+      "description": "仁心之感恩接而よ怛生",
+      "treatment": "源页不明字符原样保留，未据校本补字或改字，不以此处作确定语义或可靠引文。"
+    },
+    {
+      "passage_id": "HNZ-11-001",
+      "kind": "source_unresolved_private_use_or_placeholder",
+      "characters": [
+        {
+          "codepoint": "U+F5CD",
+          "character": "",
+          "count": 1,
+          "contexts": [
+            "帶足以結紐收衽，束牢連固，不亟於為文句疏短之。故制禮義，行至德，而不拘於儒墨。所謂明者，"
+          ]
+        },
+        {
+          "codepoint": "U+F0EF",
+          "character": "",
+          "count": 1,
+          "contexts": [
+            "。何者？力不足也。故諺曰：「鳥窮則噣，獸窮則，人窮則詐。」此之謂也。道德之論，譬猶日月也"
+          ]
+        }
+      ],
+      "treatment": "保留固定来源原字；未经权威对读不得擅补，不据此字确定古人主张。",
+      "additional_source_anomaly": {
+        "text": "國不亡怴A未必無禮也",
+        "treatment": "源页含不明拉丁字母A及邻接疑字，原样保留，未据其他版本校改；不得以该处作确定引文。"
+      }
+    },
+    {
+      "passage_id": "HNZ-13-001",
+      "kind": "source_unresolved_private_use_or_placeholder",
+      "characters": [
+        {
+          "codepoint": "U+E364",
+          "character": "",
+          "count": 1,
+          "contexts": [
+            "俗益薄，欲以樸重之法，治既弊之民，是猶無鏑銜策錣而御馯馬也。昔者，神農無制令而民從，唐、"
+          ]
+        },
+        {
+          "codepoint": "U+F659",
+          "character": "",
+          "count": 1,
+          "contexts": [
+            "年而桀乃亡。殷之將敗也，太史令向藝先歸文王，年而紂乃亡。故聖人之見存亡之跡，成敗之際也，"
+          ]
+        },
+        {
+          "codepoint": "U+F28C",
+          "character": "",
+          "count": 1,
+          "contexts": [
+            "天地之怪物乎！夫雌雄相接，陰陽相薄，羽者為雛，毛者為駒犢，柔者為皮肉，堅者為齒角，人弗怪"
+          ]
+        },
+        {
+          "codepoint": "U+EFCC",
+          "character": "",
+          "count": 1,
+          "contexts": [
+            "非，唯有道者能通其志。今世之祭井灶、門戶、箕、臼杵者，非以其神為能饗之也，恃賴其德，煩苦"
+          ]
+        }
+      ],
+      "treatment": "保留固定来源原字；未经权威对读不得擅补，不据此字确定古人主张。"
+    },
+    {
+      "passage_id": "HNZ-16-001",
+      "kind": "source_unresolved_private_use_or_placeholder",
+      "characters": [
+        {
+          "codepoint": "U+E98C",
+          "character": "",
+          "count": 1,
+          "contexts": [
+            "東海，所行則異，所歸則一。通於學者若車軸，轉之中，不運於己，與之致千里，終而復始，轉無窮"
+          ]
+        }
+      ],
+      "treatment": "保留固定来源原字；未经权威对读不得擅补，不据此字确定古人主张。"
+    },
+    {
+      "passage_id": "HNZ-17-001",
+      "kind": "source_unresolved_foreign_or_placeholder_character",
+      "description": "旁光不升俎，?駁不入牲",
+      "treatment": "源页不明字符原样保留，未据校本补字或改字，不以此处作确定语义或可靠引文。"
+    },
+    {
+      "passage_id": "HNZ-18-020",
+      "kind": "source_unresolved_private_use_or_placeholder",
+      "characters": [
+        {
+          "codepoint": "U+E74E",
+          "character": "",
+          "count": 1,
+          "contexts": [
+            "益大。癰疽發於指，其痛遍於體。故蠹啄剖梁柱，虻走牛羊，此之謂也。人皆務於救患之備，而莫能"
+          ]
+        }
+      ],
+      "treatment": "保留固定来源原字；未经权威对读不得擅补，不据此字确定古人主张。"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "帝师 · AI 军师"
+  short_description: "你的 AI 军师：广搜研典，比较裁决 · Your AI strategist"
+  default_prompt: "Use $dishi to clarify my situation, search accessible classical sources broadly, compare causes, conditions and costs, then advise a first step with a candid objection in my language. / 请用帝师问清局势，广搜可访问的古籍，比较成因、条件与代价，再给建议、逆言和第一步。"

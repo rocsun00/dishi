@@ -1,0 +1,90 @@
+[
+  {
+    "passage_id": "LSCQ-30-002",
+    "kind": "source_unresolved_placeholder",
+    "characters": [
+      {
+        "character": "◇",
+        "codepoint": "U+25C7",
+        "count": 1
+      }
+    ],
+    "treatment": "保留源电子页占位，不据占位数裁定所有传本实缺字数，不擅补字。"
+  },
+  {
+    "passage_id": "LSCQ-36-003",
+    "kind": "source_unresolved_placeholder",
+    "characters": [
+      {
+        "character": "◇",
+        "codepoint": "U+25C7",
+        "count": 2
+      }
+    ],
+    "treatment": "保留源电子页占位，不据占位数裁定所有传本实缺字数，不擅补字。"
+  },
+  {
+    "passage_id": "LSCQ-43-002",
+    "kind": "source_unresolved_glyph_description",
+    "descriptions": [
+      "(戔刀)"
+    ],
+    "treatment": "源页括注以部件描述字形，原样保留；未据校本确定合字，不冒作确字引用。"
+  },
+  {
+    "passage_id": "LSCQ-46-004",
+    "kind": "source_unresolved_glyph_description",
+    "descriptions": [
+      "(土付)"
+    ],
+    "treatment": "源页括注以部件描述字形，原样保留；未据校本确定合字，不冒作确字引用。"
+  },
+  {
+    "passage_id": "LSCQ-48-003",
+    "kind": "source_unresolved_glyph_description",
+    "descriptions": [
+      "(鬲瓦)"
+    ],
+    "treatment": "源页括注以部件描述字形，原样保留；未据校本确定合字，不冒作确字引用。"
+  },
+  {
+    "passage_id": "LSCQ-55-005",
+    "kind": "source_unresolved_glyph_description",
+    "descriptions": [
+      "(足麗)"
+    ],
+    "treatment": "源页括注以部件描述字形，原样保留；未据校本确定合字，不冒作确字引用。"
+  },
+  {
+    "passage_id": "LSCQ-58-002",
+    "kind": "source_unresolved_glyph_description",
+    "descriptions": [
+      "(革處)"
+    ],
+    "treatment": "源页括注以部件描述字形，原样保留；未据校本确定合字，不冒作确字引用。"
+  },
+  {
+    "passage_id": "LSCQ-70-004",
+    "kind": "source_unresolved_glyph_description",
+    "descriptions": [
+      "(月侯)"
+    ],
+    "treatment": "源页括注以部件描述字形，原样保留；未据校本确定合字，不冒作确字引用。"
+  },
+  {
+    "passage_id": "LSCQ-76-004",
+    "kind": "source_unresolved_glyph_description",
+    "descriptions": [
+      "(木改女)"
+    ],
+    "treatment": "源页括注以部件描述字形，原样保留；未据校本确定合字，不冒作确字引用。"
+  },
+  {
+    "passage_id": "LSCQ-78-005",
+    "kind": "source_unresolved_glyph_description",
+    "descriptions": [
+      "(戔刀)"
+    ],
+    "treatment": "源页括注以部件描述字形，原样保留；未据校本确定合字，不冒作确字引用。"
+  }
+]

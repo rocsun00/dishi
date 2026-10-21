@@ -1,0 +1,368 @@
+{
+  "id": "zhuangzi",
+  "work_id": "zhuangzi",
+  "title": "庄子（三十三篇电子工作本）",
+  "prefix": "ZZ",
+  "source_title": "莊子/逍遙遊",
+  "revision": "multiple-pinned-pages",
+  "source_url": "https://zh.wikisource.org/w/index.php?title=莊子/逍遙遊&oldid=11122546",
+  "source_pages": [
+    {
+      "title": "莊子/逍遙遊",
+      "revision": 11122546,
+      "timestamp": "2026-10-08T07:32:14Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/逍遙遊&oldid=11122546",
+      "raw_sha256": "1cd7141353c0ce95db6fa1c360d1f84ca408a8efc96b2bff1008245dae2b01d2",
+      "start": 26,
+      "end": 2030,
+      "raw_file": "pages/01.wikitext"
+    },
+    {
+      "title": "莊子/齊物論",
+      "revision": 11117685,
+      "timestamp": "2026-10-03T03:19:38Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/齊物論&oldid=11117685",
+      "raw_sha256": "e18eaf064aae708650022836a9018eb51b3472b10409d0020294333ecfc69eb7",
+      "start": 2056,
+      "end": 6167,
+      "raw_file": "pages/02.wikitext"
+    },
+    {
+      "title": "莊子/養生主",
+      "revision": 11117686,
+      "timestamp": "2026-10-03T03:20:46Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/養生主&oldid=11117686",
+      "raw_sha256": "e36d37ee130b69d52d16a5653f6c97828e8c4dbd9c4354502b624665e5e0ec00",
+      "start": 6193,
+      "end": 7073,
+      "raw_file": "pages/03.wikitext"
+    },
+    {
+      "title": "莊子/人間世",
+      "revision": 11117687,
+      "timestamp": "2026-10-03T03:21:33Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/人間世&oldid=11117687",
+      "raw_sha256": "87bd6345eaa4d5dedf281cee2c0fe1bbf02d0d86790184eb734ebf154e1e8a40",
+      "start": 7099,
+      "end": 10886,
+      "raw_file": "pages/04.wikitext"
+    },
+    {
+      "title": "莊子/德充符",
+      "revision": 11117688,
+      "timestamp": "2026-10-03T03:22:13Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/德充符&oldid=11117688",
+      "raw_sha256": "dc93fd5c4f05220273e5333830b244c1952213b932c0b916e32a8ea30520f723",
+      "start": 10912,
+      "end": 13543,
+      "raw_file": "pages/05.wikitext"
+    },
+    {
+      "title": "莊子/大宗師",
+      "revision": 11117689,
+      "timestamp": "2026-10-03T03:22:38Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/大宗師&oldid=11117689",
+      "raw_sha256": "b68236f30e5df109d028e987e15c43e79b0fa483517314ffc9199415f16f366f",
+      "start": 13569,
+      "end": 17604,
+      "raw_file": "pages/06.wikitext"
+    },
+    {
+      "title": "莊子/應帝王",
+      "revision": 11117690,
+      "timestamp": "2026-10-03T03:23:15Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/應帝王&oldid=11117690",
+      "raw_sha256": "86577a73429ece1fa978ac7ab2f3772c01b2c081b4e59205daeeaf057c8e12d1",
+      "start": 17630,
+      "end": 19239,
+      "raw_file": "pages/07.wikitext"
+    },
+    {
+      "title": "莊子/駢拇",
+      "revision": 11117691,
+      "timestamp": "2026-10-03T03:23:59Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/駢拇&oldid=11117691",
+      "raw_sha256": "797ce51f0a1a7279d19bf7d767af4792a004a1287073f6776f6fe9db1b62d7f0",
+      "start": 19264,
+      "end": 20659,
+      "raw_file": "pages/08.wikitext"
+    },
+    {
+      "title": "莊子/馬蹄",
+      "revision": 11117692,
+      "timestamp": "2026-10-03T03:24:32Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/馬蹄&oldid=11117692",
+      "raw_sha256": "6a254747b5fc0c4d2883ea0764e2857db39c7003e9b71afac3a79d5b109e66da",
+      "start": 20684,
+      "end": 21550,
+      "raw_file": "pages/09.wikitext"
+    },
+    {
+      "title": "莊子/胠篋",
+      "revision": 11117696,
+      "timestamp": "2026-10-03T03:29:54Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/胠篋&oldid=11117696",
+      "raw_sha256": "df5fd84cb4eb066d8299c255c8058cb4b3fe766a300e69dc8951c13633631379",
+      "start": 21575,
+      "end": 23367,
+      "raw_file": "pages/10.wikitext"
+    },
+    {
+      "title": "莊子/在宥",
+      "revision": 11117697,
+      "timestamp": "2026-10-03T03:30:04Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/在宥&oldid=11117697",
+      "raw_sha256": "1292fe970bde438af3591a489fd529e55a310f051cac51f369b1020ad17e37ac",
+      "start": 23392,
+      "end": 26673,
+      "raw_file": "pages/11.wikitext"
+    },
+    {
+      "title": "莊子/天地",
+      "revision": 11117698,
+      "timestamp": "2026-10-03T03:30:15Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/天地&oldid=11117698",
+      "raw_sha256": "9755d8257733e798021c4fae385902ae08dced3a510cc2877c79aef948517c80",
+      "start": 26698,
+      "end": 30962,
+      "raw_file": "pages/12.wikitext"
+    },
+    {
+      "title": "莊子/天道",
+      "revision": 11117699,
+      "timestamp": "2026-10-03T03:30:29Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/天道&oldid=11117699",
+      "raw_sha256": "3f63cf76d7e664d57628c8819f05fac80a08fb08b63a699756d1feaa43c0a68a",
+      "start": 30987,
+      "end": 34177,
+      "raw_file": "pages/13.wikitext"
+    },
+    {
+      "title": "莊子/天運",
+      "revision": 11117700,
+      "timestamp": "2026-10-03T03:30:38Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/天運&oldid=11117700",
+      "raw_sha256": "d4572944a8d92610075da6ac4eec82d0033030962d058231c3c69fc1898d1c9f",
+      "start": 34202,
+      "end": 37767,
+      "raw_file": "pages/14.wikitext"
+    },
+    {
+      "title": "莊子/刻意",
+      "revision": 11117701,
+      "timestamp": "2026-10-03T03:30:48Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/刻意&oldid=11117701",
+      "raw_sha256": "23f7ed879d0310d0380f0e39b1ed9630b192b1efdb25ec4a9d523c0f352cf85a",
+      "start": 37792,
+      "end": 38828,
+      "raw_file": "pages/15.wikitext"
+    },
+    {
+      "title": "莊子/繕性",
+      "revision": 11117702,
+      "timestamp": "2026-10-03T03:30:57Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/繕性&oldid=11117702",
+      "raw_sha256": "4a4a6b65c3fbfbc1419b2c9565deb5c51fff5a0cc9a1bb9e222c1d95f8ae929b",
+      "start": 38853,
+      "end": 39807,
+      "raw_file": "pages/16.wikitext"
+    },
+    {
+      "title": "莊子/秋水",
+      "revision": 11117703,
+      "timestamp": "2026-10-03T03:31:06Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/秋水&oldid=11117703",
+      "raw_sha256": "8546df9cc4bd2905551b487005327449dd8cdefbfc49aa64f88d3fcf62cdfea9",
+      "start": 39832,
+      "end": 43713,
+      "raw_file": "pages/17.wikitext"
+    },
+    {
+      "title": "莊子/至樂",
+      "revision": 11117704,
+      "timestamp": "2026-10-03T03:31:15Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/至樂&oldid=11117704",
+      "raw_sha256": "0264ee672e309da1bc68fc8186f3a8e061e4d748f2d9768f02531f5b13951888",
+      "start": 43738,
+      "end": 45706,
+      "raw_file": "pages/18.wikitext"
+    },
+    {
+      "title": "莊子/達生",
+      "revision": 11117705,
+      "timestamp": "2026-10-03T03:31:28Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/達生&oldid=11117705",
+      "raw_sha256": "c3f82d38352d24eb62052aaacc748c43a3b1e2f8f6c74b48d98aa759f0f0dc5b",
+      "start": 45731,
+      "end": 48974,
+      "raw_file": "pages/19.wikitext"
+    },
+    {
+      "title": "莊子/山木",
+      "revision": 11117707,
+      "timestamp": "2026-10-03T03:31:37Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/山木&oldid=11117707",
+      "raw_sha256": "15058b4a70a09727938171184f9ffd27693a99efd14f70f6c5f0ab80b7a38c79",
+      "start": 48999,
+      "end": 52045,
+      "raw_file": "pages/20.wikitext"
+    },
+    {
+      "title": "莊子/田子方",
+      "revision": 11117709,
+      "timestamp": "2026-10-03T03:32:23Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/田子方&oldid=11117709",
+      "raw_sha256": "a78aab2d8bb956c03d1f539407738aaf538f523efaaf2a77d4eccb8307d31e76",
+      "start": 52071,
+      "end": 55074,
+      "raw_file": "pages/21.wikitext"
+    },
+    {
+      "title": "莊子/知北遊",
+      "revision": 11117710,
+      "timestamp": "2026-10-03T03:32:33Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/知北遊&oldid=11117710",
+      "raw_sha256": "f6202b1a0fa486e8bc3c4563f3086ec3bb5cb7d2a3156fc57297b4d0217c87ad",
+      "start": 55100,
+      "end": 58686,
+      "raw_file": "pages/22.wikitext"
+    },
+    {
+      "title": "莊子/庚桑楚",
+      "revision": 11117711,
+      "timestamp": "2026-10-03T03:32:41Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/庚桑楚&oldid=11117711",
+      "raw_sha256": "e7e13cb8bf305a3dc204a58d5b2ff0ad4bc6ad87820eb62a9490a8107403bf07",
+      "start": 58712,
+      "end": 61981,
+      "raw_file": "pages/23.wikitext"
+    },
+    {
+      "title": "莊子/徐無鬼",
+      "revision": 11117712,
+      "timestamp": "2026-10-03T03:32:51Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/徐無鬼&oldid=11117712",
+      "raw_sha256": "620550a2f3bf87cee2e21daeba8bf6ce7fa3760071b402914748f2630d51c23c",
+      "start": 62007,
+      "end": 66586,
+      "raw_file": "pages/24.wikitext"
+    },
+    {
+      "title": "莊子/則陽",
+      "revision": 11117713,
+      "timestamp": "2026-10-03T03:33:00Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/則陽&oldid=11117713",
+      "raw_sha256": "72c333adde6a656671d851a5310121e3da697cd4a6c64871f74bf5c8b4f59e3b",
+      "start": 66611,
+      "end": 70048,
+      "raw_file": "pages/25.wikitext"
+    },
+    {
+      "title": "莊子/外物",
+      "revision": 11117714,
+      "timestamp": "2026-10-03T03:33:10Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/外物&oldid=11117714",
+      "raw_sha256": "ad7d1a417a40428f8af3d03b14b3dcb896cdabb5f045496707e37a734dffafb4",
+      "start": 70073,
+      "end": 72203,
+      "raw_file": "pages/26.wikitext"
+    },
+    {
+      "title": "莊子/寓言",
+      "revision": 11117715,
+      "timestamp": "2026-10-03T03:33:20Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/寓言&oldid=11117715",
+      "raw_sha256": "24afe395b2eb5ee2c226cbb80cbc5c81736022fa3cf6e0921c21004786db06fe",
+      "start": 72228,
+      "end": 73570,
+      "raw_file": "pages/27.wikitext"
+    },
+    {
+      "title": "莊子/讓王",
+      "revision": 11117716,
+      "timestamp": "2026-10-03T03:33:29Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/讓王&oldid=11117716",
+      "raw_sha256": "6b08ab9936385de14e5a1d7f8ff5919dce13e4d37871168d08ceaa77fb36009f",
+      "start": 73595,
+      "end": 77249,
+      "raw_file": "pages/28.wikitext"
+    },
+    {
+      "title": "莊子/盜跖",
+      "revision": 11117717,
+      "timestamp": "2026-10-03T03:33:41Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/盜跖&oldid=11117717",
+      "raw_sha256": "fbf9bd5795b215e575d2ca12129e9bb798b9d5a055f58bf81d13d8a0633daa57",
+      "start": 77274,
+      "end": 81425,
+      "raw_file": "pages/29.wikitext"
+    },
+    {
+      "title": "莊子/說劍",
+      "revision": 11117718,
+      "timestamp": "2026-10-03T03:33:50Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/說劍&oldid=11117718",
+      "raw_sha256": "97bc2221b437422053d28d96b2f3896bdb3cdb8ee1ae4340b63c90ec55d249df",
+      "start": 81450,
+      "end": 82778,
+      "raw_file": "pages/30.wikitext"
+    },
+    {
+      "title": "莊子/漁父",
+      "revision": 11117719,
+      "timestamp": "2026-10-03T03:34:00Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/漁父&oldid=11117719",
+      "raw_sha256": "4932b72f7c35bd6aee1290a040dcc842c27916b171e802bc2e604188eb504090",
+      "start": 82803,
+      "end": 84986,
+      "raw_file": "pages/31.wikitext"
+    },
+    {
+      "title": "莊子/列禦寇",
+      "revision": 11117720,
+      "timestamp": "2026-10-03T03:34:09Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/列禦寇&oldid=11117720",
+      "raw_sha256": "e1294604a24559e36eed2e971b5c5e487b20a78afd323b621a6806257beb1f06",
+      "start": 85012,
+      "end": 87265,
+      "raw_file": "pages/32.wikitext"
+    },
+    {
+      "title": "莊子/天下",
+      "revision": 11117721,
+      "timestamp": "2026-10-03T03:34:19Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=莊子/天下&oldid=11117721",
+      "raw_sha256": "20a145aeb77155bfd9303c5313c92794de308dcb152a210462a7f181e47cd338",
+      "start": 87290,
+      "end": 90923,
+      "raw_file": "pages/33.wikitext"
+    }
+  ],
+  "retrieved_on": "2026-10-19",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "06456fe0271109421ddcf0e385bb8333d30a1cc16eb5e14b26ea757fa1052b0a",
+  "extraction_sha256": "6af11ba56a5c90811c1d869c3b3e187a581791c34877c61f8b15805cba65ecfe",
+  "scope": "传世三十三篇，内篇1—7、外篇8—22、杂篇23—33；按所选各篇源页面空行分289段。非庄周本人亲定全部著作的断言。",
+  "edition_status": "固定中文维基文库分篇电子工作本，未对统一纸本逐字核校。各页有站点编者异文、句读或校改，均随固定版本保留并记录；重要歧义须另查可靠传本。",
+  "chapter_count": 33,
+  "passage_count": 289,
+  "text_characters_including_punctuation": 80959,
+  "normalization": [
+    "移除古注星号模板，古注原文保存在快照及editorial_notes，不作为本库原典释义",
+    "保留原字与源标点，移除折行空白和注释行的冒号",
+    "维基链接取显示文字；另模板正文保留首项并记录异文；移除简繁转换保护符",
+    "另2模板保留首项文字，注记作为说明单列，不误称为另一原句",
+    "参考ref标记单独保存在editorial_notes，现代参考注记不混入原典",
+    "多语言字形转换标记优先取zh默认项；无默认项时取zh-hant，再取zh-hans；普通保护标记仅去外壳"
+  ],
+  "source_attribution": "中文维基文库相应原典页面及其贡献者；使用时保留固定修订号、来源和加工说明",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "保留站点所列适用许可及归属；古代原文与站点数字整理内容分别理解",
+  "source_index": {
+    "title": "莊子",
+    "revision": 11117695,
+    "url": "https://zh.wikisource.org/w/index.php?title=莊子&oldid=11117695",
+    "raw_file": "index.wikitext",
+    "raw_sha256": "482326c22b07ae56c2bda7576d986f7c6de29f1a7719fb81fe25571d9528b8a4"
+  }
+}

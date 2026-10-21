@@ -1,0 +1,324 @@
+{
+  "kind": "author-documented-source-and-interpretive-risks",
+  "not_independent_review": true,
+  "risks": [
+    {
+      "passage_id": "WLZ-01-001",
+      "kind": "wording_and_dialogue",
+      "source_phrase": "黄帝形德",
+      "description": "问句形德、答句刑德原字分别保留；梁惠王问、尉缭子答及引黄帝/公子心的引语层不混为同一发言。"
+    },
+    {
+      "passage_id": "WLZ-01-001",
+      "kind": "historical_numbers",
+      "source_phrase": "二萬二千五百人擊紂之億萬",
+      "description": "书内武王与商兵数字及胜事未经独立战史核验，不作现代统计或预测。"
+    },
+    {
+      "passage_id": "WLZ-02-001",
+      "kind": "uncertain_wording",
+      "source_phrase": "大不窕小不恢",
+      "description": "简古字句照存，暂宽述治兵深密及禁舍开塞，不以记忆替字。"
+    },
+    {
+      "passage_id": "WLZ-02-001",
+      "kind": "rhetorical_scale",
+      "source_phrase": "患在百里之内不起一日之師",
+      "description": "百里/日、千里/月、四海/岁的分级比喻不换算现代动员工期。"
+    },
+    {
+      "passage_id": "WLZ-02-001",
+      "kind": "authority_boundary",
+      "source_phrase": "上不制于天下不制于地中不制于人",
+      "description": "将帅自主反对不当拘制，不能当作不受现代法和责任约束。"
+    },
+    {
+      "passage_id": "WLZ-03-001",
+      "kind": "unencoded_source_glyph",
+      "source_phrase": "〔四库字形:3951〕",
+      "description": "source_markup含{{SKchar|3951}}；显示明确编号占位，不猜补为通行字，不计古注。"
+    },
+    {
+      "passage_id": "WLZ-03-001",
+      "kind": "coercion_and_kinship",
+      "source_phrase": "父不敢舍子子不敢舍父",
+      "description": "军令使亲属亦不得容舍；不是平等合作或自愿承诺。"
+    },
+    {
+      "passage_id": "WLZ-03-001",
+      "kind": "suicidal_and_homicidal_mobilization",
+      "source_phrase": "為一死賊",
+      "description": "以死贼喻三军的恐惧压力和死亡动员保留，不转换成正向工作激情。"
+    },
+    {
+      "passage_id": "WLZ-03-001",
+      "kind": "agriculture_warfare_coercion",
+      "source_phrase": "非農無所得食非戰無所得爵",
+      "description": "限制食物和爵禄通道的强制农战，不能洗成现代自由选择和公平激励。"
+    },
+    {
+      "passage_id": "WLZ-03-001",
+      "kind": "outcome_boundary",
+      "source_phrase": "雖戰勝而國益弱得地而國益貧",
+      "description": "局部战胜可能与国力衰弱并存；现代具体净收益须另算，不由古句自动判定。"
+    },
+    {
+      "passage_id": "WLZ-04-001",
+      "kind": "uncertain_syntax",
+      "source_phrase": "小過無更小疑無中",
+      "description": "无标点断读与更中用义有余地，只按审令与稳定宽述，不许可知错不改。"
+    },
+    {
+      "passage_id": "WLZ-04-001",
+      "kind": "death_mobilization",
+      "source_phrase": "可以死易生",
+      "description": "礼俗亲爱被用于求死战，不能只保留民生语汇而省去生命代价。"
+    },
+    {
+      "passage_id": "WLZ-04-001",
+      "kind": "military_punishment",
+      "source_phrase": "刑罰不中則衆不畏",
+      "description": "刑罚适当的所谓中仍在恐惧军法内，不等同现代权利平等或正当程序。"
+    },
+    {
+      "passage_id": "WLZ-05-001",
+      "kind": "uncertain_wording",
+      "source_phrase": "疾陵之兵",
+      "description": "疾陵源词不以熟悉他本改字，宽述力分心疑、进退失控之军。"
+    },
+    {
+      "passage_id": "WLZ-05-001",
+      "kind": "civilian_cost",
+      "source_phrase": "逼危男女",
+      "description": "围城逼压涉及男女平民，不能净化为普通竞争的资源调度。"
+    },
+    {
+      "passage_id": "WLZ-05-001",
+      "kind": "rhetorical_certainty",
+      "source_phrase": "戰不必勝不可以言戰",
+      "description": "必胜是规范要求，非已提供可验证保证；现代需反证与损失边界。"
+    },
+    {
+      "passage_id": "WLZ-06-001",
+      "kind": "uncertain_subject",
+      "source_phrase": "此救而示之不誠",
+      "description": "救诚/示不诚与末尾强弱前后之句主体难定，不造唯一阵图。"
+    },
+    {
+      "passage_id": "WLZ-06-001",
+      "kind": "historical_engineering_numbers",
+      "source_phrase": "城一丈十人守之",
+      "description": "古城人数丈数仅作历史制度，不作现实防御工程或军事操作参数。"
+    },
+    {
+      "passage_id": "WLZ-07-001",
+      "kind": "violence_boundary",
+      "source_phrase": "孽在於屠戮",
+      "description": "屠戮生孽直接批评杀戮之害，不泛化为仅有效率损失。"
+    },
+    {
+      "passage_id": "WLZ-07-001",
+      "kind": "uncertain_term",
+      "source_phrase": "守在於外飾",
+      "description": "外饰与任疑等极短条缺语境，具体术义保留。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "unencoded_source_glyph",
+      "source_phrase": "〔四库字形:1841〕",
+      "description": "位于合…兆占验词，保留{{SKchar|1841}}原模板与编号占位；未据惯用卜兆补字。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "unencoded_source_glyph",
+      "source_phrase": "〔四库字形:195〕",
+      "description": "位于吴起宿野樸…葢之，保留{{SKchar|195}}；不猜物名。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "unencoded_source_glyph",
+      "source_phrase": "〔四库字形:2982〕",
+      "description": "位于援枹而鼓…其身，保留{{SKchar|2982}}；仅依递进语境宽述忘身，不回写字。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "coercive_punishment",
+      "source_phrase": "殺一人而三軍震者殺之",
+      "description": "刑上赏下仍以实际杀戮立威，不能改写成一般处分。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "uncertain_market_sentence",
+      "source_phrase": "市賤賣貴以限士人",
+      "description": "市的价格和士人句读不唯一，仅述物资供给管理的明确方向，不造精确价格制度。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "uncertain_analogy",
+      "source_phrase": "敵白者堊之赤者赭之",
+      "description": "颜色涂饰的军事比喻不强定具体战法。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "violence_and_initiative",
+      "source_phrase": "非吾令也斬之",
+      "description": "书内吴起斩擅战有功者，须保留令重个人战果的残酷，不称现代合规最佳实践。"
+    },
+    {
+      "passage_id": "WLZ-09-001",
+      "kind": "uncertain_wording",
+      "source_phrase": "君子不救囚於五步之外",
+      "description": "不救囚源串保留，不静默改成求或赦；主句不确定不伪作逐字全译。"
+    },
+    {
+      "passage_id": "WLZ-09-001",
+      "kind": "torture_and_evidence",
+      "source_phrase": "自誣",
+      "description": "原文批酷刑使强者虚认，现代证据论为类比，不冒称已有完整现代司法。"
+    },
+    {
+      "passage_id": "WLZ-10-001",
+      "kind": "uncertain_punctuation",
+      "source_phrase": "正比法會計民之具也",
+      "description": "连续短语句读不定，宽述按法核数，不造现代行政条文。"
+    },
+    {
+      "passage_id": "WLZ-10-001",
+      "kind": "internal_tension",
+      "source_phrase": "國無商賈",
+      "description": "理想无事句与武议市场给战守并存，不能删去或强作已统一经济政策。"
+    },
+    {
+      "passage_id": "WLZ-11-001",
+      "kind": "social_control",
+      "source_phrase": "無私耕私織",
+      "description": "无私涉及生产与私储控制，不只个人无私美德，也不直接等同某一现代经济制度。"
+    },
+    {
+      "passage_id": "WLZ-11-001",
+      "kind": "uncertain_distribution",
+      "source_phrase": "有子十人不加一飯有子一人不損一飯",
+      "description": "理想共同供给短句未明制度，不把人口饭量字面当实际分配算法。"
+    },
+    {
+      "passage_id": "WLZ-12-001",
+      "kind": "uncertain_syntax",
+      "source_phrase": "有者無之無者有之",
+      "description": "有无与正诈、神明等简奥句保留，不拼成读心或超自然预测术。"
+    },
+    {
+      "passage_id": "WLZ-13-001",
+      "kind": "collective_extreme_punishment",
+      "source_phrase": "身戮家殘去其籍發其墳墓暴其骨于市",
+      "description": "身戮、家残、削籍、暴骨皆为严酷刑罚，明确本人亲属和死者代价，不温和化。"
+    },
+    {
+      "passage_id": "WLZ-14-001",
+      "kind": "joint_liability_condition",
+      "source_phrase": "知而弗揭",
+      "description": "连坐条有知情不揭要件，不删成不知者也无条件同罪，但仍不认可其刑杀告发制度。"
+    },
+    {
+      "passage_id": "WLZ-15-001",
+      "kind": "uncertain_unit_reference",
+      "source_phrase": "非百人無得通",
+      "description": "依所属百人编制限制通行宽述，不强造每次满百人同行。"
+    },
+    {
+      "passage_id": "WLZ-16-001",
+      "kind": "uncertain_compensation",
+      "source_phrase": "亡伍而得伍者當之",
+      "description": "亡、得对象与抵偿尺度未充分明示，不造唯一战功抵罪表。"
+    },
+    {
+      "passage_id": "WLZ-16-001",
+      "kind": "concentrated_killing_authority",
+      "source_phrase": "大將軍無不得誅",
+      "description": "大将军最高诛罚权不改称一般授权，不作为现实领导任意处罚的依据。"
+    },
+    {
+      "passage_id": "WLZ-17-001",
+      "kind": "identification_and_punishment",
+      "source_phrase": "踰五行而後者有誅",
+      "description": "色章队列便于追查且用刑杀约束退后，现代标记类比不能省去此代价。"
+    },
+    {
+      "passage_id": "WLZ-18-001",
+      "kind": "doubt_and_trust",
+      "source_phrase": "其舉有疑而不疑",
+      "description": "三累区分应疑不疑、可信不信与迟疾不当，不简化为凡事不疑或一律求快。"
+    },
+    {
+      "passage_id": "WLZ-19-001",
+      "kind": "speech_and_appeal_boundary",
+      "source_phrase": "有敢髙言者誅",
+      "description": "营内高言与越分上请均受极重处罚，不能用军无二令封堵现代申诉与安全报告。"
+    },
+    {
+      "passage_id": "WLZ-20-001",
+      "kind": "civilian_restriction",
+      "source_phrase": "四境之民無得行",
+      "description": "安内包含境内民众禁行及诛罚，不能只译后勤协调。"
+    },
+    {
+      "passage_id": "WLZ-21-001",
+      "kind": "uncertain_wording",
+      "source_phrase": "羅地者自揭其伍",
+      "description": "罗地字句无唯一断读，保持原形，五人教学和连责主要结构照述。"
+    },
+    {
+      "passage_id": "WLZ-21-001",
+      "kind": "death_mobilization",
+      "source_phrase": "敎之死而不疑",
+      "description": "教者连责及同组尽死指向生命强制，不能包装成导师责任和投入感。"
+    },
+    {
+      "passage_id": "WLZ-22-001",
+      "kind": "uncertain_technical_sentence",
+      "source_phrase": "陳車謂接連前矛馬冒其目也",
+      "description": "军车矛马的术语与句读不确定，不复原具体战术器用。"
+    },
+    {
+      "passage_id": "WLZ-22-001",
+      "kind": "appeal_boundary",
+      "source_phrase": "諸罰而請不罰者死",
+      "description": "求免刑者亦死的禁说情机制，不能当现代不得申诉的正当依据。"
+    },
+    {
+      "passage_id": "WLZ-22-001",
+      "kind": "morale_boundary",
+      "source_phrase": "傷氣敗軍曲謀敗國",
+      "description": "气伤为古代军心语汇，不诊断现代疾病，不把疲劳归咎个体不坚强。"
+    },
+    {
+      "passage_id": "WLZ-23-001",
+      "kind": "defined_term",
+      "source_phrase": "文所以視利害辨安危",
+      "description": "文本自定文之军事判断功能，不直接等同和平或现代文职。"
+    },
+    {
+      "passage_id": "WLZ-23-001",
+      "kind": "fear_based_control",
+      "source_phrase": "卒畏將甚于敵者勝",
+      "description": "以更畏将形成服从，非现代信任或自愿合作。"
+    },
+    {
+      "passage_id": "WLZ-24-001",
+      "kind": "uncertain_glyph",
+      "source_phrase": "邊縣列侯",
+      "description": "列侯字形保留，前哨/候类意义有疑，不按记忆改候。"
+    },
+    {
+      "passage_id": "WLZ-24-001",
+      "kind": "familial_liability_conditions",
+      "source_phrase": "父母妻子知之與同罪弗知赦之",
+      "description": "该条分知否，后条又分迟到与在家不捕告，不简化成一条无差别连罪或无家属刑。"
+    },
+    {
+      "passage_id": "WLZ-24-001",
+      "kind": "extreme_killing_and_fractions",
+      "source_phrase": "能殺士卒之半其次殺其十三其次殺其十一",
+      "description": "杀卒立威照存；十三十一可按古代十分之三/一读，但未据影印校勘。绝不替换为温和淘汰或现代容损率。"
+    }
+  ]
+}

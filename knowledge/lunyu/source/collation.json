@@ -1,0 +1,89 @@
+{
+  "scope": "所列六处有限电子对读，不是全书专业校勘；对照本也在同站，不冒称独立数字传承。",
+  "sources": {
+    "04": {
+      "title": "論語註疏/卷04",
+      "revision": 2268334,
+      "url": "https://zh.wikisource.org/w/index.php?title=論語註疏/卷04&oldid=2268334",
+      "raw_file": "comparison/04.wikitext",
+      "raw_sha256": "18ed75ea1e53b5cd6f9e5257dae2da4b4291f3cd6d21b4f26d0f1453fd52bc42",
+      "retrieved_on": "2026-10-19"
+    },
+    "07": {
+      "title": "論語註疏/卷07",
+      "revision": 2268335,
+      "url": "https://zh.wikisource.org/w/index.php?title=論語註疏/卷07&oldid=2268335",
+      "raw_file": "comparison/07.wikitext",
+      "raw_sha256": "c06ff0d8b0b9dec4b2ed9cf7607047b4b59e8ede6d8f9cd9915713b28ac0ec91",
+      "retrieved_on": "2026-10-19"
+    },
+    "13": {
+      "title": "論語註疏/卷13",
+      "revision": 2371796,
+      "url": "https://zh.wikisource.org/w/index.php?title=論語註疏/卷13&oldid=2371796",
+      "raw_file": "comparison/13.wikitext",
+      "raw_sha256": "3adff94c6fa7c03ce21ae05f4576458bacdd1c77fa24e860b311475d9f15f0da",
+      "retrieved_on": "2026-10-19"
+    },
+    "14": {
+      "title": "論語註疏/卷14",
+      "revision": 2371072,
+      "url": "https://zh.wikisource.org/w/index.php?title=論語註疏/卷14&oldid=2371072",
+      "raw_file": "comparison/14.wikitext",
+      "raw_sha256": "f42e762d9fea7c4104ac5448fef626729c1bae42cf957abeee6f6f9e97cd18ac",
+      "retrieved_on": "2026-10-19"
+    },
+    "20": {
+      "title": "論語註疏/卷20",
+      "revision": 2112907,
+      "url": "https://zh.wikisource.org/w/index.php?title=論語註疏/卷20&oldid=2112907",
+      "raw_file": "comparison/20.wikitext",
+      "raw_sha256": "80121fe4deb6fcbb3ad1be15b2628b541f2a706b68df1e44c4cfcef194c01882",
+      "retrieved_on": "2026-10-19"
+    }
+  },
+  "entries": [
+    {
+      "passage_id": "LY-04-014",
+      "working_quote": "未爲可知",
+      "comparison_quote": "求為可知也",
+      "comparison_source": "04",
+      "note": "工作本未字与注疏经文求字不同，影响勉学句意；不据未字构造新主张。"
+    },
+    {
+      "passage_id": "LY-07-006",
+      "working_quote": "狎於德",
+      "comparison_quote": "據於德",
+      "comparison_source": "07",
+      "note": "工作本狎字与注疏经文据字不同；不将电子狎字直接当可靠的孔子用字。"
+    },
+    {
+      "passage_id": "LY-07-017",
+      "working_quote": "藝禮",
+      "comparison_quote": "《詩》，《書》，執《禮》，皆雅言也。",
+      "comparison_source": "07",
+      "note": "工作本艺礼与注疏执礼不同，且书名号、句读有别。"
+    },
+    {
+      "passage_id": "LY-13-018",
+      "working_quote": "吾黨有德躬者",
+      "comparison_quote": "吾黨有直躬者",
+      "comparison_source": "13",
+      "note": "工作本此处作德躬，注疏经文作直躬；不以疑字消解本章亲亲与直的张力。"
+    },
+    {
+      "passage_id": "LY-14-036",
+      "working_quote": "何以報德？以德報怨，以德報德。",
+      "comparison_quote": "以直報怨，以德報德。",
+      "comparison_source": "14",
+      "note": "工作本答语以德与注疏经文以直不同，会改变问答含义；不能据工作本疑字断言孔子赞成以德报怨。"
+    },
+    {
+      "passage_id": "LY-20-002",
+      "working_quote": "出納之吝，謂之貪",
+      "comparison_quote": "出納之吝謂之有司。",
+      "comparison_source": "20",
+      "note": "工作本参考注记明确表示据现代研究将传世有司改为贪；这是电子编者有说明的校改，不等于传世本本来如此，亦不据本次有限对读裁定古义。"
+    }
+  ]
+}

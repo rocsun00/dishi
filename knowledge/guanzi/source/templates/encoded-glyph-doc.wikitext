@@ -1,0 +1,42 @@
+{{Documentation subpage}}
+{{High-use|7,000+}}
+==說明==
+有些現行Unicode規範中已分配碼位的字-{zh-hans:符;zh-hant:元}-可能因為使用者所使用的-{zh-hans:操作;zh-hant:作業}-系統或字-{zh-hans:体;zh-hant:型}-不支-{zh-hans:持;zh-hant:援}-，因而變成一個空白、方塊或問號，此時請使用此模板來表示。將-{zh-hans:鼠标;zh-hant:滑鼠}-移到該字上時會出現提示（以tooltip形式呈現），編輯者可輸入該字及描述。
+
+==語法==
+*語法：<nowiki>{{僻字|</nowiki><span style="color:red;">這裡輸入該字</span>|<span style="color:blue;">這裡輸入描述</span><nowiki>}}</nowiki>
+*範例：<nowiki>{{僻字|</nowiki><span style="color:red;">𪀁</span>|<span style="color:blue;">左「鳥」右「加」</span><nowiki>}}</nowiki>䳘鸀鳿。
+*效果：{{僻字|𪀁|左「鳥」右「加」}}䳘鸀鳿。
+
+※更多範例與效果可參考[[史記/卷117]]
+
+==從{{tl|!}}遷移至此模板==
+維基文庫曾經使用{{tl|!}}模板表示僻字。在新錄入的文獻中，建議使用{{tl|僻字}}而非{{tl|!}}模板。目前，{{tl|!}}模板的主要功能由本模板實現，但將來可能會棄用此用法。此模板與原先的{{tl|!}}模板區別為：此模板不會以黄色背景顯示僻字；此模板不會輸出|字元，請仍然使用{{tl|!}}模板輸出|字元。
+
+==参见==
+*{{tl|!}}
+*{{tl|?}}
+*{{tl|全局僻字}}
+
+==模板数据==
+{{TemplateDataHeader}}
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "僻字",
+			"description": "系统可能无法显示的僻字",
+			"type": "string",
+			"required": true
+		},
+		"2": {
+			"label": "取代字",
+			"suggested": true
+		}
+	},
+	"description": "当系统可能缺少显示僻字所需字库时，显示提示。"
+}
+</templatedata>
+<includeonly>{{Sandbox other||
+[[Category:格式模板]]
+}}</includeonly>

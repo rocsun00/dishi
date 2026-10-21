@@ -1,0 +1,198 @@
+{
+  "id": "shangjunshu",
+  "work_id": "shangjunshu",
+  "title": "商君书（二十六目现存二十四篇电子工作本）",
+  "prefix": "SJS",
+  "source_title": "商君書/卷一",
+  "revision": "multiple-pinned-pages",
+  "source_url": "https://zh.wikisource.org/w/index.php?title=商君書/卷一&oldid=850643",
+  "source_pages": [
+    {
+      "title": "商君書/卷一",
+      "revision": 850643,
+      "timestamp": "2017-04-05T04:20:02Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=商君書/卷一&oldid=850643",
+      "raw_sha256": "189ae2ceaa9aff19792d988f1fa2d4b6958dba47eeb1a8265b00f08636878b54",
+      "start": 26,
+      "end": 5618,
+      "raw_file": "pages/01.wikitext"
+    },
+    {
+      "title": "商君書/卷二",
+      "revision": 850644,
+      "timestamp": "2017-04-05T04:20:13Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=商君書/卷二&oldid=850644",
+      "raw_sha256": "bf0bec291b570df3b50e9bef3db7af4d9840d70f25d20b04ce920a7b4ce34b1e",
+      "start": 5644,
+      "end": 10189,
+      "raw_file": "pages/02.wikitext"
+    },
+    {
+      "title": "商君書/卷三",
+      "revision": 850645,
+      "timestamp": "2017-04-05T04:20:23Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=商君書/卷三&oldid=850645",
+      "raw_sha256": "19e1af32245a55c66bd77d2e8211929649ed0919cbc9a815c51c1fb4cea66a8f",
+      "start": 10215,
+      "end": 14820,
+      "raw_file": "pages/03.wikitext"
+    },
+    {
+      "title": "商君書/卷四",
+      "revision": 1741809,
+      "timestamp": "2019-09-11T11:22:42Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=商君書/卷四&oldid=1741809",
+      "raw_sha256": "17eb130176ac0f4f2d03417e130fd91870993a011f1dbf169b1199fdf66476ae",
+      "start": 14846,
+      "end": 19462,
+      "raw_file": "pages/04.wikitext"
+    },
+    {
+      "title": "商君書/卷五",
+      "revision": 2648348,
+      "timestamp": "2026-02-11T11:52:47Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=商君書/卷五&oldid=2648348",
+      "raw_sha256": "1a871d955d7f3e40df92be26b06e2ae909155526656bbf1d9e3c78bc4e140186",
+      "start": 19488,
+      "end": 25665,
+      "raw_file": "pages/05.wikitext"
+    }
+  ],
+  "retrieved_on": "2026-10-19",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "c56f99a3566c7007c0aba6b5bfa24bb2ba218c693061f4960cf3782028b5c9b4",
+  "extraction_sha256": "3fbf57a3a73eef92b4c975fb3a2e22f14c3ca3b9bbcdb6c8227eca5c246edfc8",
+  "scope": "传世目录二十六目，正文现存二十四篇；原第十六《刑约》、第二十一《御盗》亡，不补佚文。保留原始稀疏篇号及五卷归属；按所选页自然空行定位，不按每个“曰”机械拆段。",
+  "edition_status": "中文维基文库《商君書》五卷固定电子工作本，目录标其收录于《指海》；未逐字对读统一纸本或影印本，不将旧题商鞅等同全书每句均为商鞅本人所作。",
+  "chapter_count": 24,
+  "passage_count": 127,
+  "text_characters_including_punctuation": 24200,
+  "normalization": [
+    "保存官方API五卷固定修订原始wikitext、修订号、时间、URL及SHA256；拼合快照所有字符区间分为正文/排除",
+    "唯一onlyinclude内按二级篇题取二十四存篇；篇题、页头页尾导航、卷五末独立</div>排除",
+    "第十六篇缺正文；第二十一篇亡佚说明不混正文；缺篇及原目录信息另存lost_chapters/chapter_map",
+    "所选源页自然空行分定位段，保留原字、源标点；源字形模板窄范围正规化并保存editorial_notes",
+    "OpenCC0.1.7 t2s仅另存简体检索层，显示与引用仍以固定原文为准"
+  ],
+  "source_attribution": "中文维基文库相应原典页面及其贡献者；使用时保留固定修订号、来源和加工说明",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "保留站点所列适用许可及归属；古代原文与站点数字整理内容分别理解",
+  "original_structure": {
+    "volumes": 5,
+    "catalog_chapters": 26,
+    "surviving_chapters": 24,
+    "lost_chapter_numbers": [
+      16,
+      21
+    ],
+    "lost_body_included": false
+  },
+  "source_index": {
+    "title": "商君書",
+    "revision": 2593685,
+    "timestamp": "2025-08-25T06:51:12Z",
+    "url": "https://zh.wikisource.org/w/index.php?title=商君書&oldid=2593685",
+    "raw_sha256": "5477704c7dd67e878fef4b28bc84e39201561ba83c3be8470d13631a60a19249",
+    "raw_file": "index.wikitext"
+  },
+  "chapter_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "missing_chapter_numbers": [
+    16,
+    21
+  ],
+  "normalization_references": [
+    {
+      "title": "Template:!",
+      "revision": 2561363,
+      "timestamp": "2025-05-15T15:24:31Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:!&oldid=2561363",
+      "raw_sha256": "6eac81f147129004a4ee620d15d516fc3003213ac685eb7da52eb664ed1258ec",
+      "raw_file": "templates/bang.wikitext"
+    },
+    {
+      "title": "Template:!/doc",
+      "revision": 2561370,
+      "timestamp": "2025-05-15T15:36:30Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:!/doc&oldid=2561370",
+      "raw_sha256": "fe74ad00ad20693a6cecac461c681753e346871d5205b68a34deb5fb9178d0fd",
+      "raw_file": "templates/bang-doc.wikitext"
+    },
+    {
+      "title": "Template:？",
+      "revision": 1558960,
+      "timestamp": "2019-04-21T09:33:47Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:？&oldid=1558960",
+      "raw_sha256": "3323a83a200e19be354c1ea0d62b5f110ec8dc26cfc183ccd49f7e44c0884089",
+      "raw_file": "templates/fullwidth-question-redirect.wikitext"
+    },
+    {
+      "title": "Template:?",
+      "revision": 1565051,
+      "timestamp": "2019-05-17T02:51:50Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:?&oldid=1565051",
+      "raw_sha256": "8721c77bfd78e0c735a50c16a7eb48eca8e391d375c172e92b5301bbb50de60e",
+      "raw_file": "templates/question-target.wikitext"
+    },
+    {
+      "title": "Template:?/doc",
+      "revision": 2375031,
+      "timestamp": "2024-03-18T11:55:06Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:?/doc&oldid=2375031",
+      "raw_sha256": "dfaff62fe52c3fc84879ee0414ed8b7d2a0166addf9e8d693aa12bc05070a7da",
+      "raw_file": "templates/question-doc.wikitext"
+    },
+    {
+      "title": "Template:僻字",
+      "revision": 2561505,
+      "timestamp": "2025-05-16T01:49:54Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:僻字&oldid=2561505",
+      "raw_sha256": "49a09a0fe90b18dc5ed3edf5d70c4387e0e4bb4766eca50337a533c326829ad5",
+      "raw_file": "templates/encoded-glyph.wikitext"
+    },
+    {
+      "title": "Template:僻字/doc",
+      "revision": 2561374,
+      "timestamp": "2025-05-15T15:41:44Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:僻字/doc&oldid=2561374",
+      "raw_sha256": "713fe5f1f9df173419b6d16ea9bf7341bab534a0a4036da4bf5fde14f5f1aef7",
+      "raw_file": "templates/encoded-glyph-doc.wikitext"
+    }
+  ],
+  "glyph_processing_boundary": "!模板官方定义将首项实字传给僻字模板，第二项为描述；全角？官方重定向到ASCII?缺字模板，参数为缺字描述。本库以〔字形:IDS〕明示描述，不宣称是已考定汉字。",
+  "source_risks": [
+    {
+      "passage_id": "SJS-26-004",
+      "kind": "source_glyph_template_uncertainty",
+      "source_templates": [
+        "{{!|𩤝|馬敄}}"
+      ],
+      "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+    }
+  ],
+  "source_observations": []
+}

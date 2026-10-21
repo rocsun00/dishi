@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "normalization": "wiki-body-v1",
+  "segments": [
+    {
+      "kind": "excluded",
+      "start": 0,
+      "end": 199,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-001",
+      "start": 199,
+      "end": 456
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-002",
+      "start": 456,
+      "end": 600
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-003",
+      "start": 600,
+      "end": 766
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-004",
+      "start": 766,
+      "end": 805
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-005",
+      "start": 805,
+      "end": 861
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-006",
+      "start": 861,
+      "end": 972
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-007",
+      "start": 972,
+      "end": 1011
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-008",
+      "start": 1011,
+      "end": 1097
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-009",
+      "start": 1097,
+      "end": 1208
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-010",
+      "start": 1208,
+      "end": 1540
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-011",
+      "start": 1540,
+      "end": 1774
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-012",
+      "start": 1774,
+      "end": 1928
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-013",
+      "start": 1928,
+      "end": 2091
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-014",
+      "start": 2091,
+      "end": 2170
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-015",
+      "start": 2170,
+      "end": 2252
+    },
+    {
+      "kind": "passage",
+      "id": "DX-01-016",
+      "start": 2252,
+      "end": 2380
+    },
+    {
+      "kind": "excluded",
+      "start": 2380,
+      "end": 2500,
+      "reason": "网页头尾、附注、音义、跋或空白，未作正文"
+    }
+  ]
+}

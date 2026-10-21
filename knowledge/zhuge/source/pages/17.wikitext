@@ -1,0 +1,1 @@
+{{#invoke:Year Link|gl|{{{1}}}|{{{2|}}}}}<noinclude>{{documentation}}</noinclude>

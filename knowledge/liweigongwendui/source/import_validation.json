@@ -1,0 +1,19 @@
+{
+  "role": "author-structural-validation-only",
+  "command": "python3 dishi/knowledge/kb.py build --book liweigongwendui",
+  "result": {
+    "id": "liweigongwendui",
+    "title": "李卫公问对（三卷电子工作本）",
+    "valid": true,
+    "chapters": 3,
+    "passages": 50,
+    "readings": 50,
+    "concepts": 33,
+    "examples": 22,
+    "verified_quotes": 55,
+    "errors": []
+  },
+  "not_independent_acceptance": true,
+  "grouping": "3 source volumes, 17/18/15 complete blank-line dialogue groups, 197 colon speaker lines are not 197 chapters or 98 chapters",
+  "pending": "Independent raw source reconstruction, full semantic review, cold trial, final integration by parent"
+}

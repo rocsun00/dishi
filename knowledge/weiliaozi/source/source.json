@@ -1,0 +1,628 @@
+{
+  "id": "weiliaozi",
+  "work_id": "weiliaozi",
+  "title": "尉缭子（四库电子本五卷二十四篇）",
+  "prefix": "WLZ",
+  "source_title": "尉繚子 (四庫全書本)",
+  "revision": "631866/631868/631870/631872/631874",
+  "source_url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71&oldid=631866",
+  "source_pages": [
+    {
+      "title": "尉繚子 (四庫全書本)/卷1",
+      "pageid": 260899,
+      "revision": 631866,
+      "timestamp": "2016-10-14T04:02:11Z",
+      "retrieved_at_utc": "2026-10-20T03:24:17.091470+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T03:24:30.087426+00:00",
+      "raw_file": "pages/01.wikitext",
+      "raw_sha256": "1b7234e844932511ed7468fd8fdf3695dea1884e983e49c747c6f14e6c62ab9c",
+      "api_response": "api/body-titles.json",
+      "api_sha256": "1cc710e8b69c367e9e6ae4acfd2354329d80e4d02c6437e25769904cf5cf9d59",
+      "fixed_api_response": "api/body-fixed.json",
+      "fixed_api_sha256": "eeb1f31f4d7322baa16a299029c97e990ca92afc6cdc525bd0b0ad86c4b22755",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71&oldid=631866",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71&action=history",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%A4%A9%E5%AE%98%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E8%AB%87%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%88%B6%E8%AB%87%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%88%B0%E5%A8%81%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%94%BB%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%AE%88%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8D%81%E4%BA%8C%E9%99%B5%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%AD%A6%E8%AD%B0%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%B0%87%E7%90%86%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8E%9F%E5%AE%98%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%B2%BB%E6%9C%AC%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%88%B0%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E9%87%8D%E5%88%91%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E4%BC%8D%E5%88%B6%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%88%86%E5%A1%9E%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%9D%9F%E4%BC%8D%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E7%B6%93%E5%8D%92%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8B%92%E5%8D%92%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%B0%87%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E8%B8%B5%E8%BB%8D%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E6%95%99%E4%B8%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E6%95%99%E4%B8%8B%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E4%BB%A4%E4%B8%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E4%BB%A4%E4%B8%8B%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B76&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=765100%7C765104%7C765108%7C631805%7C631807%7C631809%7C631866%7C631868%7C631870%7C631872%7C631874",
+      "author_attribution": "旧题周尉缭撰；具体作者、年代与传本成书不作定案",
+      "contributors_attribution": "尉繚子 (四庫全書本)/卷1 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "acquisition_note": "root统一批量标题请求与固定修订请求；完整原始响应另含六韬及未存在页，单页从各响应query.pages中按pageid核取，非作者另取",
+      "start": 0,
+      "end": 3321
+    },
+    {
+      "title": "尉繚子 (四庫全書本)/卷2",
+      "pageid": 260900,
+      "revision": 631868,
+      "timestamp": "2016-10-14T04:02:11Z",
+      "retrieved_at_utc": "2026-10-20T03:24:17.091470+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T03:24:30.087426+00:00",
+      "raw_file": "pages/02.wikitext",
+      "raw_sha256": "9d1babdf1b149c75366897e28873740db7c731bf6293c0c4e184ffe262493b94",
+      "api_response": "api/body-titles.json",
+      "api_sha256": "1cc710e8b69c367e9e6ae4acfd2354329d80e4d02c6437e25769904cf5cf9d59",
+      "fixed_api_response": "api/body-fixed.json",
+      "fixed_api_sha256": "eeb1f31f4d7322baa16a299029c97e990ca92afc6cdc525bd0b0ad86c4b22755",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72&oldid=631868",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72&action=history",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%A4%A9%E5%AE%98%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E8%AB%87%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%88%B6%E8%AB%87%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%88%B0%E5%A8%81%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%94%BB%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%AE%88%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8D%81%E4%BA%8C%E9%99%B5%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%AD%A6%E8%AD%B0%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%B0%87%E7%90%86%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8E%9F%E5%AE%98%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%B2%BB%E6%9C%AC%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%88%B0%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E9%87%8D%E5%88%91%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E4%BC%8D%E5%88%B6%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%88%86%E5%A1%9E%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%9D%9F%E4%BC%8D%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E7%B6%93%E5%8D%92%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8B%92%E5%8D%92%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%B0%87%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E8%B8%B5%E8%BB%8D%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E6%95%99%E4%B8%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E6%95%99%E4%B8%8B%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E4%BB%A4%E4%B8%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E4%BB%A4%E4%B8%8B%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B76&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=765100%7C765104%7C765108%7C631805%7C631807%7C631809%7C631866%7C631868%7C631870%7C631872%7C631874",
+      "author_attribution": "旧题周尉缭撰；具体作者、年代与传本成书不作定案",
+      "contributors_attribution": "尉繚子 (四庫全書本)/卷2 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "acquisition_note": "root统一批量标题请求与固定修订请求；完整原始响应另含六韬及未存在页，单页从各响应query.pages中按pageid核取，非作者另取",
+      "start": 3321,
+      "end": 5869
+    },
+    {
+      "title": "尉繚子 (四庫全書本)/卷3",
+      "pageid": 260901,
+      "revision": 631870,
+      "timestamp": "2016-10-14T04:02:11Z",
+      "retrieved_at_utc": "2026-10-20T03:24:17.091470+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T03:24:30.087426+00:00",
+      "raw_file": "pages/03.wikitext",
+      "raw_sha256": "a39fb49c1c03c007e1c5346937cab383f9db295829b47bbf14e665158ee915a6",
+      "api_response": "api/body-titles.json",
+      "api_sha256": "1cc710e8b69c367e9e6ae4acfd2354329d80e4d02c6437e25769904cf5cf9d59",
+      "fixed_api_response": "api/body-fixed.json",
+      "fixed_api_sha256": "eeb1f31f4d7322baa16a299029c97e990ca92afc6cdc525bd0b0ad86c4b22755",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73&oldid=631870",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73&action=history",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%A4%A9%E5%AE%98%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E8%AB%87%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%88%B6%E8%AB%87%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%88%B0%E5%A8%81%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%94%BB%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%AE%88%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8D%81%E4%BA%8C%E9%99%B5%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%AD%A6%E8%AD%B0%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%B0%87%E7%90%86%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8E%9F%E5%AE%98%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%B2%BB%E6%9C%AC%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%88%B0%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E9%87%8D%E5%88%91%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E4%BC%8D%E5%88%B6%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%88%86%E5%A1%9E%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%9D%9F%E4%BC%8D%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E7%B6%93%E5%8D%92%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8B%92%E5%8D%92%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%B0%87%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E8%B8%B5%E8%BB%8D%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E6%95%99%E4%B8%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E6%95%99%E4%B8%8B%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E4%BB%A4%E4%B8%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E4%BB%A4%E4%B8%8B%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B76&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=765100%7C765104%7C765108%7C631805%7C631807%7C631809%7C631866%7C631868%7C631870%7C631872%7C631874",
+      "author_attribution": "旧题周尉缭撰；具体作者、年代与传本成书不作定案",
+      "contributors_attribution": "尉繚子 (四庫全書本)/卷3 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "acquisition_note": "root统一批量标题请求与固定修订请求；完整原始响应另含六韬及未存在页，单页从各响应query.pages中按pageid核取，非作者另取",
+      "start": 5869,
+      "end": 7595
+    },
+    {
+      "title": "尉繚子 (四庫全書本)/卷4",
+      "pageid": 260902,
+      "revision": 631872,
+      "timestamp": "2016-10-14T04:02:12Z",
+      "retrieved_at_utc": "2026-10-20T03:24:17.091470+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T03:24:30.087426+00:00",
+      "raw_file": "pages/04.wikitext",
+      "raw_sha256": "5742acdc0fcf2b67f4c5a90be013cad9a26223e936e40b84fd27b2108ec19770",
+      "api_response": "api/body-titles.json",
+      "api_sha256": "1cc710e8b69c367e9e6ae4acfd2354329d80e4d02c6437e25769904cf5cf9d59",
+      "fixed_api_response": "api/body-fixed.json",
+      "fixed_api_sha256": "eeb1f31f4d7322baa16a299029c97e990ca92afc6cdc525bd0b0ad86c4b22755",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74&oldid=631872",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74&action=history",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%A4%A9%E5%AE%98%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E8%AB%87%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%88%B6%E8%AB%87%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%88%B0%E5%A8%81%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%94%BB%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%AE%88%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8D%81%E4%BA%8C%E9%99%B5%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%AD%A6%E8%AD%B0%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%B0%87%E7%90%86%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8E%9F%E5%AE%98%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%B2%BB%E6%9C%AC%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%88%B0%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E9%87%8D%E5%88%91%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E4%BC%8D%E5%88%B6%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%88%86%E5%A1%9E%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%9D%9F%E4%BC%8D%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E7%B6%93%E5%8D%92%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8B%92%E5%8D%92%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%B0%87%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E8%B8%B5%E8%BB%8D%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E6%95%99%E4%B8%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E6%95%99%E4%B8%8B%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E4%BB%A4%E4%B8%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E4%BB%A4%E4%B8%8B%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B76&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=765100%7C765104%7C765108%7C631805%7C631807%7C631809%7C631866%7C631868%7C631870%7C631872%7C631874",
+      "author_attribution": "旧题周尉缭撰；具体作者、年代与传本成书不作定案",
+      "contributors_attribution": "尉繚子 (四庫全書本)/卷4 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "acquisition_note": "root统一批量标题请求与固定修订请求；完整原始响应另含六韬及未存在页，单页从各响应query.pages中按pageid核取，非作者另取",
+      "start": 7595,
+      "end": 9077
+    },
+    {
+      "title": "尉繚子 (四庫全書本)/卷5",
+      "pageid": 260903,
+      "revision": 631874,
+      "timestamp": "2016-10-14T04:02:12Z",
+      "retrieved_at_utc": "2026-10-20T03:24:17.091470+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T03:24:30.087426+00:00",
+      "raw_file": "pages/05.wikitext",
+      "raw_sha256": "1a56f58946ee4db53d0eb54744b860d5fc54a6c43205f30bb40c59102d29b6ed",
+      "api_response": "api/body-titles.json",
+      "api_sha256": "1cc710e8b69c367e9e6ae4acfd2354329d80e4d02c6437e25769904cf5cf9d59",
+      "fixed_api_response": "api/body-fixed.json",
+      "fixed_api_sha256": "eeb1f31f4d7322baa16a299029c97e990ca92afc6cdc525bd0b0ad86c4b22755",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75&oldid=631874",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75&action=history",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%A4%A9%E5%AE%98%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E8%AB%87%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%88%B6%E8%AB%87%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%88%B0%E5%A8%81%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%94%BB%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%AE%88%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8D%81%E4%BA%8C%E9%99%B5%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%AD%A6%E8%AD%B0%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%B0%87%E7%90%86%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8E%9F%E5%AE%98%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%B2%BB%E6%9C%AC%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%88%B0%E6%AC%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E9%87%8D%E5%88%91%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E4%BC%8D%E5%88%B6%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%88%86%E5%A1%9E%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E6%9D%9F%E4%BC%8D%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E7%B6%93%E5%8D%92%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%8B%92%E5%8D%92%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%B0%87%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E8%B8%B5%E8%BB%8D%E4%BB%A4%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E6%95%99%E4%B8%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E6%95%99%E4%B8%8B%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E4%BB%A4%E4%B8%8A%7C%E5%B0%89%E7%B9%9A%E5%AD%90%2F%E5%85%B5%E4%BB%A4%E4%B8%8B%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B71%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B72%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B73%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B74%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B75%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B76&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=765100%7C765104%7C765108%7C631805%7C631807%7C631809%7C631866%7C631868%7C631870%7C631872%7C631874",
+      "author_attribution": "旧题周尉缭撰；具体作者、年代与传本成书不作定案",
+      "contributors_attribution": "尉繚子 (四庫全書本)/卷5 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "acquisition_note": "root统一批量标题请求与固定修订请求；完整原始响应另含六韬及未存在页，单页从各响应query.pages中按pageid核取，非作者另取",
+      "start": 9077,
+      "end": 11549
+    }
+  ],
+  "reference_pages": [
+    {
+      "title": "尉繚子 (四庫全書本)",
+      "pageid": 260905,
+      "revision": 631878,
+      "timestamp": "2016-10-14T04:02:12Z",
+      "retrieved_at_utc": "2026-10-20T03:24:00.651787+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T03:24:06.908654+00:00",
+      "raw_file": "pages/06-index.wikitext",
+      "raw_sha256": "0e7ee3a8a1dbf8d1680126da51d4711a60c9c789589410e6f675ee1e6b31a565",
+      "api_response": "api/main-titles.json",
+      "api_sha256": "20f09ec1436e131cd3f068501b139201196682c29979cec0b3d49565ad1ab9fb",
+      "fixed_api_response": "api/main-fixed.json",
+      "fixed_api_sha256": "20f09ec1436e131cd3f068501b139201196682c29979cec0b3d49565ad1ab9fb",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631878",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&action=history",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%B0%89%E7%B9%9A%E5%AD%90%7C%E5%85%AD%E9%9F%9C%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2416025%7C631813%7C631878%7C2329526",
+      "author_attribution": "旧题周尉缭撰；具体作者、年代与传本成书不作定案",
+      "contributors_attribution": "尉繚子 (四庫全書本) — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "acquisition_note": "root统一批量标题请求与固定修订请求；完整原始响应另含六韬及未存在页，单页从各响应query.pages中按pageid核取，非作者另取"
+    },
+    {
+      "title": "尉繚子",
+      "pageid": 1111614,
+      "revision": 2329526,
+      "timestamp": "2023-11-04T00:54:30Z",
+      "retrieved_at_utc": "2026-10-20T03:24:00.651787+00:00",
+      "fixed_retrieved_at_utc": "2026-10-20T03:24:06.908654+00:00",
+      "raw_file": "pages/07-incomplete-index.wikitext",
+      "raw_sha256": "ea32703208645ba31837ed4fd7b7afe3460a8b28afccf3136617c0facbe47171",
+      "api_response": "api/main-titles.json",
+      "api_sha256": "20f09ec1436e131cd3f068501b139201196682c29979cec0b3d49565ad1ab9fb",
+      "fixed_api_response": "api/main-fixed.json",
+      "fixed_api_sha256": "20f09ec1436e131cd3f068501b139201196682c29979cec0b3d49565ad1ab9fb",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90&oldid=2329526",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%B0%89%E7%B9%9A%E5%AD%90&action=history",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%B0%89%E7%B9%9A%E5%AD%90%7C%E5%85%AD%E9%9F%9C%7C%E5%B0%89%E7%B9%9A%E5%AD%90+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%7C%E5%85%AD%E9%9F%9C+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&redirects=1",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=2416025%7C631813%7C631878%7C2329526",
+      "author_attribution": "旧题周尉缭撰；具体作者、年代与传本成书不作定案",
+      "contributors_attribution": "尉繚子 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "acquisition_note": "root统一批量标题请求与固定修订请求；完整原始响应另含六韬及未存在页，单页从各响应query.pages中按pageid核取，非作者另取"
+    },
+    {
+      "title": "漢書/卷030",
+      "revision": 7908197,
+      "timestamp": "2026-07-15T01:11:32Z",
+      "retrieved_at_utc": "2026-10-20T02:04:03.925051Z",
+      "raw_file": "pages/08-hanshu.wikitext",
+      "api_response": "api/shared-hanshu.json",
+      "fixed_api_response": "api/shared-hanshu-fixed.json",
+      "raw_sha256": "8f44ee30f3c0f7bb3cb628409531c2ace1e27386fcd878a5e12247649361024f",
+      "api_sha256": "d28a78afa981849f318c6a9b5a9a3b27aafca544f24434c84b8c0ab69c9d9890",
+      "fixed_api_sha256": "d28a78afa981849f318c6a9b5a9a3b27aafca544f24434c84b8c0ab69c9d9890",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030&oldid=7908197",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030&action=history",
+      "author_attribution": "班固等《汉书》著录",
+      "contributors_attribution": "漢書/卷030 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=7908197",
+      "fixed_retrieved_at_utc": "2026-10-20T02:04:03.925691Z",
+      "acquisition_note": "复用同工作区吴子包此前保存的官方双取响应与真实UTC；本轮作者未重新联网，完整原响应逐字复制；共享来源 ../wuzi/source"
+    },
+    {
+      "title": "四庫全書總目提要/卷099",
+      "revision": 1329524,
+      "timestamp": "2017-12-07T14:40:11Z",
+      "retrieved_at_utc": "2026-10-20T02:04:04.191912Z",
+      "raw_file": "pages/09-siku099.wikitext",
+      "api_response": "api/shared-siku099.json",
+      "fixed_api_response": "api/shared-siku099-fixed.json",
+      "raw_sha256": "7573d8f826031e90e80c0cc848626ff92f7e473af51900e7a6f0af3f43d157b1",
+      "api_sha256": "f67b7ec4be3c7f93cef704030e71d7f338930d90b04520304f90015abcf2e898",
+      "fixed_api_sha256": "f67b7ec4be3c7f93cef704030e71d7f338930d90b04520304f90015abcf2e898",
+      "double_fetch_content_equal": true,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E7%B8%BD%E7%9B%AE%E6%8F%90%E8%A6%81%2F%E5%8D%B7099&oldid=1329524",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E7%B8%BD%E7%9B%AE%E6%8F%90%E8%A6%81%2F%E5%8D%B7099&action=history",
+      "author_attribution": "纪昀等《四库全书总目》编纂者",
+      "contributors_attribution": "四庫全書總目提要/卷099 — 中文维基文库贡献者，修订历史见history_url",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "title_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E7%B8%BD%E7%9B%AE%E6%8F%90%E8%A6%81%2F%E5%8D%B7099",
+      "fixed_revision_api_url": "https://zh.wikisource.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&revids=1329524",
+      "fixed_retrieved_at_utc": "2026-10-20T02:04:04.194583Z",
+      "acquisition_note": "复用同工作区吴子包此前保存的官方双取响应与真实UTC；本轮作者未重新联网，完整原响应逐字复制；共享来源 ../wuzi/source"
+    }
+  ],
+  "retrieved_on": "2026-10-20",
+  "retrieved_at_utc": "2026-10-20T03:24:17.091470+00:00",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "df4863a178d8f712ea19d367879f39037150922eacf195e1d894a33e7ff137ab",
+  "extraction_sha256": "dd1d4ac5b29bf82c62dd8b628f20bed1d23c45c1dab46bf75dda9a508ef25ae2",
+  "scope": "完整收录固定四库电子本五卷二十四篇，每篇源页一自然长段，共24段。不含四库提要、目录、旧题元数据；普通尉繚子页面未完成且所链24子页官方API为missing，不能作全文。",
+  "edition_status": "四库全书本电子转录，无标点；未逐字对勘原刻影像，不自称校勘定本。保留四处SKchar字形模板的原标记，显示为有编号的未编码字形占位；不凭通行句猜字。",
+  "chapter_count": 24,
+  "chapter_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "chapter_unit": "篇现存正文",
+  "passage_count": 24,
+  "text_characters_including_punctuation": 9255,
+  "ancient_note_count": 0,
+  "normalization": [
+    "五卷依顺序原样无分隔拼接source.wikitext，各页起讫以Unicode字符计，页面原貌/API原响应和SHA完整保存",
+    "每篇一源自然长段原样保存，不按句号或现代主题切碎；引语在现代释义区分发言者",
+    "仅清理已支持的排版标记与空白；四处SKchar原标记另记，未编码字显示编号占位；无断句补字",
+    "元数据/四库提要与古书目参考不混正文；AI释义、卡和问答独立一层"
+  ],
+  "source_attribution": "旧题周尉缭撰；具体作者、时代与成书不作定论。五卷数字转录署中文维基文库对应页贡献者，固定版本与历史见逐页记录。四库提要/总目为清代编者意见，汉书为古著录；不冒充尉缭原话或现代考证定案。",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "上游数字整理声明CC BY-SA 4.0；古代原作公版、数字整理与项目现代解释分层，保留署名和改动记录，新增内容许可另行决定，不移除上游适用义务。",
+  "source_risks": [
+    {
+      "passage_id": "WLZ-01-001",
+      "kind": "wording_and_dialogue",
+      "source_phrase": "黄帝形德",
+      "description": "问句形德、答句刑德原字分别保留；梁惠王问、尉缭子答及引黄帝/公子心的引语层不混为同一发言。"
+    },
+    {
+      "passage_id": "WLZ-01-001",
+      "kind": "historical_numbers",
+      "source_phrase": "二萬二千五百人擊紂之億萬",
+      "description": "书内武王与商兵数字及胜事未经独立战史核验，不作现代统计或预测。"
+    },
+    {
+      "passage_id": "WLZ-02-001",
+      "kind": "uncertain_wording",
+      "source_phrase": "大不窕小不恢",
+      "description": "简古字句照存，暂宽述治兵深密及禁舍开塞，不以记忆替字。"
+    },
+    {
+      "passage_id": "WLZ-02-001",
+      "kind": "rhetorical_scale",
+      "source_phrase": "患在百里之内不起一日之師",
+      "description": "百里/日、千里/月、四海/岁的分级比喻不换算现代动员工期。"
+    },
+    {
+      "passage_id": "WLZ-02-001",
+      "kind": "authority_boundary",
+      "source_phrase": "上不制于天下不制于地中不制于人",
+      "description": "将帅自主反对不当拘制，不能当作不受现代法和责任约束。"
+    },
+    {
+      "passage_id": "WLZ-03-001",
+      "kind": "unencoded_source_glyph",
+      "source_phrase": "〔四库字形:3951〕",
+      "description": "source_markup含{{SKchar|3951}}；显示明确编号占位，不猜补为通行字，不计古注。"
+    },
+    {
+      "passage_id": "WLZ-03-001",
+      "kind": "coercion_and_kinship",
+      "source_phrase": "父不敢舍子子不敢舍父",
+      "description": "军令使亲属亦不得容舍；不是平等合作或自愿承诺。"
+    },
+    {
+      "passage_id": "WLZ-03-001",
+      "kind": "suicidal_and_homicidal_mobilization",
+      "source_phrase": "為一死賊",
+      "description": "以死贼喻三军的恐惧压力和死亡动员保留，不转换成正向工作激情。"
+    },
+    {
+      "passage_id": "WLZ-03-001",
+      "kind": "agriculture_warfare_coercion",
+      "source_phrase": "非農無所得食非戰無所得爵",
+      "description": "限制食物和爵禄通道的强制农战，不能洗成现代自由选择和公平激励。"
+    },
+    {
+      "passage_id": "WLZ-03-001",
+      "kind": "outcome_boundary",
+      "source_phrase": "雖戰勝而國益弱得地而國益貧",
+      "description": "局部战胜可能与国力衰弱并存；现代具体净收益须另算，不由古句自动判定。"
+    },
+    {
+      "passage_id": "WLZ-04-001",
+      "kind": "uncertain_syntax",
+      "source_phrase": "小過無更小疑無中",
+      "description": "无标点断读与更中用义有余地，只按审令与稳定宽述，不许可知错不改。"
+    },
+    {
+      "passage_id": "WLZ-04-001",
+      "kind": "death_mobilization",
+      "source_phrase": "可以死易生",
+      "description": "礼俗亲爱被用于求死战，不能只保留民生语汇而省去生命代价。"
+    },
+    {
+      "passage_id": "WLZ-04-001",
+      "kind": "military_punishment",
+      "source_phrase": "刑罰不中則衆不畏",
+      "description": "刑罚适当的所谓中仍在恐惧军法内，不等同现代权利平等或正当程序。"
+    },
+    {
+      "passage_id": "WLZ-05-001",
+      "kind": "uncertain_wording",
+      "source_phrase": "疾陵之兵",
+      "description": "疾陵源词不以熟悉他本改字，宽述力分心疑、进退失控之军。"
+    },
+    {
+      "passage_id": "WLZ-05-001",
+      "kind": "civilian_cost",
+      "source_phrase": "逼危男女",
+      "description": "围城逼压涉及男女平民，不能净化为普通竞争的资源调度。"
+    },
+    {
+      "passage_id": "WLZ-05-001",
+      "kind": "rhetorical_certainty",
+      "source_phrase": "戰不必勝不可以言戰",
+      "description": "必胜是规范要求，非已提供可验证保证；现代需反证与损失边界。"
+    },
+    {
+      "passage_id": "WLZ-06-001",
+      "kind": "uncertain_subject",
+      "source_phrase": "此救而示之不誠",
+      "description": "救诚/示不诚与末尾强弱前后之句主体难定，不造唯一阵图。"
+    },
+    {
+      "passage_id": "WLZ-06-001",
+      "kind": "historical_engineering_numbers",
+      "source_phrase": "城一丈十人守之",
+      "description": "古城人数丈数仅作历史制度，不作现实防御工程或军事操作参数。"
+    },
+    {
+      "passage_id": "WLZ-07-001",
+      "kind": "violence_boundary",
+      "source_phrase": "孽在於屠戮",
+      "description": "屠戮生孽直接批评杀戮之害，不泛化为仅有效率损失。"
+    },
+    {
+      "passage_id": "WLZ-07-001",
+      "kind": "uncertain_term",
+      "source_phrase": "守在於外飾",
+      "description": "外饰与任疑等极短条缺语境，具体术义保留。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "unencoded_source_glyph",
+      "source_phrase": "〔四库字形:1841〕",
+      "description": "位于合…兆占验词，保留{{SKchar|1841}}原模板与编号占位；未据惯用卜兆补字。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "unencoded_source_glyph",
+      "source_phrase": "〔四库字形:195〕",
+      "description": "位于吴起宿野樸…葢之，保留{{SKchar|195}}；不猜物名。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "unencoded_source_glyph",
+      "source_phrase": "〔四库字形:2982〕",
+      "description": "位于援枹而鼓…其身，保留{{SKchar|2982}}；仅依递进语境宽述忘身，不回写字。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "coercive_punishment",
+      "source_phrase": "殺一人而三軍震者殺之",
+      "description": "刑上赏下仍以实际杀戮立威，不能改写成一般处分。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "uncertain_market_sentence",
+      "source_phrase": "市賤賣貴以限士人",
+      "description": "市的价格和士人句读不唯一，仅述物资供给管理的明确方向，不造精确价格制度。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "uncertain_analogy",
+      "source_phrase": "敵白者堊之赤者赭之",
+      "description": "颜色涂饰的军事比喻不强定具体战法。"
+    },
+    {
+      "passage_id": "WLZ-08-001",
+      "kind": "violence_and_initiative",
+      "source_phrase": "非吾令也斬之",
+      "description": "书内吴起斩擅战有功者，须保留令重个人战果的残酷，不称现代合规最佳实践。"
+    },
+    {
+      "passage_id": "WLZ-09-001",
+      "kind": "uncertain_wording",
+      "source_phrase": "君子不救囚於五步之外",
+      "description": "不救囚源串保留，不静默改成求或赦；主句不确定不伪作逐字全译。"
+    },
+    {
+      "passage_id": "WLZ-09-001",
+      "kind": "torture_and_evidence",
+      "source_phrase": "自誣",
+      "description": "原文批酷刑使强者虚认，现代证据论为类比，不冒称已有完整现代司法。"
+    },
+    {
+      "passage_id": "WLZ-10-001",
+      "kind": "uncertain_punctuation",
+      "source_phrase": "正比法會計民之具也",
+      "description": "连续短语句读不定，宽述按法核数，不造现代行政条文。"
+    },
+    {
+      "passage_id": "WLZ-10-001",
+      "kind": "internal_tension",
+      "source_phrase": "國無商賈",
+      "description": "理想无事句与武议市场给战守并存，不能删去或强作已统一经济政策。"
+    },
+    {
+      "passage_id": "WLZ-11-001",
+      "kind": "social_control",
+      "source_phrase": "無私耕私織",
+      "description": "无私涉及生产与私储控制，不只个人无私美德，也不直接等同某一现代经济制度。"
+    },
+    {
+      "passage_id": "WLZ-11-001",
+      "kind": "uncertain_distribution",
+      "source_phrase": "有子十人不加一飯有子一人不損一飯",
+      "description": "理想共同供给短句未明制度，不把人口饭量字面当实际分配算法。"
+    },
+    {
+      "passage_id": "WLZ-12-001",
+      "kind": "uncertain_syntax",
+      "source_phrase": "有者無之無者有之",
+      "description": "有无与正诈、神明等简奥句保留，不拼成读心或超自然预测术。"
+    },
+    {
+      "passage_id": "WLZ-13-001",
+      "kind": "collective_extreme_punishment",
+      "source_phrase": "身戮家殘去其籍發其墳墓暴其骨于市",
+      "description": "身戮、家残、削籍、暴骨皆为严酷刑罚，明确本人亲属和死者代价，不温和化。"
+    },
+    {
+      "passage_id": "WLZ-14-001",
+      "kind": "joint_liability_condition",
+      "source_phrase": "知而弗揭",
+      "description": "连坐条有知情不揭要件，不删成不知者也无条件同罪，但仍不认可其刑杀告发制度。"
+    },
+    {
+      "passage_id": "WLZ-15-001",
+      "kind": "uncertain_unit_reference",
+      "source_phrase": "非百人無得通",
+      "description": "依所属百人编制限制通行宽述，不强造每次满百人同行。"
+    },
+    {
+      "passage_id": "WLZ-16-001",
+      "kind": "uncertain_compensation",
+      "source_phrase": "亡伍而得伍者當之",
+      "description": "亡、得对象与抵偿尺度未充分明示，不造唯一战功抵罪表。"
+    },
+    {
+      "passage_id": "WLZ-16-001",
+      "kind": "concentrated_killing_authority",
+      "source_phrase": "大將軍無不得誅",
+      "description": "大将军最高诛罚权不改称一般授权，不作为现实领导任意处罚的依据。"
+    },
+    {
+      "passage_id": "WLZ-17-001",
+      "kind": "identification_and_punishment",
+      "source_phrase": "踰五行而後者有誅",
+      "description": "色章队列便于追查且用刑杀约束退后，现代标记类比不能省去此代价。"
+    },
+    {
+      "passage_id": "WLZ-18-001",
+      "kind": "doubt_and_trust",
+      "source_phrase": "其舉有疑而不疑",
+      "description": "三累区分应疑不疑、可信不信与迟疾不当，不简化为凡事不疑或一律求快。"
+    },
+    {
+      "passage_id": "WLZ-19-001",
+      "kind": "speech_and_appeal_boundary",
+      "source_phrase": "有敢髙言者誅",
+      "description": "营内高言与越分上请均受极重处罚，不能用军无二令封堵现代申诉与安全报告。"
+    },
+    {
+      "passage_id": "WLZ-20-001",
+      "kind": "civilian_restriction",
+      "source_phrase": "四境之民無得行",
+      "description": "安内包含境内民众禁行及诛罚，不能只译后勤协调。"
+    },
+    {
+      "passage_id": "WLZ-21-001",
+      "kind": "uncertain_wording",
+      "source_phrase": "羅地者自揭其伍",
+      "description": "罗地字句无唯一断读，保持原形，五人教学和连责主要结构照述。"
+    },
+    {
+      "passage_id": "WLZ-21-001",
+      "kind": "death_mobilization",
+      "source_phrase": "敎之死而不疑",
+      "description": "教者连责及同组尽死指向生命强制，不能包装成导师责任和投入感。"
+    },
+    {
+      "passage_id": "WLZ-22-001",
+      "kind": "uncertain_technical_sentence",
+      "source_phrase": "陳車謂接連前矛馬冒其目也",
+      "description": "军车矛马的术语与句读不确定，不复原具体战术器用。"
+    },
+    {
+      "passage_id": "WLZ-22-001",
+      "kind": "appeal_boundary",
+      "source_phrase": "諸罰而請不罰者死",
+      "description": "求免刑者亦死的禁说情机制，不能当现代不得申诉的正当依据。"
+    },
+    {
+      "passage_id": "WLZ-22-001",
+      "kind": "morale_boundary",
+      "source_phrase": "傷氣敗軍曲謀敗國",
+      "description": "气伤为古代军心语汇，不诊断现代疾病，不把疲劳归咎个体不坚强。"
+    },
+    {
+      "passage_id": "WLZ-23-001",
+      "kind": "defined_term",
+      "source_phrase": "文所以視利害辨安危",
+      "description": "文本自定文之军事判断功能，不直接等同和平或现代文职。"
+    },
+    {
+      "passage_id": "WLZ-23-001",
+      "kind": "fear_based_control",
+      "source_phrase": "卒畏將甚于敵者勝",
+      "description": "以更畏将形成服从，非现代信任或自愿合作。"
+    },
+    {
+      "passage_id": "WLZ-24-001",
+      "kind": "uncertain_glyph",
+      "source_phrase": "邊縣列侯",
+      "description": "列侯字形保留，前哨/候类意义有疑，不按记忆改候。"
+    },
+    {
+      "passage_id": "WLZ-24-001",
+      "kind": "familial_liability_conditions",
+      "source_phrase": "父母妻子知之與同罪弗知赦之",
+      "description": "该条分知否，后条又分迟到与在家不捕告，不简化成一条无差别连罪或无家属刑。"
+    },
+    {
+      "passage_id": "WLZ-24-001",
+      "kind": "extreme_killing_and_fractions",
+      "source_phrase": "能殺士卒之半其次殺其十三其次殺其十一",
+      "description": "杀卒立威照存；十三十一可按古代十分之三/一读，但未据影印校勘。绝不替换为温和淘汰或现代容损率。"
+    }
+  ],
+  "text_character_count_note": "9255为规范显示字符数，包含四个多字符〔四库字形:编号〕占位；不是原刻字数。主文已知可见字符9212，另4个未编码字形引用不猜补。",
+  "source_observations": [
+    {
+      "kind": "bibliography_number_difference",
+      "description": "本批四库本提要电子页作杂家三十九篇；复用汉书电子页及四库总目卷099作二十九篇，兵形势皆三十一篇。只记录电子差别不改字，不据其断今本对应古目或归属。"
+    },
+    {
+      "kind": "authorship_and_compilation",
+      "description": "四库提要自己说不知本末、未详孰是，并转引胡应麟等意见；旧题周尉缭及杂家亡兵家传的意见不作现代定论。不合并梁惠王问答人物与秦尉缭。"
+    },
+    {
+      "kind": "website_missing_not_ancient_loss",
+      "description": "普通index带未完成提示且24所链子页本次官方API为missing，仅说明当前网页范围不足，不表示24篇古代亡佚；正式主文为另套四库五卷。"
+    }
+  ]
+}

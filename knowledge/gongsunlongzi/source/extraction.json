@@ -1,0 +1,432 @@
+{
+  "schema_version": 1,
+  "normalization": "wiki-body-v1",
+  "segments": [
+    {
+      "kind": "excluded",
+      "start": 0,
+      "end": 249,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-01-001",
+      "start": 249,
+      "end": 567
+    },
+    {
+      "kind": "excluded",
+      "start": 567,
+      "end": 569,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-01-002",
+      "start": 569,
+      "end": 1084
+    },
+    {
+      "kind": "excluded",
+      "start": 1084,
+      "end": 1086,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-01-003",
+      "start": 1086,
+      "end": 2088
+    },
+    {
+      "kind": "excluded",
+      "start": 2088,
+      "end": 2267,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-02-001",
+      "start": 2267,
+      "end": 2477
+    },
+    {
+      "kind": "excluded",
+      "start": 2477,
+      "end": 2479,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-02-002",
+      "start": 2479,
+      "end": 2928
+    },
+    {
+      "kind": "excluded",
+      "start": 2928,
+      "end": 2930,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-02-003",
+      "start": 2930,
+      "end": 3210
+    },
+    {
+      "kind": "excluded",
+      "start": 3210,
+      "end": 3212,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-02-004",
+      "start": 3212,
+      "end": 3726
+    },
+    {
+      "kind": "excluded",
+      "start": 3726,
+      "end": 3728,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-02-005",
+      "start": 3728,
+      "end": 3859
+    },
+    {
+      "kind": "excluded",
+      "start": 3859,
+      "end": 3861,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-02-006",
+      "start": 3861,
+      "end": 4383
+    },
+    {
+      "kind": "excluded",
+      "start": 4383,
+      "end": 4560,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-03-001",
+      "start": 4560,
+      "end": 4624
+    },
+    {
+      "kind": "excluded",
+      "start": 4624,
+      "end": 4626,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-03-002",
+      "start": 4626,
+      "end": 4764
+    },
+    {
+      "kind": "excluded",
+      "start": 4764,
+      "end": 4766,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-03-003",
+      "start": 4766,
+      "end": 4838
+    },
+    {
+      "kind": "excluded",
+      "start": 4838,
+      "end": 4840,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-03-004",
+      "start": 4840,
+      "end": 5113
+    },
+    {
+      "kind": "excluded",
+      "start": 5113,
+      "end": 5115,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-03-005",
+      "start": 5115,
+      "end": 5296
+    },
+    {
+      "kind": "excluded",
+      "start": 5296,
+      "end": 5298,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-03-006",
+      "start": 5298,
+      "end": 5460
+    },
+    {
+      "kind": "excluded",
+      "start": 5460,
+      "end": 5462,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-03-007",
+      "start": 5462,
+      "end": 5508
+    },
+    {
+      "kind": "excluded",
+      "start": 5508,
+      "end": 5510,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-03-008",
+      "start": 5510,
+      "end": 5723
+    },
+    {
+      "kind": "excluded",
+      "start": 5723,
+      "end": 5900,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-04-001",
+      "start": 5900,
+      "end": 6114
+    },
+    {
+      "kind": "excluded",
+      "start": 6114,
+      "end": 6116,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-04-002",
+      "start": 6116,
+      "end": 6523
+    },
+    {
+      "kind": "excluded",
+      "start": 6523,
+      "end": 6525,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-04-003",
+      "start": 6525,
+      "end": 6884
+    },
+    {
+      "kind": "excluded",
+      "start": 6884,
+      "end": 6886,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-04-004",
+      "start": 6886,
+      "end": 7094
+    },
+    {
+      "kind": "excluded",
+      "start": 7094,
+      "end": 7096,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-04-005",
+      "start": 7096,
+      "end": 7358
+    },
+    {
+      "kind": "excluded",
+      "start": 7358,
+      "end": 7360,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-04-006",
+      "start": 7360,
+      "end": 7383
+    },
+    {
+      "kind": "excluded",
+      "start": 7383,
+      "end": 7385,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-04-007",
+      "start": 7385,
+      "end": 7808
+    },
+    {
+      "kind": "excluded",
+      "start": 7808,
+      "end": 7810,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-04-008",
+      "start": 7810,
+      "end": 7976
+    },
+    {
+      "kind": "excluded",
+      "start": 7976,
+      "end": 7978,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-04-009",
+      "start": 7978,
+      "end": 8535
+    },
+    {
+      "kind": "excluded",
+      "start": 8535,
+      "end": 8712,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-05-001",
+      "start": 8712,
+      "end": 9048
+    },
+    {
+      "kind": "excluded",
+      "start": 9048,
+      "end": 9050,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-05-002",
+      "start": 9050,
+      "end": 9718
+    },
+    {
+      "kind": "excluded",
+      "start": 9718,
+      "end": 9720,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-05-003",
+      "start": 9720,
+      "end": 10246
+    },
+    {
+      "kind": "excluded",
+      "start": 10246,
+      "end": 10248,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-05-004",
+      "start": 10248,
+      "end": 10797
+    },
+    {
+      "kind": "excluded",
+      "start": 10797,
+      "end": 10799,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-05-005",
+      "start": 10799,
+      "end": 11371
+    },
+    {
+      "kind": "excluded",
+      "start": 11371,
+      "end": 11534,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-06-001",
+      "start": 11534,
+      "end": 11791
+    },
+    {
+      "kind": "excluded",
+      "start": 11791,
+      "end": 11793,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-06-002",
+      "start": 11793,
+      "end": 11900
+    },
+    {
+      "kind": "excluded",
+      "start": 11900,
+      "end": 11902,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-06-003",
+      "start": 11902,
+      "end": 12348
+    },
+    {
+      "kind": "excluded",
+      "start": 12348,
+      "end": 12350,
+      "reason": "网页头尾、章题、卷题或空白，未作正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GSL-06-004",
+      "start": 12350,
+      "end": 12730
+    },
+    {
+      "kind": "excluded",
+      "start": 12730,
+      "end": 12760,
+      "reason": "网页头尾、附注、音义、跋或空白，未作正文"
+    }
+  ]
+}

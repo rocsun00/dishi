@@ -1,0 +1,1352 @@
+{
+  "schema_version": 4,
+  "version": "0.2.0",
+  "date": "2026-10-20",
+  "revision": "classical-research-f1-prepackage",
+  "status": "source_checks_passed_with_declared_limits",
+  "stage": "prepackage_source_checks",
+  "record_scope": "Checks of frozen packaging inputs; final artifact verification is written beside the ZIP, not embedded here.",
+  "test_runs": [
+    {
+      "python": "3.14.3",
+      "corpus_tests": 85,
+      "distribution_tests": 24,
+      "adviser_tests": 12,
+      "total": 121,
+      "status": "passed",
+      "corpus_validation": "valid"
+    },
+    {
+      "python": "3.9.6",
+      "corpus_tests": 85,
+      "distribution_tests": 24,
+      "adviser_tests": 12,
+      "total": 121,
+      "status": "passed",
+      "corpus_validation": "valid"
+    }
+  ],
+  "F1": {
+    "status": "fixed",
+    "copyable_prompt_characters": {
+      "en": {
+        "before_characters": 8915,
+        "after_characters": 7291
+      },
+      "zh-CN": {
+        "before_characters": 2317,
+        "after_characters": 2317
+      }
+    },
+    "project_character_budget": 7500,
+    "budget_is_universal_provider_limit": false,
+    "five_adviser_rules_preserved_verbatim": true,
+    "chinese_prompt_body_unchanged": true,
+    "entry_limit_guidance_added_in_both_languages": true,
+    "knowledge_uploads_not_automatic_instructions": true,
+    "actual_chat_app_paste_test": false,
+    "official_sources": [
+      "https://help.openai.com/en/articles/8096356-chatgpt-custom-instructions",
+      "https://help.openai.com/en/articles/8554397-creating-and-editing-gpts"
+    ],
+    "budget_probe": "Original 8915-character prompt rejected; current prompts accepted; only temporary files used."
+  },
+  "changed_files_since_pre_f1": [
+    "docs/portable-prompt.en.md",
+    "docs/portable-prompt.zh-CN.md",
+    "tests/test_advisor_contract.py",
+    "docs/validation.md",
+    "docs/validation-results.json"
+  ],
+  "corpus": {
+    "ready": 27,
+    "passages": 6640,
+    "readings": 6640,
+    "concepts": 2226,
+    "examples": 871,
+    "verified_quote_occurrences": 3645,
+    "comparison_baseline": "immediately before the classical-research mechanism revision; non-cache knowledge files",
+    "files_unchanged": 1374,
+    "files_modified": 0,
+    "files_added": 0,
+    "files_removed": 0
+  },
+  "mechanism_changes_since_review": false,
+  "reviews": {
+    "independent_code_review": "approved",
+    "python_increment_review": "approved",
+    "user_supplied_claude_review": "source approved with F1; its own reported trials and probes not represented as freshly executed here"
+  },
+  "release_plan": {
+    "version": "0.2.0",
+    "archive_complete_previous_release_before_build": true,
+    "previous_zip_sha256": "ccbfe4d6c048650b9725a82d015d80dab3cca158eac22d6722aab1a74181f624",
+    "final_artifact_verification": "external handoff record beside ZIP",
+    "real_installed_skill_version": "0.1.1",
+    "replace_real_installed_skill": false,
+    "uploaded": false
+  },
+  "limits": [
+    "No fresh advice-quality trial after prompt compression",
+    "No real chat-app paste test",
+    "No Windows/Linux native-host test",
+    "Optional context CLI, short-answer examples and English mapping changes deferred",
+    "Historical records below keep their original scope"
+  ],
+  "previous_research_working_copy": {
+    "schema_version": 3,
+    "version": "0.2.0",
+    "date": "2026-10-20",
+    "status": "source_checks_passed_with_declared_limits",
+    "revision": "classical-research-working-copy",
+    "stage": "source_only_not_packaged_or_installed",
+    "test_runs": [
+      {
+        "python": "3.14.3",
+        "corpus_tests": 85,
+        "distribution_tests": 24,
+        "adviser_tests": 11,
+        "total": 120,
+        "status": "passed",
+        "corpus_validation": "valid"
+      },
+      {
+        "python": "3.9.6",
+        "corpus_tests": 85,
+        "distribution_tests": 24,
+        "adviser_tests": 11,
+        "total": 120,
+        "status": "passed",
+        "corpus_validation": "valid"
+      }
+    ],
+    "research_mechanism": {
+      "flow": [
+        "问局",
+        "广搜研典",
+        "察因辨势",
+        "比较裁决",
+        "献策定步",
+        "复盘"
+      ],
+      "source_access_required_for_verified_research": true,
+      "preset_school_count": null,
+      "historical_examples_require_context": true,
+      "research_must_affect_diagnosis_or_strategy": true,
+      "original_corpus_unchanged": true
+    },
+    "mechanical_checks": {
+      "new_source_quotes_per_language": 12,
+      "earlier_source_quotes_per_language": 8,
+      "new_research_example_ids": "exist",
+      "relative_document_file_links": "passed; anchors, external links and rendering excluded",
+      "required_runtime_references": [
+        "references/research-method.md",
+        "references/research-examples.zh-CN.md",
+        "references/research-examples.en.md"
+      ],
+      "missing_required_file_preserves_existing_install": "passed",
+      "official_skill_validator": "passed",
+      "maintainer_dependency": {
+        "name": "PyYAML",
+        "version": "6.0.3",
+        "location": "temporary directory only",
+        "runtime_dependency": false
+      },
+      "quote_typo_probes": [
+        {
+          "case": "unmodified_copy",
+          "tests_run": 1,
+          "failures": 0,
+          "errors": 0
+        },
+        {
+          "case": "references/research-examples.zh-CN.md",
+          "tests_run": 1,
+          "failures": 1,
+          "errors": 0
+        },
+        {
+          "case": "references/research-examples.en.md",
+          "tests_run": 1,
+          "failures": 1,
+          "errors": 0
+        }
+      ]
+    },
+    "editorial_examples": {
+      "kind": "source-based editorial demonstration, not live-host or outcome study",
+      "distinct_queries_executed": 20,
+      "distinct_passages_read": 33,
+      "languages": [
+        "zh-CN",
+        "en"
+      ],
+      "english": "project translation"
+    },
+    "independent_ai_trial": {
+      "trials": 1,
+      "scenario": "partnership: unilateral extra commitments and delivery pressure",
+      "queries_executed": 9,
+      "passages_read": 11,
+      "passages_used": 4,
+      "source_ids": [
+        "HF-18-002",
+        "HF-18-003",
+        "XZ-10-001",
+        "HF-07-002"
+      ],
+      "review_result": "checked sources visibly affect causes, options and exceptions",
+      "limits": [
+        "one AI output only",
+        "not a comparison with the previous version",
+        "not evidence of real-world effectiveness",
+        "not a native chat-application trial"
+      ],
+      "local_records": [
+        "dishi-research-forward-answer.md",
+        "dishi-research-forward-evidence.json"
+      ]
+    },
+    "reviews": {
+      "independent_code_review": "approved; quotation coverage gap fixed",
+      "python_increment_review": "approved"
+    },
+    "corpus": {
+      "ready": 27,
+      "passages": 6640,
+      "readings": 6640,
+      "concepts": 2226,
+      "examples": 871,
+      "verified_quote_occurrences": 3645,
+      "comparison_baseline": "immediately before the classical-research mechanism revision; non-cache knowledge files",
+      "files_unchanged": 1374,
+      "files_modified": 0,
+      "files_added": 0,
+      "files_removed": 0
+    },
+    "release_state": {
+      "source_version": "0.2.0",
+      "new_package_built": false,
+      "uploaded": false,
+      "existing_release_unchanged": true,
+      "existing_zip_sha256": "ccbfe4d6c048650b9725a82d015d80dab3cca158eac22d6722aab1a74181f624",
+      "installed_skill_unchanged": true,
+      "installed_version": "0.1.1"
+    },
+    "limits": [
+      "No model fine-tuning",
+      "No advice-quality guarantee from mechanical tests",
+      "No Windows/Linux native-host trial",
+      "Historical records below retain their original scope and hashes"
+    ],
+    "historical_introduction_revision": {
+      "schema_version": 2,
+      "version": "0.2.0",
+      "date": "2026-10-20",
+      "status": "source_checks_passed_with_declared_limits",
+      "test_runs": [
+        {
+          "python": "3.14.3",
+          "suite": "knowledge",
+          "tests": 85,
+          "passed": true,
+          "log_sha256": "5248a701130eefe80640430ea528a2f9f1ba8a4fe617eb058cd5a5d602db2c48"
+        },
+        {
+          "python": "3.14.3",
+          "suite": "project",
+          "tests": 34,
+          "passed": true,
+          "log_sha256": "c3d5d6c7f2cd6746f232fb0206e786d6949f7c24b2482a318196131b354029e3"
+        },
+        {
+          "python": "3.9.6",
+          "suite": "knowledge",
+          "tests": 85,
+          "passed": true,
+          "log_sha256": "7e26bbba51cf538943dc6028aec46dbdd96ce7880d9e8022695c4506b00315a3"
+        },
+        {
+          "python": "3.9.6",
+          "suite": "project",
+          "tests": 34,
+          "passed": true,
+          "log_sha256": "0f3de366e2f6ff0b2708ed25e0b2b524d4a98a822863971d2ebbcc0856f680dc"
+        }
+      ],
+      "corpus": {
+        "ready": 27,
+        "passages": 6640,
+        "readings": 6640,
+        "concepts": 2226,
+        "examples": 871,
+        "verified_quote_occurrences": 3645,
+        "original_collection_files_unchanged": 1337,
+        "original_collection_files_intentionally_modified": 4,
+        "intentional_modified_files": [
+          "knowledge/guiguzi/data/examples.json",
+          "knowledge/guiguzi/问答示例.md",
+          "knowledge/guiguzi/阅览.html",
+          "knowledge/lvshichunqiu/知识库总览.md"
+        ]
+      },
+      "retrieval": {
+        "algorithm": "Field-weighted lexical ranking with saturated frequency and length normalization; not semantic search.",
+        "vocabulary_version": "2026-10-20.3",
+        "concepts": 63,
+        "books": 27,
+        "aliases": 372
+      },
+      "ai_use_check": {
+        "scenarios": 2,
+        "research_commands": 42,
+        "kb_commands": 35,
+        "nonzero_returncodes": [],
+        "answers": {
+          "A": {
+            "prompt": "I have been laid off and feel ashamed when comparing myself with former colleagues. I have limited energy and need to decide what to do this week. Use Dishi without assuming that achievement determines my worth.",
+            "answer_en": "Losing your job can hurt, and comparison can add shame to an already difficult week. For this week, protect your basic needs and energy, then choose one small practical step. Your worth does not depend on completing that step or catching up with former colleagues. We do not know why the layoff happened, and it cannot by itself establish a verdict on your abilities or character.\n\nLaozi asks, “名與身孰親？身與貨孰多？” My rendering: “Which is dearer, reputation or your own person? Which matters more, your own person or possessions?” (Laozi, chapter 44, LZ-44-001.) It invites a check on what pursuing status costs you. The chapter's later claim that knowing sufficiency avoids humiliation is a warning about excessive pursuit, not evidence that people who lose work caused their own suffering. Taking your worth as unconditional is the premise you requested; I am not claiming that this chapter states a modern theory of equal human dignity.\n\nKeep this week's plan small:\n\n- Spend one short session checking whether anything needs action before next week: a payment, an administrative deadline, or another basic need. If something is urgent, make that the priority and ask for practical help where possible.\n- Choose just one work-related action that fits your present energy: for example, send one message to a trusted former colleague, or update one paragraph of your résumé. Set a modest stopping point. If even that is too much, the first step can be asking someone to sit with you while you identify what is urgent.\n- Allow ordinary care and rest without requiring them to earn a productivity return. For seven days, reduce exposure to career updates if you notice they intensify the shame, and contact one person with whom you do not need to perform success.\n\nAt the end of the week, ask what reduced pressure and what drained you. Use that information to resize the next week. If an urgent need appears, change the order of the plan; that is a change in circumstances, not a change in your worth.\n\nSource: [Laozi, chapter 44, fixed working source](https://zh.wikisource.org/w/index.php?title=%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)&oldid=2354026).",
+            "selected_passages": [
+              "LZ-44-001"
+            ]
+          },
+          "B": {
+            "prompt": "My cofounder dismisses my questions about unequal workloads as disloyalty. We have no written roles and both think we contribute more. Use Dishi to propose a fair next step, with at most two classical references.",
+            "answer_en": "Propose a short, reciprocal workload review before deciding which of you contributes more. Asking how responsibilities are divided is not by itself disloyalty. Your cofounder's response obstructs that review, but the information here does not establish either person's total contribution or motives.\n\nTwo classical prompts help clarify the next step:\n\n- In the Analects, Zilu asks about serving a ruler: “子路問事君，子曰：「勿欺也，而犯之。」” My rendering: “Zilu asked about serving a ruler. The Master said, ‘Do not deceive him, and be willing to confront him.’” (Xianwen, LY-14-023, source section 十四之二三.) Its setting is ruler and minister, but it gives a reason to question the equation of commitment with agreement; it does not make a cofounder your ruler.\n- Guanzi says, “脩名而督實，按實而定名。” My rendering: “Set the names in order and examine the realities; determine the names in accordance with the realities.” (Jiushou (Nine Safeguards), GZ-55-009, source section 督名.) In context this concerns a ruler's administration. A mutual, challengeable agreement between equals is a modern condition I am adding, not an ancient guarantee of fairness.\n\nYou could say: “I want us both to be able to question workload without our commitment being judged. Can we spend 45 minutes making the work visible, agree a two-week division, and review it using the same evidence for both of us?”\n\nFor that meeting, each of you brings a brief account of the past week: tasks, approximate time, responsibilities that are easy to miss, deadlines, constraints, and decisions you had authority to make. Record disagreements as disagreements. Hours alone will not settle fairness; responsibility, difficulty, quality, dependencies, and your agreed capacities matter too.\n\nWrite a one-page agreement for the next two weeks: who owns each necessary outcome, what authority and support they need, how much availability each can promise, and when you will review the arrangement. Include a rule that either person can raise a workload concern without a loyalty label, while both remain responsible for giving reasons and hearing corrections. This trial helps you learn; it does not erase an unresolved past imbalance.\n\nThe cost is some administrative effort, and a task list can reward visible work. Keep it short and explicitly include coordination and support work. If your cofounder refuses even a reciprocal review or continues to punish questions, the problem extends beyond allocation to whether the partnership can accept accountability. Pause additional unagreed commitments where you can do so responsibly, and propose a neutral facilitator or a careful renegotiation, including handover or exit if necessary. Acceptance of the review would be useful new evidence; continued refusal would be useful evidence too.\n\nSources: [Analects, Xianwen, fixed working source](https://zh.wikisource.org/w/index.php?title=%E8%AB%96%E8%AA%9E/%E6%86%B2%E5%95%8F%E7%AC%AC%E5%8D%81%E5%9B%9B&oldid=11118101#%E5%8D%81%E5%9B%9B%E4%B9%8B%E4%BA%8C%E4%B8%89), [Guanzi, Jiushou (Nine Safeguards), fixed working source](https://zh.wikisource.org/w/index.php?title=%E7%AE%A1%E5%AD%90/%E7%AC%AC55%E7%AF%87%E4%B9%9D%E5%AE%88&oldid=2341635).",
+            "selected_passages": [
+              "LY-14-023",
+              "GZ-55-009"
+            ]
+          }
+        },
+        "root_exact_quote_checks": [
+          {
+            "id": "LZ-32-001",
+            "quote": "始制有名，名亦既有，夫亦將知止，知止所以不殆。",
+            "exact_match": true,
+            "full_context_matches": true
+          },
+          {
+            "id": "LZ-44-001",
+            "quote": "名與身孰親？身與貨孰多？",
+            "exact_match": true,
+            "full_context_matches": true
+          },
+          {
+            "id": "LY-14-023",
+            "quote": "子路問事君，子曰：「勿欺也，而犯之。」",
+            "exact_match": true,
+            "full_context_matches": true
+          },
+          {
+            "id": "GZ-55-009",
+            "quote": "脩名而督實，按實而定名。",
+            "exact_match": true,
+            "full_context_matches": true
+          },
+          {
+            "id": "LY-10-015",
+            "quote": "朋友之饋，雖車馬，非祭肉，不拜。",
+            "exact_match": true,
+            "full_context_matches": true
+          },
+          {
+            "id": "XZ-23-003",
+            "quote": "用此觀之，然則人之性惡明矣，其善者僞也。",
+            "exact_match": true,
+            "full_context_matches": true
+          },
+          {
+            "id": "SL-01-014",
+            "quote": "二者無功，則士力疲憊",
+            "exact_match": true,
+            "full_context_matches": true
+          },
+          {
+            "id": "XZ-32-001",
+            "quote": "忠誠盛於內，賁於外，形於四海。",
+            "exact_match": true,
+            "full_context_matches": true
+          },
+          {
+            "id": "LIE-07-011",
+            "quote": "生無一日之歡，死有萬世之名。",
+            "exact_match": true,
+            "full_context_matches": true
+          }
+        ],
+        "retrieval_probes": [
+          {
+            "id": "Q1",
+            "query": "朋友 借钱",
+            "judgments": [
+              {
+                "rank": 1,
+                "id": "LY-10-015",
+                "assessment": "只提供背景",
+                "reason": "原文是亡友殡事与馈赠礼节；有朋友援助但无借贷、偿还或能否拒绝。"
+              },
+              {
+                "rank": 2,
+                "id": "WYM-01-020",
+                "assessment": "只提供背景",
+                "reason": "朋友谦下相处与互学，未涉及债务、额度或还款。"
+              },
+              {
+                "rank": 3,
+                "id": "WYM-03-014",
+                "assessment": "只提供背景",
+                "reason": "朋友论学中的劝勉、少指摘，不是借款义务；不能用宽厚压制边界。"
+              },
+              {
+                "rank": 4,
+                "id": "ZY-01-028",
+                "assessment": "只提供背景",
+                "reason": "古代上信、朋友、事亲、诚身的关系链，缺少借款决定机制。"
+              },
+              {
+                "rank": 5,
+                "id": "LY-05-026",
+                "assessment": "间接相关",
+                "reason": "共享车马衣裘与朋友信任涉及财物互助，但不是借款契约或还款判断。"
+              }
+            ],
+            "fallback_query": "借贷 偿还",
+            "fallback_judgments": [
+              {
+                "rank": 1,
+                "id": "LIE-07-011",
+                "assessment": "不回答问题",
+                "reason": "仅现代释义含“偿还”比喻；原文讨论死后名誉与生前苦乐，不是偿债。"
+              },
+              {
+                "rank": 2,
+                "id": "HF-47-007",
+                "assessment": "间接相关",
+                "reason": "有贷施与生产供给的争论，但属治民论，不回答个人是否应借钱给朋友。"
+              },
+              {
+                "rank": 3,
+                "id": "GZ-78-015",
+                "assessment": "间接相关",
+                "reason": "无食给陈、无种贷新的救助区分，对援助形式有启发；属国家粮食救济。"
+              },
+              {
+                "rank": 4,
+                "id": "GZ-48-003",
+                "assessment": "间接相关",
+                "reason": "区分月度资金缺口与全年收入、债务负担，原文关心赋税农事；不是私人贷款建议。"
+              },
+              {
+                "rank": 5,
+                "id": "GZ-83-003",
+                "assessment": "间接相关",
+                "reason": "调查债户生计及息债，但同时含君权操价，不能照搬为朋友贷款规则。"
+              }
+            ],
+            "limit_statement": "两个查询均未直接给出朋友私人借贷的可用规则；不得据此断言全库无相关思想。该问题需现代事实（可承受损失、用途、双方约定等）另行判断，不能用朋友关键词直接判定必须借钱。"
+          },
+          {
+            "id": "Q2",
+            "query": "human nature moral cultivation",
+            "judgments": [],
+            "fallback_query": "性善 性恶 教化",
+            "fallback_judgments": [
+              {
+                "rank": 1,
+                "id": "XZ-23-003",
+                "assessment": "直接相关",
+                "reason": "明确引孟子性善而反驳，定义善恶并讨论礼义、君势、刑禁；呈现争论的一方，不等于给出双方等量证据。"
+              },
+              {
+                "rank": 2,
+                "id": "XZ-23-001",
+                "assessment": "直接相关",
+                "reason": "性、伪定义与对所引孟说的驳论、礼义学习机制紧密相关。"
+              },
+              {
+                "rank": 3,
+                "id": "WYM-03-134",
+                "assessment": "相关但年代与立场不同",
+                "reason": "后世王阳明把孔子性近与孟子性善会通，涉及习与气质；不能当成孟子亲说或先秦双方共识。"
+              },
+              {
+                "rank": 4,
+                "id": "XZ-23-002",
+                "assessment": "直接相关",
+                "reason": "明确礼义从积思虑、后天修作而生；帮助解释性恶论为何仍容许成善。"
+              },
+              {
+                "rank": 5,
+                "id": "WYM-02-022",
+                "assessment": "相关但年代与立场不同",
+                "reason": "宋明性气论域中的性善、四端说明，有修养关联；不是荀孟争论的原始成对证据。"
+              }
+            ],
+            "limit_statement": "英文四个词全部未识别且搜索[]；中文改写后可读到直接争论，但前5没有《孟子》自述文本。比较双方仍应另检索《孟子》，不能只据荀子所引或阳明转释代其发言。"
+          },
+          {
+            "id": "Q3",
+            "query": "burnout and limits",
+            "judgments": [
+              {
+                "rank": 1,
+                "id": "SL-01-014",
+                "assessment": "有限的机制类比",
+                "reason": "反复无功使士力疲惫并导致组织失序；有负荷后果的启发，但系军队与服从语境，不是现代耗竭或恢复处方。"
+              },
+              {
+                "rank": 2,
+                "id": "LSCQ-46-006",
+                "assessment": "只提供背景",
+                "reason": "季节祭祀中劳农休息，有休息词面，不解释过载或个人边界。"
+              },
+              {
+                "rank": 3,
+                "id": "LSCQ-23-003",
+                "assessment": "间接相关",
+                "reason": "寒温劳逸饥饱的适宜与欲望界限，可启发适度；不直接论工作耗竭。"
+              },
+              {
+                "rank": 4,
+                "id": "FL-01-012",
+                "assessment": "关系很弱",
+                "reason": "观察敌民饥饱劳逸以择战时机；不应改写成个人休息建议，阴阳框架亦非科学证据。"
+              },
+              {
+                "rank": 5,
+                "id": "HNZ-06-008",
+                "assessment": "不回答主要问题",
+                "reason": "理想化驾车寓言与无为之御，劳逸指驾马状态；不是耗竭或边界的现实机制。"
+              }
+            ],
+            "fallback_query": "疲惫 劳逸 知止",
+            "fallback_judgments": [
+              {
+                "rank": 1,
+                "id": "LZ-32-001",
+                "assessment": "间接相关",
+                "reason": "始制有名后的知止有界限线索，整章是道与君主守朴的政治宇宙论，未讨论个人耗竭。"
+              },
+              {
+                "rank": 2,
+                "id": "LZ-44-001",
+                "assessment": "间接相关",
+                "reason": "名货与自身的代价及知止，能启发负荷边界；不支持将失业或受辱归因于不知足。"
+              },
+              {
+                "rank": 3,
+                "id": "WYM-01-088",
+                "assessment": "不回答主要问题",
+                "reason": "知止在此指知至善在心而志定，不是停止劳动或体力休息。"
+              },
+              {
+                "rank": 4,
+                "id": "SL-01-014",
+                "assessment": "有限的机制类比",
+                "reason": "仍是军队反复无功的疲惫链；不等于现代恢复或休息方案。"
+              },
+              {
+                "rank": 5,
+                "id": "WYM-04-005",
+                "assessment": "不回答主要问题",
+                "reason": "大学工夫次第中知止、定静安虑得，不能将儒学修养语义直接换成现代耗竭恢复。"
+              }
+            ],
+            "limit_statement": "只映射burnout→疲惫、休息、劳逸，limits未识别，随后实际以中文“疲惫 劳逸 知止”补检索。中文提供界限候选，也引入王阳明另一种“知止”语义，须逐段区分，不能声称已找到现代耗竭恢复处方。"
+          },
+          {
+            "id": "Q4",
+            "query": "异议 忠诚",
+            "judgments": [
+              {
+                "rank": 1,
+                "id": "XZ-32-001",
+                "assessment": "只命中一半概念",
+                "reason": "忠诚内盛外见、天下自来的德治理想，没有异议的地位；top1并未直接回答两者关系。"
+              },
+              {
+                "rank": 2,
+                "id": "LSCQ-111-003",
+                "assessment": "间接相关",
+                "reason": "为敌方君主尽忠的臣子反对被烹，涉及对他人忠诚的尊重；含极端牺牲叙事，不是一般异议程序。"
+              },
+              {
+                "rank": 3,
+                "id": "WYM-02-050",
+                "assessment": "直接相关",
+                "reason": "感谢对方规劝而不轻舍诚意姑且同意，明确把认真保留异议解释为不负厚爱。"
+              },
+              {
+                "rank": 4,
+                "id": "SJS-23-003",
+                "assessment": "作为反对立场相关",
+                "reason": "要求言行事中法才听用，与异议容许的条件冲突；不能美化成保护异议，须保留排除法外批评的限制。"
+              },
+              {
+                "rank": 5,
+                "id": "LSCQ-87-002",
+                "assessment": "间接相关",
+                "reason": "叙述忽略忠言与以牺牲表忠的风险，不直接证明谁诚谁伪，更不能据牺牲推定现实人物品格。"
+              }
+            ],
+            "limit_statement": "前5确有相关后列和不同立场，但首项仅忠诚词面。邻段XZ-32-002有纠错故事，不能将邻段相关性计入首项。B题为实际回答另用精确中文“勿欺 而犯”找到LY-14-023。"
+          }
+        ],
+        "limitations": [
+          "The trial observed vocabulary versions 2026-10-20.2 and .3 while negative contractions were updated; it is not described as a frozen benchmark.",
+          "Top-ranked candidates sometimes match only part of a question or come from an unsuitable historical context. Chinese reformulation and source review remain necessary.",
+          "Human nature moral cultivation was not recognized by the finite English dictionary; Chinese reformulation retrieved relevant discussion.",
+          "No accuracy percentage, customer outcome or deployed-host session is established."
+        ],
+        "revision_scope": "Historical retrieval-fix trial before the adviser revision. Not repeated with the new adviser instructions; not an installed-versus-uninstalled comparison."
+      },
+      "distribution": {
+        "process_records_excluded": 26,
+        "process_record_bytes": 14492066,
+        "original_source_bytes": "Original electronic source evidence remains unchanged. Four modern editorial collection files are intentionally revised as listed in advisor_revision; the new manifest records actual public bytes after declared filtering/link/index transformations.",
+        "runtime": "Both portable prompts remain required runtime documentation. Final package and actual temporary-installation checks for this introduction revision are delivered separately alongside the 0.2.0 artifact; installed user skills remain unchanged.",
+        "backups": "Stored outside skill discovery; custom destinations use a local outer backup store."
+      },
+      "limits": [
+        "Mechanical checks do not prove interpretation, historical truth or decision outcomes.",
+        "English is generated by a bilingual host using the Chinese corpus; no complete English edition or arbitrary-query semantic retriever is supplied.",
+        "No native Windows/Linux host or actual Claude Code conversation tested.",
+        "No legal clearance is claimed."
+      ],
+      "revision": "advisor-introduction",
+      "release_state": {
+        "version": "0.2.0",
+        "scope": "Introduction-revision source checks before the authorized same-version local replacement. The round3 pending package is archived intact; final new manifest, ZIP and temporary-installation checks are delivered separately.",
+        "output": "GitHub发布包/v0.2.0/",
+        "existing_v011_artifacts_and_installed_skill_updated": false,
+        "uploaded": false,
+        "previous_pending_package": {
+          "archived_path": "本地审查归档/2026-10-20/v0.2.0第三轮/被替换的发布包",
+          "files": 1384,
+          "all_bytes_preserved": true,
+          "zip_sha256": "6045d3b7a8c8fbfe24d5211ea03cb2ca607d143348e52ff60c3e5e906aed54e5",
+          "previous_output_path_freed": true
+        }
+      },
+      "previous_release_test_runs": [
+        {
+          "python": "3.14.3",
+          "suite": "knowledge",
+          "tests": 85,
+          "passed": true,
+          "log_sha256": "358f7f1fc050ac68e5f4d6fe1c6c9631cc4c7e20d725fe5190e8636fa4118afb"
+        },
+        {
+          "python": "3.14.3",
+          "suite": "distribution",
+          "tests": 24,
+          "passed": true,
+          "log_sha256": "ac69dd5840fce3664905a75562a2b354721a176fae0c07198bdc4061efd205e8"
+        },
+        {
+          "python": "3.9.6",
+          "suite": "knowledge",
+          "tests": 85,
+          "passed": true,
+          "log_sha256": "e1183d2755881c1d0dd1ae6b5d7fe4b3eec9fa12e276bd4f58e97f0cdbb4e10e"
+        },
+        {
+          "python": "3.9.6",
+          "suite": "distribution",
+          "tests": 24,
+          "passed": true,
+          "log_sha256": "70a2b5e711a025cd081a7498f0ff304acc8db9060bddcd1af6b81bb4cbe8a354"
+        }
+      ],
+      "previous_release_ai_cross_review": {
+        "code_verdict": "APPROVE",
+        "python_verdict": "APPROVE",
+        "open_findings": 0,
+        "reviewed_sha256": {
+          "knowledge/kb.py": "fa774dcfa2a9d0563c9e3798bcc3bc1e52f7519ba5e8dc58ce3870af3830bec4",
+          "knowledge/ranking.py": "12c35154605199f4ff2eb144201d01dd146ac9d5022caf6d9a5b1de70e03cfc0",
+          "knowledge/english_query.py": "b55ba2252960a81f9566281f42604a78f74bcdce9571aced0314f64f3560360b",
+          "knowledge/english_keywords.json": "72a0600910dd1127a380e1c3e91835f4eef58a6894ac16b70f619ca4099ab167",
+          "knowledge/tests/test_ranking.py": "2d9a7fb5caf53aa5220c87de06620792ece466df2ce16bdbad74c54f93b215c5",
+          "knowledge/tests/test_english_query.py": "67824d69b937babdda50a5cb8c02fad6b00fae90b8e905132ee408b6d5c955e3",
+          "scripts/install.py": "30608212acbb6eb38197e88303a0b72af70ddcfafac55ec0006e34dbc1a4a3eb",
+          "scripts/build_release.py": "926389d7a4343a7cbf30cd36fbfe883f7f9c1d440e4b394f4312af1029e577ac",
+          "scripts/package_rules.py": "46025bf03606d652ffc6db9e6f78dc37863c61a96949364f4190495df6784f2f",
+          "tests/test_distribution.py": "d22077155a3d65603e4cd2b58de5322ccfe1939c7d5d92d0a3b95c7aaf839acc"
+        },
+        "scope": "Different AI agents within the same workflow; not human expert or external-institution certification. Reviewed before this adviser revision; historical hashes are not new review results."
+      },
+      "advisor_revision": {
+        "scope": "Introduction revision only: bilingual README tagline and opening paragraphs, GitHub About and first release-description sentence, and these two validation records. All downstream README sections remain byte-identical to round3.",
+        "total_unique_tests_per_python": 119,
+        "existing_knowledge_tests": 85,
+        "existing_distribution_tests": 24,
+        "advisor_contract_tests": 10,
+        "new_test_functions": 0,
+        "changes_from_author_draft": [
+          "Historical introduction explicitly spans Spring and Autumn and Warring States periods; English tagline uses more than two millennia.",
+          "Chinese capability wording refers to collected source texts and related documents.",
+          "English uses selected texts and texts by or about historical figures, avoiding attribution of authored works to Fan Li."
+        ],
+        "corpus_validation": [
+          {
+            "python": "3.14.3",
+            "valid": true,
+            "result_sha256": "0a8ac5416629884d0092557056e099c35411f333565ed90f4c15c8736f9c3ea7"
+          },
+          {
+            "python": "3.9.6",
+            "valid": true,
+            "result_sha256": "0a8ac5416629884d0092557056e099c35411f333565ed90f4c15c8736f9c3ea7"
+          }
+        ],
+        "corpus_baseline": {
+          "files": 1341,
+          "unchanged": 1337,
+          "intentional_modified": 4,
+          "changes": [
+            {
+              "file": "knowledge/guiguzi/data/examples.json",
+              "old_sha256": "f667756272acd969fb63b7292b6eb6b25d1a68a051e6cdee62055be7154be2c3",
+              "new_sha256": "e474436230c8617ae1285b245eef17ae583c7c4504607f3001f5ec5bc318f6a8",
+              "single_exact_utf8_substitution": true
+            },
+            {
+              "file": "knowledge/guiguzi/问答示例.md",
+              "old_sha256": "93152a6236f048166a037fd764f052eb983cd24392c2be5415423732c5a6e4f5",
+              "new_sha256": "ad6312cd45fde9c019c28f267ab204d9d49e8ee69880b44579c1d7a69dffff68",
+              "single_exact_utf8_substitution": true
+            },
+            {
+              "file": "knowledge/guiguzi/阅览.html",
+              "old_sha256": "f3555e3baf091fd4c942859713789beab38de83a4dd49159d0189e49f11e1850",
+              "new_sha256": "1e091e20ea358f9f57fd1c31aeb23b55a914102a5002cb9cc58a1b78bfca0084",
+              "single_exact_utf8_substitution": true
+            },
+            {
+              "file": "knowledge/lvshichunqiu/知识库总览.md",
+              "old_sha256": "a2292050b2c341b7e95decf8cf43e8f7ec14157f05c1d62ca0eff4ac5ac8b924",
+              "new_sha256": "1448de5ec32cdca21c81fed0b2ebb8291e82397d8240e7bad701438729a7129c",
+              "single_exact_utf8_substitution": true
+            }
+          ]
+        },
+        "examples": {
+          "cases_per_language": 4,
+          "verified_quotes_per_language": 8,
+          "new_introduction_quotations": 0,
+          "hypothetical_only": true,
+          "scope": "Cases and quotations remain byte-identical to round3; current contract tests check the same existing examples."
+        },
+        "integrity": {
+          "source_changed_files": [
+            "README.en.md",
+            "README.md",
+            "docs/github-release.md",
+            "docs/validation-results.json",
+            "docs/validation.md"
+          ],
+          "source_added_files": [],
+          "source_removed_files": [],
+          "all_knowledge_files_unchanged_from_round3": true,
+          "knowledge_files_checked": 1374,
+          "retrieval_code_and_vocabulary_unchanged": true,
+          "all_code_and_tests_unchanged": true,
+          "cases_skill_prompts_and_references_unchanged": true,
+          "version_unchanged": "0.2.0",
+          "readme_tails_unchanged": true
+        },
+        "test_limits": [
+          "Existing structural and link-file checks do not establish advice quality, historical truth or user outcomes.",
+          "This round adds no tests, quotation, defect probe, real-app conversation or installed-versus-uninstalled comparison.",
+          "Current official-skill-validator and full-YAML reruns are not claimed; the unchanged skill passed them in previous rounds."
+        ],
+        "not_performed": [
+          "No O2 quote-style normalization, deferred L2/L4 or 三仪 change.",
+          "No new real-app conversation benchmark, customer-outcome trial, native Windows/Linux host test or legal clearance.",
+          "No installed-user-skill replacement or remote upload."
+        ]
+      },
+      "ai_cross_review": {
+        "review_type": "Independent read-only bilingual introduction and scope review",
+        "copy_verdict": "APPROVE",
+        "open_findings": 0,
+        "scope": "Independent read-only AI review of the three introduction-copy files and exact permitted replacements. It did not rerun tests, review Python changes, test a real host, or certify outcomes. The two current validation records are subject to a separate consistency check before packaging; final artifact checks are delivered externally.",
+        "reviewed_sha256": {
+          "README.md": "018cb41377673f5986845c59d0f98c51513713cf065f055e7cc6758ef63f139f",
+          "README.en.md": "8c870ea0fc23b6c6d568c5e7b57ef18ae474604d30887bc53dfccfa6b4331724",
+          "docs/github-release.md": "02b986d6fc32db5328d3564834e9aeea6811d5aefa877afc5ff785ae3f508911"
+        },
+        "copy_report_sha256": "439a034cce8fab8df90b8cf7e51f7216481b7544b36e6bbf3b90894a1c3f363d",
+        "validation_record_hash_scope": "The validation record is not covered by the three-file copy verdict; its own hash is intentionally not embedded.",
+        "validation_consistency_check": "Primary agent checked both validation records against actual full-suite log counts and hashes, current copy-review hashes, the exact five-file source delta, immutable knowledge and archive evidence before packaging. Record own hashes are kept outside the package source to avoid self-reference."
+      },
+      "previous_adviser_round1": {
+        "version": "0.1.1",
+        "revision": "advisor-local-review",
+        "status": "local_checks_passed_pending_author_review",
+        "test_runs": [
+          {
+            "python": "3.14.3",
+            "suite": "knowledge",
+            "tests": 85,
+            "passed": true,
+            "log_sha256": "8c9199f7386ce8550ffd962fcdb76c41d4f08262c2fd96116cd8b06d470879a3"
+          },
+          {
+            "python": "3.14.3",
+            "suite": "project",
+            "tests": 32,
+            "passed": true,
+            "log_sha256": "69d09427116132f5e80031f1f3f4e6406ba497335d365538d6eb6adbad32a0f5"
+          },
+          {
+            "python": "3.9.6",
+            "suite": "knowledge",
+            "tests": 85,
+            "passed": true,
+            "log_sha256": "a2f6b449d78171959de56a62c82d9292227f508ceab625cbc5ddcbfff959fa67"
+          },
+          {
+            "python": "3.9.6",
+            "suite": "project",
+            "tests": 32,
+            "passed": true,
+            "log_sha256": "11dbb0678e2b795bad44c7e0b988ccf36feedb756bdd22877f9859d914234bc4"
+          }
+        ],
+        "release_state": {
+          "source_updated": true,
+          "new_formal_release_built": false,
+          "existing_release_and_installed_skill_updated": false,
+          "version_unchanged": "0.1.1",
+          "scope": "Local adviser revision awaiting review and author confirmation; existing v0.1.1 artifacts do not contain these adviser changes."
+        },
+        "advisor_revision": {
+          "new_contract_tests": 8,
+          "existing_knowledge_tests": 85,
+          "existing_distribution_tests": 24,
+          "total_unique_tests_per_python": 117,
+          "test_scope": "Instruction structure, local document file existence, referenced passage IDs and exact bold quotations, five adviser rules, and both portable documents retained by runtime policy. Synthetic parser fixtures are helper checks, not real user outcomes.",
+          "test_limits": [
+            "Frontmatter unit parser supports the declared string-only YAML subset; full YAML also passed the official maintainer skill validator and PyYAML parsing. PyYAML is not a runtime dependency.",
+            "Links are checked for local file existence, not anchor resolution, external availability, or rendering.",
+            "Quote checks cover quoted bold Chinese strings with a passage ID in the same source row or paragraph; semantic relevance and translation quality require review."
+          ],
+          "corpus_validation": [
+            {
+              "python": "3.14.3",
+              "valid": true
+            },
+            {
+              "python": "3.9.6",
+              "valid": true
+            }
+          ],
+          "skill_validator_passed": true,
+          "full_yaml_parse_passed": true,
+          "description_characters": 326,
+          "short_description_characters": 39,
+          "skill_example_commands_run": 4,
+          "skill_example_command_failures": 0,
+          "examples": {
+            "hypothetical_cases_per_language": 4,
+            "verified_quotes_per_language": 8,
+            "distinct_verified_quotes": 8,
+            "search_commands": 8,
+            "show_commands": 8,
+            "new_quotes": [
+              "GGZ-01-002",
+              "SZ-03-008"
+            ],
+            "customer_outcome_claims": false
+          },
+          "integrity": {
+            "protected_count": 1126,
+            "unchanged": true,
+            "changed": [],
+            "book_data_source_files": 1120,
+            "retrieval_files": 6,
+            "guide_conflicts_and_book_boundaries_unchanged": true,
+            "release_zip_sha256": "93f8ce2d84d01a2561583b6bc27034530e42258670a49403dd03a34e3d9eb565",
+            "original_collection_files": 1341,
+            "original_collection_files_unchanged": true,
+            "original_collection_changed": [],
+            "local_link_files_checked": 13,
+            "relative_local_links_checked": 142,
+            "example_quote_occurrences": {
+              "docs/examples.zh-CN.md": 8,
+              "docs/examples.en.md": 8
+            }
+          },
+          "changes": [
+            "AI strategist identity, five rules and six-step method aligned across SKILL, guide, metadata and public docs.",
+            "Four bilingual hypothetical cases and two standalone portable prompts.",
+            "Portable prompts added to required runtime documentation; eight new contract tests."
+          ],
+          "unchanged": [
+            "Original corpus, source evidence, readings, concept cards and QA content.",
+            "Retrieval ranking, English mapping, ranking tests and existing distribution tests.",
+            "All book-specific guide boundaries and conflict-resolution table.",
+            "Existing formal release and installed skill."
+          ],
+          "not_performed": [
+            "No controlled same-host, same-model installed-versus-uninstalled comparison.",
+            "No complete workflow test inside Doubao, ChatGPT app/web or Claude app/web.",
+            "No formal release regenerated, installed skill replaced, repository created or remote upload.",
+            "No new independent end-to-end adviser conversation trial; prior AI use check remains historical."
+          ]
+        },
+        "ai_cross_review": {
+          "code_verdict": "APPROVE",
+          "python_verdict": "APPROVE",
+          "open_findings": 0,
+          "scope": "Current adviser revision: independent AI static/instruction review of 15 files and Python review of 2 changed files, 8 new contract tests on both interpreters, real source show checks and declared synthetic helper counterexamples. Not external certification or an adviser performance benchmark. Validation documents are separately audited after this record update.",
+          "reviewed_sha256": {
+            "SKILL.md": "b9da5a90e298edd5f7ad12949e75aa0a73aaa1e105a64368755c8f483c8e0967",
+            "references/guide.zh-CN.md": "5a15340cf355dfd9b413c948c8ebc861fd58411e465aa16687479f03a020aa11",
+            "references/lenses.md": "d9917bf53a5ab749efc8174ce4ecf81e684d71562c5058abe790962bff180f27",
+            "agents/openai.yaml": "f33b9c562ab32f5e4fea5ac18263aebda3a1425ac41d8f27eddd54d8dca527b0",
+            "scripts/package_rules.py": "a1074e4f88643d0eaf94ba18b9ae5dd217cf07362e499a345632e9d49f90f198",
+            "tests/test_advisor_contract.py": "d368e3272c3bdb2346a18c7270fd0f75f66ce53b2c081924690a45cb577eb187",
+            "README.md": "111631fe8c45def2ade1183e35c1fe580d7f07b64deb590f53d5f18359635b76",
+            "README.en.md": "93dc3f3b78c9083ccd27acaa1dc928c181310e0ca000be8cc87d8b4830541161",
+            "docs/portable-prompt.zh-CN.md": "964459df9b6e8b19384c7dd85dc519dd0fac1d71df04711e9374521a72ff6158",
+            "docs/portable-prompt.en.md": "e5d7cfd60802c3f1568a6376a035f88867a9d328c559684a2e36e89d482018be",
+            "docs/installation.zh-CN.md": "49622fa06cc0244b823e76f98ebac6d703ff1f01f44c93c824d877099482a2ba",
+            "docs/installation.en.md": "442f7cdb7632b6e14584ec2ffb53f692079cd617b9a442d120874c450c3a409c",
+            "docs/github-release.md": "f41ba061bf26c21cd974bbd7c228591ca3e87c302d92124a44b9acc9ada9b2fb",
+            "docs/examples.zh-CN.md": "f8de00b4497d551a684c8b9e8c9f3c9566138e757e004c16016dfd1acf07ee1d",
+            "docs/examples.en.md": "9d65956bf23466cad30c0bebe4bbd0db3af262e0a453cc39c8f1ce8696988087"
+          },
+          "code_report_sha256": "9f0d3df0f84d377e0553cec46486ca8d25876e2075b213b4d24ebc9014e6c4ee",
+          "python_report_sha256": "54b4b2681aed88470f3017c93b022a63d6b237c7db299b218b3dabef3696b3e9",
+          "new_contract_tests_per_python": 8,
+          "full_project_suites_run_by": "Primary agent; 85 knowledge plus 32 project tests per interpreter as recorded in test_runs."
+        },
+        "scope": "Historical first adviser round before the four authorized round-2 corpus revisions and the case-2 insertion; not the current v0.2.0 state."
+      },
+      "previous_adviser_round2": {
+        "revision": "advisor-round2",
+        "status": "source_checks_passed_with_declared_limits",
+        "test_runs": [
+          {
+            "python": "3.14.3",
+            "suite": "knowledge",
+            "tests": 85,
+            "passed": true,
+            "log_sha256": "5eedb0f677b1b7667a7f121667c0ee515c6b85d629a97177c39c4fadffea8b71"
+          },
+          {
+            "python": "3.14.3",
+            "suite": "project",
+            "tests": 34,
+            "passed": true,
+            "log_sha256": "e45b7debd2819d3bbf505fe3ca954023a68c4926ae6baed8630ef0bf1b00bb42"
+          },
+          {
+            "python": "3.9.6",
+            "suite": "knowledge",
+            "tests": 85,
+            "passed": true,
+            "log_sha256": "47d664bb5dc987cb80414134fbbff3873bd22155695f01d7103ad1c490dfb253"
+          },
+          {
+            "python": "3.9.6",
+            "suite": "project",
+            "tests": 34,
+            "passed": true,
+            "log_sha256": "2c2903ebab5e419485b0bb5e111900a8baeab61b225e4545c28034de982afc50"
+          }
+        ],
+        "advisor_revision": {
+          "scope": "Round2 adds two contract tests, changes four authorized modern editorial resources, inserts the supplied case2 re-ranking examples and prepares version0.2.0. Prior round1 records are historical.",
+          "total_unique_tests_per_python": 119,
+          "existing_knowledge_tests": 85,
+          "existing_distribution_tests": 24,
+          "advisor_contract_tests": 10,
+          "new_round2_tests": 2,
+          "round2_new_test_scope": [
+            "Old norm phrases absent from runtime Markdown/JSON and public non-source book content, excluding historical process records.",
+            "Case2 contains the requested re-ranking subsection and first-choice language in both languages."
+          ],
+          "test_limits": [
+            "Scoped Markdown file-link checks do not validate anchors, remote availability, or full CommonMark rendering.",
+            "Structural rule and case-title checks do not establish adviser behaviour or strategy outcomes.",
+            "Direct quotation matching does not establish translation quality or relevance."
+          ],
+          "corpus_validation": [
+            {
+              "python": "3.14.3",
+              "valid": true
+            },
+            {
+              "python": "3.9.6",
+              "valid": true
+            }
+          ],
+          "skill_validator_passed": true,
+          "corpus_baseline": {
+            "files": 1341,
+            "unchanged": 1337,
+            "intentional_modified": 4,
+            "changes": [
+              {
+                "file": "knowledge/guiguzi/data/examples.json",
+                "old_sha256": "f667756272acd969fb63b7292b6eb6b25d1a68a051e6cdee62055be7154be2c3",
+                "new_sha256": "e474436230c8617ae1285b245eef17ae583c7c4504607f3001f5ec5bc318f6a8",
+                "single_exact_utf8_substitution": true
+              },
+              {
+                "file": "knowledge/guiguzi/问答示例.md",
+                "old_sha256": "93152a6236f048166a037fd764f052eb983cd24392c2be5415423732c5a6e4f5",
+                "new_sha256": "ad6312cd45fde9c019c28f267ab204d9d49e8ee69880b44579c1d7a69dffff68",
+                "single_exact_utf8_substitution": true
+              },
+              {
+                "file": "knowledge/guiguzi/阅览.html",
+                "old_sha256": "f3555e3baf091fd4c942859713789beab38de83a4dd49159d0189e49f11e1850",
+                "new_sha256": "1e091e20ea358f9f57fd1c31aeb23b55a914102a5002cb9cc58a1b78bfca0084",
+                "single_exact_utf8_substitution": true
+              },
+              {
+                "file": "knowledge/lvshichunqiu/知识库总览.md",
+                "old_sha256": "a2292050b2c341b7e95decf8cf43e8f7ec14157f05c1d62ca0eff4ac5ac8b924",
+                "new_sha256": "1448de5ec32cdca21c81fed0b2ebb8291e82397d8240e7bad701438729a7129c",
+                "single_exact_utf8_substitution": true
+              }
+            ]
+          },
+          "guiguzi_build": {
+            "exit_code": 0,
+            "changed_files": [
+              "knowledge/guiguzi/data/examples.json",
+              "knowledge/guiguzi/问答示例.md",
+              "knowledge/guiguzi/阅览.html"
+            ],
+            "unexpected_changes": [],
+            "fallback_restore_required": false
+          },
+          "historic_coverage_hash_note": {
+            "old_sha256": "f667756272acd969fb63b7292b6eb6b25d1a68a051e6cdee62055be7154be2c3",
+            "new_sha256": "e474436230c8617ae1285b245eef17ae583c7c4504607f3001f5ec5bc318f6a8",
+            "historical_records": [
+              {
+                "file": "knowledge/验收覆盖-尉缭子六韬.json",
+                "occurrences": 3
+              },
+              {
+                "file": "knowledge/验收覆盖-三略李卫公问对.json",
+                "occurrences": 1
+              },
+              {
+                "file": "knowledge/验收覆盖-鬼谷子战国策.json",
+                "occurrences": 8
+              }
+            ]
+          },
+          "retrieval_code_and_vocabulary_unchanged": true,
+          "case2_insertions": "Historical round2 insertion; round3 supersedes two conditions at lines84 and86 in each language.",
+          "examples": {
+            "cases_per_language": 4,
+            "verified_quotes_per_language": 8,
+            "distinct_verified_quotes": 8,
+            "new_round2_quotations": 0,
+            "hypothetical_only": true
+          },
+          "not_performed": [
+            "No installed-versus-uninstalled controlled effect comparison.",
+            "No new real-app conversation benchmark or customer-outcome trial.",
+            "No changes to deferred L2, L4 or 三仪 issues.",
+            "No installed-skill replacement or GitHub upload."
+          ],
+          "integrity": {
+            "source_changed_files": [
+              "VERSION",
+              "docs/examples.en.md",
+              "docs/examples.zh-CN.md",
+              "docs/github-release.md",
+              "docs/provenance-summary.md",
+              "docs/validation-results.json",
+              "docs/validation.md",
+              "knowledge/guiguzi/data/examples.json",
+              "knowledge/guiguzi/问答示例.md",
+              "knowledge/guiguzi/阅览.html",
+              "knowledge/lvshichunqiu/知识库总览.md",
+              "tests/test_advisor_contract.py"
+            ],
+            "source_added_files": [],
+            "source_removed_files": [],
+            "outside_allowlist_changes": [],
+            "old-release": {
+              "files": 1377,
+              "unchanged": true
+            },
+            "installed": {
+              "files": 1367,
+              "unchanged": true
+            },
+            "old_zip_unchanged": true,
+            "collection_baseline": {
+              "files": 1341,
+              "unchanged": 1337,
+              "changed": [
+                "knowledge/guiguzi/data/examples.json",
+                "knowledge/guiguzi/问答示例.md",
+                "knowledge/guiguzi/阅览.html",
+                "knowledge/lvshichunqiu/知识库总览.md"
+              ]
+            },
+            "local_doc_links": {
+              "documents": 13,
+              "links": 142,
+              "missing": 0
+            }
+          }
+        },
+        "ai_cross_review": {
+          "code_verdict": "APPROVE",
+          "python_verdict": "APPROVE",
+          "open_findings": 0,
+          "scope": "Round2 source code, minimal corpus edits and bilingual documents reviewed by independent AI agents in this workflow; not external certification or a performance benchmark. Final package and temporary-install verification is delivered separately.",
+          "reviewed_sha256": {
+            "VERSION": "1f930dd1f133c1f97a94fe3acb8db34372cf4c01ffdb2b3ff4ca72f9494121e9",
+            "docs/examples.en.md": "b277eb18747d1712484c80095c3f401247a83ddb4f51cfe6ccd70bb655b6a81e",
+            "docs/examples.zh-CN.md": "8e056c7cb1ad088703f695b6db0e67e6c721ad98240f8bda9703c0848d5c7682",
+            "docs/github-release.md": "fabc7ea576efdbd93b5418eefd74bc47e3cd990177b5eee211f566d4618e1ee1",
+            "docs/provenance-summary.md": "447ce7c3f0442ed72b0afdeb48afcaacb52c28abcd0ed2a8723f6542820dd350",
+            "docs/validation.md": "cfc2e706e1865008ca4d6b456e29320a281380e9a32d57b31d482ad7477ae2eb",
+            "knowledge/guiguzi/data/examples.json": "e474436230c8617ae1285b245eef17ae583c7c4504607f3001f5ec5bc318f6a8",
+            "knowledge/guiguzi/问答示例.md": "ad6312cd45fde9c019c28f267ab204d9d49e8ee69880b44579c1d7a69dffff68",
+            "knowledge/guiguzi/阅览.html": "1e091e20ea358f9f57fd1c31aeb23b55a914102a5002cb9cc58a1b78bfca0084",
+            "knowledge/lvshichunqiu/知识库总览.md": "1448de5ec32cdca21c81fed0b2ebb8291e82397d8240e7bad701438729a7129c",
+            "tests/test_advisor_contract.py": "468290d7b74449ab61f560c2f9a98ff58a6318acd14f063f74f66c66fb00d5dc"
+          },
+          "code_report_sha256": "2f7836665d42a56d0dc6532c2ebea5a0e1e235ab52e1bf34e5de5c4d56e8e313",
+          "python_report_sha256": "ddcef612411659aadc1a53232fe7e2ab8163bb900e3edd71642e8e256219fcc0",
+          "validation_record_hash_scope": "This record body was reviewed before the final approval metadata was added; its own hash is intentionally not embedded.",
+          "contract_tests_per_interpreter": 10
+        },
+        "release_state": {
+          "version": "0.2.0",
+          "scope": "Round3 source checks before authorized same-version local replacement. Round2 pending package is archived intact; final new manifest, ZIP and temporary-install checks are delivered separately.",
+          "output": "GitHub发布包/v0.2.0/",
+          "existing_v011_artifacts_and_installed_skill_updated": false,
+          "uploaded": false,
+          "previous_pending_package": {
+            "archived_path": "本地审查归档/2026-10-20/v0.2.0第二轮/被替换的发布包",
+            "files": 1384,
+            "all_bytes_preserved": true,
+            "zip_sha256": "639116cc5af4aaabd6da67322e2588959d9a2c0b6b16136269d3a3b1ee662d5d",
+            "previous_output_path_freed": true
+          }
+        },
+        "scope": "Historical round2 pending package, fully archived before round3 replacement. Case2 insertion was subsequently revised at four lines in round3."
+      },
+      "previous_adviser_round3": {
+        "revision": "advisor-round3",
+        "status": "source_checks_passed_with_declared_limits",
+        "test_runs": [
+          {
+            "python": "3.14.3",
+            "suite": "knowledge",
+            "tests": 85,
+            "passed": true,
+            "log_sha256": "e85ec31cb760ce78fd13b96641f44429b797100d912fdd0c6502c90e4a899a06"
+          },
+          {
+            "python": "3.14.3",
+            "suite": "project",
+            "tests": 34,
+            "passed": true,
+            "log_sha256": "f4d5700fc76d4efdb5d4f1aef208bb1524cafc0e2713929f3d3232032223ed41"
+          },
+          {
+            "python": "3.9.6",
+            "suite": "knowledge",
+            "tests": 85,
+            "passed": true,
+            "log_sha256": "6700feee961f44a18c31cf7c7bc28d52111675e62b825f9de54b13ff72210065"
+          },
+          {
+            "python": "3.9.6",
+            "suite": "project",
+            "tests": 34,
+            "passed": true,
+            "log_sha256": "4d3813600c57aa8e32d75ec708e09c83f51163319eb14edf45bc7bfea2c9b52d"
+          }
+        ],
+        "advisor_revision": {
+          "scope": "Round3 fixes R1/R2 in case2 at exactly four lines, strengthens existing assertions, adds HTML to the retired-norm scan, and replaces the unpublished0.2.0 package after preserving round2.",
+          "total_unique_tests_per_python": 119,
+          "existing_knowledge_tests": 85,
+          "existing_distribution_tests": 24,
+          "advisor_contract_tests": 10,
+          "new_round3_test_functions": 0,
+          "case2_history": "Round2 inserted the re-ranking block; round3 revised only the first and third scenarios (R2/R1), lines84 and86 per language. Other lines, case content and quotations are unchanged.",
+          "case2_changes": {
+            "docs/examples.zh-CN.md": {
+              "before_sha256": "8e056c7cb1ad088703f695b6db0e67e6c721ad98240f8bda9703c0848d5c7682",
+              "after_sha256": "12d19ea67452ae4d51f6d943ddc6540ae5f2912d37425f4afdc85ad94b9bb33e",
+              "changed_lines": [
+                84,
+                86
+              ]
+            },
+            "docs/examples.en.md": {
+              "before_sha256": "b277eb18747d1712484c80095c3f401247a83ddb4f51cfe6ccd70bb655b6a81e",
+              "after_sha256": "63d43fb0db1152c3e218532ee9f3417c7de4d7d734dc3b05434b74d819db5577",
+              "changed_lines": [
+                84,
+                86
+              ]
+            }
+          },
+          "exact_task_text_used": true,
+          "wording_adjustments": [],
+          "corpus_baseline": {
+            "files": 1341,
+            "unchanged": 1337,
+            "intentional_modified": 4,
+            "changes": [
+              {
+                "file": "knowledge/guiguzi/data/examples.json",
+                "old_sha256": "f667756272acd969fb63b7292b6eb6b25d1a68a051e6cdee62055be7154be2c3",
+                "new_sha256": "e474436230c8617ae1285b245eef17ae583c7c4504607f3001f5ec5bc318f6a8",
+                "single_exact_utf8_substitution": true
+              },
+              {
+                "file": "knowledge/guiguzi/问答示例.md",
+                "old_sha256": "93152a6236f048166a037fd764f052eb983cd24392c2be5415423732c5a6e4f5",
+                "new_sha256": "ad6312cd45fde9c019c28f267ab204d9d49e8ee69880b44579c1d7a69dffff68",
+                "single_exact_utf8_substitution": true
+              },
+              {
+                "file": "knowledge/guiguzi/阅览.html",
+                "old_sha256": "f3555e3baf091fd4c942859713789beab38de83a4dd49159d0189e49f11e1850",
+                "new_sha256": "1e091e20ea358f9f57fd1c31aeb23b55a914102a5002cb9cc58a1b78bfca0084",
+                "single_exact_utf8_substitution": true
+              },
+              {
+                "file": "knowledge/lvshichunqiu/知识库总览.md",
+                "old_sha256": "a2292050b2c341b7e95decf8cf43e8f7ec14157f05c1d62ca0eff4ac5ac8b924",
+                "new_sha256": "1448de5ec32cdca21c81fed0b2ebb8291e82397d8240e7bad701438729a7129c",
+                "single_exact_utf8_substitution": true
+              }
+            ]
+          },
+          "all_knowledge_unchanged_from_round2": true,
+          "retrieval_code_and_vocabulary_unchanged": true,
+          "test_enhancements": [
+            "First scenario requires exit conditions in each language.",
+            "Third scenario requires option B wording in each language; occurrence in the second scenario cannot mask its absence.",
+            "Runtime and non-source collection retired-norm scan includes HTML."
+          ],
+          "retired_norm_scan": {
+            "files": 714,
+            "extensions": [
+              ".md",
+              ".json",
+              ".html"
+            ],
+            "historic_process_records_excluded": true
+          },
+          "defect_injection": {
+            "scenario_types": 5,
+            "runs_per_python": 5,
+            "python_versions": [
+              "3.14.3",
+              "3.9.6"
+            ],
+            "expected_assertion_failures": 10,
+            "test_errors": 0,
+            "scope": "Actual unittest runs on a full temporary source copy, excluding caches and system files; four missing-condition probes and one HTML retired-norm injection per interpreter. Synthetic defects, not user outcomes.",
+            "temporary_copy_removed": true,
+            "source_unchanged_by_probes": true
+          },
+          "corpus_validation": [
+            {
+              "python": "3.14.3",
+              "valid": true
+            },
+            {
+              "python": "3.9.6",
+              "valid": true
+            }
+          ],
+          "examples": {
+            "cases_per_language": 4,
+            "verified_quotes_per_language": 8,
+            "new_round3_quotations": 0,
+            "hypothetical_only": true
+          },
+          "not_performed": [
+            "No O2 quote-style normalization, deferred L2/L4 or 三仪 change.",
+            "No installed-versus-uninstalled effect comparison, customer outcome trial or new real-app benchmark.",
+            "No installed-user-skill replacement or remote upload."
+          ],
+          "integrity": {
+            "source_changed_files": [
+              "docs/examples.en.md",
+              "docs/examples.zh-CN.md",
+              "docs/validation-results.json",
+              "docs/validation.md",
+              "tests/test_advisor_contract.py"
+            ],
+            "source_added_files": [],
+            "source_removed_files": [],
+            "all_knowledge_files_unchanged_from_round2": true,
+            "knowledge_files_checked": 1374,
+            "version_unchanged": "0.2.0",
+            "case2_changed_lines_each": [
+              84,
+              86
+            ],
+            "corpus_baseline": {
+              "files": 1341,
+              "unchanged": 1337,
+              "intentional_round2_differences": [
+                "knowledge/guiguzi/data/examples.json",
+                "knowledge/guiguzi/问答示例.md",
+                "knowledge/guiguzi/阅览.html",
+                "knowledge/lvshichunqiu/知识库总览.md"
+              ]
+            }
+          }
+        },
+        "ai_cross_review": {
+          "code_verdict": "APPROVE",
+          "python_verdict": "APPROVE",
+          "open_findings": 0,
+          "scope": "Independent AI review of round3 four-line case fixes, existing test enhancements and source validation records, with actual targeted tests and explicitly synthetic defect probes. Not external certification or an end-user performance benchmark. Final package checks are delivered separately.",
+          "reviewed_sha256": {
+            "docs/examples.zh-CN.md": "12d19ea67452ae4d51f6d943ddc6540ae5f2912d37425f4afdc85ad94b9bb33e",
+            "docs/examples.en.md": "63d43fb0db1152c3e218532ee9f3417c7de4d7d734dc3b05434b74d819db5577",
+            "tests/test_advisor_contract.py": "02822cf5f4d93e923cc7539f27faafb46b7760b5cb287677d344f155e5bee6eb",
+            "docs/validation.md": "15a3c4caea7ef74ca920d7964c97157e2ab4431d3b18049946dc41029674049b"
+          },
+          "code_report_sha256": "96c3883bb6a5539b60346339a1448f879745a80e10e3d3d7a6b7f6decbe92776",
+          "python_report_sha256": "1e5dde5d83f86ddce9b6aaff5250f2f3bada5647565019fe49268cd4dbe2e21b",
+          "validation_record_hash_scope": "Record body was reviewed before final approval metadata was added. Its own hash is intentionally not embedded."
+        },
+        "release_state": {
+          "version": "0.2.0",
+          "scope": "Round3 source checks before authorized same-version local replacement. Round2 pending package is archived intact; final new manifest, ZIP and temporary-install checks are delivered separately.",
+          "output": "GitHub发布包/v0.2.0/",
+          "existing_v011_artifacts_and_installed_skill_updated": false,
+          "uploaded": false,
+          "previous_pending_package": {
+            "archived_path": "本地审查归档/2026-10-20/v0.2.0第二轮/被替换的发布包",
+            "files": 1384,
+            "all_bytes_preserved": true,
+            "zip_sha256": "639116cc5af4aaabd6da67322e2588959d9a2c0b6b16136269d3a3b1ee662d5d",
+            "previous_output_path_freed": true
+          }
+        },
+        "scope": "Historical third-round source checks and pending package before the introduction revision. Its test runs, review hashes, four-line case changes and defect probes are not new introduction-revision results."
+      }
+    }
+  }
+}

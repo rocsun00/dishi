@@ -1,0 +1,116 @@
+[
+  {
+    "passage_id": "HNZ-07-006",
+    "kind": "source_unresolved_glyph_description",
+    "description": "<月曷>",
+    "treatment": "来源以部件描述代字，原样保留；未对读确字，不擅改写或据此确定语义。"
+  },
+  {
+    "passage_id": "HNZ-10-005",
+    "kind": "source_unresolved_foreign_or_placeholder_character",
+    "description": "仁心之感恩接而よ怛生",
+    "treatment": "源页不明字符原样保留，未据校本补字或改字，不以此处作确定语义或可靠引文。"
+  },
+  {
+    "passage_id": "HNZ-11-001",
+    "kind": "source_unresolved_private_use_or_placeholder",
+    "characters": [
+      {
+        "codepoint": "U+F5CD",
+        "character": "",
+        "count": 1,
+        "contexts": [
+          "帶足以結紐收衽，束牢連固，不亟於為文句疏短之。故制禮義，行至德，而不拘於儒墨。所謂明者，"
+        ]
+      },
+      {
+        "codepoint": "U+F0EF",
+        "character": "",
+        "count": 1,
+        "contexts": [
+          "。何者？力不足也。故諺曰：「鳥窮則噣，獸窮則，人窮則詐。」此之謂也。道德之論，譬猶日月也"
+        ]
+      }
+    ],
+    "treatment": "保留固定来源原字；未经权威对读不得擅补，不据此字确定古人主张。",
+    "additional_source_anomaly": {
+      "text": "國不亡怴A未必無禮也",
+      "treatment": "源页含不明拉丁字母A及邻接疑字，原样保留，未据其他版本校改；不得以该处作确定引文。"
+    }
+  },
+  {
+    "passage_id": "HNZ-13-001",
+    "kind": "source_unresolved_private_use_or_placeholder",
+    "characters": [
+      {
+        "codepoint": "U+E364",
+        "character": "",
+        "count": 1,
+        "contexts": [
+          "俗益薄，欲以樸重之法，治既弊之民，是猶無鏑銜策錣而御馯馬也。昔者，神農無制令而民從，唐、"
+        ]
+      },
+      {
+        "codepoint": "U+F659",
+        "character": "",
+        "count": 1,
+        "contexts": [
+          "年而桀乃亡。殷之將敗也，太史令向藝先歸文王，年而紂乃亡。故聖人之見存亡之跡，成敗之際也，"
+        ]
+      },
+      {
+        "codepoint": "U+F28C",
+        "character": "",
+        "count": 1,
+        "contexts": [
+          "天地之怪物乎！夫雌雄相接，陰陽相薄，羽者為雛，毛者為駒犢，柔者為皮肉，堅者為齒角，人弗怪"
+        ]
+      },
+      {
+        "codepoint": "U+EFCC",
+        "character": "",
+        "count": 1,
+        "contexts": [
+          "非，唯有道者能通其志。今世之祭井灶、門戶、箕、臼杵者，非以其神為能饗之也，恃賴其德，煩苦"
+        ]
+      }
+    ],
+    "treatment": "保留固定来源原字；未经权威对读不得擅补，不据此字确定古人主张。"
+  },
+  {
+    "passage_id": "HNZ-16-001",
+    "kind": "source_unresolved_private_use_or_placeholder",
+    "characters": [
+      {
+        "codepoint": "U+E98C",
+        "character": "",
+        "count": 1,
+        "contexts": [
+          "東海，所行則異，所歸則一。通於學者若車軸，轉之中，不運於己，與之致千里，終而復始，轉無窮"
+        ]
+      }
+    ],
+    "treatment": "保留固定来源原字；未经权威对读不得擅补，不据此字确定古人主张。"
+  },
+  {
+    "passage_id": "HNZ-17-001",
+    "kind": "source_unresolved_foreign_or_placeholder_character",
+    "description": "旁光不升俎，?駁不入牲",
+    "treatment": "源页不明字符原样保留，未据校本补字或改字，不以此处作确定语义或可靠引文。"
+  },
+  {
+    "passage_id": "HNZ-18-020",
+    "kind": "source_unresolved_private_use_or_placeholder",
+    "characters": [
+      {
+        "codepoint": "U+E74E",
+        "character": "",
+        "count": 1,
+        "contexts": [
+          "益大。癰疽發於指，其痛遍於體。故蠹啄剖梁柱，虻走牛羊，此之謂也。人皆務於救患之備，而莫能"
+        ]
+      }
+    ],
+    "treatment": "保留固定来源原字；未经权威对读不得擅补，不据此字确定古人主张。"
+  }
+]

@@ -1,0 +1,450 @@
+{
+  "schema_version": 1,
+  "normalization": "wiki-body-v1",
+  "segments": [
+    {
+      "kind": "excluded",
+      "start": 0,
+      "end": 197,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-01-001",
+      "start": 197,
+      "end": 1010
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-01-002",
+      "start": 1010,
+      "end": 1596
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-01-003",
+      "start": 1596,
+      "end": 2241
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-01-004",
+      "start": 2241,
+      "end": 2736
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-01-005",
+      "start": 2736,
+      "end": 3188
+    },
+    {
+      "kind": "excluded",
+      "start": 3188,
+      "end": 3265,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-02-001",
+      "start": 3265,
+      "end": 4027
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-02-002",
+      "start": 4027,
+      "end": 4817
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-02-003",
+      "start": 4817,
+      "end": 5583
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-02-004",
+      "start": 5583,
+      "end": 6106
+    },
+    {
+      "kind": "excluded",
+      "start": 6106,
+      "end": 6158,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-03-001",
+      "start": 6158,
+      "end": 6807
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-03-002",
+      "start": 6807,
+      "end": 7398
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-03-003",
+      "start": 7398,
+      "end": 8371
+    },
+    {
+      "kind": "excluded",
+      "start": 8371,
+      "end": 8598,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-04-001",
+      "start": 8598,
+      "end": 9262
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-04-002",
+      "start": 9262,
+      "end": 9740
+    },
+    {
+      "kind": "excluded",
+      "start": 9740,
+      "end": 10028,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-05-001",
+      "start": 10028,
+      "end": 10939
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-05-002",
+      "start": 10939,
+      "end": 11626
+    },
+    {
+      "kind": "excluded",
+      "start": 11626,
+      "end": 11691,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-06-001",
+      "start": 11691,
+      "end": 12261
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-06-002",
+      "start": 12261,
+      "end": 12973
+    },
+    {
+      "kind": "excluded",
+      "start": 12973,
+      "end": 13010,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-07-001",
+      "start": 13010,
+      "end": 13287
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-07-002",
+      "start": 13287,
+      "end": 13910
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-07-003",
+      "start": 13910,
+      "end": 14467
+    },
+    {
+      "kind": "excluded",
+      "start": 14467,
+      "end": 14504,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-08-001",
+      "start": 14504,
+      "end": 15265
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-08-002",
+      "start": 15265,
+      "end": 15822
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-08-003",
+      "start": 15822,
+      "end": 16512
+    },
+    {
+      "kind": "excluded",
+      "start": 16512,
+      "end": 16549,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-09-001",
+      "start": 16549,
+      "end": 17233
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-09-002",
+      "start": 17233,
+      "end": 17856
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-09-003",
+      "start": 17856,
+      "end": 18583
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-09-004",
+      "start": 18583,
+      "end": 19125
+    },
+    {
+      "kind": "excluded",
+      "start": 19125,
+      "end": 19162,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-10-001",
+      "start": 19162,
+      "end": 19887
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-10-002",
+      "start": 19887,
+      "end": 20417
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-10-003",
+      "start": 20417,
+      "end": 21236
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-10-004",
+      "start": 21236,
+      "end": 21886
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-10-005",
+      "start": 21886,
+      "end": 22263
+    },
+    {
+      "kind": "excluded",
+      "start": 22263,
+      "end": 22274,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-11-001",
+      "start": 22274,
+      "end": 22977
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-11-002",
+      "start": 22977,
+      "end": 23293
+    },
+    {
+      "kind": "excluded",
+      "start": 23293,
+      "end": 23329,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-12-001",
+      "start": 23329,
+      "end": 24187
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-12-002",
+      "start": 24187,
+      "end": 24947
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-12-003",
+      "start": 24947,
+      "end": 25267
+    },
+    {
+      "kind": "excluded",
+      "start": 25267,
+      "end": 26235,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-13-001",
+      "start": 26235,
+      "end": 26930
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-13-002",
+      "start": 26930,
+      "end": 27533
+    },
+    {
+      "kind": "excluded",
+      "start": 27533,
+      "end": 27535,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-14-001",
+      "start": 27535,
+      "end": 28168
+    },
+    {
+      "kind": "excluded",
+      "start": 28168,
+      "end": 28170,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-15-001",
+      "start": 28170,
+      "end": 28897
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-15-002",
+      "start": 28897,
+      "end": 29190
+    },
+    {
+      "kind": "excluded",
+      "start": 29190,
+      "end": 29192,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-16-001",
+      "start": 29192,
+      "end": 29857
+    },
+    {
+      "kind": "excluded",
+      "start": 29857,
+      "end": 29859,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-17-001",
+      "start": 29859,
+      "end": 30439
+    },
+    {
+      "kind": "excluded",
+      "start": 30439,
+      "end": 30441,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-18-001",
+      "start": 30441,
+      "end": 31305
+    },
+    {
+      "kind": "excluded",
+      "start": 31305,
+      "end": 31307,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-19-001",
+      "start": 31307,
+      "end": 32298
+    },
+    {
+      "kind": "excluded",
+      "start": 32298,
+      "end": 32374,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-20-001",
+      "start": 32374,
+      "end": 32682
+    },
+    {
+      "kind": "excluded",
+      "start": 32682,
+      "end": 32725,
+      "reason": "页题、篇题、篇题古注、亡篇声明、卷尾刊记、导航或空白；正文古注仅在相应原貌内另存，非正文"
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-21-001",
+      "start": 32725,
+      "end": 33385
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-21-002",
+      "start": 33385,
+      "end": 33892
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-21-003",
+      "start": 33892,
+      "end": 34554
+    },
+    {
+      "kind": "passage",
+      "id": "GGZ-21-004",
+      "start": 34554,
+      "end": 35439
+    },
+    {
+      "kind": "excluded",
+      "start": 35439,
+      "end": 35505,
+      "reason": "卷尾刊记、导航与空白"
+    }
+  ]
+}

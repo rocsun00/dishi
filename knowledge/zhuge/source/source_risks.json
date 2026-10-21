@@ -1,0 +1,65 @@
+{
+  "scope": "发现并提示的源电子文本风险，非穷尽校勘",
+  "risks": [
+    {
+      "passage_id": "ZGL-01-002",
+      "kind": "source_inline_variant_marks",
+      "text": "猖（獗）〔蹶〕",
+      "handling": "原样保留电子源括号/替换记号，不把两字连读；未据影印本裁定"
+    },
+    {
+      "passage_id": "ZGL-05-010",
+      "kind": "source_bracketed_addition",
+      "text": "[若無興德之言，則]",
+      "handling": "保留源电子页方括号补入文字并在释义提示，不抹平编辑性质"
+    },
+    {
+      "passage_id": "ZGL-06-002",
+      "kind": "suspected_glyph",
+      "text": "取眉",
+      "handling": "固定页作眉，疑与郿等版本异字有关；不默改，引用须注明工作本"
+    },
+    {
+      "passage_id": "ZGL-07-004",
+      "kind": "disputed_document_and_place",
+      "text": "危於祁連",
+      "handling": "归属有争议文献中的地名/史事待核，不据常识臆改或配现代地图"
+    },
+    {
+      "passage_id": "ZGL-07-006",
+      "kind": "disputed_document_and_chronology",
+      "text": "然喪趙雲",
+      "handling": "源表涉及赵云亡年与文本形成的争议，未以本句断定历史卒年"
+    },
+    {
+      "passage_id": "ZGL-07-008",
+      "kind": "variant_from_popular_quote",
+      "text": "臣鞠躬儘力，死而後已",
+      "handling": "工作本作儘力，不替换为通行尽瘁；每释义/卡/QA声明归属争议"
+    },
+    {
+      "passage_id": "ZGL-09-001",
+      "kind": "catalog_not_fulltext_and_glyph",
+      "text": "與諸葛謹書第十五",
+      "handling": "保留谨字；目录不是二十四篇正文；杂言第十等也不擅补下字"
+    },
+    {
+      "passage_id": "ZGL-15-001",
+      "kind": "family_instruction_variant",
+      "text": "淡薄",
+      "handling": "御览固定电子本作淡薄；艺文类聚作澹泊，分源对照不拼接"
+    },
+    {
+      "passage_id": "ZGL-15-002",
+      "kind": "family_instruction_variant",
+      "text": "夫學欲靜也",
+      "handling": "御览页作欲；艺文类聚作须，保留所选工作本"
+    },
+    {
+      "passage_id": "ZGL-15-004",
+      "kind": "family_instruction_variant",
+      "text": "意與日去",
+      "handling": "御览、艺文类聚与独立诫子书页在意/志、日/岁及末句不同，不拼通行本"
+    }
+  ]
+}

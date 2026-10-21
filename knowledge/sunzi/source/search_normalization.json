@@ -1,0 +1,9 @@
+{
+  "purpose": "仅作简体关键词检索辅助；显示和引用仍使用原始繁体正文",
+  "converter": "opencc-python-reimplemented",
+  "version": "0.1.7",
+  "configuration": "t2s",
+  "paragraph_count": 74,
+  "sha256": "99ca517aaefc92ed9c2d0d6f45e3465f156587773727ab692f2aecd2860ebf8e",
+  "generated_on": "2026-10-19"
+}

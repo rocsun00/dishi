@@ -1,0 +1,100 @@
+{
+  "url": "https://zh.wikisource.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8A%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%AD%7C%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D%2F%E5%8D%B7%E4%B8%8B%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E9%BB%83%E7%9F%B3%E5%85%AC%E4%B8%89%E7%95%A7+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8A%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%AD%7C%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D+%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29%2F%E5%8D%B7%E4%B8%8B&redirects=1",
+  "retrieved_utc": "2026-10-20T15:01:59.454763+00:00",
+  "mode": "titles",
+  "response_path": "body-titles.json",
+  "response_sha256": "420754e47957bd45b12d8cbb5ad9f3b9f84ac6a7f139003896dad8a517ca899f",
+  "pages": [
+    {
+      "title": "唐李問對/卷上",
+      "pageid": 56029,
+      "revid": 1536621,
+      "timestamp": "2019-02-03T04:53:50Z",
+      "raw_path": "body-titles-56029.wikitext",
+      "chars": 5244,
+      "headings": [],
+      "raw_sha256": "df5aafcba9ec626b66e285289943c25d5719ab0a5395f455cda58594ddbce485"
+    },
+    {
+      "title": "唐李問對/卷中",
+      "pageid": 56030,
+      "revid": 1536622,
+      "timestamp": "2019-02-03T04:54:01Z",
+      "raw_path": "body-titles-56030.wikitext",
+      "chars": 4771,
+      "headings": [],
+      "raw_sha256": "797d140d7cb6bead9fdfb54a08816bf8aba6eae57a93ab809d367b0c18b1f860"
+    },
+    {
+      "title": "唐李問對/卷下",
+      "pageid": 56031,
+      "revid": 1536623,
+      "timestamp": "2019-02-03T04:54:12Z",
+      "raw_path": "body-titles-56031.wikitext",
+      "chars": 4151,
+      "headings": [],
+      "raw_sha256": "b9f72a7254ae73828f6f87f7f5cb6cd8a438ae1684fcd3eeb69e0e9bb883e2b6"
+    },
+    {
+      "title": "黃石公三畧 (四庫全書本)/卷上",
+      "pageid": 254956,
+      "revid": 619896,
+      "timestamp": "2016-10-14T02:39:29Z",
+      "raw_path": "body-titles-254956.wikitext",
+      "chars": 2538,
+      "headings": [],
+      "raw_sha256": "46da93c3077427a90eb53b2889828593300c3906799cf6020e0e1e284c50517a"
+    },
+    {
+      "title": "黃石公三畧 (四庫全書本)/卷中",
+      "pageid": 254957,
+      "revid": 619898,
+      "timestamp": "2016-10-14T02:39:29Z",
+      "raw_path": "body-titles-254957.wikitext",
+      "chars": 1018,
+      "headings": [],
+      "raw_sha256": "4aadd49226003615523e6f7043f597f96846346a2ead283c18df88287814d6ba"
+    },
+    {
+      "title": "黃石公三畧 (四庫全書本)/卷下",
+      "pageid": 254958,
+      "revid": 619900,
+      "timestamp": "2016-10-14T02:39:29Z",
+      "raw_path": "body-titles-254958.wikitext",
+      "chars": 1415,
+      "headings": [],
+      "raw_sha256": "933c8c0eafe2b99240afe4136bb456b93ce64bda25755ab2876c13cc411020d1"
+    },
+    {
+      "title": "李衛公問對 (四庫全書本)/卷上",
+      "pageid": 260909,
+      "revid": 631886,
+      "timestamp": "2016-10-14T04:02:12Z",
+      "raw_path": "body-titles-260909.wikitext",
+      "chars": 3328,
+      "headings": [],
+      "raw_sha256": "ab24db85ce1c7b9d081f20796ca4a0023b1f7e97c90d092c0b4175f98643fada"
+    },
+    {
+      "title": "李衛公問對 (四庫全書本)/卷中",
+      "pageid": 260910,
+      "revid": 786937,
+      "timestamp": "2016-10-27T10:48:13Z",
+      "raw_path": "body-titles-260910.wikitext",
+      "chars": 3850,
+      "headings": [],
+      "raw_sha256": "01ffc333f971a9f0a6b9c4261f14511af0b5fc36ff2e9f43a6faccf984b921ba"
+    },
+    {
+      "title": "李衛公問對 (四庫全書本)/卷下",
+      "pageid": 260911,
+      "revid": 631890,
+      "timestamp": "2016-10-14T04:02:13Z",
+      "raw_path": "body-titles-260911.wikitext",
+      "chars": 4341,
+      "headings": [],
+      "raw_sha256": "962ee8863f4b4376dc68b0a38c20b12cde53e8717ecd04e298289c12494735f5"
+    }
+  ],
+  "redirects": []
+}

@@ -1,0 +1,85 @@
+{
+  "layer": "bibliographic-evidence-not-primary-body",
+  "records": [
+    {
+      "page_title": "李衛公問對 (四庫全書本)",
+      "revision": 631894,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631894",
+      "raw_file": "pages/fixed-260913.wikitext",
+      "source_start": 281,
+      "source_end": 299,
+      "source_line": 9,
+      "source_markup": "此書出於宋初大抵因杜氏所有者而附益之",
+      "interpretive_limit": "提要所述编纂说，非本项目通过独立证据确定的成书年代。"
+    },
+    {
+      "page_title": "李衛公問對 (四庫全書本)",
+      "revision": 631894,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631894",
+      "raw_file": "pages/fixed-260913.wikitext",
+      "source_start": 324,
+      "source_end": 330,
+      "source_line": 9,
+      "source_markup": "皆阮逸所偽撰",
+      "interpretive_limit": "提要转引何薳记苏轼之说，不直接断言阮逸作者身份。"
+    },
+    {
+      "page_title": "李衛公問對 (四庫全書本)",
+      "revision": 631894,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631894",
+      "raw_file": "pages/fixed-260913.wikitext",
+      "source_start": 417,
+      "source_end": 425,
+      "source_line": 9,
+      "source_markup": "諸説紛紜多不相合",
+      "interpretive_limit": "提要自己明示争议，不可省去后作唯一结论。"
+    },
+    {
+      "page_title": "李衛公問對 (四庫全書本)",
+      "revision": 631894,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631894",
+      "raw_file": "pages/fixed-260913.wikitext",
+      "source_start": 425,
+      "source_end": 436,
+      "source_line": 9,
+      "source_markup": "其果岀阮逸與否固未可定",
+      "interpretive_limit": "保留未定；不选择某一假说冒充定论。"
+    },
+    {
+      "page_title": "李衛公問對 (四庫全書本)",
+      "revision": 631894,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%9D%8E%E8%A1%9B%E5%85%AC%E5%95%8F%E5%B0%8D%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631894",
+      "raw_file": "pages/fixed-260913.wikitext",
+      "source_start": 536,
+      "source_end": 554,
+      "source_line": 9,
+      "source_markup": "世所行本不分卷數今依文獻通考定為三卷",
+      "interpretive_limit": "本库以所选主本上中下源卷组织，三卷不等于三原始单篇，也不确认作者亲笔分卷。"
+    },
+    {
+      "page_title": "唐李問對",
+      "revision": 2358304,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%94%90%E6%9D%8E%E5%95%8F%E5%B0%8D&oldid=2358304",
+      "raw_file": "pages/fixed-56025.wikitext",
+      "source_start": 20,
+      "source_end": 37,
+      "source_line": 1,
+      "source_markup": "author=李靖|times=唐",
+      "interpretive_limit": "现代目录模板所载旧题，不确证作者、唐代逐字史录或问答现场。"
+    }
+  ],
+  "redirect_evidence": {
+    "raw_api": "api/index-titles.json",
+    "redirects": [
+      {
+        "from": "唐太宗李衛公問對",
+        "to": "唐李問對"
+      },
+      {
+        "from": "李衛公問對",
+        "to": "唐李問對"
+      }
+    ],
+    "meaning": "两个题名重定向到唐李問對，只表明站点命名对应，不证明作者或年代。"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "id": "guiguzi",
+  "work_id": "guiguzi",
+  "title": "鬼谷子（三卷现存正文电子工作本）",
+  "prefix": "GGZ",
+  "source_title": "鬼谷子/卷01",
+  "revision": "multiple-pinned-pages",
+  "source_url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E5%8D%B701&oldid=2276561",
+  "source_pages": [
+    {
+      "title": "鬼谷子/卷01",
+      "revision": 2276561,
+      "timestamp": "2023-04-23T13:03:59Z",
+      "raw_file": "pages/01.wikitext",
+      "api_response": "api/01.json",
+      "fixed_api_response": "api/01-fixed.json",
+      "raw_sha256": "d894ddd43295abf92a19107ef91d3d4e33ada688d0083726ab46f092a13e94da",
+      "api_sha256": "6a4c9677947f4777fea27757a7c6cbd9e48301622ecf12749c2f00a7800d2ac8",
+      "fixed_api_sha256": "6a4c9677947f4777fea27757a7c6cbd9e48301622ecf12749c2f00a7800d2ac8",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E5%8D%B701&oldid=2276561",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E5%8D%B701&action=history",
+      "author_attribution": "旧题鬼谷子，旧题梁陶弘景注，成书与注者归属不在本项目确断",
+      "contributors_attribution": "鬼谷子/卷01 — 中文维基文库贡献者，修订历史见历史链接",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "start": 0,
+      "end": 9806
+    },
+    {
+      "title": "鬼谷子/卷02",
+      "revision": 2276562,
+      "timestamp": "2023-04-23T13:16:30Z",
+      "raw_file": "pages/02.wikitext",
+      "api_response": "api/02.json",
+      "fixed_api_response": "api/02-fixed.json",
+      "raw_sha256": "41d74471d80f3366e6357329d018a7b84b4f4bc28b9afcd64382a32ddd46c80b",
+      "api_sha256": "387c686dc64b94b1e59927e7c153511f5af119ffe30e421f56a3b34ab8ab18da",
+      "fixed_api_sha256": "387c686dc64b94b1e59927e7c153511f5af119ffe30e421f56a3b34ab8ab18da",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E5%8D%B702&oldid=2276562",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E5%8D%B702&action=history",
+      "author_attribution": "旧题鬼谷子，旧题梁陶弘景注，成书与注者归属不在本项目确断",
+      "contributors_attribution": "鬼谷子/卷02 — 中文维基文库贡献者，修订历史见历史链接",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "start": 9806,
+      "end": 26037
+    },
+    {
+      "title": "鬼谷子/卷03",
+      "revision": 2276563,
+      "timestamp": "2023-04-23T13:23:32Z",
+      "raw_file": "pages/03.wikitext",
+      "api_response": "api/03.json",
+      "fixed_api_response": "api/03-fixed.json",
+      "raw_sha256": "f43d8097411c9e740e1dac34f9a0bcec1e17204ac6d1e6626eed017598202c8c",
+      "api_sha256": "4585e6c810f4572ffb4b090397fd92c25b802706e582a877b65c073319a897e3",
+      "fixed_api_sha256": "4585e6c810f4572ffb4b090397fd92c25b802706e582a877b65c073319a897e3",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E5%8D%B703&oldid=2276563",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E5%8D%B703&action=history",
+      "author_attribution": "旧题鬼谷子，旧题梁陶弘景注，成书与注者归属不在本项目确断",
+      "contributors_attribution": "鬼谷子/卷03 — 中文维基文库贡献者，修订历史见历史链接",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+      "start": 26037,
+      "end": 35505
+    }
+  ],
+  "reference_pages": [
+    {
+      "title": "鬼谷子",
+      "revision": 6712029,
+      "timestamp": "2026-06-07T08:35:33Z",
+      "raw_file": "pages/00.wikitext",
+      "api_response": "api/00.json",
+      "fixed_api_response": "api/00-fixed.json",
+      "raw_sha256": "fdf3f55252cb3bfce09e0509348d27ebe1b4f67d49d885142e442e69f37f7754",
+      "api_sha256": "bbcb7113c11a56978b92a263f7c37c7412c2a5e74ccb329cd3bd0d8e25966888",
+      "fixed_api_sha256": "bbcb7113c11a56978b92a263f7c37c7412c2a5e74ccb329cd3bd0d8e25966888",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90&oldid=6712029",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90&action=history",
+      "author_attribution": "三卷秦氏本目录",
+      "contributors_attribution": "鬼谷子 — 中文维基文库贡献者，修订历史见历史链接",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    },
+    {
+      "title": "鬼谷子/序",
+      "revision": 2371860,
+      "timestamp": "2024-03-08T05:10:36Z",
+      "raw_file": "pages/04.wikitext",
+      "api_response": "api/04.json",
+      "fixed_api_response": "api/04-fixed.json",
+      "raw_sha256": "2e5d90a6ec30506651031fd1ce534f6fc03a01edcd4d4b2635632e55805d0e37",
+      "api_sha256": "6f9e921a72ae1d05b8c035d1567876aefd81f8eeb9d1f908207be68e04f61d19",
+      "fixed_api_sha256": "6f9e921a72ae1d05b8c035d1567876aefd81f8eeb9d1f908207be68e04f61d19",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E5%BA%8F&oldid=2371860",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E5%BA%8F&action=history",
+      "author_attribution": "秦恩复或所引古籍及周广业、卢文弨、阮元等古代作者；见页内署名",
+      "contributors_attribution": "鬼谷子/序 — 中文维基文库贡献者，修订历史见历史链接",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    },
+    {
+      "title": "鬼谷子/鬼谷子附録",
+      "revision": 2276564,
+      "timestamp": "2023-04-23T13:25:41Z",
+      "raw_file": "pages/05.wikitext",
+      "api_response": "api/05.json",
+      "fixed_api_response": "api/05-fixed.json",
+      "raw_sha256": "073b0e74762df56413b089bf969ff026e91a63e0ff67e14e7d12bf090f9d4210",
+      "api_sha256": "8b19c18bbee770bbad8f36d5c5385d46ffdea7f44403960c8d9e50559414b22d",
+      "fixed_api_sha256": "8b19c18bbee770bbad8f36d5c5385d46ffdea7f44403960c8d9e50559414b22d",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E9%AC%BC%E8%B0%B7%E5%AD%90%E9%99%84%E9%8C%B2&oldid=2276564",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E9%AC%BC%E8%B0%B7%E5%AD%90%E9%99%84%E9%8C%B2&action=history",
+      "author_attribution": "秦恩复或所引古籍及周广业、卢文弨、阮元等古代作者；见页内署名",
+      "contributors_attribution": "鬼谷子/鬼谷子附録 — 中文维基文库贡献者，修订历史见历史链接",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    },
+    {
+      "title": "鬼谷子/鬼谷子篇目考",
+      "revision": 2276565,
+      "timestamp": "2023-04-23T13:28:31Z",
+      "raw_file": "pages/06.wikitext",
+      "api_response": "api/06.json",
+      "fixed_api_response": "api/06-fixed.json",
+      "raw_sha256": "318ec451d973f587cac71a9f814bf3f2d89fab70942c71b80a695b2b2eb1f75f",
+      "api_sha256": "90f2dbe2d9060c70315eed0b2388cee34f7ca3e7a5b950a2259b052dbef105d1",
+      "fixed_api_sha256": "90f2dbe2d9060c70315eed0b2388cee34f7ca3e7a5b950a2259b052dbef105d1",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E9%AC%BC%E8%B0%B7%E5%AD%90%E7%AF%87%E7%9B%AE%E8%80%83&oldid=2276565",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E9%AC%BC%E8%B0%B7%E5%AD%90%E7%AF%87%E7%9B%AE%E8%80%83&action=history",
+      "author_attribution": "秦恩复或所引古籍及周广业、卢文弨、阮元等古代作者；见页内署名",
+      "contributors_attribution": "鬼谷子/鬼谷子篇目考 — 中文维基文库贡献者，修订历史见历史链接",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    },
+    {
+      "title": "鬼谷子/跋",
+      "revision": 2276566,
+      "timestamp": "2023-04-23T13:30:45Z",
+      "raw_file": "pages/07.wikitext",
+      "api_response": "api/07.json",
+      "fixed_api_response": "api/07-fixed.json",
+      "raw_sha256": "e9647675e6bbfdd8ef2d3c417574823059813e0f48678ae01f5e3062460cf8da",
+      "api_sha256": "3cbb35c305107f934d7bddac5af19d26e7c3d2d58fe7a4dd69cf4f3a3d37fe92",
+      "fixed_api_sha256": "3cbb35c305107f934d7bddac5af19d26e7c3d2d58fe7a4dd69cf4f3a3d37fe92",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E8%B7%8B&oldid=2276566",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=%E9%AC%BC%E8%B0%B7%E5%AD%90%2F%E8%B7%8B&action=history",
+      "author_attribution": "秦恩复或所引古籍及周广业、卢文弨、阮元等古代作者；见页内署名",
+      "contributors_attribution": "鬼谷子/跋 — 中文维基文库贡献者，修订历史见历史链接",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    }
+  ],
+  "retrieved_on": "2026-10-19",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "0cf024e00a6e7bc281f0d6563976c2ba324f49b0e201bf004136186bfae8bef3",
+  "extraction_sha256": "c2bb630e4f2960196f2adb364e0af87bacb77682ccb03f60a8d34c11dc5e1cbd",
+  "scope": "完整收录所选固定电子工作本三卷现存正文：捭阖至符言12篇、本经阴符七术7节、持枢及中经。古注、篇题古注、亡篇声明和卷尾刊记保留快照，不入正文。古序、附录、篇目考、跋另存文献参考。",
+  "edition_status": "中文维基文库所标嘉庆十年江都秦氏开雕、旧题梁陶弘景注三卷电子本；正文与古注分层。作者、成书年代及陶弘景/尹知章注归属均有争议，不宣称战国某人逐句亲著；未逐字对勘影印原刻。",
+  "chapter_count": 21,
+  "chapter_unit": "个现存正文单元（本经七术分列）",
+  "passage_count": 52,
+  "text_characters_including_punctuation": 9604,
+  "normalization": [
+    "官方API按页面与固定修订双取，原响应和原貌保存，逐页SHA256、修订时间与署名许可保留。",
+    "按源完整正文行取全；依源句号等保持连续原貌切为项目句群，每段保留合并快照偏移。",
+    "古注模板逐段另存editorial_notes；篇题注、卷尾刊记及亡篇声明在extraction明确排除。",
+    "现有wiki-body-v1处理古注、链接等，无改动正文汉字；简体仅辅助检索。"
+  ],
+  "source_attribution": "旧题鬼谷子，旧题梁陶弘景注；秦恩复重刊所附古序与诸家著录、跋参考。数字电子页来自中文维基文库各页贡献者，逐页历史、固定修订、CC BY-SA 4.0链接见source_pages/reference_pages及来源与许可.md。",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "CC BY-SA 4.0为站点数字整理声明；古代原作公版与现代数字整理、项目新增释义代码分别处理，保留署名及改动记录，不用项目许可抹去上游义务。",
+  "source_risks": [
+    {
+      "passage_id": "GGZ-03-001",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "貨結以采色",
+      "description": "电子正文作货结，段内古注作结以采色，不私改作或结。"
+    },
+    {
+      "passage_id": "GGZ-03-003",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "治名入産業；因危與之",
+      "description": "字句难顺，进退层次可述而逐字唯一解保留。"
+    },
+    {
+      "passage_id": "GGZ-04-001",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "罅者，𡼏也",
+      "description": "来源罕字、字形保留，现代释义只述缝隙而不造罕字新义。"
+    },
+    {
+      "passage_id": "GGZ-06-002",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "材能知𥈠",
+      "description": "来源以𥈠表示智慧相关字形，显示保留；不因字形差异漏段。"
+    },
+    {
+      "passage_id": "GGZ-07-003",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "人莫能先先事而生；可以生事美",
+      "description": "电子字句及断读疑点，宽述难预先取情及利害机势，不强作逐字全译。"
+    },
+    {
+      "passage_id": "GGZ-08-002",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "有以𠔳；𠔳者，潔也",
+      "description": "来源罕字，古注从廉释洁；保留正文，不以私改凑常见廉字。"
+    },
+    {
+      "passage_id": "GGZ-08-003",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "有不相應者；有不聽者；夫幾者不晚成，而不拘久而化成",
+      "description": "断读、句义存在解释余地，不据末句给出现代固定成功时限。"
+    },
+    {
+      "passage_id": "GGZ-09-001",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "㔻言者，決而干勇",
+      "description": "罕字与分类定义不强作唯一训释，不补为流行版本其他字。"
+    },
+    {
+      "passage_id": "GGZ-09-003",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "辭言五，曰病，曰怨，曰憂，曰怒，曰喜；恐者",
+      "description": "列怨而解释恐，源列目与释项不一致，保留不校改。"
+    },
+    {
+      "passage_id": "GGZ-10-001",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "三儀；奇不知其所壅；同惡",
+      "description": "具体所指和句义有解释余地，不造固定三维模型。"
+    },
+    {
+      "passage_id": "GGZ-10-004",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "亡不可以爲存，而危不可以爲安",
+      "description": "按固定本照存，与若干流行文本的顺口措辞不得混合引用；不凭这句宣称绝不能转危为安。"
+    },
+    {
+      "passage_id": "GGZ-10-005",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "見不可，擇事而爲之；穀逺近之誘",
+      "description": "源句难顺，宽述择事与隐秘，不据疑字确定精确论断。"
+    },
+    {
+      "passage_id": "GGZ-11-001",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "終無惑偏有利焉；陽勵於一言，隂勵於二言",
+      "description": "开篇及一言二言字句不立唯一解释，不编成决策算法。"
+    },
+    {
+      "passage_id": "GGZ-12-001",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "其被節先肉；善與而不靜",
+      "description": "古注亦存先肉/无不肉异文解释，释义据上下文宽述安静居位，不改正文。"
+    },
+    {
+      "passage_id": "GGZ-12-002",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "家于其無常也",
+      "description": "源字句难定，保留在察内外开闭的上下文中，不据此作肯定名句。"
+    },
+    {
+      "passage_id": "GGZ-13-002",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "化有五氣者，志也，思也，神也，德也。神其一長也。",
+      "description": "五气列项不整齐，不补写所谓第五气，古修养论不作生理事实。"
+    },
+    {
+      "passage_id": "GGZ-14-001",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "欲不徨；欲不偟",
+      "description": "同节相邻不同字形照存，不以简体检索层倒改。"
+    },
+    {
+      "passage_id": "GGZ-15-001",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "識氣寄，姦邪而倚之，詐謀而惑之",
+      "description": "断读与语义较难，只提示意虑、候听与失实的框架，不声称唯一确译。"
+    },
+    {
+      "passage_id": "GGZ-17-001",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "無間則不散勢者；勢敗者",
+      "description": "古注对势字、败/散均有疑说，存原貌不据疑句推出确定规律。"
+    },
+    {
+      "passage_id": "GGZ-18-001",
+      "kind": "scope_and_attribution_boundary",
+      "source_phrase": "轉圓",
+      "description": "段内古注“疑即转丸”仅为古人意见，不宣称已补回卷中所标亡篇。"
+    },
+    {
+      "passage_id": "GGZ-20-001",
+      "kind": "scope_and_attribution_boundary",
+      "source_phrase": "持樞存文",
+      "description": "全节75显示字；古注疑篇简脱烂，只称现存全部而不称古本原貌完整无缺。"
+    },
+    {
+      "passage_id": "GGZ-21-002",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "謂爻爲之生。也。",
+      "description": "正文出现断裂标点，古注生另校主；照存，不据此定相貌占验之义。"
+    },
+    {
+      "passage_id": "GGZ-21-003",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "執仇；解仇",
+      "description": "本段执、篇前解及古注校解并存，标明层次而不悄改。"
+    },
+    {
+      "passage_id": "GGZ-21-004",
+      "kind": "source_phrase_uncertain",
+      "source_phrase": "驗去亂其前；吾歸誠於己",
+      "description": "句义依古注宽述，保留不定训；摄心语境含恐惧、系心，不能仅释成善意共情。"
+    }
+  ],
+  "source_observations": [
+    {
+      "kind": "missing_chapters",
+      "description": "卷中明确作“转丸、胠乱二篇皆亡”，古注校乱当篋。秦序及篇目考多作胠篋。留作亡篇说明，不补造正文。"
+    },
+    {
+      "kind": "authorship_uncertain",
+      "description": "古序、篇目考、跋保存鬼谷子/苏秦作者及陶弘景/尹知章注不同意见；只记所选本旧题，不在项目作作者年代确证。"
+    },
+    {
+      "kind": "commentary_boundary",
+      "description": "古注包括传注与秦氏等校案，以模板留在原貌及editorial_notes，不把所有注逐字归陶弘景。"
+    }
+  ]
+}

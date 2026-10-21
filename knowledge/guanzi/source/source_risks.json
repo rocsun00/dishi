@@ -1,0 +1,80 @@
+[
+  {
+    "passage_id": "GZ-20-003",
+    "kind": "source_glyph_template_uncertainty",
+    "source_templates": [
+      "{{？|⿰耒殳}}"
+    ],
+    "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+  },
+  {
+    "passage_id": "GZ-20-007",
+    "kind": "source_glyph_template_uncertainty",
+    "source_templates": [
+      "{{？|⿷匚晏}}"
+    ],
+    "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+  },
+  {
+    "passage_id": "GZ-29-001",
+    "kind": "source_glyph_template_uncertainty",
+    "source_templates": [
+      "{{!|𱯇|⿰王叕}}",
+      "{{!|𱯇|⿰王叕}}",
+      "{{!|𱯇|⿰王叕}}",
+      "{{!|𱯇|⿰王叕}}",
+      "{{!|𱯇|⿰王叕}}",
+      "{{!|𱯇|⿰王叕}}"
+    ],
+    "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+  },
+  {
+    "passage_id": "GZ-38-002",
+    "kind": "source_unresolved_private_use_placeholder_or_non_han_letter",
+    "characters": [
+      {
+        "character": "□",
+        "codepoint": "U+25A1",
+        "count": 1,
+        "contexts": [
+          "。去善之言，爲善之事，事成而顧反無名。能者無□，從事無事。審量出入，而觀物所載。孰能法無法"
+        ]
+      }
+    ],
+    "treatment": "保留固定来源原字或占位，未经权威对读不擅补字；不把含疑字的字句作为已确证字形和含义的可靠引文。"
+  },
+  {
+    "passage_id": "GZ-38-003",
+    "kind": "source_glyph_template_uncertainty",
+    "source_templates": [
+      "{{？|⿰扌⿱攵音}}"
+    ],
+    "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+  },
+  {
+    "passage_id": "GZ-74-003",
+    "kind": "source_glyph_template_uncertainty",
+    "source_templates": [
+      "{{？|⿰米⿱㒵夊}}",
+      "{{？|⿰米⿱㒵夊}}"
+    ],
+    "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+  },
+  {
+    "passage_id": "GZ-80-012",
+    "kind": "source_glyph_template_uncertainty",
+    "source_templates": [
+      "{{？|⿱𥫗𠕀}}"
+    ],
+    "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+  },
+  {
+    "chapter": 50,
+    "passage_ids": [
+      "GZ-50-001"
+    ],
+    "kind": "transmitted_chapter_replacement",
+    "description": "四库本卷16题注“元篇亡今以司馬遷封禪書所載管子言以補之”；本工作本保留现传第50篇文字，不把传本补配视为原作者亲撰的证明。",
+    "treatment": "保留现传工作本第50篇，不把所载史事/观点无条件视为管仲自撰原篇的直接证据。"
+  }
+]

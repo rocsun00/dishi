@@ -1,0 +1,464 @@
+[
+  {
+    "passage_id": "ZY-01-001",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "率性之謂道",
+    "description": "不可译为随欲；天命性与现代心理人格分层。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 149,
+      "end": 154,
+      "line": 10
+    },
+    "comparison": {
+      "page_title": "四書章句集註/中庸章句",
+      "revision": 7904735,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E4%B8%AD%E5%BA%B8%E7%AB%A0%E5%8F%A5&oldid=7904735",
+      "reading_or_later_note": "率，循也。",
+      "scope": "有限定点后世章句电子对读；注释不是主本正文，也不是影印古刻核验",
+      "raw_file": "pages/fixed-16030.wikitext",
+      "start": 447,
+      "end": 452,
+      "line": 13
+    }
+  },
+  {
+    "passage_id": "ZY-01-001",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "致中和，天地位焉，萬物育焉",
+    "description": "天人相贯的理想论述，非心念控制自然的实证。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 260,
+      "end": 273,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-002",
+    "kind": "later_commentarial_variant",
+    "source_phrase": "小人之中庸也",
+    "description": "主本此处无反字；后世章句记王肃本反字，保留分层不补字。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 303,
+      "end": 309,
+      "line": 10
+    },
+    "comparison": {
+      "page_title": "四書章句集註/中庸章句",
+      "revision": 7904735,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E4%B8%AD%E5%BA%B8%E7%AB%A0%E5%8F%A5&oldid=7904735",
+      "reading_or_later_note": "王肅本作「小人之反中庸也」，程子亦以為然。今從之。",
+      "scope": "有限定点后世章句电子对读；注释不是主本正文，也不是影印古刻核验",
+      "raw_file": "pages/fixed-16030.wikitext",
+      "start": 1640,
+      "end": 1665,
+      "line": 19
+    }
+  },
+  {
+    "passage_id": "ZY-01-003",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "民鮮能久矣",
+    "description": "久字所指及断句解释保留，不作统计。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 330,
+      "end": 335,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-006",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "隱惡而揚善",
+    "description": "置好问察近用中语境，不能据此隐瞒现代伤害。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 432,
+      "end": 437,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-009",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "中庸不可能也",
+    "description": "比较式难能表达，不能定为逻辑上绝无可能。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 560,
+      "end": 566,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-010",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "國有道，不變塞焉",
+    "description": "塞字及所守训释有别，宽述不因境遇改失德义。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 658,
+      "end": 666,
+      "line": 10
+    },
+    "comparison": {
+      "page_title": "四書章句集註/中庸章句",
+      "revision": 7904735,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E4%B8%AD%E5%BA%B8%E7%AB%A0%E5%8F%A5&oldid=7904735",
+      "reading_or_later_note": "國有道，不變未達之所守；國無道，不變平生之所守也。",
+      "scope": "有限定点后世章句电子对读；注释不是主本正文，也不是影印古刻核验",
+      "raw_file": "pages/fixed-16030.wikitext",
+      "start": 3539,
+      "end": 3564,
+      "line": 59
+    }
+  },
+  {
+    "passage_id": "ZY-01-011",
+    "kind": "later_commentarial_variant",
+    "source_phrase": "素隱行怪",
+    "description": "主本素字保留；索是朱熹按汉书所提出的后世校释。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 689,
+      "end": 693,
+      "line": 10
+    },
+    "comparison": {
+      "page_title": "四書章句集註/中庸章句",
+      "revision": 7904735,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E4%B8%AD%E5%BA%B8%E7%AB%A0%E5%8F%A5&oldid=7904735",
+      "reading_or_later_note": "素，按《漢書》當作索，蓋字之誤也。",
+      "scope": "有限定点后世章句电子对读；注释不是主本正文，也不是影印古刻核验",
+      "raw_file": "pages/fixed-16030.wikitext",
+      "start": 3684,
+      "end": 3701,
+      "line": 64
+    }
+  },
+  {
+    "passage_id": "ZY-01-011",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "唯聖者能之。",
+    "description": "源句在此无收引号，至察乎天地才有；不据引号确定整段都是同一孔子连续原话。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 740,
+      "end": 746,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-013",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "{{另|己|已}}",
+    "description": "另模板保留首项己，已是候选字，不删除证据。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 961,
+      "end": 970,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-015",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "素夷狄",
+    "description": "古代夷夏称谓照存，不作现代地域或民族评价。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1120,
+      "end": 1123,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-017",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "{{另|譬|辟}}",
+    "description": "正文保留譬，辟留作模板候选，不改造成单一本字。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1237,
+      "end": 1246,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-018",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "鬼神之爲德",
+    "description": "古代宗教哲学论述不作为现代经验事实。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1321,
+      "end": 1326,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-019",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "大德必得其位",
+    "description": "德福相应与受命理想，不以贫富寿夭反推品德。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1455,
+      "end": 1461,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-020",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "武王末受命",
+    "description": "末字照存，晚/终等解释不定一说；不静默改未。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1633,
+      "end": 1638,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-021",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "序爵，所以辨貴賤也",
+    "description": "宗法等级是原文明示前提，不能洗成现代平等治理。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1818,
+      "end": 1827,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-022",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "蒲盧",
+    "description": "传统有蒲苇、蜾蠃等训释；本库不造唯一逐字解。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 1996,
+      "end": 1998,
+      "line": 10
+    },
+    "comparison": {
+      "page_title": "四書章句集註/中庸章句",
+      "revision": 7904735,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E4%B8%AD%E5%BA%B8%E7%AB%A0%E5%8F%A5&oldid=7904735",
+      "reading_or_later_note": "蒲盧，沈括以為蒲葦是也。",
+      "scope": "有限定点后世章句电子对读；注释不是主本正文，也不是影印古刻核验",
+      "raw_file": "pages/fixed-16030.wikitext",
+      "start": 8710,
+      "end": 8722,
+      "line": 109
+    }
+  },
+  {
+    "passage_id": "ZY-01-024",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "國家矣。",
+    "description": "九经以后源有多处重复开引号而未逐一配对；原标点保留，不据此断言后半全为同一发言者连续原话。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 2298,
+      "end": 2302,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-026",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "既廩稱事",
+    "description": "字义及断句有训释空间，不凭此造现代薪酬公式。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 2523,
+      "end": 2527,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-028",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "不順乎親，不信乎朋友矣",
+    "description": "古代关系伦理链不作为现代按家庭状况任用的依据。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 2685,
+      "end": 2696,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-030",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "{{另|己|已}}百之",
+    "description": "己为显示首项；励学倍数不当统一工时。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 2869,
+      "end": 2880,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-032",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "與天地參矣",
+    "description": "古代参赞化育境界，非现代无限干预自然的授权。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3007,
+      "end": 3012,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-034",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "見乎蓍龜，動乎四體",
+    "description": "天人预兆说保留，四体具体所指不硬定现代指标；不用于现实预测。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3088,
+      "end": 3097,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-035",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "不誠無物",
+    "description": "哲学本体及成德语境，非不诚者物理上不存在。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3147,
+      "end": 3151,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-036",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "無爲而成",
+    "description": "至诚与天地生物语境，非不劳而获的管理规律。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3299,
+      "end": 3303,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-037",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "於穆不{{另|已|巳}}",
+    "description": "源另模板只在引诗的已字处；候选巳保留，不说末句纯亦不已有同一模板。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3484,
+      "end": 3496,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-038",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "禮儀三百，威儀三千",
+    "description": "传统形容礼仪繁多，不硬算出现代精确项目数。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3563,
+      "end": 3572,
+      "line": 10
+    }
+  },
+  {
+    "passage_id": "ZY-01-041",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "非天子不議禮，不制度，不考文",
+    "description": "天子创制权的历史前提，非现代禁止公众提案的依据。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3730,
+      "end": 3744,
+      "line": 12
+    }
+  },
+  {
+    "passage_id": "ZY-01-043",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "王天下有三重焉",
+    "description": "三重后世多释议礼制度考文；源此处未逐项复列。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3834,
+      "end": 3841,
+      "line": 12
+    },
+    "comparison": {
+      "page_title": "四書章句集註/中庸章句",
+      "revision": 7904735,
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E4%B8%AD%E5%BA%B8%E7%AB%A0%E5%8F%A5&oldid=7904735",
+      "reading_or_later_note": "三重，謂議禮、制度、考文。",
+      "scope": "有限定点后世章句电子对读；注释不是主本正文，也不是影印古刻核验",
+      "raw_file": "pages/fixed-16030.wikitext",
+      "start": 15747,
+      "end": 15760,
+      "line": 155
+    }
+  },
+  {
+    "passage_id": "ZY-01-043",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "質諸鬼神而無疑",
+    "description": "古代权威证验与现代经验核查不同性质。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 3917,
+      "end": 3924,
+      "line": 12
+    }
+  },
+  {
+    "passage_id": "ZY-01-044",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "道並行而不相悖",
+    "description": "处仲尼与天地颂述语境，非所有意见都正确。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 4121,
+      "end": 4128,
+      "line": 12
+    }
+  },
+  {
+    "passage_id": "ZY-01-045",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "施及蠻貃",
+    "description": "历史称谓及普遍归服的理想化颂述，非现代族群评价。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 4263,
+      "end": 4267,
+      "line": 12
+    }
+  },
+  {
+    "passage_id": "ZY-01-050",
+    "kind": "source_phrase_or_application_boundary",
+    "source_phrase": "不怒而民威於鈇鉞",
+    "description": "德威与古代威刑对举，不洗掉鈇鉞，也不替代正当程序。",
+    "source_coordinate": {
+      "raw_file": "source.wikitext",
+      "start": 4561,
+      "end": 4569,
+      "line": 12
+    }
+  }
+]

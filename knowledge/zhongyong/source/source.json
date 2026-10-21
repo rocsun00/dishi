@@ -1,0 +1,58 @@
+{
+  "id": "zhongyong",
+  "work_id": "zhongyong",
+  "title": "中庸（礼记篇本电子工作本）",
+  "prefix": "ZY",
+  "source_title": "禮記/中庸",
+  "revision": 11117440,
+  "source_url": "https://zh.wikisource.org/w/index.php?title=%E7%A6%AE%E8%A8%98/%E4%B8%AD%E5%BA%B8&oldid=11117440",
+  "source_pages": [
+    {
+      "pageid": 7122,
+      "title": "禮記/中庸",
+      "revision": 11117440,
+      "timestamp": "2026-10-02T15:06:51Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E7%A6%AE%E8%A8%98/%E4%B8%AD%E5%BA%B8&oldid=11117440",
+      "raw_file": "pages/fixed-7122.wikitext",
+      "raw_sha256": "a896b355406e91f40d592b06a74ab30206fb82b12a7875b3df8cd014f97d155d",
+      "characters": 4678,
+      "title_and_fixed_identical": true,
+      "start": 0,
+      "end": 4678
+    }
+  ],
+  "retrieved_on": "2026-10-20",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "a896b355406e91f40d592b06a74ab30206fb82b12a7875b3df8cd014f97d155d",
+  "extraction_sha256": "12ff40acdd80abafbe79150ce0473991b5d4e711a134508a177fbafbb893e1cd",
+  "scope": "《礼记·中庸》篇本完整正文；一篇按现代语义分50段，不以朱熹33章反写原篇章次。",
+  "edition_status": "固定公开电子工作本，未明示统一纸本底本；未核影印古刻，不称恢复先秦原本或专家校勘定本。",
+  "chapter_count": 1,
+  "passage_count": 50,
+  "text_characters_including_punctuation": 4441,
+  "normalization": [
+    "完整保存标题查询与固定修订API响应及两份对应原貌，核字节完全一致",
+    "正文从天命之谓性至篇末至矣，完整源区间逐字符覆盖，页头页尾明确排除",
+    "不改原字、源标点及源引号问题；现代语义切分不裁定同一发言归属",
+    "另模板首项进入正文，候选字保存editorial_notes；折行空白移除",
+    "朱熹章句完整另存参考，annotate后世注释与章次不混入主本正文",
+    "OpenCC 0.1.7 t2s仅生成独立检索层"
+  ],
+  "source_attribution": "中文维基文库《礼记/中庸》页面及其贡献者，固定修订11117440；另存朱熹《中庸章句》页面及贡献者作为后世有限对读参考",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "上游数字整理适用站点所列许可与归属义务；古代公版作品与数字整理分层，不据PD-old覆盖全部新增内容",
+  "comparison_pages": [
+    {
+      "pageid": 16030,
+      "title": "四書章句集註/中庸章句",
+      "revision": 7904735,
+      "timestamp": "2026-06-28T01:42:33Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%9B%9B%E6%9B%B8%E7%AB%A0%E5%8F%A5%E9%9B%86%E8%A8%BB/%E4%B8%AD%E5%BA%B8%E7%AB%A0%E5%8F%A5&oldid=7904735",
+      "raw_file": "pages/fixed-16030.wikitext",
+      "raw_sha256": "e5859047b1c091b8cdb59c41a586eb18e9dba31c1a6c505785c6bd041c912139",
+      "characters": 19042,
+      "title_and_fixed_identical": true
+    }
+  ],
+  "author_stage": "author-stage; independent review and installation are separate root-owned stages"
+}

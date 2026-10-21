@@ -1,0 +1,164 @@
+local export = {}
+local data = mw.loadData("Module:Year Link/data")
+
+local function normalize(raw)
+	local r = raw
+	for key, val in pairs(data.nMap) do
+		r = r:gsub(key, val)
+	end
+	return r
+end
+
+-- 唐玄宗自天寶三載（744年）起改「年」為「載」，到至德三載（758年，
+-- 玄宗退位那一段）為止，之後乾元年間起恢復稱「年」。這是官方規定，但
+-- 後世文獻常常「年」「載」混用不嚴格區分，所以只有落在這段範圍內的
+-- 「載」字鍵才需要在氣球提示裡加這句說明（免得讓人誤以為整個天寶／
+-- 至德年號從頭到尾都用「載」——天寶元年、二年其實仍稱「年」）。
+local ZAI_CORE = "唐自天寶三載〔744年〕起以「載」代「年」，"
+	.. "至德三載〔758年〕玄宗退位後復稱「年」"
+local ZAI_NOTE = "（" .. ZAI_CORE .. "）"
+
+-- 「年」「載」互換：查「天寶三年」查不到（原表這個位置是別的政權），
+-- 順手也拿「天寶三載」再查一次，反過來也一樣——覆蓋文獻裡年/載混用
+-- 的實際寫法，不是只認官方規定的那一種。
+local function swap_nian_zai(s)
+	if s:sub(-3) == "年" then return s:sub(1, -4) .. "載" end
+	if s:sub(-3) == "載" then return s:sub(1, -4) .. "年" end
+	return nil
+end
+
+local function switch_convert(input)
+	local year_text = input.args[1]
+	local norm = normalize(year_text or "NA")
+	local exact = data.ref_switch[norm]
+
+	if exact ~= nil and norm:sub(-3) == "載" then
+		-- 注意：这里必须先看「精确查到了」才信任「載」结尾＝天寶/至德
+		-- 那种年份计数写法——不能只看结不结尾在「載」，因为「延載」
+		-- 「天載」这些年号本身的名字就是以「載」字收尾（不是「N載」
+		-- 这种计数式），如果只看结尾字符，这些年号的裸名字会因为查不
+		-- 到精确匹配、又被这条分支拦住不让往下走年間兜底，结果解析不
+		-- 出来。「载」这个字终唐之世也只有天寶三載～至德三載這一小段
+		-- 這麼用、別的政權沒人用過，所以只要是精确命中的「N載」形式，
+		-- 直接信它是唯一那個意思，不必再跟「年」的寫法比對歧義。
+		return exact, ZAI_NOTE, nil
+	end
+
+	-- 走到这里说明：要么精确查不到（可能是裸年号，也可能是「延載」这种
+	-- 名字本身收尾在「載」但没接年份的情况），要么是「年」结尾的具体
+	-- 年份。原表本身可能已经在 ref_specify 里登记过跟别的政权撞名的
+	-- 歧义（如「天寶元年」→742/908），这里再补上「载」形式的候选（如
+	-- 「天寶三年」也可能是唐代744年那个「载」的混用寫法），把两边的
+	-- 候选合起来看，去重后剩几个就是几个候选。
+	local swap_key = swap_nian_zai(norm)
+	local swapped = swap_key and data.ref_switch[swap_key]
+	local specify_msg = data.ref_specify[norm]
+
+	local candidates, seen = {}, {}
+	local function add(v)
+		if v ~= nil and not seen[v] then
+			seen[v] = true
+			table.insert(candidates, v)
+		end
+	end
+	add(exact)
+	add(swapped)
+	if specify_msg ~= nil then
+		-- 注意：不能把全角引号「“」「”」塞进 [...] 字符类——那是按字节
+		-- 匹配的，多字节字符会被拆散、匹配出乱码。直接当字面量子串写。
+		for y in specify_msg:gmatch('“([^”]+)”') do add(y) end
+	end
+
+	if #candidates == 0 then
+		-- 裸年号代表整个年号的跨度，不该只算元年那一年，但也不该拿数字
+		-- 年份范围当分类名（不直观）——用「年号+年間」本身做分类，比如
+		-- 「武德年間」。只有确认这个年号确实存在（元年或元載形式的键
+		-- 至少有一个）才这样处理，不存在的年号（乱打的）不该凭空造一个
+		-- 分类出来。
+		if data.ref_switch[norm .. "元年"] ~= nil or data.ref_switch[norm .. "元載"] ~= nil then
+			return norm .. "年間", nil, nil
+		end
+		return nil, nil, nil
+	end
+	if #candidates == 1 then
+		local note = nil
+		if exact == nil and swapped ~= nil then
+			-- 精确按「年」查不到，是靠换成「载」形式才对上的，说明这里
+			-- 是年/载混用的宽松匹配，要注明一下不是原文直接写的这个词。
+			note = "（" .. ZAI_CORE .. "；此處原文作「年」，按「載」的紀錄對應）"
+		end
+		return candidates[1], note, nil
+	end
+	local parts = {}
+	for _, v in ipairs(candidates) do table.insert(parts, '“' .. v .. '”') end
+	return nil, nil, '請指定為' .. table.concat(parts, '或')
+end
+
+local function specify_convert(input)
+	local year_text = input.args[1]
+	local norm = normalize(year_text or "NA")
+	return data.ref_specify[norm] or data.ref_specify[norm .. "元年"]
+end
+
+function export.gl(frame)
+	local result = ''
+	local specified = mw.text.trim(frame.args[2])
+	local name = mw.text.trim(frame.args[1])
+	local subpagetitle = string.gsub(mw.title.getCurrentTitle().subpageText, "[0-9]", "")
+	-- 年號文字本身就是連到分類的連結（跟 2016 年以來的舊版一樣），只是連結
+	-- 外觀改成 {{僻字}} 那種虛線底線、顏色跟正文走，不再是藍字；懸停時 title
+	-- 顯示換算的公元。連結的顏色／底線沒法用行內樣式蓋掉（wikitext 寫不出
+	-- <a style>），所以靠 TemplateStyles：外層 span.nianhao-link 配 styles.css
+	-- 裡的 .nianhao-link a { color: inherit; … }。
+	-- 不再另加分類角標：寫字間討論指出角標像標點、直排時打破對齊，可點區域也
+	-- 太小；文字本身作連結，命中區就是整段年號，與正文行高一致。
+	-- 也不掛 class="inline-unihan"：unihan-helper 小工具會在該 class 的元素上
+	-- 攔截 click（preventDefault），掛了連結就點不動；改用瀏覽器原生 title。
+	-- 不指定 font-family：{{僻字}} 那串擴充區字體清單是給罕見字回退用的，年號都
+	-- 是常用字，寫死清單反而會蓋掉正文（如楷體）的字體。
+	local STYLES = 'Year Link/sandbox/styles.css'   -- 轉正式版時改成 'Year Link/styles.css'
+	local styles = frame:extensionTag{ name = 'templatestyles', args = { src = STYLES } }
+	local function esc_attr(s)
+		s = s:gsub("&", "&amp;"):gsub("<", "&lt;"):gsub(">", "&gt;"):gsub('"', "&quot;")
+		return s
+	end
+	-- 虛線用 border-block-end 而不是 border-bottom，直排時才會在正確的一側。
+	local function link(cat, tip)
+		return styles .. '<span class="nianhao-link">[[:Category:' .. cat
+			.. '|<span class="nianhao" style="border-block-end:1px dotted;" title="'
+			.. esc_attr(tip) .. '">' .. name .. '</span>]]</span>'
+	end
+	if specified ~= '' then
+		result = link(specified .. ' (提及)', specified)
+		if subpagetitle ~= '全覽' then
+			result = result .. '[[Category:' .. specified .. ' (提及)]]'
+		end
+		return result
+	end
+	local converted, note, ambiguous = switch_convert(frame)
+	if ambiguous ~= nil then
+		result = link('需要指定公元的紀年', ambiguous)
+		if subpagetitle ~= '全覽' then
+			result = result .. '[[Category:需要指定公元的紀年]]'
+		end
+		return result
+	end
+	if converted ~= nil then
+		result = link(converted .. ' (提及)', converted .. (note or ""))
+		if subpagetitle ~= '全覽' then
+			result = result .. '[[Category:' .. converted .. ' (提及)]]'
+		end
+		return result
+	end
+	local notetext = specify_convert(frame)
+	if notetext ~= nil then
+		result = link('需要指定公元的紀年', notetext)
+		if subpagetitle ~= '全覽' then
+			result = result .. '[[Category:需要指定公元的紀年]]'
+		end
+		return result
+	end
+	return name
+end
+
+return export

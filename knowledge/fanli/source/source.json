@@ -1,0 +1,107 @@
+{
+  "id": "fanli",
+  "work_id": "fanli",
+  "title": "范蠡相关早期文献集（三个完整文献单元）",
+  "prefix": "FL",
+  "source_title": "國語/卷21",
+  "revision": "multiple-pinned-pages",
+  "source_url": "https://zh.wikisource.org/w/index.php?title=國語/卷21&oldid=1968473",
+  "source_pages": [
+    {
+      "title": "國語/卷21",
+      "revision": 1968473,
+      "timestamp": "2020-10-18T14:25:26Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=國語/卷21&oldid=1968473",
+      "raw_sha256": "80791fcc436f2e7970e079b7f9ce2bdb0339d60cb4ac1fb1ec13ffe8ed27da1f",
+      "start": 0,
+      "end": 7250,
+      "raw_file": "pages/01.wikitext",
+      "api_response": "api/01.json",
+      "api_sha256": "a4028e582874add406070bbd92575c2ec8ca23d6df4b46b82dce58a1c2e98c3e",
+      "author_attribution": "《国语》旧题左丘明；传世史料，不作本人亲笔保证",
+      "contributors_attribution": "國語/卷21 — 中文维基文库贡献者，完整修订历史见页面历史",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=國語/卷21&action=history",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    },
+    {
+      "title": "史記/卷041",
+      "revision": 11132202,
+      "timestamp": "2026-10-16T14:24:07Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=史記/卷041&oldid=11132202",
+      "raw_sha256": "afc04be2f0810c291b836e4317f0f84e12d8e94b71a7107815f39324528dd756",
+      "start": 7250,
+      "end": 12813,
+      "raw_file": "pages/02.wikitext",
+      "api_response": "api/02.json",
+      "api_sha256": "6fade23e33445d60b6f5c7dbe997e129b2de5c0b9c381e59e4d7bfcb4388207e",
+      "author_attribution": "司马迁（《史记》传世文本）",
+      "contributors_attribution": "史記/卷041 — 中文维基文库贡献者，完整修订历史见页面历史",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=史記/卷041&action=history",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    },
+    {
+      "title": "史記/卷129",
+      "revision": 11132204,
+      "timestamp": "2026-10-16T14:24:50Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=史記/卷129&oldid=11132204",
+      "raw_sha256": "b1ef86f18c1027cdcb4e175324921ec5650585559e0f102d5c7954c0bcb225d4",
+      "start": 12813,
+      "end": 19217,
+      "raw_file": "pages/03.wikitext",
+      "api_response": "api/03.json",
+      "api_sha256": "9b1b5a52919f91f1cb702df4c845cc533b6137da52303cfbe5874e628b73eba9",
+      "author_attribution": "司马迁（《史记》传世文本）",
+      "contributors_attribution": "史記/卷129 — 中文维基文库贡献者，完整修订历史见页面历史",
+      "history_url": "https://zh.wikisource.org/w/index.php?title=史記/卷129&action=history",
+      "site_license": "CC BY-SA 4.0",
+      "site_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文"
+    }
+  ],
+  "retrieved_on": "2026-10-19",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "23a867e5dc06e63ef3e19b7dd96cfaa12a37ee045a9f1c90ed554d767c5f82bb",
+  "extraction_sha256": "757cd6d2db0c638504b2b0bc457dd00735273bc0e4e481da6f7aeea1c957122a",
+  "scope": "《国语·越语下》全卷八节；《史记》卷四十一独立“范蠡”节与卷一百二十九独立“范蠡”节各全节。三个文献单元共28个自然段。其他《史记》叙事节不进入正文或检索；源全页另存。",
+  "edition_status": "中文维基文库固定修订电子工作本；《国语》旧题左丘明，《史记》司马迁史述，均非范蠡可靠亲笔自著全集。后世托名商训、生意经及现代注释未收。未逐字对读统一纸本或影印本。",
+  "chapter_count": 3,
+  "chapter_unit": "个文献单元",
+  "passage_count": 28,
+  "text_characters_including_punctuation": 4885,
+  "normalization": [
+    "保存三个官方API完整响应与固定修订wikitext、修订号、UTC时间、URL和SHA256",
+    "《国语》全卷去页题；两篇《史记》仅取所声明完整分节，前后边界另存chapter_map",
+    "按源自然空行分段；现有wiki-body-v1剥离{{*|古注}}、wiki链接显示字与语言保护标记；古注逐段另存editorial_notes并留在快照，不混入正文",
+    "疑字和源标点不擅校；简体检索另层，显示与引用保留固定原文"
+  ],
+  "source_attribution": "《国语》旧题左丘明；《史记》司马迁；所选电子页及数字整理来自中文维基文库相应页面贡献者。逐页固定修订、历史、CC BY-SA 4.0链接已列source_pages与来源与许可.md。",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "CC BY-SA 4.0（站点数字文本声明）；古代原作公版与现代数字整理许可分层说明，保留署名、链接、改动记录并按适用许可分享。",
+  "source_risks": [
+    {
+      "passage_id": "FL-01-012",
+      "kind": "source_punctuation_and_ancient_note_disagreement",
+      "description": "“往從其所”与“剛彊以禦”之间源正文未加标点，夹注本身保存不同断句解释；“用人無藝”等不作唯一确解。"
+    },
+    {
+      "passage_id": "FL-02-005",
+      "kind": "source_phrase_uncertain",
+      "description": "“有如病不宿誡”等保留源文，不强作确定逐字翻译。"
+    },
+    {
+      "passage_id": "FL-03-001",
+      "kind": "speaker_and_astronomy_boundary",
+      "description": "“知斗則修備”至“財幣欲其行如流水”为计然发言，岁星与灾荒固定周期是古代理论，非已证实预报模型。"
+    }
+  ],
+  "source_observations": [
+    {
+      "kind": "not_an_authored_book",
+      "description": "这是现代编选的相关文献集，不推定所有言论均为范蠡原话，也不将计然、勾践、王孙雒、庄生及史家评价误归范蠡。"
+    }
+  ]
+}

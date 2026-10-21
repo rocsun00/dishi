@@ -1,0 +1,103 @@
+{
+  "basis": "所选固定来源目录明确所标亡/篇亡及正文缺篇；不补造佚文。",
+  "source_index": {
+    "title": "管子",
+    "revision": 7910019,
+    "timestamp": "2026-07-26T04:55:58Z",
+    "url": "https://zh.wikisource.org/w/index.php?title=管子&oldid=7910019",
+    "raw_sha256": "a772090462dd55c960bced47570de41103b8d0446b8eac4b90b32aada0458538",
+    "raw_file": "index.wikitext"
+  },
+  "chapters": [
+    {
+      "chapter": 21,
+      "title": "王言",
+      "source_index_title": "管子/王言",
+      "source_volume": 8,
+      "part": "内言",
+      "status": "亡",
+      "source_index_line": "*[[/王言|王言]]第廿一{{*|亡}}"
+    },
+    {
+      "chapter": 25,
+      "title": "謀失",
+      "source_index_title": "管子/謀失",
+      "source_volume": 9,
+      "part": "内言",
+      "status": "亡",
+      "source_index_line": "*[[/謀失|謀失]]第廿五{{*|亡}}"
+    },
+    {
+      "chapter": 34,
+      "title": "正言",
+      "source_index_title": "管子/正言",
+      "source_volume": 11,
+      "part": "短语",
+      "status": "亡",
+      "source_index_line": "*[[/正言|正言]]第卅亖{{*|亡}}"
+    },
+    {
+      "chapter": 60,
+      "title": "言昭",
+      "source_index_title": "管子/言昭",
+      "source_volume": 19,
+      "part": "杂篇",
+      "status": "亡",
+      "source_index_line": "*[[/言昭|言昭]]第六十{{*|亡}}"
+    },
+    {
+      "chapter": 61,
+      "title": "脩身",
+      "source_index_title": "管子/脩身",
+      "source_volume": 19,
+      "part": "杂篇",
+      "status": "亡",
+      "source_index_line": "*[[/脩身|脩身]]第六十一{{*|亡}}"
+    },
+    {
+      "chapter": 62,
+      "title": "問霸",
+      "source_index_title": "管子/問霸",
+      "source_volume": 19,
+      "part": "杂篇",
+      "status": "亡",
+      "source_index_line": "*[[/問霸|問霸]]第六十二{{*|亡}}"
+    },
+    {
+      "chapter": 63,
+      "title": "牧民解",
+      "source_index_title": "管子/牧民解",
+      "source_volume": 19,
+      "part": "管子解",
+      "status": "亡",
+      "source_index_line": "*[[/牧民解|牧民解]]第六十三{{*|亡}}"
+    },
+    {
+      "chapter": 70,
+      "title": "問乘馬",
+      "source_index_title": "管子/問乘馬",
+      "source_volume": 21,
+      "part": "管子轻重",
+      "status": "亡",
+      "source_index_line": "*[[/問乘馬|問乘馬]]第七十{{*|亡}}"
+    },
+    {
+      "chapter": 82,
+      "title": "輕重丙",
+      "source_index_title": "管子/輕重丙",
+      "source_volume": 24,
+      "part": "管子轻重",
+      "status": "亡",
+      "source_index_line": "*[[/輕重丙|輕重丙]]第八十二{{*|亡}}"
+    },
+    {
+      "chapter": 86,
+      "title": "輕重庚",
+      "source_index_title": "管子/輕重庚",
+      "source_volume": 24,
+      "part": "管子轻重",
+      "status": "亡",
+      "source_index_line": "*[[/輕重庚|輕重庚]]第八十六{{*|亡}}"
+    }
+  ]
+}

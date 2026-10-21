@@ -1,0 +1,80 @@
+{
+  "scenario_prompts": {
+    "A": "Our six-person remote team misses deadlines. The founder changes priorities midweek and wants to fire the least vocal member. Use Dishi to help us decide what to do next, with at most two relevant classical references.",
+    "B": "I am exhausted by comparing myself with successful peers. Use Dishi to help me decide whether to leave a stable job for an untested business. My savings cover four months of essential expenses. Please distinguish evidence, values, and what remains unknown.",
+    "C": "A potential partner says harmony means I should stop challenging their budget estimates. We come from different cultures. Use Dishi to help us agree on a fair next step."
+  },
+  "answers": {
+    "A": "Do not dismiss someone because they are the least vocal. On the information given, the next decision should be a short delivery reset, followed by an assessment of actual work.\n\nYou report two facts: deadlines are being missed, and the founder changes priorities during the week. Those changes are a plausible contributor to missed deadlines; they do not yet establish the whole cause. Quietness does not establish poor performance either.\n\nFor the next two weeks:\n\n1. Review a few missed commitments with the people involved. Record the original scope, owner, deadline, dependencies, priority changes, and work actually completed. Give the quieter member a private conversation and an asynchronous way to explain their contribution and blockers.\n2. Agree on a small weekly commitment list with clear completion criteria. A midweek change must identify what stops, what is added, and which deadline changes. The founder owns that tradeoff.\n3. Review completed commitments and change-related rework together. Apply the same role-relevant standards to everyone. If a person repeatedly misses feasible, unchanged commitments despite clear expectations and appropriate support, a role change or dismissal may become justified. Serious ongoing harm would require an earlier response.\n\nTwo classical references sharpen this judgment:\n\n- In the Analects, the text presents Confucius warning Duke Ding about a ruler whose bad words meet no opposition: “如不善而莫之違也，不幾乎一言而喪邦乎？” My own English rendering: “If what is said is bad and no one opposes it, is that not close to a saying that can ruin a state?” The surrounding exchange resists a mechanical claim that one saying determines a state's fate. The useful modern question is whether the founder can receive unwelcome evidence. [Analects, Zilu, LY-13-015; source section 十三之十五](https://zh.wikisource.org/w/index.php?title=論語/子路第十三&oldid=11118102#十三之十五).\n- Han Feizi's discussion of administrative methods includes “循名而責實.” My own English rendering: “Require actual performance to match the stated role.” Its full passage concerns a ruler's control of officials and explicitly includes power over life and death. I borrow the question about commitments and performance; fair participation and accountability for the founder are modern requirements I am adding. [Han Feizi, Ding Fa, chapter 43, HF-43-002](https://zh.wikisource.org/w/index.php?title=韓非子/定法&oldid=2327670).\n\nThis reset costs some time and constrains the founder's freedom to change direction without accounting for the effect. It is worthwhile if the team can honor the agreement. If the founder refuses it, replacing a quiet employee leaves the central process problem unaddressed. If the evidence instead shows sustained individual failures under workable conditions, change the personnel judgment accordingly.",
+    "B": "Being worn down by comparison can make a career decision feel like a verdict on your worth. It does not have to carry that burden. Based on what you have shared, I would preserve income for now while checking the business in a way your energy and savings can bear.\n\nThe distinctions matter:\n\n- Evidence: You report a stable job, exhaustion from comparison, an untested business, and savings covering four months of essential expenses. We have no customer or cost evidence yet. If business costs or unexpected expenses draw on those same savings, the time they cover will be shorter. Peer success provides no evidence that your particular venture can support you.\n- Values: Autonomy, meaningful work, financial security, health, family commitments, and recognition may matter differently to you. Decide which losses you can tolerate and what an adequate life would look like without using peers' achievements as its target. The skill cannot choose those priorities for you.\n- Unknowns: Whether customers will pay; the costs of reaching and serving them; how soon money arrives; whether any business expenses are already included in your estimate; your obligations; how quickly you could regain employment; and whether the current job itself is damaging your health. Your exhaustion also leaves open whether you need a different business, a different job, or some recovery before making a large commitment.\n\nLaozi chapter 44 asks: “名與身孰親？身與貨孰多？” My own English rendering: “Which matters more: reputation or your own life? Your own life or wealth?” Here 身 can encompass one's own person, rather than a narrow financial interest. The chapter examines the costs of attachment and the limits of pursuit; it does not prescribe everyone's acceptable income or determine which career is right. [Laozi, chapter 44, LZ-44-001, Wang Bi working text](https://zh.wikisource.org/w/index.php?title=道德經%20(王弼本)&oldid=2354026).\n\nYour next step can be modest: write the actual living and business costs on one page, protect a cash floor that reflects your obligations and route back to income, and test one concrete offer with a small number of plausible customers. Seek a paid pilot or another observable commitment, rather than encouragement alone. Give that test a fixed spending limit and a time budget that leaves room for recovery. If you have no capacity for it alongside work, consider reduced hours or a less draining paid role before treating immediate resignation as the only alternative.\n\nThe strongest objection to staying is that the job may consume the time and health needed to build anything else. Evidence of serious harm, a genuinely time-sensitive opportunity backed by customers, or a reliable income bridge could change the recommendation. The cost of waiting is delayed independence and possible lost opportunity; the cost of leaving now is that an untested venture and ordinary living costs would compete for a small reserve. Revisit resignation when you can describe both a credible path to revenue and an affordable response if the test fails. There is no universal number of savings months established by the classical passage.",
+    "C": "Do not accept a rule that makes budget estimates immune from challenge. Propose one shared review process in a format both of you can use respectfully.\n\nThe claim about harmony is a stated position, not evidence that either budget is accurate. Different cultural expectations may affect how disagreement is expressed; the information given does not tell us either person's motives or establish a cultural rule.\n\nThe Analects records: “君子和而不同.” My own English rendering: “The exemplary person finds harmony without requiring sameness.” The complete passage contrasts harmony with mere agreement. It gives a useful way to question the partner's claim, while leaving the actual budget dispute to evidence. I would not use its moral labels to classify your partner. [Analects, Zilu, LY-13-023; source section 十三之二三](https://zh.wikisource.org/w/index.php?title=論語/子路第十三&oldid=11118102#十三之二三).\n\nYou could say:\n\n“I want us to work well together, and I can adjust how I raise concerns. I also need us both to be able to examine costs. Let us use the same review for both estimates and agree in advance how we will resolve the remaining uncertainty.”\n\nBefore either commits money, agree to:\n\n1. Put both estimates in the same format: scope, quantities, prices, source dates, assumptions, exclusions, and an uncertainty range. Each person identifies what evidence would make them revise their estimate.\n2. Choose a respectful review format together: written comments first, a private meeting, or a mutually acceptable facilitator. Critique the assumptions and give each person time to answer.\n3. Check the largest disputed cost with comparable supplier quotes, relevant records, or an independent reviewer chosen by both of you. Agree on who pays for that check and who can authorize any resulting expenditure.\n4. Record the decision rule: accept the supported estimate, run a limited pilot within an agreed loss cap, or postpone the commitment if a material uncertainty remains. An arithmetic midpoint is useful only if there is a reason it represents the cost.\n\nThis requires reciprocal scrutiny: you must be willing to revise your own numbers too. If your partner accepts that principle but needs a different communication format, adapt the format. If they refuse any fair examination of estimates, pause the partnership. The immediate issue would then be whether you can make accountable decisions together; agreement on a philosophical word cannot resolve it."
+  },
+  "citations": [
+    {
+      "task": "A",
+      "book": "Analects",
+      "chapter": "Zilu, chapter 13",
+      "passage_id": "LY-13-015",
+      "source_section": "十三之十五",
+      "chinese_excerpt": "如不善而莫之違也，不幾乎一言而喪邦乎？",
+      "english_rendering": "If what is said is bad and no one opposes it, is that not close to a saying that can ruin a state?",
+      "translation_status": "My own English rendering, generated in this trial; not a published translation.",
+      "fixed_source_url": "https://zh.wikisource.org/w/index.php?title=論語/子路第十三&oldid=11118102#十三之十五",
+      "historical_context": "The text presents Confucius replying to Duke Ding; the exchange resists a mechanically decisive single saying and warns about bad words meeting no opposition.",
+      "modern_application_boundary": "Modern employee participation and reciprocal founder accountability are present-day requirements, not established directly by the ancient ruler-subject setting."
+    },
+    {
+      "task": "A",
+      "book": "Han Feizi",
+      "chapter": "Ding Fa, transmitted chapter 43",
+      "passage_id": "HF-43-002",
+      "source_section": "传世篇号 43",
+      "chinese_excerpt": "循名而責實",
+      "english_rendering": "Require actual performance to match the stated role.",
+      "translation_status": "My own English rendering, generated in this trial; not a published translation.",
+      "fixed_source_url": "https://zh.wikisource.org/w/index.php?title=韓非子/定法&oldid=2327670",
+      "context_read_passage_ids": [
+        "HF-43-001",
+        "HF-43-002",
+        "HF-43-003"
+      ],
+      "historical_context": "An unnamed questioner compares Shen Buhai and Gongsun Yang. The response defines administrative techniques and law as complementary tools of monarchs; it explicitly includes power over life and death.",
+      "modern_application_boundary": "Only the question about stated roles and actual work is borrowed. Public standards, employee voice, and constraints on the founder are modern additions; the coercive political setting is not a management prescription."
+    },
+    {
+      "task": "B",
+      "book": "Laozi",
+      "chapter": "Chapter 44, Wang Bi working text",
+      "passage_id": "LZ-44-001",
+      "source_section": "四十四章",
+      "chinese_excerpt": "名與身孰親？身與貨孰多？",
+      "english_rendering": "Which matters more: reputation or your own life? Your own life or wealth?",
+      "translation_status": "My own English rendering, generated in this trial; 身 can encompass one's own person and is not exhausted by one English word.",
+      "fixed_source_url": "https://zh.wikisource.org/w/index.php?title=道德經 (王弼本)&oldid=2354026",
+      "historical_context": "The chapter compares reputation, one's own person, possessions, gain and loss, then warns about attachment and speaks of sufficiency and limits.",
+      "modern_application_boundary": "A question for examining values, not a financial forecast, guaranteed protection from harm, or universal savings threshold."
+    },
+    {
+      "task": "C",
+      "book": "Analects",
+      "chapter": "Zilu, chapter 13",
+      "passage_id": "LY-13-023",
+      "source_section": "十三之二三",
+      "chinese_excerpt": "君子和而不同",
+      "english_rendering": "The exemplary person finds harmony without requiring sameness.",
+      "translation_status": "My own English rendering, generated in this trial; not a published translation.",
+      "fixed_source_url": "https://zh.wikisource.org/w/index.php?title=論語/子路第十三&oldid=11118102#十三之二三",
+      "historical_context": "The Analects records the saying as Confucius' speech; the full unit contrasts harmony with sameness or mere agreement.",
+      "modern_application_boundary": "No claim to a universal cross-cultural definition, no diagnosis of the partner as 小人, and no inference that either budget is accurate."
+    }
+  ],
+  "schema_version": 2,
+  "based_on_version": "0.1.0",
+  "kind": "Historical AI use examples, summarized for public distribution",
+  "publication_note": "Project-authored English answers and citations retained. Full command logs, working paths and tool outputs are archived locally. These historical examples are not a current-version retrieval evaluation.",
+  "limitations": [
+    "One model-use attempt within an AI workflow, not a human expert or external-institution evaluation.",
+    "No statistical accuracy rate, deployed-host session or real-world outcome is established.",
+    "English renderings are generated for this project, not a complete scholarly translation."
+  ]
+}

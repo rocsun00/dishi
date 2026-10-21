@@ -1,0 +1,38 @@
+{
+  "layer": "bibliographic-evidence-not-primary-body",
+  "records": [
+    {
+      "reference_title": "漢書/卷030",
+      "revision": 7908197,
+      "raw_file": "pages/shared-wuzi-01.wikitext",
+      "source_start": 5038,
+      "source_end": 5044,
+      "source_line": 172,
+      "source_markup": "周史六弢六篇",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030&oldid=7908197",
+      "interpretive_limit": "此处在儒家目录；不与今本六组或六十子篇强配。"
+    },
+    {
+      "reference_title": "漢書/卷030",
+      "revision": 7908197,
+      "raw_file": "pages/shared-wuzi-01.wikitext",
+      "source_start": 5526,
+      "source_end": 5553,
+      "source_line": 190,
+      "source_markup": "太公二百三十七篇：謀八十一篇，言七十一篇，兵八十五篇。",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%9B%B8%2F%E5%8D%B7030&oldid=7908197",
+      "interpretive_limit": "此处在道家目录；太公书总数不能据算术认作今六韬亡文清单。"
+    },
+    {
+      "reference_title": "六韜 (四庫全書本)",
+      "revision": 631813,
+      "raw_file": "pages/main-fixed-260873.wikitext",
+      "source_start": 528,
+      "source_end": 537,
+      "source_line": 9,
+      "source_markup": "其依托之迹灼然可騐",
+      "url": "https://zh.wikisource.org/w/index.php?title=%E5%85%AD%E9%9F%9C%20%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29&oldid=631813",
+      "interpretive_limit": "清代编者依词语制度与阴符等疑其托名；记录意见，不冒充今本现代定论。"
+    }
+  ]
+}

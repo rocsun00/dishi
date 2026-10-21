@@ -1,0 +1,232 @@
+{
+  "book": "xunzi",
+  "checked_on": "2026-10-19",
+  "source_pages_verified_against_api": 32,
+  "chapter_count": 32,
+  "paragraph_count": 481,
+  "characters_including_punctuation": 90762,
+  "char_range_manifest_valid": true,
+  "raw_sha256": "568d38b9aec04ad96c5636386670e679d3e0f80dfef2418c3f13a7d073d3a68a",
+  "passages_sha256": "be49f811bcd0dfb3dbbf829a0ed0b2d8b6ddf43b99827bd60bff6f7dde07ccd9",
+  "chapters_sha256": "989b4528f49e8ff68cefddc9bfbf14ab1f33d654cd7166ef7bf3f2ff459975fb",
+  "note_kinds": {
+    "ancient_note_excluded": 1519,
+    "source_variant_template": 2
+  },
+  "literal_missing_glyph_boxes": [],
+  "replacement_characters": [],
+  "source_page_checks": [
+    {
+      "title": "荀子/勸學篇",
+      "revision": 9869421,
+      "body_units": 4,
+      "ancient_notes": 87
+    },
+    {
+      "title": "荀子/修身篇",
+      "revision": 1761058,
+      "body_units": 12,
+      "ancient_notes": 79
+    },
+    {
+      "title": "荀子/不苟篇",
+      "revision": 380303,
+      "body_units": 14,
+      "ancient_notes": 109
+    },
+    {
+      "title": "荀子/榮辱篇",
+      "revision": 380304,
+      "body_units": 7,
+      "ancient_notes": 104
+    },
+    {
+      "title": "荀子/非相篇",
+      "revision": 382201,
+      "body_units": 7,
+      "ancient_notes": 106
+    },
+    {
+      "title": "荀子/非十二子篇",
+      "revision": 380277,
+      "body_units": 7,
+      "ancient_notes": 104
+    },
+    {
+      "title": "荀子/仲尼篇",
+      "revision": 380278,
+      "body_units": 5,
+      "ancient_notes": 66
+    },
+    {
+      "title": "荀子/儒效篇",
+      "revision": 367073,
+      "body_units": 10,
+      "ancient_notes": 203
+    },
+    {
+      "title": "荀子/王制篇",
+      "revision": 1751630,
+      "body_units": 26,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/富國篇",
+      "revision": 1392633,
+      "body_units": 19,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/王霸篇",
+      "revision": 1392634,
+      "body_units": 20,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/君道篇",
+      "revision": 2510441,
+      "body_units": 12,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/臣道篇",
+      "revision": 367480,
+      "body_units": 8,
+      "ancient_notes": 77
+    },
+    {
+      "title": "荀子/致士篇",
+      "revision": 367124,
+      "body_units": 9,
+      "ancient_notes": 37
+    },
+    {
+      "title": "荀子/議兵篇",
+      "revision": 1392636,
+      "body_units": 27,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/彊國篇",
+      "revision": 1392637,
+      "body_units": 10,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/天論篇",
+      "revision": 1392638,
+      "body_units": 17,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/正論篇",
+      "revision": 2450260,
+      "body_units": 43,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/禮論篇",
+      "revision": 1392640,
+      "body_units": 21,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/樂論篇",
+      "revision": 367117,
+      "body_units": 3,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/解蔽篇",
+      "revision": 1392641,
+      "body_units": 17,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/正名篇",
+      "revision": 1392642,
+      "body_units": 20,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/性惡篇",
+      "revision": 382195,
+      "body_units": 5,
+      "ancient_notes": 90
+    },
+    {
+      "title": "荀子/君子篇",
+      "revision": 391226,
+      "body_units": 1,
+      "ancient_notes": 33
+    },
+    {
+      "title": "荀子/成相篇",
+      "revision": 382197,
+      "body_units": 4,
+      "ancient_notes": 116
+    },
+    {
+      "title": "荀子/賦篇",
+      "revision": 364068,
+      "body_units": 7,
+      "ancient_notes": 98
+    },
+    {
+      "title": "荀子/大略篇",
+      "revision": 1392643,
+      "body_units": 109,
+      "ancient_notes": 0
+    },
+    {
+      "title": "荀子/宥坐篇",
+      "revision": 366437,
+      "body_units": 9,
+      "ancient_notes": 55
+    },
+    {
+      "title": "荀子/子道篇",
+      "revision": 1392644,
+      "body_units": 7,
+      "ancient_notes": 24
+    },
+    {
+      "title": "荀子/法行篇",
+      "revision": 366292,
+      "body_units": 8,
+      "ancient_notes": 28
+    },
+    {
+      "title": "荀子/哀公篇",
+      "revision": 1392645,
+      "body_units": 6,
+      "ancient_notes": 60
+    },
+    {
+      "title": "荀子/堯問篇",
+      "revision": 1392646,
+      "body_units": 7,
+      "ancient_notes": 43
+    }
+  ],
+  "limitations": [
+    "固定电子工作本，未与统一纸本或影印古本逐字校勘",
+    "32篇子页含杨倞注页面及无注页面，不能据此声称统一底本；古注仅存源快照及editorial_notes，不作原典正文",
+    "正文源字及标点保持，异文模板首项与说明分开存放；难读、讹脱、古说真伪须在释义中限定"
+  ],
+  "source_volume_mapping_verified_from_index": true,
+  "source_volumes": 20,
+  "additional_source_issue_review": {
+    "checked_on": "2026-10-19",
+    "issues": [
+      {
+        "passage_id": "XZ-15-025",
+        "marker": "××××",
+        "kind": "selected_electronic_source_missing_text_marker",
+        "note": "所选固定电子页原有占位，原貌保留；本库不据此认定所有传本同样亡佚，未补造。",
+        "source_url": "https://zh.wikisource.org/w/index.php?title=荀子/議兵篇&oldid=1392636"
+      }
+    ],
+    "note": "前次未见□或U+FFFD不等于没有其他缺文符号；补充明确××××。正文、原始快照和提取区间不变。"
+  }
+}

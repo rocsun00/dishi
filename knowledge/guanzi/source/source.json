@@ -1,0 +1,1267 @@
+{
+  "id": "guanzi",
+  "work_id": "guanzi",
+  "title": "管子（八十六目现存七十六篇电子工作本）",
+  "prefix": "GZ",
+  "source_title": "管子/第01篇牧民",
+  "revision": "multiple-pinned-pages",
+  "source_url": "https://zh.wikisource.org/w/index.php?title=管子/第01篇牧民&oldid=2341640",
+  "source_pages": [
+    {
+      "title": "管子/第01篇牧民",
+      "revision": 2341640,
+      "timestamp": "2023-12-12T08:34:27Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第01篇牧民&oldid=2341640",
+      "raw_sha256": "ea38a2be4ee61969e53ff8321f1f913a9e3140898b85923131b6c729d23cdd6f",
+      "start": 29,
+      "end": 1432,
+      "raw_file": "pages/01.wikitext"
+    },
+    {
+      "title": "管子/第02篇形勢",
+      "revision": 2200355,
+      "timestamp": "2022-12-07T19:40:02Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第02篇形勢&oldid=2200355",
+      "raw_sha256": "ecf83b1112e01c24b970657a436997f9551b387810246f895efedc24f54e628f",
+      "start": 1461,
+      "end": 2844,
+      "raw_file": "pages/02.wikitext"
+    },
+    {
+      "title": "管子/第03篇權脩",
+      "revision": 2200353,
+      "timestamp": "2022-12-07T19:37:04Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第03篇權脩&oldid=2200353",
+      "raw_sha256": "a7c49b95e93012e53290741924277a149ee851a5c4ab4c0a11db1222b883617a",
+      "start": 2873,
+      "end": 5097,
+      "raw_file": "pages/03.wikitext"
+    },
+    {
+      "title": "管子/第04篇立政",
+      "revision": 2341639,
+      "timestamp": "2023-12-12T08:34:25Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第04篇立政&oldid=2341639",
+      "raw_sha256": "2d0da93d999217dac00227d955cc687be49496a4b7a8e974f86502ae72af56c0",
+      "start": 5126,
+      "end": 7757,
+      "raw_file": "pages/04.wikitext"
+    },
+    {
+      "title": "管子/第05篇乘馬",
+      "revision": 2341638,
+      "timestamp": "2023-12-12T08:34:22Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第05篇乘馬&oldid=2341638",
+      "raw_sha256": "b65608111dd49d4169f561f6f03239842ee0767ffa5038a274f7d63f541ae4e4",
+      "start": 7786,
+      "end": 10288,
+      "raw_file": "pages/05.wikitext"
+    },
+    {
+      "title": "管子/七法",
+      "revision": 2341637,
+      "timestamp": "2023-12-12T08:34:20Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/七法&oldid=2341637",
+      "raw_sha256": "20ca76483efe8f5a1011cec3c8200beabbd700b0f0f1e2d878d5497272016be6",
+      "start": 10313,
+      "end": 13206,
+      "raw_file": "pages/06.wikitext"
+    },
+    {
+      "title": "管子/第07篇版法",
+      "revision": 2325747,
+      "timestamp": "2023-10-25T04:49:49Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第07篇版法&oldid=2325747",
+      "raw_sha256": "dae008cd80f747f7fa368c84a4aa7686b6ed16f9bb0735fd7076ea515097aef4",
+      "start": 13235,
+      "end": 13775,
+      "raw_file": "pages/07.wikitext"
+    },
+    {
+      "title": "管子/第08篇幼官",
+      "revision": 2326042,
+      "timestamp": "2023-10-25T05:03:32Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第08篇幼官&oldid=2326042",
+      "raw_sha256": "eaf220c93fa58f8549419bbc0cde2904e3d9b38a10d2a445568a00ec4fb788c6",
+      "start": 13804,
+      "end": 16751,
+      "raw_file": "pages/08.wikitext"
+    },
+    {
+      "title": "管子/第09篇幼官圖",
+      "revision": 2341636,
+      "timestamp": "2023-12-12T08:34:17Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第09篇幼官圖&oldid=2341636",
+      "raw_sha256": "e437fc029b29f84791b0fe898316678431e5d4398e6b818015c8edcf7f59112c",
+      "start": 16781,
+      "end": 19873,
+      "raw_file": "pages/09.wikitext"
+    },
+    {
+      "title": "管子/第10篇五輔",
+      "revision": 2325749,
+      "timestamp": "2023-10-25T04:49:53Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第10篇五輔&oldid=2325749",
+      "raw_sha256": "a0cdce4c6fab78b96e47243320d1abc84c9b22e2a99ad72e244a22e4d0db9d02",
+      "start": 19902,
+      "end": 22120,
+      "raw_file": "pages/10.wikitext"
+    },
+    {
+      "title": "管子/第11篇宙合",
+      "revision": 2326043,
+      "timestamp": "2023-10-25T05:03:34Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第11篇宙合&oldid=2326043",
+      "raw_sha256": "c67d14fae79c669ecd947f1ff38bf54a1d7959fcefd97c9714c9f99112db95de",
+      "start": 22149,
+      "end": 25442,
+      "raw_file": "pages/11.wikitext"
+    },
+    {
+      "title": "管子/第12篇樞言",
+      "revision": 2325750,
+      "timestamp": "2023-10-25T04:49:56Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第12篇樞言&oldid=2325750",
+      "raw_sha256": "721b27da675b22fb3a72379a7ebdaae0ff304b50e6b0ea9ef7031290b161717d",
+      "start": 25471,
+      "end": 27801,
+      "raw_file": "pages/12.wikitext"
+    },
+    {
+      "title": "管子/第13篇八觀",
+      "revision": 2325751,
+      "timestamp": "2023-10-25T04:49:58Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第13篇八觀&oldid=2325751",
+      "raw_sha256": "353f0c54498a23a45ee3931b6fb196f3828612ba8f1b4d5e237648b9054f7f72",
+      "start": 27830,
+      "end": 30524,
+      "raw_file": "pages/13.wikitext"
+    },
+    {
+      "title": "管子/第14篇法禁",
+      "revision": 2325752,
+      "timestamp": "2023-10-25T04:50:01Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第14篇法禁&oldid=2325752",
+      "raw_sha256": "7df4623b8e18ec647e18c0257523930ea55a0f1b2d798a0458f20fdf109969a2",
+      "start": 30553,
+      "end": 32005,
+      "raw_file": "pages/14.wikitext"
+    },
+    {
+      "title": "管子/第15篇重令",
+      "revision": 2325753,
+      "timestamp": "2023-10-25T04:50:05Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第15篇重令&oldid=2325753",
+      "raw_sha256": "32495e870e796f223930f6155d04a499efa1eb8adac7675f81b2b450d7d60990",
+      "start": 32034,
+      "end": 34058,
+      "raw_file": "pages/15.wikitext"
+    },
+    {
+      "title": "管子/第16篇法法",
+      "revision": 2325755,
+      "timestamp": "2023-10-25T04:50:07Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第16篇法法&oldid=2325755",
+      "raw_sha256": "e6baaf9358e6ade5a57dba5a65e3e38b8a923ca1ebf18f785f94415d8fdea843",
+      "start": 34087,
+      "end": 38395,
+      "raw_file": "pages/16.wikitext"
+    },
+    {
+      "title": "管子/第17篇兵法",
+      "revision": 2325756,
+      "timestamp": "2023-10-25T04:50:10Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第17篇兵法&oldid=2325756",
+      "raw_sha256": "fc72dfb9ac6e3a99f17c30c40bafd0d307fc0720c11e2dd6f908ffb7477b910f",
+      "start": 38424,
+      "end": 39977,
+      "raw_file": "pages/17.wikitext"
+    },
+    {
+      "title": "管子/第18篇大匡",
+      "revision": 2326038,
+      "timestamp": "2023-10-25T05:02:39Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第18篇大匡&oldid=2326038",
+      "raw_sha256": "1d22868f50af848ac14e23c23299c4fff210446bed27f049eee6e5b0f1ceaf99",
+      "start": 40006,
+      "end": 46535,
+      "raw_file": "pages/18.wikitext"
+    },
+    {
+      "title": "管子/第19篇中匡",
+      "revision": 2326039,
+      "timestamp": "2023-10-25T05:02:41Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第19篇中匡&oldid=2326039",
+      "raw_sha256": "ec2e16249b682f4dc805af113dcc1ffe027d68e9e7f06d38c3cbfd12bce7960c",
+      "start": 46564,
+      "end": 47839,
+      "raw_file": "pages/19.wikitext"
+    },
+    {
+      "title": "管子/第20篇小匡",
+      "revision": 2326040,
+      "timestamp": "2023-10-25T05:02:44Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第20篇小匡&oldid=2326040",
+      "raw_sha256": "6da6674fbd58532e2eb589b195a7084b15d0ba4cf8c21d2039f3d66d07789dc6",
+      "start": 47868,
+      "end": 55318,
+      "raw_file": "pages/20.wikitext"
+    },
+    {
+      "title": "管子/第22篇霸形",
+      "revision": 2325757,
+      "timestamp": "2023-10-25T04:50:12Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第22篇霸形&oldid=2325757",
+      "raw_sha256": "9f77851282b6736bfaa06532bb93dd15fa26763958dae5403094a3d827a98e14",
+      "start": 55347,
+      "end": 57384,
+      "raw_file": "pages/22.wikitext"
+    },
+    {
+      "title": "管子/第23篇霸言",
+      "revision": 2325758,
+      "timestamp": "2023-10-25T04:50:15Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第23篇霸言&oldid=2325758",
+      "raw_sha256": "d27e5f4c7c62d92fc0c7c601a713858f7c3b64b90e0c253b6f988509b9caf050",
+      "start": 57413,
+      "end": 60098,
+      "raw_file": "pages/23.wikitext"
+    },
+    {
+      "title": "管子/第24篇問",
+      "revision": 2325759,
+      "timestamp": "2023-10-25T04:50:18Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第24篇問&oldid=2325759",
+      "raw_sha256": "4ab942e7683c6453a74cf79b2b8501632158d66abebf5f5159a18bbdbf06fffc",
+      "start": 60126,
+      "end": 61839,
+      "raw_file": "pages/24.wikitext"
+    },
+    {
+      "title": "管子/第26篇戒",
+      "revision": 2325760,
+      "timestamp": "2023-10-25T04:50:21Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第26篇戒&oldid=2325760",
+      "raw_sha256": "b445e4b8ea921c783ec1cace46a9e012ff69692ada7edd83b944b89167dcea27",
+      "start": 61867,
+      "end": 64452,
+      "raw_file": "pages/26.wikitext"
+    },
+    {
+      "title": "管子/第27篇地圖",
+      "revision": 2326044,
+      "timestamp": "2023-10-25T05:03:36Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第27篇地圖&oldid=2326044",
+      "raw_sha256": "8c12888984532fec47e4fe8ec3c36279a077dfdc8d9982a7ae037dd1076522c4",
+      "start": 64481,
+      "end": 64958,
+      "raw_file": "pages/27.wikitext"
+    },
+    {
+      "title": "管子/第28篇參患",
+      "revision": 2325761,
+      "timestamp": "2023-10-25T04:50:24Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第28篇參患&oldid=2325761",
+      "raw_sha256": "40242ee716f70648e77ec44496bde7e4bc9412fc8f9942cecd5504b97331da6e",
+      "start": 64987,
+      "end": 65864,
+      "raw_file": "pages/28.wikitext"
+    },
+    {
+      "title": "管子/第29篇制分",
+      "revision": 2403668,
+      "timestamp": "2024-05-06T18:03:17Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第29篇制分&oldid=2403668",
+      "raw_sha256": "feaf099bf13198206b2f40c6a82350bbc8e001553d6125bde7ff65c8ed4bd72d",
+      "start": 65893,
+      "end": 66599,
+      "raw_file": "pages/29.wikitext"
+    },
+    {
+      "title": "管子/第30篇君臣上",
+      "revision": 2325764,
+      "timestamp": "2023-10-25T04:50:29Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第30篇君臣上&oldid=2325764",
+      "raw_sha256": "b6f97fc83c505f8877a5fd998d759acab65fee3d95d1487f24517be0df294449",
+      "start": 66629,
+      "end": 69585,
+      "raw_file": "pages/30.wikitext"
+    },
+    {
+      "title": "管子/第31篇君臣下",
+      "revision": 2325765,
+      "timestamp": "2023-10-25T04:50:31Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第31篇君臣下&oldid=2325765",
+      "raw_sha256": "08252f98eaa86b64a499aeb7336f2c8d43e6f67010ac2b92224a8b934d0936a7",
+      "start": 69615,
+      "end": 72618,
+      "raw_file": "pages/31.wikitext"
+    },
+    {
+      "title": "管子/第32篇小稱",
+      "revision": 2325766,
+      "timestamp": "2023-10-25T04:50:34Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第32篇小稱&oldid=2325766",
+      "raw_sha256": "6a0097f89a61410346b3de1ccddb7da396e9e7118a2c185635e43929b3911494",
+      "start": 72647,
+      "end": 74331,
+      "raw_file": "pages/32.wikitext"
+    },
+    {
+      "title": "管子/第33篇四稱",
+      "revision": 2325767,
+      "timestamp": "2023-10-25T04:50:36Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第33篇四稱&oldid=2325767",
+      "raw_sha256": "ef6d40b8d55cc97fbb0cb6dde4d48cf849402803eba8dff0f41cc08f68f28d1f",
+      "start": 74360,
+      "end": 75710,
+      "raw_file": "pages/33.wikitext"
+    },
+    {
+      "title": "管子/第35篇侈靡",
+      "revision": 2325768,
+      "timestamp": "2023-10-25T04:50:39Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第35篇侈靡&oldid=2325768",
+      "raw_sha256": "d16ba1ba004034ad271c35c14b45e3a7abdae2774f73be9c7aff656baffea16c",
+      "start": 75739,
+      "end": 81343,
+      "raw_file": "pages/35.wikitext"
+    },
+    {
+      "title": "管子/第36篇心術上",
+      "revision": 2326045,
+      "timestamp": "2023-10-25T05:03:39Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第36篇心術上&oldid=2326045",
+      "raw_sha256": "5b48eec3b0846b974df1c2eab509de70dfc5bbe0095dfbfb0e93ed7b9882c39b",
+      "start": 81373,
+      "end": 83302,
+      "raw_file": "pages/36.wikitext"
+    },
+    {
+      "title": "管子/第37篇心術下",
+      "revision": 2325769,
+      "timestamp": "2023-10-25T04:50:41Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第37篇心術下&oldid=2325769",
+      "raw_sha256": "6b634f7ac4f7bbc56707988adad889328dbcfc8545eb3450ca7dbc064f16bc28",
+      "start": 83332,
+      "end": 84361,
+      "raw_file": "pages/37.wikitext"
+    },
+    {
+      "title": "管子/第38篇白心",
+      "revision": 2325770,
+      "timestamp": "2023-10-25T04:50:44Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第38篇白心&oldid=2325770",
+      "raw_sha256": "d1c0631486bf44c8ead3d165eb2e31676562c3d244b2fa440413390c4031aa68",
+      "start": 84390,
+      "end": 86323,
+      "raw_file": "pages/38.wikitext"
+    },
+    {
+      "title": "管子/第39篇水地",
+      "revision": 2326046,
+      "timestamp": "2023-10-25T05:03:41Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第39篇水地&oldid=2326046",
+      "raw_sha256": "48ecba7165faa0b86bea0b1339216962c799a047f6b8279b7dbda4e466044984",
+      "start": 86352,
+      "end": 87833,
+      "raw_file": "pages/39.wikitext"
+    },
+    {
+      "title": "管子/第40篇四時",
+      "revision": 2325771,
+      "timestamp": "2023-10-25T04:50:46Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第40篇四時&oldid=2325771",
+      "raw_sha256": "080ccd903d9f861cf929790a5085ffc3142376a10ab6cc7b858e40e9ae6f668b",
+      "start": 87862,
+      "end": 89643,
+      "raw_file": "pages/40.wikitext"
+    },
+    {
+      "title": "管子/第41篇五行",
+      "revision": 2325772,
+      "timestamp": "2023-10-25T04:50:49Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第41篇五行&oldid=2325772",
+      "raw_sha256": "cd474ed27967870b71d7896fa497f10c99e4be391911ff62d072f6feb9921cab",
+      "start": 89672,
+      "end": 91252,
+      "raw_file": "pages/41.wikitext"
+    },
+    {
+      "title": "管子/勢",
+      "revision": 2326047,
+      "timestamp": "2023-10-25T05:03:44Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/勢&oldid=2326047",
+      "raw_sha256": "4d2390bcb5ba835cfa79554ab42835714cb72ba43fe04c3cb34ccf46336fde48",
+      "start": 91276,
+      "end": 92070,
+      "raw_file": "pages/42.wikitext"
+    },
+    {
+      "title": "管子/第43篇正",
+      "revision": 2326048,
+      "timestamp": "2023-10-25T05:03:46Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第43篇正&oldid=2326048",
+      "raw_sha256": "0891e91769ad26efaf8a66908d36a47faddf0e6b14ad007c75f8f61254ceaff8",
+      "start": 92098,
+      "end": 92647,
+      "raw_file": "pages/43.wikitext"
+    },
+    {
+      "title": "管子/第44篇九變",
+      "revision": 2326049,
+      "timestamp": "2023-10-25T05:03:49Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第44篇九變&oldid=2326049",
+      "raw_sha256": "bfe84615e62f7593c49e2a342265c36ad86928175eee0dd1084c0a5988c17ff4",
+      "start": 92676,
+      "end": 93057,
+      "raw_file": "pages/44.wikitext"
+    },
+    {
+      "title": "管子/第45篇任法",
+      "revision": 2325773,
+      "timestamp": "2023-10-25T04:50:51Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第45篇任法&oldid=2325773",
+      "raw_sha256": "36b7b74aa39a17e626f32bd72920a9f40638682a10fc176e27b587b00a1c2c8e",
+      "start": 93086,
+      "end": 95286,
+      "raw_file": "pages/45.wikitext"
+    },
+    {
+      "title": "管子/第46篇明法",
+      "revision": 2326050,
+      "timestamp": "2023-10-25T05:03:52Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第46篇明法&oldid=2326050",
+      "raw_sha256": "82b9724ba766cb29507f143fde5c09108906f6f1008abe0ff2f992668b222563",
+      "start": 95315,
+      "end": 96065,
+      "raw_file": "pages/46.wikitext"
+    },
+    {
+      "title": "管子/第47篇正世",
+      "revision": 2325774,
+      "timestamp": "2023-10-25T04:50:54Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第47篇正世&oldid=2325774",
+      "raw_sha256": "911719b764984f32c5c5d46b8200ef270bc07656d16cd231344479884dd572f4",
+      "start": 96094,
+      "end": 97225,
+      "raw_file": "pages/47.wikitext"
+    },
+    {
+      "title": "管子/第48篇治國",
+      "revision": 2326051,
+      "timestamp": "2023-10-25T05:03:55Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第48篇治國&oldid=2326051",
+      "raw_sha256": "9874b7c88bbbbe3bd1fbe19f92e5283cc51ed32fda71691679d09b6a0df565f4",
+      "start": 97254,
+      "end": 98400,
+      "raw_file": "pages/48.wikitext"
+    },
+    {
+      "title": "管子/第49篇內業",
+      "revision": 2326052,
+      "timestamp": "2023-10-25T05:03:58Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第49篇內業&oldid=2326052",
+      "raw_sha256": "9cd15d47adf8d0f1193234161980705d962cbb7132e99f73f7d677a97bf99d5e",
+      "start": 98429,
+      "end": 100534,
+      "raw_file": "pages/49.wikitext"
+    },
+    {
+      "title": "管子/第50篇封禪",
+      "revision": 2326053,
+      "timestamp": "2023-10-25T05:04:00Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第50篇封禪&oldid=2326053",
+      "raw_sha256": "3d687a2723804bd36209cd82d3138c74dacf067b00b319ad38ad922c0968c12c",
+      "start": 100563,
+      "end": 101133,
+      "raw_file": "pages/50.wikitext"
+    },
+    {
+      "title": "管子/第51篇小問",
+      "revision": 2325775,
+      "timestamp": "2023-10-25T04:50:56Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第51篇小問&oldid=2325775",
+      "raw_sha256": "f4b5826408ca7fb86bd6ca5a5cd86922ac332e18167aa42bafa688981d352d41",
+      "start": 101162,
+      "end": 104532,
+      "raw_file": "pages/51.wikitext"
+    },
+    {
+      "title": "管子/第52篇七主七臣",
+      "revision": 2325776,
+      "timestamp": "2023-10-25T04:50:59Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第52篇七主七臣&oldid=2325776",
+      "raw_sha256": "94661bf4143cc474582e9c0cfb164bed2e709d05ebdbea12b90b49162cd8dc98",
+      "start": 104563,
+      "end": 106672,
+      "raw_file": "pages/52.wikitext"
+    },
+    {
+      "title": "管子/第53篇禁藏",
+      "revision": 2325778,
+      "timestamp": "2023-10-25T04:51:01Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第53篇禁藏&oldid=2325778",
+      "raw_sha256": "3b94f43116ad503b05424f4a0f5e8f4e11dbafbb782075faaf4a4e6ff9fd2f1b",
+      "start": 106701,
+      "end": 109155,
+      "raw_file": "pages/53.wikitext"
+    },
+    {
+      "title": "管子/第54篇入國",
+      "revision": 2325781,
+      "timestamp": "2023-10-25T04:51:06Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第54篇入國&oldid=2325781",
+      "raw_sha256": "9e1468b2f8ac597c997b2ed94b5e3fb28e867a1b6fafd68036e0df5e7e0f129c",
+      "start": 109184,
+      "end": 110023,
+      "raw_file": "pages/54.wikitext"
+    },
+    {
+      "title": "管子/第55篇九守",
+      "revision": 2341635,
+      "timestamp": "2023-12-12T08:34:15Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第55篇九守&oldid=2341635",
+      "raw_sha256": "8c0de95590824ed093064d28d8955eb44ac3dd5299515779ba86c7bbcb6c2243",
+      "start": 110052,
+      "end": 110774,
+      "raw_file": "pages/55.wikitext"
+    },
+    {
+      "title": "管子/第56篇桓公問",
+      "revision": 2326054,
+      "timestamp": "2023-10-25T05:04:03Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第56篇桓公問&oldid=2326054",
+      "raw_sha256": "ad5966cae8298f8faec8bafa9c8a43612a7eb11370a736b95286875055c6b451",
+      "start": 110804,
+      "end": 111260,
+      "raw_file": "pages/56.wikitext"
+    },
+    {
+      "title": "管子/第57篇度地",
+      "revision": 2325782,
+      "timestamp": "2023-10-25T04:51:09Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第57篇度地&oldid=2325782",
+      "raw_sha256": "49dfe232a8c9d9b3c8e6075222f7b95be3d8f8ca05986817ae6479566aa79892",
+      "start": 111289,
+      "end": 113818,
+      "raw_file": "pages/57.wikitext"
+    },
+    {
+      "title": "管子/第58篇地員",
+      "revision": 2326055,
+      "timestamp": "2023-10-25T05:04:05Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第58篇地員&oldid=2326055",
+      "raw_sha256": "76eed509f05d057fcc9371e4f4d832cf00c430f5b0ca92ad852498b63971ecba",
+      "start": 113847,
+      "end": 116772,
+      "raw_file": "pages/58.wikitext"
+    },
+    {
+      "title": "管子/第59篇弟子職",
+      "revision": 2326056,
+      "timestamp": "2023-10-25T05:04:07Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第59篇弟子職&oldid=2326056",
+      "raw_sha256": "64afd739f2545e839486009b47e599930de8eaca7144414a966bff23494ededd",
+      "start": 116802,
+      "end": 117780,
+      "raw_file": "pages/59.wikitext"
+    },
+    {
+      "title": "管子/第64篇形勢解",
+      "revision": 2325783,
+      "timestamp": "2023-10-25T04:51:12Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第64篇形勢解&oldid=2325783",
+      "raw_sha256": "fd6963e9f0d37a668c11b498d5f1ef39cb3339da401de881d7698f39c24a6e42",
+      "start": 117810,
+      "end": 125723,
+      "raw_file": "pages/64.wikitext"
+    },
+    {
+      "title": "管子/第65篇立政九敗解",
+      "revision": 2326057,
+      "timestamp": "2023-10-25T05:04:10Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第65篇立政九敗解&oldid=2326057",
+      "raw_sha256": "0c09fd3e171d5d6a6c6ea3ce780507cc9b2ba46896109e74c26e5f3a2765d127",
+      "start": 125755,
+      "end": 126890,
+      "raw_file": "pages/65.wikitext"
+    },
+    {
+      "title": "管子/第66篇版法解",
+      "revision": 2326058,
+      "timestamp": "2023-10-25T05:04:12Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第66篇版法解&oldid=2326058",
+      "raw_sha256": "b36ced3fd3f5f9bb5f4b400c85248848146d7fb695103018b87846e0d643b006",
+      "start": 126920,
+      "end": 129935,
+      "raw_file": "pages/66.wikitext"
+    },
+    {
+      "title": "管子/第67篇明法解",
+      "revision": 2326059,
+      "timestamp": "2023-10-25T05:04:16Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第67篇明法解&oldid=2326059",
+      "raw_sha256": "4a8255f6674af6745e76d27e3f2ace74c22b69cde606d68a2d9acfad36480160",
+      "start": 129965,
+      "end": 135143,
+      "raw_file": "pages/67.wikitext"
+    },
+    {
+      "title": "管子/第68篇巨乘馬",
+      "revision": 2326064,
+      "timestamp": "2023-10-25T05:04:28Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第68篇巨乘馬&oldid=2326064",
+      "raw_sha256": "2b277f6a3a153ccac787398d6c0db3659a47ffad6b18af6f068bb28a9e277258",
+      "start": 135173,
+      "end": 135952,
+      "raw_file": "pages/68.wikitext"
+    },
+    {
+      "title": "管子/第69篇乘馬數",
+      "revision": 2325784,
+      "timestamp": "2023-10-25T04:51:15Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第69篇乘馬數&oldid=2325784",
+      "raw_sha256": "fcb9c3e74a2da72dd89af2f63de97b842e3f59e7e8feffa815e88a0377fb75c0",
+      "start": 135982,
+      "end": 136897,
+      "raw_file": "pages/69.wikitext"
+    },
+    {
+      "title": "管子/第71篇事語",
+      "revision": 2326060,
+      "timestamp": "2023-10-25T05:04:18Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第71篇事語&oldid=2326060",
+      "raw_sha256": "e0f9cf0b47b7085e75083b5537df2937ede48c4c808f7a5a19377f79887f1ab8",
+      "start": 136926,
+      "end": 137633,
+      "raw_file": "pages/71.wikitext"
+    },
+    {
+      "title": "管子/第72篇海王",
+      "revision": 2325785,
+      "timestamp": "2023-10-25T04:51:17Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第72篇海王&oldid=2325785",
+      "raw_sha256": "9cd880f93ce63bc723bac33a8c4ee9c5091fc29cdeceb6ff8146eb0ad981d4ca",
+      "start": 137662,
+      "end": 138479,
+      "raw_file": "pages/72.wikitext"
+    },
+    {
+      "title": "管子/第73篇國蓄",
+      "revision": 2325787,
+      "timestamp": "2023-10-25T04:51:19Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第73篇國蓄&oldid=2325787",
+      "raw_sha256": "edb2d9e971bef45f1ff64a4b71efba9459107cfdf4c65098ae3376b2e316bc5d",
+      "start": 138508,
+      "end": 140747,
+      "raw_file": "pages/73.wikitext"
+    },
+    {
+      "title": "管子/第74篇山國軌",
+      "revision": 2325788,
+      "timestamp": "2023-10-25T04:51:22Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第74篇山國軌&oldid=2325788",
+      "raw_sha256": "b33afd664a9fa6716ef7e5d390ff3a11db5baa4eb3d0abf8bfd4aba4f3e381b3",
+      "start": 140777,
+      "end": 142713,
+      "raw_file": "pages/74.wikitext"
+    },
+    {
+      "title": "管子/第75篇山權數",
+      "revision": 2325789,
+      "timestamp": "2023-10-25T04:51:24Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第75篇山權數&oldid=2325789",
+      "raw_sha256": "967f6c65350886a6f98ac42b39ac3f4db9443053a49e319f5032182a178f8b96",
+      "start": 142743,
+      "end": 145226,
+      "raw_file": "pages/75.wikitext"
+    },
+    {
+      "title": "管子/第76篇山至數",
+      "revision": 2325791,
+      "timestamp": "2023-10-25T04:51:30Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第76篇山至數&oldid=2325791",
+      "raw_sha256": "7bd2aa6629f4df17d53a5e1b5cd7ed67b4b0d01eea9fc9c8ec023a4d70d7280a",
+      "start": 145256,
+      "end": 148409,
+      "raw_file": "pages/76.wikitext"
+    },
+    {
+      "title": "管子/第77篇地數",
+      "revision": 2325790,
+      "timestamp": "2023-10-25T04:51:27Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第77篇地數&oldid=2325790",
+      "raw_sha256": "e34eddddbb6978e80474324d284febdab4337e779cc8e9837c447ce2fafdb425",
+      "start": 148438,
+      "end": 150254,
+      "raw_file": "pages/77.wikitext"
+    },
+    {
+      "title": "管子/第78篇揆度",
+      "revision": 2326061,
+      "timestamp": "2023-10-25T05:04:21Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第78篇揆度&oldid=2326061",
+      "raw_sha256": "92e7da97a9a510ffe8635b58afbf744a467041d0f92550c1a57733e21a91a0e0",
+      "start": 150283,
+      "end": 153321,
+      "raw_file": "pages/78.wikitext"
+    },
+    {
+      "title": "管子/第79篇國準",
+      "revision": 2326062,
+      "timestamp": "2023-10-25T05:04:23Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第79篇國準&oldid=2326062",
+      "raw_sha256": "b17ffeb385f38305f6702bc3382674e6eb36eb82b5d0baeb13763e18273972b7",
+      "start": 153350,
+      "end": 154024,
+      "raw_file": "pages/79.wikitext"
+    },
+    {
+      "title": "管子/第80篇輕重甲",
+      "revision": 2325793,
+      "timestamp": "2023-10-25T04:51:32Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第80篇輕重甲&oldid=2325793",
+      "raw_sha256": "d2679ec190ded2d9ad199f5f1ffe66fe49dcd2407f0cdbca56cb82820bafa008",
+      "start": 154054,
+      "end": 158998,
+      "raw_file": "pages/80.wikitext"
+    },
+    {
+      "title": "管子/第81篇輕重乙",
+      "revision": 2325794,
+      "timestamp": "2023-10-25T04:51:35Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第81篇輕重乙&oldid=2325794",
+      "raw_sha256": "58599fb07d254b8060ee1f01c49c9f06f87c3c06ef3761f53b1de4017a52fe8a",
+      "start": 159028,
+      "end": 162564,
+      "raw_file": "pages/81.wikitext"
+    },
+    {
+      "title": "管子/第83篇輕重丁",
+      "revision": 2341634,
+      "timestamp": "2023-12-12T08:34:12Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第83篇輕重丁&oldid=2341634",
+      "raw_sha256": "e2e69236897259972eddba66fb75865e44d186468725760d147010d6c29abd84",
+      "start": 162594,
+      "end": 167006,
+      "raw_file": "pages/83.wikitext"
+    },
+    {
+      "title": "管子/第84篇輕重戊",
+      "revision": 2325796,
+      "timestamp": "2023-10-25T04:51:40Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第84篇輕重戊&oldid=2325796",
+      "raw_sha256": "41662711dc814d306928d2e9cf9cf37acc756ed2d63a150a9f827211a0fd605f",
+      "start": 167036,
+      "end": 169627,
+      "raw_file": "pages/84.wikitext"
+    },
+    {
+      "title": "管子/第85篇輕重己",
+      "revision": 2325797,
+      "timestamp": "2023-10-25T04:51:42Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第85篇輕重己&oldid=2325797",
+      "raw_sha256": "2389cbb237b0f4f5867f4d15b0bcb0cadd01f5db7c32f36687c0f592ebba2f15",
+      "start": 169657,
+      "end": 170990,
+      "raw_file": "pages/85.wikitext"
+    }
+  ],
+  "retrieved_on": "2026-10-19",
+  "raw_file": "source.wikitext",
+  "raw_sha256": "a6ea1baa1440fcc01f4cbcc24d21343c4d900fee24c9a1a8cee52e1cf61a2096",
+  "extraction_sha256": "d57af72c658ab8242f6bc55fa90710586719da87b6a80f2fec62ca22a589f06b",
+  "scope": "传世目录八十六目，现存七十六篇；原篇号保留，十个亡篇不补正文。以所选逐篇电子页为正文底本，按源自然空行定位；“右…”分节题移作source_section。二十四卷归属独立参照固定四库本目录，以原篇号对应，不混用四库本正文。",
+  "edition_status": "中文维基文库《管子》逐篇固定电子工作本，正文不是统一影印本逐字校定；二十四卷与分类仅以固定四库目录/卷题补充结构。保留字形模板、疑字与源标点，作者、成书时代及传本层次存在差异，不将全书均归管仲亲作。",
+  "chapter_count": 76,
+  "passage_count": 661,
+  "text_characters_including_punctuation": 153832,
+  "normalization": [
+    "保存官方API逐篇固定修订wikitext、修订号、时间、URL及SHA256；第42篇重定向原页与目标分别固定；拼合快照全字符覆盖正文/排除区间",
+    "有唯一onlyinclude者严格取其内部；其余取完整header模板后至footer前或页末；不宽泛删除未知正文markup",
+    "“右…”为篇内分节末题，排除正文并以前属分节保存source_section；不将题行当思想段；自然空行分段，不逐曰拆句",
+    "七法主页面已含整篇，仅用主页面一次；目录的子页不另并入，避免重出异标点文本",
+    "《管子(四库全书本)》独立目录与24卷快照仅用于原篇号对应卷属和分类；其中正文、古注、序跋均不混本工作本正文",
+    "已识别!字形模板保留首项实字、？模板保留显式IDS描述；原模板及字形说明存快照与editorial_notes，疑字风险逐段列明",
+    "保留源字、标点、占位及疑文，不擅据别本补字；OpenCC0.1.7 t2s只另存简体检索层"
+  ],
+  "source_attribution": "中文维基文库相应原典页面及其贡献者；使用时保留固定修订号、来源和加工说明",
+  "source_terms_url": "https://zh.wikisource.org/wiki/Wikisource:版权信息/全文",
+  "source_site_license": "保留站点所列适用许可及归属；古代原文与站点数字整理内容分别理解",
+  "source_redirects": [
+    {
+      "title": "管子/第42篇勢",
+      "revision": 2178802,
+      "timestamp": "2022-09-13T03:47:13Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子/第42篇勢&oldid=2178802",
+      "raw_sha256": "144537ec4250d39b0ec9af5706e2bcada51d574c664c011948631525c01fc789",
+      "start": 0,
+      "end": 18,
+      "raw_file": "redirect-42.wikitext",
+      "target_title": "管子/勢",
+      "coordinate_space": "start/end仅指raw_file独立重定向快照坐标，不指source.wikitext拼合正文坐标"
+    }
+  ],
+  "structure_references": [
+    {
+      "title": "管子 (四庫全書本)",
+      "revision": 629217,
+      "timestamp": "2016-10-14T03:35:39Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)&oldid=629217",
+      "raw_sha256": "03bc7a47b98de85f93147625da22632a9bfeae2307871b54dfa7d94d2abce3d1",
+      "raw_file": "structure/index.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷01",
+      "revision": 629167,
+      "timestamp": "2016-10-14T03:35:30Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷01&oldid=629167",
+      "raw_sha256": "3fa753c63781b2fa1abed278840b7af189c38b85c3bce0289974a6f67e8a8f0b",
+      "raw_file": "structure/01.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷02",
+      "revision": 629169,
+      "timestamp": "2016-10-14T03:35:30Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷02&oldid=629169",
+      "raw_sha256": "da0f8d1a3e5a8189e11ec37dd6d487b747a2a34814da2edecf022538237c33b4",
+      "raw_file": "structure/02.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷03",
+      "revision": 790016,
+      "timestamp": "2016-10-27T19:09:58Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷03&oldid=790016",
+      "raw_sha256": "ca62c26db6b44fe89aee2834821a2324addb0aa85e645149acada12fc91044b2",
+      "raw_file": "structure/03.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷04",
+      "revision": 629173,
+      "timestamp": "2016-10-14T03:35:31Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷04&oldid=629173",
+      "raw_sha256": "29459eba224bf6b3acea8e68b13e156caa06a36fd827a870ca6e81b553fe3d86",
+      "raw_file": "structure/04.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷05",
+      "revision": 629175,
+      "timestamp": "2016-10-14T03:35:31Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷05&oldid=629175",
+      "raw_sha256": "f30e4ed818237faca3ed6d5ec97887bdf565dd0fdd747ae034722074f534863b",
+      "raw_file": "structure/05.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷06",
+      "revision": 629177,
+      "timestamp": "2016-10-14T03:35:31Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷06&oldid=629177",
+      "raw_sha256": "024329655fe6ddc130836e3e5b54cb79050305067e2c131b92c49a1efbb0cf9e",
+      "raw_file": "structure/06.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷07",
+      "revision": 629179,
+      "timestamp": "2016-10-14T03:35:32Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷07&oldid=629179",
+      "raw_sha256": "066a526ca040bfaea870165950ea452ad6905c8fd5c325419d790e2128b967d2",
+      "raw_file": "structure/07.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷08",
+      "revision": 629181,
+      "timestamp": "2016-10-14T03:35:32Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷08&oldid=629181",
+      "raw_sha256": "9a790b96a681cf5bc685c63b7b1ce5fe8ba07f7fb90c60cd568891cceeaab070",
+      "raw_file": "structure/08.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷09",
+      "revision": 629183,
+      "timestamp": "2016-10-14T03:35:33Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷09&oldid=629183",
+      "raw_sha256": "e58d6f10b60f7008f6bb767f21f0c9d4eadc9f09629f249ee4eccfb518932f19",
+      "raw_file": "structure/09.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷10",
+      "revision": 629185,
+      "timestamp": "2016-10-14T03:35:33Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷10&oldid=629185",
+      "raw_sha256": "e3af5b2d66d4c2dfd0daad103c6c1f932c880cd6a58b075f5a3643855063272e",
+      "raw_file": "structure/10.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷11",
+      "revision": 629187,
+      "timestamp": "2016-10-14T03:35:33Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷11&oldid=629187",
+      "raw_sha256": "c4683fcda713418621450eefc07e900feeeff686abcff099e3afa88feaada431",
+      "raw_file": "structure/11.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷12",
+      "revision": 629189,
+      "timestamp": "2016-10-14T03:35:34Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷12&oldid=629189",
+      "raw_sha256": "43a6efff1526cc42292d5366d7d261e654d565b8b37303f341d097519d5033da",
+      "raw_file": "structure/12.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷13",
+      "revision": 629191,
+      "timestamp": "2016-10-14T03:35:34Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷13&oldid=629191",
+      "raw_sha256": "01ea16e82bd4af28239c1d640014a0bcff8f3ca25501dee9a26c284ed53b20c9",
+      "raw_file": "structure/13.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷14",
+      "revision": 629193,
+      "timestamp": "2016-10-14T03:35:35Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷14&oldid=629193",
+      "raw_sha256": "9bcee37025f39ee621bf59fb8d417f6b06bfb8f6d7be24e7b344e506baa11b26",
+      "raw_file": "structure/14.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷15",
+      "revision": 629195,
+      "timestamp": "2016-10-14T03:35:35Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷15&oldid=629195",
+      "raw_sha256": "52a5579337b02414ea201b65c5c78386c13028f011f5c9298f0d26a3dc9f65fa",
+      "raw_file": "structure/15.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷16",
+      "revision": 629197,
+      "timestamp": "2016-10-14T03:35:36Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷16&oldid=629197",
+      "raw_sha256": "d0fff9ef08ed32835f9c0ebddfcae678f9619432b000cabbeb4861df11cf0fd5",
+      "raw_file": "structure/16.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷17",
+      "revision": 629199,
+      "timestamp": "2016-10-14T03:35:36Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷17&oldid=629199",
+      "raw_sha256": "810bde4d0409f8ddeb7b856203266a7986ca5f48c1097831f4e3657d1417817c",
+      "raw_file": "structure/17.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷18",
+      "revision": 629201,
+      "timestamp": "2016-10-14T03:35:37Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷18&oldid=629201",
+      "raw_sha256": "30675046e366d0c82d0e3de572a089cc1af91ad7523cfd21b9eb6e73c2ba532e",
+      "raw_file": "structure/18.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷19",
+      "revision": 750033,
+      "timestamp": "2016-10-19T22:56:26Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷19&oldid=750033",
+      "raw_sha256": "0169d3ba4513907a5a03fb6f83a4f556d416a3f4193ff4bddc541c484d8ee9c0",
+      "raw_file": "structure/19.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷20",
+      "revision": 629205,
+      "timestamp": "2016-10-14T03:35:37Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷20&oldid=629205",
+      "raw_sha256": "ca589b9b5cf8efcbb770cadb7dcf20deb5bfdc970203dfdaa1e6e6627ec827fb",
+      "raw_file": "structure/20.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷21",
+      "revision": 629207,
+      "timestamp": "2016-10-14T03:35:37Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷21&oldid=629207",
+      "raw_sha256": "8ce66a97d05d92ba96bbfaaaa36efce1ec6cfa8d72ddc545d01b37d08153a726",
+      "raw_file": "structure/21.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷22",
+      "revision": 629209,
+      "timestamp": "2016-10-14T03:35:38Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷22&oldid=629209",
+      "raw_sha256": "468cf24e7285383ae88378a03823e4a3e0767847a77641b000947818d62a8967",
+      "raw_file": "structure/22.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷23",
+      "revision": 629211,
+      "timestamp": "2016-10-14T03:35:38Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷23&oldid=629211",
+      "raw_sha256": "5f6b640c928fdd5492bd21f959e88151eed0ce509cdf052fab69a03e0265f816",
+      "raw_file": "structure/23.wikitext"
+    },
+    {
+      "title": "管子 (四庫全書本)/卷24",
+      "revision": 790018,
+      "timestamp": "2016-10-27T19:10:18Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=管子 (四庫全書本)/卷24&oldid=790018",
+      "raw_sha256": "29c3847d25acc4b8ca44aefd6f4d36949c7fc75b0c8f33fad0617dd921075c34",
+      "raw_file": "structure/24.wikitext"
+    }
+  ],
+  "original_structure": {
+    "catalog_chapters": 86,
+    "surviving_chapters": 76,
+    "lost_chapter_numbers": [
+      21,
+      25,
+      34,
+      60,
+      61,
+      62,
+      63,
+      70,
+      82,
+      86
+    ],
+    "reference_volumes": 24,
+    "volume_reference_is_not_body_source": true,
+    "lost_body_included": false,
+    "selected_qifa_page": "《管子/七法》已含七法、百匿、为兵之数、选陈全文；不重复并入目录4个子页。",
+    "fengshan_boundary": "四库本卷16题注“元篇亡今以司馬遷封禪書所載管子言以補之”；本工作本保留现传第50篇文字，不把传本补配视为原作者亲撰的证明。"
+  },
+  "source_index": {
+    "title": "管子",
+    "revision": 7910019,
+    "timestamp": "2026-07-26T04:55:58Z",
+    "url": "https://zh.wikisource.org/w/index.php?title=管子&oldid=7910019",
+    "raw_sha256": "a772090462dd55c960bced47570de41103b8d0446b8eac4b90b32aada0458538",
+    "raw_file": "index.wikitext"
+  },
+  "chapter_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    83,
+    84,
+    85
+  ],
+  "missing_chapter_numbers": [
+    21,
+    25,
+    34,
+    60,
+    61,
+    62,
+    63,
+    70,
+    82,
+    86
+  ],
+  "normalization_references": [
+    {
+      "title": "Template:!",
+      "revision": 2561363,
+      "timestamp": "2025-05-15T15:24:31Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:!&oldid=2561363",
+      "raw_sha256": "6eac81f147129004a4ee620d15d516fc3003213ac685eb7da52eb664ed1258ec",
+      "raw_file": "templates/bang.wikitext"
+    },
+    {
+      "title": "Template:!/doc",
+      "revision": 2561370,
+      "timestamp": "2025-05-15T15:36:30Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:!/doc&oldid=2561370",
+      "raw_sha256": "fe74ad00ad20693a6cecac461c681753e346871d5205b68a34deb5fb9178d0fd",
+      "raw_file": "templates/bang-doc.wikitext"
+    },
+    {
+      "title": "Template:？",
+      "revision": 1558960,
+      "timestamp": "2019-04-21T09:33:47Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:？&oldid=1558960",
+      "raw_sha256": "3323a83a200e19be354c1ea0d62b5f110ec8dc26cfc183ccd49f7e44c0884089",
+      "raw_file": "templates/fullwidth-question-redirect.wikitext"
+    },
+    {
+      "title": "Template:?",
+      "revision": 1565051,
+      "timestamp": "2019-05-17T02:51:50Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:?&oldid=1565051",
+      "raw_sha256": "8721c77bfd78e0c735a50c16a7eb48eca8e391d375c172e92b5301bbb50de60e",
+      "raw_file": "templates/question-target.wikitext"
+    },
+    {
+      "title": "Template:?/doc",
+      "revision": 2375031,
+      "timestamp": "2024-03-18T11:55:06Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:?/doc&oldid=2375031",
+      "raw_sha256": "dfaff62fe52c3fc84879ee0414ed8b7d2a0166addf9e8d693aa12bc05070a7da",
+      "raw_file": "templates/question-doc.wikitext"
+    },
+    {
+      "title": "Template:僻字",
+      "revision": 2561505,
+      "timestamp": "2025-05-16T01:49:54Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:僻字&oldid=2561505",
+      "raw_sha256": "49a09a0fe90b18dc5ed3edf5d70c4387e0e4bb4766eca50337a533c326829ad5",
+      "raw_file": "templates/encoded-glyph.wikitext"
+    },
+    {
+      "title": "Template:僻字/doc",
+      "revision": 2561374,
+      "timestamp": "2025-05-15T15:41:44Z",
+      "url": "https://zh.wikisource.org/w/index.php?title=Template:僻字/doc&oldid=2561374",
+      "raw_sha256": "713fe5f1f9df173419b6d16ea9bf7341bab534a0a4036da4bf5fde14f5f1aef7",
+      "raw_file": "templates/encoded-glyph-doc.wikitext"
+    }
+  ],
+  "glyph_processing_boundary": "!模板官方定义将首项实字传给僻字模板，第二项为描述；全角？官方重定向到ASCII?缺字模板，参数为缺字描述。本库以〔字形:IDS〕明示描述，不宣称是已考定汉字。",
+  "source_risks": [
+    {
+      "passage_id": "GZ-20-003",
+      "kind": "source_glyph_template_uncertainty",
+      "source_templates": [
+        "{{？|⿰耒殳}}"
+      ],
+      "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+    },
+    {
+      "passage_id": "GZ-20-007",
+      "kind": "source_glyph_template_uncertainty",
+      "source_templates": [
+        "{{？|⿷匚晏}}"
+      ],
+      "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+    },
+    {
+      "passage_id": "GZ-29-001",
+      "kind": "source_glyph_template_uncertainty",
+      "source_templates": [
+        "{{!|𱯇|⿰王叕}}",
+        "{{!|𱯇|⿰王叕}}",
+        "{{!|𱯇|⿰王叕}}",
+        "{{!|𱯇|⿰王叕}}",
+        "{{!|𱯇|⿰王叕}}",
+        "{{!|𱯇|⿰王叕}}"
+      ],
+      "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+    },
+    {
+      "passage_id": "GZ-38-002",
+      "kind": "source_unresolved_private_use_placeholder_or_non_han_letter",
+      "characters": [
+        {
+          "character": "□",
+          "codepoint": "U+25A1",
+          "count": 1,
+          "contexts": [
+            "。去善之言，爲善之事，事成而顧反無名。能者無□，從事無事。審量出入，而觀物所載。孰能法無法"
+          ]
+        }
+      ],
+      "treatment": "保留固定来源原字或占位，未经权威对读不擅补字；不把含疑字的字句作为已确证字形和含义的可靠引文。"
+    },
+    {
+      "passage_id": "GZ-38-003",
+      "kind": "source_glyph_template_uncertainty",
+      "source_templates": [
+        "{{？|⿰扌⿱攵音}}"
+      ],
+      "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+    },
+    {
+      "passage_id": "GZ-74-003",
+      "kind": "source_glyph_template_uncertainty",
+      "source_templates": [
+        "{{？|⿰米⿱㒵夊}}",
+        "{{？|⿰米⿱㒵夊}}"
+      ],
+      "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+    },
+    {
+      "passage_id": "GZ-80-012",
+      "kind": "source_glyph_template_uncertainty",
+      "source_templates": [
+        "{{？|⿱𥫗𠕀}}"
+      ],
+      "treatment": "所选电子页字形模板的原始实字或IDS字形描述保持在快照与editorial_notes；未逐字对读影印本，不以这些位置作确定字形与语义的可靠引文。"
+    },
+    {
+      "chapter": 50,
+      "passage_ids": [
+        "GZ-50-001"
+      ],
+      "kind": "transmitted_chapter_replacement",
+      "description": "四库本卷16题注“元篇亡今以司馬遷封禪書所載管子言以補之”；本工作本保留现传第50篇文字，不把传本补配视为原作者亲撰的证明。",
+      "treatment": "保留现传工作本第50篇，不把所载史事/观点无条件视为管仲自撰原篇的直接证据。"
+    }
+  ],
+  "source_observations": []
+}

@@ -1,0 +1,301 @@
+{
+  "schema_version": 1,
+  "normalization": "wiki-body-v1",
+  "offset_unit": "Python Unicode code points; half-open [start,end)",
+  "segments": [
+    {
+      "kind": "excluded",
+      "start": 0,
+      "end": 226,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-01-001",
+      "start": 226,
+      "end": 473
+    },
+    {
+      "kind": "excluded",
+      "start": 473,
+      "end": 497,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-02-001",
+      "start": 497,
+      "end": 838
+    },
+    {
+      "kind": "excluded",
+      "start": 838,
+      "end": 862,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-03-001",
+      "start": 862,
+      "end": 1704
+    },
+    {
+      "kind": "excluded",
+      "start": 1704,
+      "end": 1728,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-04-001",
+      "start": 1728,
+      "end": 2474
+    },
+    {
+      "kind": "excluded",
+      "start": 2474,
+      "end": 2498,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-05-001",
+      "start": 2498,
+      "end": 3187
+    },
+    {
+      "kind": "excluded",
+      "start": 3187,
+      "end": 3551,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-06-001",
+      "start": 3551,
+      "end": 3930
+    },
+    {
+      "kind": "excluded",
+      "start": 3930,
+      "end": 3955,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-07-001",
+      "start": 3955,
+      "end": 4090
+    },
+    {
+      "kind": "excluded",
+      "start": 4090,
+      "end": 4114,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-08-001",
+      "start": 4114,
+      "end": 5171
+    },
+    {
+      "kind": "excluded",
+      "start": 5171,
+      "end": 5195,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-09-001",
+      "start": 5195,
+      "end": 5462
+    },
+    {
+      "kind": "excluded",
+      "start": 5462,
+      "end": 5486,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-10-001",
+      "start": 5486,
+      "end": 5742
+    },
+    {
+      "kind": "excluded",
+      "start": 5742,
+      "end": 6100,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-11-001",
+      "start": 6100,
+      "end": 6607
+    },
+    {
+      "kind": "excluded",
+      "start": 6607,
+      "end": 6632,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-12-001",
+      "start": 6632,
+      "end": 6916
+    },
+    {
+      "kind": "excluded",
+      "start": 6916,
+      "end": 6942,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-13-001",
+      "start": 6942,
+      "end": 7047
+    },
+    {
+      "kind": "excluded",
+      "start": 7047,
+      "end": 7073,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-14-001",
+      "start": 7073,
+      "end": 7278
+    },
+    {
+      "kind": "excluded",
+      "start": 7278,
+      "end": 7304,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-15-001",
+      "start": 7304,
+      "end": 7461
+    },
+    {
+      "kind": "excluded",
+      "start": 7461,
+      "end": 7827,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-16-001",
+      "start": 7827,
+      "end": 7975
+    },
+    {
+      "kind": "excluded",
+      "start": 7975,
+      "end": 8001,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-17-001",
+      "start": 8001,
+      "end": 8212
+    },
+    {
+      "kind": "excluded",
+      "start": 8212,
+      "end": 8238,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-18-001",
+      "start": 8238,
+      "end": 8548
+    },
+    {
+      "kind": "excluded",
+      "start": 8548,
+      "end": 8573,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-19-001",
+      "start": 8573,
+      "end": 8680
+    },
+    {
+      "kind": "excluded",
+      "start": 8680,
+      "end": 8706,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-20-001",
+      "start": 8706,
+      "end": 8949
+    },
+    {
+      "kind": "excluded",
+      "start": 8949,
+      "end": 9306,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-21-001",
+      "start": 9306,
+      "end": 9809
+    },
+    {
+      "kind": "excluded",
+      "start": 9809,
+      "end": 9836,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-22-001",
+      "start": 9836,
+      "end": 10498
+    },
+    {
+      "kind": "excluded",
+      "start": 10498,
+      "end": 10525,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-23-001",
+      "start": 10525,
+      "end": 10871
+    },
+    {
+      "kind": "excluded",
+      "start": 10871,
+      "end": 10898,
+      "reason": "页头校对提示、SKQS模板、卷名与撰者元数据、SK篇题锚点、全角缩进及空白；不含正文论说"
+    },
+    {
+      "kind": "passage",
+      "id": "WLZ-24-001",
+      "start": 10898,
+      "end": 11422
+    },
+    {
+      "kind": "excluded",
+      "start": 11422,
+      "end": 11549,
+      "reason": "卷末卷名、空白、poem/onlyinclude闭合及SKQS页尾/PD-old模板；无正文论说"
+    }
+  ]
+}

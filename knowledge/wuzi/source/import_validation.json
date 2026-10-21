@@ -1,0 +1,61 @@
+{
+  "kind": "author-mechanical-import-validation-not-independent-review",
+  "generated_at_utc": "2026-10-20T02:11:11.818669Z",
+  "source_pages_and_references": [
+    {
+      "title": "吳子",
+      "revision": 2358297,
+      "title_api_and_fixed_api_equal_content": true,
+      "raw_matches_both": true,
+      "all_three_sha_match": true,
+      "kind": "mechanical-source-comparison"
+    },
+    {
+      "title": "漢書/卷030",
+      "revision": 7908197,
+      "title_api_and_fixed_api_equal_content": true,
+      "raw_matches_both": true,
+      "all_three_sha_match": true,
+      "kind": "mechanical-source-comparison"
+    },
+    {
+      "title": "四庫全書總目提要/卷099",
+      "revision": 1329524,
+      "title_api_and_fixed_api_equal_content": true,
+      "raw_matches_both": true,
+      "all_three_sha_match": true,
+      "kind": "mechanical-source-comparison"
+    },
+    {
+      "title": "吳子 (四部叢刊本)/卷第上",
+      "revision": 2655905,
+      "title_api_and_fixed_api_equal_content": true,
+      "raw_matches_both": true,
+      "all_three_sha_match": true,
+      "kind": "mechanical-source-comparison"
+    },
+    {
+      "title": "吳子 (四部叢刊本)/卷第下",
+      "revision": 2655906,
+      "title_api_and_fixed_api_equal_content": true,
+      "raw_matches_both": true,
+      "all_three_sha_match": true,
+      "kind": "mechanical-source-comparison"
+    }
+  ],
+  "raw_total_unicode_characters": 6343,
+  "paragraphs": 43,
+  "book_validation": {
+    "id": "wuzi",
+    "title": "吴子（现存六篇电子工作本）",
+    "valid": true,
+    "chapters": 6,
+    "passages": 43,
+    "readings": 43,
+    "concepts": 25,
+    "examples": 12,
+    "verified_quotes": 49,
+    "errors": []
+  },
+  "rights_info_original_sha_matches": true
+}

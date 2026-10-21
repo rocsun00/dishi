@@ -1,0 +1,108 @@
+{
+  "book": "mengzi",
+  "checked_on": "2026-10-19",
+  "source_pages_verified_against_api": 14,
+  "chapter_count": 14,
+  "paragraph_count": 260,
+  "characters_including_punctuation": 44972,
+  "char_range_manifest_valid": true,
+  "raw_sha256": "3edc5a2ab7fd53093075fea913666ae59fc6f4307b25b732ab3fab79d15a5474",
+  "passages_sha256": "d5be9e855489b4086e6ea1e8e3053044f8a816f1993b8397414e0baebbfd97a3",
+  "chapters_sha256": "55109c9fdadb42f71437612f00d3a398e64c82fb6d1357671d701d4ee0e8d7f3",
+  "note_kinds": {
+    "source_variant_template": 3
+  },
+  "literal_missing_glyph_boxes": [],
+  "replacement_characters": [],
+  "source_page_checks": [
+    {
+      "title": "孟子/梁惠王上",
+      "revision": 2642991,
+      "body_units": 7,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/梁惠王下",
+      "revision": 2636980,
+      "body_units": 16,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/公孫丑上",
+      "revision": 2636981,
+      "body_units": 9,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/公孫丑下",
+      "revision": 8750853,
+      "body_units": 14,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/滕文公上",
+      "revision": 2636984,
+      "body_units": 5,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/滕文公下",
+      "revision": 2636985,
+      "body_units": 10,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/離婁上",
+      "revision": 2636988,
+      "body_units": 28,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/離婁下",
+      "revision": 2636994,
+      "body_units": 33,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/萬章上",
+      "revision": 2636998,
+      "body_units": 9,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/萬章下",
+      "revision": 7912092,
+      "body_units": 9,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/告子上",
+      "revision": 2637004,
+      "body_units": 20,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/告子下",
+      "revision": 2637005,
+      "body_units": 16,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/盡心上",
+      "revision": 2637007,
+      "body_units": 46,
+      "ancient_notes": 0
+    },
+    {
+      "title": "孟子/盡心下",
+      "revision": 2637012,
+      "body_units": 38,
+      "ancient_notes": 0
+    }
+  ],
+  "limitations": [
+    "固定电子工作本，未与统一纸本或影印古本逐字校勘",
+    "source/extraction.json 的 excluded 区间记录网页头尾、章句题号及空白等排除内容；源页3处异文另存editorial_notes，不混作正文",
+    "正文源字及标点保持，异文模板首项与说明分开存放；难读、讹脱、古说真伪须在释义中限定"
+  ]
+}
